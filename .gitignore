@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Claude Code 会话文件
+.claude/
+
+# 模型权重（二进制，体积大、无版本意义，按各阶段 README 重新训练即可复现）
+*.pt
+
+# 训练日志
+*.log
+
+# 语料中间产物
+data/
+cache/
+corpus_*.jsonl
