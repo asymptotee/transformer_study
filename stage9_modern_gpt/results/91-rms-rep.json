@@ -1,0 +1,27 @@
+{
+  "label": "91-rms-rep",
+  "ckpt": "ckpt_91_rms.pt",
+  "ckpt_step": 2500,
+  "params": 96615168,
+  "vocab": 15124,
+  "config": {
+    "vocab_size": 15124,
+    "d_model": 768,
+    "n_heads": 12,
+    "n_layers": 12,
+    "d_ff": 3072,
+    "dropout": 0.1,
+    "max_len": 512,
+    "pad_id": 0,
+    "norm": "rms",
+    "ff": "gelu"
+  },
+  "cmd": "eval_harness.py --ckpt ckpt_91_rms.pt --model-module model_modern --val-batches 16 --no-facts --no-samples --label 91-rms-rep --json-out results/91-rms-rep.json",
+  "time": "2026-09-04 22:38:06",
+  "val": {
+    "loss": 4.76884451508522,
+    "ppl": 117.78306674477787
+  },
+  "facts": {},
+  "samples": {}
+}

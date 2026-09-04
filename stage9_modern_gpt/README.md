@@ -96,7 +96,75 @@ modelscope download --model gongjy/minimind-3 --local_dir ./minimind-3
 | `results/*.json` | 基线评估结果:stage7-baseline(-rep1/2/val16 为噪声量化跑) |
 | `README.md` | 本文件(9.0 记录;9.1 起各里程碑在此追加) |
 
+## 9.1 Norm + FFN 换代(RMSNorm / SwiGLU)
+
+**目的**:把 stage7 基座的两个零件换成 minimind 的现代件,并用同预算 A/B
+量化每个零件单独换的值。零件落点 `model_modern.py`(9.1 起步,9.2 起继续演进)。
+
+### A/B 的干净性(本次新立的规矩,后面沿用)
+
+1. **逐位同构自检**:model_modern 默认开关(layernorm/gelu)下,同一份 stage7
+   权重、同一批窗口,**loss 六位小数全等、logits 差 = 0.0**(零噪声对比)。
+   固化成了 `check_isomorphic.py`——9.2/9.3 每次改完 model_modern 先跑它,
+   同构不过不做 A/B。
+2. **同 seed 同数据流**:4 臂同 seed 42,训练 batch 与 val batch 完全一致,
+   观察到的差异只能来自被换的零件。
+
+### 实验(4 臂 × 3000 步 ≈ 22 分钟/臂,同 seed、同 96.6M 预算、d768/12 层)
+
+| 臂 | 配置 | 参数 | 训练内 best val(4-batch 噪声) | **16-batch 稳定口径** |
+|---|---|---|---|---|
+| control | LN + GELU | 96.6M | 4.714 | **4.753 / 4.763**(≈4.76) |
+| rms | **RMSNorm** + GELU | 96.6M | 4.706 | 4.783 / 4.769(≈4.78) |
+| swiglu | LN + **SwiGLU** | 124.9M(+29%) | 4.546 | **4.609** |
+| combo | **RMSNorm + SwiGLU** | 124.9M(+29%) | 4.550 | **4.659** |
+
+常识题(ask/fill):各臂正例全部为关键词假阳(复读"秦始皇帝"、control 的
+"长江→第一次世界大战"命中"第一"),**真实 ≈ 0/20**——3000 步模型知识层
+本就没有,该零件不影响检索(和预期一致,不构成评估信号)。
+
+### 结论
+
+1. **SwiGLU:显著更好**(同预算 Δ≈−0.15,16-batch 噪声 ±0.02,信号真实)。
+   **转正为默认 ff**。代价:同 d_ff 下参数 +29%(gate/up 双投影);
+   不是严格同参对比——标准做法是把 SwiGLU 宽度缩到 2/3 对齐激活参数,
+   9.4 全量时可用 `--d-ff 2048`(≈2.7×768)顺带对照(见 minimind 笔记)。
+2. **RMSNorm:持平**(Δ+0.02,两次测量 [4.783/4.769] vs [4.753/4.763]
+   有重叠,在噪声边缘;训练内 best 甚至略优 4.706 vs 4.714)。诚实结论:
+   100M/3000 步预算下 **RMSNorm 没有可测收益,也没有可测损失**。
+   附条件转正:minimind/LLaMA 选它不是因为小预算 loss,而是省偏置参数、
+   bf16 数值更稳、深宽模型的已知偏好;9.4 的 10000 步全量对 combo 做终裁
+   (对照组直接复用 stage7 的 3.898——LN+GELU 10000 步,不用重跑)。
+3. **combo ≈ swiglu 单换**(4.659 vs 4.609,差在噪声内):两零件收益不叠加,
+   Norm 那件在 3000 步里没贡献——进一步支持"RMSNorm 的账要到大预算再算"。
+
+### 对照 minimind 源码的设计笔记(`model/model_minimind.py`)
+
+| 它的实现 | 我们的差异 | 为什么 |
+|---|---|---|
+| RMSNorm:`x*rsqrt(mean(x²)+eps)`,float32 内算再 type_as(1e-5 类内默认;config `rms_norm_eps=1e-6`) | 同款写法;A/B 用 eps 1e-5(与 LN 的 eps 对齐,变量唯一) | eps 1e-5 vs 1e-6 在此量级无感(值域都远离 0),不必为此多跑一臂 |
+| FFN:`intermediate_size = ⌈hidden·π/64⌉×64`(d768→**3904**≈2.7×d),gate/up/down 无 bias | A/B 沿用旧 d_ff=3072(=4×d),为了"只换激活结构" | minimind 没义务跟旧 FFN 同宽;它按 π 取整是"激活参数≈2.7 倍输入宽度"的近似 |
+| 激活走 `ACT2FN[silu]` | 直接 `F.silu` | 无本质差异 |
+
+### 踩坑记录
+
+- 训练内 best val 是"噪声曲线的最小值",swiglu/combo 的 best(4.546/4.550)
+  与 16-batch 复测(4.609/4.659)差 0.06~0.11;跨臂比一定要用同一口径
+- 评估脚本里 grep 含 "✓" 的行会被 locale 干扰(✓ 占两个 token),提取数字
+  用 `grep -oE "[0-9.]+$"` 一类写法
+- SwiGLU ckpt 体积 501MB > control 388MB,正是 +28.3M 参数(fp32 4B)——
+  文件大小差异本身是参数账的旁证
+
+### 本里程碑文件
+
+| 文件 | 内容 |
+|---|---|
+| `model_modern.py` | 现代模型(9.1:norm/ff 开关;默认 = 旧架构同构) |
+| `train_large9.py` | 零件 A/B 训练(同 seed 同数据流约定) |
+| `check_isomorphic.py` | 逐位同构自检(每次换零件后必跑) |
+| `results/91-*.json` | 4 臂评估 + 重复测量 |
+
 ## 下一步
 
-9.1:Norm + FFN 换代(RMSNorm / SwiGLU,各一次 A/B,3000 步 4-batch 快速探路 +
-16-batch 定论),对照 minimind `model/model_minimind.py:50`、`:136`。见 ROADMAP。
+9.2:RoPE(换掉正弦位置编码 + 外推实验 + YaRN 推理期对照),先跑
+`check_isomorphic.py` 再动手。见 ROADMAP。
