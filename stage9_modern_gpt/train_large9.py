@@ -51,6 +51,10 @@ def main():
                     help="stage7 的 BPE + token 缓存(勿删,两臂共用才能 A/B)")
     ap.add_argument("--norm", choices=["layernorm", "rms"], default="layernorm")
     ap.add_argument("--ff", choices=["gelu", "silu"], default="gelu")
+    ap.add_argument("--pos", choices=["sinusoidal", "rope"], default="sinusoidal")
+    ap.add_argument("--rope-theta", type=float, default=1e6)
+    ap.add_argument("--rope-ctx", type=int, default=4096,
+                    help="RoPE 预计算表长(外推上限,不是训练长度)")
     ap.add_argument("--d-model", type=int, default=768)
     ap.add_argument("--n-layers", type=int, default=12)
     ap.add_argument("--n-heads", type=int, default=12)
@@ -84,13 +88,16 @@ def main():
                     max_len=max(args.block_size, 512),
                     d_model=args.d_model, n_layers=args.n_layers,
                     n_heads=args.n_heads, d_ff=args.d_ff,
-                    norm=args.norm, ff=args.ff)
+                    norm=args.norm, ff=args.ff,
+                    pos=args.pos, rope_theta=args.rope_theta,
+                    rope_ctx=args.rope_ctx)
     model = GPT(cfg).to(DEVICE)
     n_params = sum(p.numel() for p in model.parameters())
     print(f"设备: {DEVICE} | AMP: {use_amp} | 参数: {n_params:,}"
-          f" | norm={cfg.norm} ff={cfg.ff} | seed={args.seed} | 词表: {len(tok):,}"
-          f" | 训练 token: {len(train_ids):,} | block={args.block_size}"
-          f" batch={args.batch_size}", flush=True)
+          f" | norm={cfg.norm} ff={cfg.ff} pos={cfg.pos}"
+          f"(θ={cfg.rope_theta:g}, 表长 {cfg.rope_ctx}) | seed={args.seed}"
+          f" | 词表: {len(tok):,} | 训练 token: {len(train_ids):,}"
+          f" | block={args.block_size} batch={args.batch_size}", flush=True)
 
     opt = torch.optim.AdamW(model.parameters(), lr=args.lr)
 

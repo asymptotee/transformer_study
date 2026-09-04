@@ -164,7 +164,95 @@ modelscope download --model gongjy/minimind-3 --local_dir ./minimind-3
 | `check_isomorphic.py` | 逐位同构自检(每次换零件后必跑) |
 | `results/91-*.json` | 4 臂评估 + 重复测量 |
 
+## 9.2 位置编码换代(RoPE + 外推实验)
+
+**目的**:把正弦位置编码换成 RoPE,并回答两个问题:
+① 同预算下(训练长度内)RoPE 值不值?
+② 短训长测——训练窗口只有 256,喂 512/1024/2048 会怎样?(正弦 vs RoPE vs
+推理期换表的三档曲线)
+
+### 实现与 A/B 干净性
+
+- `rope.py`:`precompute_freqs_cis` / `apply_rotary_pos_emb`(含 YaRN 分支),
+  与 minimind `model_minimind.py:62-84` 逐行对应;旋转表预计算到 4096
+  (非持久 buffer,不入 state_dict——换表试验不用动权重)
+- `model_modern.py` 加 `cfg.pos = sinusoidal | rope`;`RotaryAttention` 的
+  参数布局与 stage1 MHA **完全一致** → 这轮 A/B 严格同参(124.9M 对 124.9M,
+  9.1 的 SwiGLU 臂没这个待遇)
+- 默认路径同构自检 ✓(loss 六位全等、logits 差 0.0);rope 路径另加多长度
+  前向冒烟(256/1024/2048)——同构自检只覆盖默认路径,新路径必须先冒烟
+- 对照臂直接复用 91_combo(rms/silu/sine,同配置同 seed 3000 步)——零额外成本
+
+### A/B 结果(3000 步,同 seed,124.9M)
+
+| | 正弦(91_combo) | **RoPE**(92_rope, θ=1e6) |
+|---|---|---|
+| 训练内 best val(4-batch 噪声) | 4.550 | **4.333** |
+| 16-batch 稳定 val | 4.659(ppl 105) | **4.419(ppl 83)** |
+| 墙钟 | 2.2 step/s | 1.8 step/s(+27% 耗时,旋转开销) |
+
+**域内就赢 0.24**——RoPE 不是"只有外推价值";幅度超过 9.1 换 Norm/FFN 的
+任何单项。常识题仍 1/20 假阳(复读型),真实 0/20,无信号。
+
+### 外推实验(训练窗口 256,窗口长度 ppl,同窗口零噪声方案对比)
+
+| ppl | 256 | 384 | 512 | 768 | 1024 | 1536 | 2048 |
+|---|---|---|---|---|---|---|---|
+| 正弦 | 111 | 141 | 152 | **越界崩**(表长 512) | — | — | — |
+| RoPE plain(θ=1e6) | 95 | 94 | 97 | 96 | 127 | 157 | 154 |
+| RoPE 换底 θ=1e4 | 154 | 164 | 162 | 158 | 203 | 240 | 223 |
+| **YaRN×4** | 100 | 97 | 88 | 74 | 83 | 94 | 100 |
+| YaRN×8 | 103 | 100 | 92 | 79 | 89 | 93 | **83** |
+
+读表注意:每点是 ~16k token 估计,看趋势;plain rope 在 768 的"平台"是
+3× 训练长内的真实外推能力,1024+ 开始"没学过"。
+
+### 结论
+
+1. **RoPE 转正**(域内 +0.24,同参),cfg.pos="rope" 成为后续标配(θ=1e6)
+2. **位置编码的外推性分三档**,实测证据:
+   - 正弦 = 查表:**硬墙**(表长 512 越界即崩),表内也单调劣化
+   - RoPE plain = 连续函数:**软衰减**(3× 内平台,之后缓劣化不崩)
+   - YaRN = 推理期插值:把"没学过的位置"压回训练范围,**2048 处 154→100**,
+     域内只付 ~5% 代价;factor 是对齐目标长度的旋钮(×8 更长端更好)
+3. **θ=1e4 换底全崩**(域内 95→154):频率体系与训练错配。反向印证 minimind
+   选 θ=1e6 的外推动机——它的 YaRN(factor16/orig2048/beta32/1)与我们
+   yarn8 同机制,只是把 2048→32k 的比例放大
+
+### 对照 minimind 源码的设计笔记
+
+| 它的实现 | 我们的差异 | 为什么 |
+|---|---|---|
+| 布局 (B,T,H,D),cos 按 `unsqueeze(1)` | 布局 (B,H,T,D),cos 按 `[None,None]` | 头维位置不同,**照搬 unsqueeze 位置会错位**(本次真踩的坑) |
+| rotate_half 半拆分配对 (i, i+D/2),cos/sin 两半重复 | 同款(逐行对应) | 与 LLaMA 的相邻配对 (2i,2i+1) 差维度置换,训练等价,换权重不可混用 |
+| rope_theta=1e6,max_position 32768,YaRN 推理期(f16/orig2048/beta 32/1) | θ=1e6、表长 4096、推理期 yarn4/8 | 它的 factor16 对应 2048→32k 的 16 倍目标;我们是 256→2k 的 4~8 倍 |
+| 非持久 buffer 存 cos/sin | 同款 | 表由 config 重算,不入权重 |
+
+### 踩坑记录
+
+1. **`register_buffer` 与同名普通属性冲突**:先在 __init__ 赋了
+   `self.freqs_cos=None` 再 register_buffer → KeyError。先想好属性归属
+2. **cos/sin 的 unsqueeze 维度随 q/k 布局变**:仓库 (B,H,T,D) → `[None,None]`;
+   minimind (B,T,H,D) → `unsqueeze(1)`。跨库"抄公式"要连布局一起抄
+3. **同构自检只测默认路径**:rope 路径的 bug(尺寸错位)靠训练第一跑才炸——
+   补了"多长度前向冒烟"进流程(256/1024/2048)
+4. **nohup 失败尝试会留下陈旧 done 标记**:第一次启动崩了,但链尾的
+   `echo done > *.done` 仍执行 → 等待器误判"完成"。清理后再挂
+5. **θ=1e4 换底实验的教训**:推理期换表只该在"外推友好方向"(同 θ 更大/
+   插值)做;换小 θ 是让位置分布整体错配
+
+### 本里程碑文件
+
+| 文件 | 内容 |
+|---|---|
+| `rope.py` | RoPE + YaRN(逐行对照 minimind :62-84) |
+| `model_modern.py` | +pos 开关、RotaryAttention(同参 A/B) |
+| `eval_extrap.py` | 外推曲线 + 方案对比(CSV/PNG) |
+| `results/92-rope.json` | rope 臂 16-batch 评估 |
+| `results/extrap_92-*.csv/png` | 两条外推曲线(正弦封顶 512) |
+
 ## 下一步
 
-9.2:RoPE(换掉正弦位置编码 + 外推实验 + YaRN 推理期对照),先跑
-`check_isomorphic.py` 再动手。见 ROADMAP。
+9.3:GQA + KV cache(先 KV cache 后 GQA——GQA 的动机一半在 KV 压缩)。
+对照 minimind `model_minimind.py:86`(repeat_kv)、`:120`(past_key_value)、
+`:234-287`(generate)。见 ROADMAP。

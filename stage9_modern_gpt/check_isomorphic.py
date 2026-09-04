@@ -75,12 +75,13 @@ def main():
             tot, n = 0.0, 0
             for x, y in batches:
                 logits = m(x)
-                if name == "old":
-                    ref_logits = logits
+                if name == "old" and ref_logits is None:
+                    ref_logits = logits          # 只留第一批 old 的 logits
                 tot += F.cross_entropy(logits.reshape(-1, len(tok)),
                                        y.reshape(-1), ignore_index=0).item() * x.numel()
                 n += x.numel()
             losses[name] = tot / n
+        # 同批比较:new 也取第一批,与 ref_logits 逐位比
         maxdiff = (ref_logits - m_new(batches[0][0])).abs().max().item()
 
     print(f"loss: old={losses['old']:.6f} new={losses['new']:.6f} "
