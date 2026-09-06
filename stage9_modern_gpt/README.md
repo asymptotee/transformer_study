@@ -251,8 +251,88 @@ modelscope download --model gongjy/minimind-3 --local_dir ./minimind-3
 | `results/92-rope.json` | rope 臂 16-batch 评估 |
 | `results/extrap_92-*.csv/png` | 两条外推曲线(正弦封顶 512) |
 
+## 9.3 KV cache + GQA(先 cache 后 GQA)
+
+**目的**:① 生成从"每步全量重算"改成增量解码(旧 token 的 K/V 不变,见
+CONCEPTS 十二节);② GQA——既然 KV 要存,把它存小一点(8q/4kv 式压缩)。
+
+### 实现
+
+- `GPT.forward_cached(ids, past_kv)`:prefill(整段前向,造缓存)→ 逐 token
+  增量前向(每层把新 K/V 拼到历史尾,只算新 token 的注意力);位置偏移
+  自动取"past 的长度"(同 minimind `start_pos = past.shape[1]` 的思路)
+- `RotaryAttention` 加 `n_kv_heads`(w_k/w_v 投影到 kv 头数,算注意力前
+  `repeat_kv` 复制回 Q 头数——同 minimind `model_minimind.py:86`,布局差
+  一个转置)
+- cache 只落在 rope 路径;sinusoidal 默认路径未动 → 同构自检继续有效 ✓
+- `generate_cached.py`:与旧版 `sampling.generate` **共用同一个 sample_next**,
+  唯一差别是算力省在哪 → "两路生成文本一致"成为 cache 正确性的最强自检
+- `bench_generate.py`:一致性自检 + 墙钟加速 + KV 显存账
+
+### 一致性自检(先抓出过一个真 bug)
+
+修前:第 2 个 token 起 logits 分歧(差 ~1.2-1.6)。根因:`_block_forward` 里
+`x + attn_out + ff(norm2(x))`——Python 先求值 `norm2(x)`(加注意力**之前**的
+x),pre-norm 结构要求 norm2 吃**加完注意力之后**的 x,导致 prefill 与 decode
+两路语义不一致。修后:**同 seed 两路生成逐 token 一致 ✓**(92_rope 与
+93_gqa 都过)。
+
+### KV cache 加速(92_rope,3 次均值,同参数同 seed)
+
+| 续写长度 | 无缓存 | 有缓存 | 加速 |
+|---|---|---|---|
+| 200 token | 2.0s(101 tok/s) | 1.1s(185 tok/s) | **1.8×** |
+| 400 token | 5.5s(73 tok/s) | 2.6s(155 tok/s) | **2.1×** |
+
+序列越长省得越多(重算量随序列平方增长,缓存后每步只算常数)——这正是
+真实推理引擎普遍用 cache 的原因。**GQA 让同一账本的显存再减半**:
+L=512 单序列 KV:MHA 18.0 MB → **GQA(6 kv 头)9.0 MB**。
+
+### GQA A/B(12q/6kv = 2:1,同 minimind 比例;3000 步同 seed)
+
+| | 92_rope(MHA, 12 kv) | 93_gqa(GQA, 6 kv) |
+|---|---|---|
+| 参数 | 124.9M | **117.8M(−7.1M, −5.7%)** |
+| 训练内 best val(噪声) | 4.333 | 4.296 |
+| 16-batch 稳定口径(多次) | 4.419 / 4.477(均 ≈4.45) | 4.384 / 4.447 / 4.397(均 ≈4.41) |
+| KV 显存 @L=512 | 18.0 MB | **9.0 MB** |
+
+**结论:GQA 以 −5.7% 参数取得 ≈ 甚至略优的 val(Δ≈−0.04,两次信号方向
+一致但仍在噪声边缘),KV 显存直接减半——参数效率与推理显存双赢,转正**
+(n_kv_heads=6 进 9.4 全量)。常识题仍 1/20 假阳/0 真阳,无信号。
+
+### 对照 minimind 源码的设计笔记
+
+| 它的实现 | 我们的差异 | 为什么 |
+|---|---|---|
+| `repeat_kv`(B,T,H,D) 布局 | 同函数,布局 (B,H,T,D) | 头维位置不同,展开维序跟着变 |
+| generate:`past_len = past_key_values[0][0].shape[1]` | 等价:`off = past_kv[0][0].shape[2]` | 都靠"已缓存长度"当位置偏移 |
+| n_heads=8 / n_kv_heads=4(2:1) | 12 / 6(2:1) | 同样的压缩比;6 能整除 12 |
+| 逐层 past concat + 单 token 解码循环 | 同款 | — |
+
+### 踩坑记录
+
+1. **残差顺序 = Python 求值顺序**:`x + attn_out + ff(norm2(x))` 的 norm2
+   吃的是旧 x——"加完再归一"写错成"归一再加",prefill/decode 两路语义
+   分裂。**一致性自检的价值:它比"loss 差不多"强得多,直接抓语义 bug**
+2. 一致性测试的隐藏前提:prompt 必须短于旧路径的截断上限(max_len=512),
+   否则两路输入不等价(旧路径会丢开头) —— bench 里有 assert 保护
+3. GQA 头数必须整除:n_heads % n_kv_heads == 0,否则 repeat_kv 半头都出不来
+4. nohup + ssh:后台链输出重定向到文件后 ssh 仍可能挂满超时再返回(远端
+   进程已脱离,不受影响);陈旧 done 标记的坑同 9.2(先 rm 再挂等待器)
+
+### 本里程碑文件
+
+| 文件 | 内容 |
+|---|---|
+| `model_modern.py` | RotaryAttention(n_kv_heads/past)+ forward_cached |
+| `generate_cached.py` | KV cache 生成(与旧版共用采样器) |
+| `bench_generate.py` | 一致性自检 + 加速 + KV 显存账 |
+| `results/93-gqa*.json`、`92-rope-rep93.json` | GQA 臂评估与重复测量 |
+
 ## 下一步
 
-9.3:GQA + KV cache(先 KV cache 后 GQA——GQA 的动机一半在 KV 压缩)。
-对照 minimind `model_minimind.py:86`(repeat_kv)、`:120`(past_key_value)、
-`:234-287`(generate)。见 ROADMAP。
+9.4:合体重训 + 逐行 diff。配置(rms/silu/rope θ=1e6/GQA 6kv)训 10000 步,
+val loss 直比 stage7 的 3.898(同语料同 tokenizer);生成样例 + 20 题复测;
+逐行对照 minimind `model_minimind.py` 写设计决策笔记;产出 stage10 的
+现代基座。见 ROADMAP。

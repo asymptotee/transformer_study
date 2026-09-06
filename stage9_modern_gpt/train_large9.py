@@ -55,6 +55,8 @@ def main():
     ap.add_argument("--rope-theta", type=float, default=1e6)
     ap.add_argument("--rope-ctx", type=int, default=4096,
                     help="RoPE 预计算表长(外推上限,不是训练长度)")
+    ap.add_argument("--n-kv-heads", type=int, default=None,
+                    help="GQA 的 K/V 头数;None=与 Q 同头数(MHA)")
     ap.add_argument("--d-model", type=int, default=768)
     ap.add_argument("--n-layers", type=int, default=12)
     ap.add_argument("--n-heads", type=int, default=12)
@@ -90,7 +92,7 @@ def main():
                     n_heads=args.n_heads, d_ff=args.d_ff,
                     norm=args.norm, ff=args.ff,
                     pos=args.pos, rope_theta=args.rope_theta,
-                    rope_ctx=args.rope_ctx)
+                    rope_ctx=args.rope_ctx, n_kv_heads=args.n_kv_heads)
     model = GPT(cfg).to(DEVICE)
     n_params = sum(p.numel() for p in model.parameters())
     print(f"设备: {DEVICE} | AMP: {use_amp} | 参数: {n_params:,}"
