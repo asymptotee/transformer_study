@@ -1,0 +1,31 @@
+{
+  "label": "94-full-rep",
+  "ckpt": "ckpt_94_full.pt",
+  "ckpt_step": 9000,
+  "params": 117802752,
+  "vocab": 15124,
+  "config": {
+    "vocab_size": 15124,
+    "d_model": 768,
+    "n_heads": 12,
+    "n_layers": 12,
+    "d_ff": 3072,
+    "dropout": 0.1,
+    "max_len": 512,
+    "pad_id": 0,
+    "norm": "rms",
+    "ff": "silu",
+    "pos": "rope",
+    "rope_theta": 1000000.0,
+    "rope_ctx": 4096,
+    "n_kv_heads": 6
+  },
+  "cmd": "eval_harness.py --ckpt ckpt_94_full.pt --model-module model_modern --val-batches 16 --no-facts --no-samples --label 94-full-rep --json-out results/94-full-rep.json",
+  "time": "2026-09-06 22:46:41",
+  "val": {
+    "loss": 3.7866653203964233,
+    "ppl": 44.10906515489851
+  },
+  "facts": {},
+  "samples": {}
+}
