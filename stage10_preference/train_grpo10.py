@@ -77,7 +77,7 @@ def rollout(prompts, tok, model, k, max_new, temperature):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--sft-ckpt", default=str(HERE / "ckpt_10_sft.pt"))
+    ap.add_argument("--sft-ckpt", default=str(HERE / "ckpt_10_1_sft.pt"))
     ap.add_argument("--n-prompts", type=int, default=400, help="prompt 池大小")
     ap.add_argument("--k", type=int, default=6, help="每 prompt 采样数(组大小)")
     ap.add_argument("--b", type=int, default=4, help="每步 prompt 数")
@@ -89,7 +89,7 @@ def main():
     ap.add_argument("--epochs", type=int, default=1)
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--device", default="auto")
-    ap.add_argument("--ckpt-out", default=str(HERE / "ckpt_10_grpo.pt"))
+    ap.add_argument("--ckpt-out", default=str(HERE / "ckpt_10_2_grpo.pt"))
     args = ap.parse_args()
 
     global DEVICE

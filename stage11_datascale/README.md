@@ -73,7 +73,7 @@ fill/陈述句式部分落进分布 → 破冰;而"问句壳"覆盖不足 → �
 | `eval_transfer.py` | 迁移探针(wiki 文本 × 新 BPE 重编码,修正 supervisor 的硬伤) |
 | `supervisor.sh` | 自驱链(编码→训练→评估),三段退出码入 sup.log |
 | `results/11-mm.json` | 语料内评估(20 题行级明细) |
-| ckpt/cache(不入库) | `ckpt_11_mm.pt`、`cache_mm/`(Spark) |
+| ckpt/cache(不入库) | `ckpt_11_1_mm.pt`、`cache_mm/`(Spark) |
 
 数据来源:ModelScope `gongjy/minimind_dataset` 的 `pretrain_t2t_mini.jsonl`。
 官方语料文件(~1.24GB)在 Spark `~/llm_study/mm_data/`,不入库。
@@ -146,7 +146,7 @@ raw 格式行级(ask,首次连首都题都答对):
 | `engine_swap.py` | 词表直传 Rust 引擎 + 逐位等价验证 + 全量编码(7 min) |
 | `supervisor2.sh` | 过夜自驱链(下载 → 编码 → 训练 → 评估) |
 | `results/12-10g.json` | 语料内评估(20 题行级 + 样例) |
-| ckpt/cache(不入库) | `ckpt_12_10g.pt`、`cache_mm10g/`(Spark) |
+| ckpt/cache(不入库) | `ckpt_11_2_10g.pt`、`cache_mm10g/`(Spark) |
 
 ## 11.3 chat-SFT on 10GB 基座:与官方的终局并排
 
@@ -195,7 +195,7 @@ chat SFT 是否损伤 raw 能力);③ 顺带量 SFT 对语料内 val 的影响�
 |---|---|
 | (复用) | `stage10_preference/{render_sft_chat,train_chat10,eval_chat10}.py` — 脚本住 10.3,基座/词表/缓存换成本档 |
 | `stage10_preference/results/12-chat-raw.json` | 终局模型的 raw 格式 harness 结果 |
-| ckpt(不入库) | `ckpt_12_chat_nt.pt`(Spark) |
+| ckpt(不入库) | `ckpt_11_3_chat.pt`(Spark) |
 
 ## 下一步
 

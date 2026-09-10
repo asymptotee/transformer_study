@@ -37,7 +37,7 @@ def chat_prompt(q):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--ckpt", default=str(HERE / "ckpt_10_chat.pt"))
+    ap.add_argument("--ckpt", default=str(HERE / "ckpt_10_3_chat_think.pt"))
     ap.add_argument("--bpe", default=str(S11 / "cache_mm" / "bpe.json"))
     ap.add_argument("--label", default="10-chat")
     ap.add_argument("--device", default="auto")

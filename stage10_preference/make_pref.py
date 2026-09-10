@@ -59,7 +59,7 @@ def rule_score(tok, prompt, text):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--sft-ckpt", default=str(HERE / "ckpt_10_sft.pt"))
+    ap.add_argument("--sft-ckpt", default=str(HERE / "ckpt_10_1_sft.pt"))
     ap.add_argument("--n-prompts", type=int, default=2000)
     ap.add_argument("--k", type=int, default=6, help="每题采样回答数")
     ap.add_argument("--temperature", type=float, default=0.9)

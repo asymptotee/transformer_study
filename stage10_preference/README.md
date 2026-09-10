@@ -98,7 +98,7 @@ SFT 按这三条规则已经 **2.87/3**:它本来就有实质长度、不绕、�
 | `align_dpo.py` | **数值对齐:与 minimind dpo_loss Δ=0.00,π=ref 时 = log2** |
 | `eval_pref10.py` | held-out 行为评估(规则分/长度/空答率) |
 | `results/10-sft.json / 10-dpo.json` | harness 16-batch + 20 题明细 |
-| ckpt(不入库) | `ckpt_10_sft.pt` / `ckpt_10_dpo.pt` / `ckpt_10_dpo_agg.pt` |
+| ckpt(不入库) | `ckpt_10_1_sft.pt` / `ckpt_10_1_dpo.pt` / `ckpt_10_1_dpo_agg.pt` |
 
 ## 10.2 GRPO:在线策略 RL vs DPO 的同一规则对决
 
@@ -173,7 +173,7 @@ completion_mask / kl_div / ratio-min-clip 管线):
 | `train_grpo10.py` | 在线训练(rollout → 奖励 → inner 更新) |
 | `make_pref_rule.py` | 同规则的离线 DPO 对照对 |
 | `eval_grpo10.py` | held-out 同裁判对比 |
-| ckpt(不入库) | `ckpt_10_grpo.pt` / `ckpt_10_grpo_strong.pt` / `ckpt_10_dpo_rule.pt` |
+| ckpt(不入库) | `ckpt_10_2_grpo.pt` / `ckpt_10_2_grpo_strong.pt` / `ckpt_10_2_dpo_rule.pt` |
 
 ### 踩坑记录
 
@@ -235,7 +235,7 @@ SFT(官方 sft 语料渲染 → 我们的 BPE 编码 → assistant 段掩码),�
 | `render_sft_chat.py` | 官方 sft 语料 → 三段式 chat 样本(--strip-think 去噪) |
 | `train_chat10.py` | chat SFT(基座 11-mm,assistant+tail 掩码) |
 | `eval_chat10.py` | chat 格式 20 题(与官方同模板文本) |
-| ckpt(不入库) | `ckpt_10_chat.pt`(有噪音版)/ `ckpt_10_chat_nt.pt`(去噪版) |
+| ckpt(不入库) | `ckpt_10_3_chat_think.pt`(有噪音版)/ `ckpt_10_3_chat.pt`(去噪版) |
 | 数据(不入库,Spark) | `chat_train(_nt).jsonl` 40k+500 行(渲染命令在脚本 docstring) |
 
 ## 下一步

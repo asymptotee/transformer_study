@@ -5,7 +5,7 @@ DPO 需要一个"已经会应答"的 policy(SFT),否则 chosen/rejected 无从�
 微调),唯一区别:基座换成 stage9 的现代 GPT(ckpt_94_full.pt,model_modern),
 数据直接复用 stage8 的 qa_train/qa_test.jsonl(同一套 60k 补全式问答)。
 
-产出 ckpt_10_sft.pt:既是 policy 起点,也是 DPO 的冻结参考模型(ref)。
+产出 ckpt_10_1_sft.pt:既是 policy 起点,也是 DPO 的冻结参考模型(ref)。
 阶段 8 的对照数字(旧架构 96.6M 基座):全量 SFT test loss 3.87。
 
 用法(Spark):
@@ -112,7 +112,7 @@ def main():
     ap.add_argument("--eval-every", type=int, default=300)
     ap.add_argument("--workers", type=int, default=10)
     ap.add_argument("--device", default="auto")
-    ap.add_argument("--ckpt-out", default=str(HERE / "ckpt_10_sft.pt"))
+    ap.add_argument("--ckpt-out", default=str(HERE / "ckpt_10_1_sft.pt"))
     args = ap.parse_args()
 
     global DEVICE

@@ -3,7 +3,7 @@
 10.1 的教训 + 10.2 的设计:同一份规则奖励,两个优化器各走一遍再比。
 本脚本把 rule_reward(GRPO 在线的奖励)固化成离线偏好对:
 每个 prompt 采 K 个回答,chosen = 最高分,rejected = 最低分(分差 > 0 才留)。
-产物喂给 train_dpo10.py,得到 ckpt_10_dpo_rule —— 与 ckpt_10_grpo(_strong)
+产物喂给 train_dpo10.py,得到 ckpt_10_2_dpo_rule —— 与 ckpt_10_2_grpo(_strong)
 在 held-out 规则分上三向对比(SFT 基线 / DPO / GRPO)。
 
 用法(Spark):
@@ -34,7 +34,7 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--sft-ckpt", default=str(HERE / "ckpt_10_sft.pt"))
+    ap.add_argument("--sft-ckpt", default=str(HERE / "ckpt_10_1_sft.pt"))
     ap.add_argument("--n-prompts", type=int, default=500)
     ap.add_argument("--k", type=int, default=6)
     ap.add_argument("--out", default=str(HERE / "pref_rule.jsonl"))

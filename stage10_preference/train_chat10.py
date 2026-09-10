@@ -91,7 +91,7 @@ def eval_loss(model, examples, vocab, bs=32):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--base-ckpt", default=str(S11 / "ckpt_11_mm.pt"))
+    ap.add_argument("--base-ckpt", default=str(S11 / "ckpt_11_1_mm.pt"))
     ap.add_argument("--bpe", default=str(S11 / "cache_mm" / "bpe.json"))
     ap.add_argument("--train-data", default=str(HERE / "chat_train.jsonl"))
     ap.add_argument("--test-data", default=str(HERE / "chat_test.jsonl"))
@@ -100,7 +100,7 @@ def main():
     ap.add_argument("--lr", type=float, default=1e-4)
     ap.add_argument("--eval-every", type=int, default=300)
     ap.add_argument("--seed", type=int, default=42)
-    ap.add_argument("--ckpt-out", default=str(HERE / "ckpt_10_chat.pt"))
+    ap.add_argument("--ckpt-out", default=str(HERE / "ckpt_10_3_chat_think.pt"))
     args = ap.parse_args()
 
     torch.manual_seed(args.seed); random.seed(args.seed)

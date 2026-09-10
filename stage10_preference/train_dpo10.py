@@ -66,7 +66,7 @@ def dev_metrics(policy, ref, pairs, tok):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--sft-ckpt", default=str(HERE / "ckpt_10_sft.pt"))
+    ap.add_argument("--sft-ckpt", default=str(HERE / "ckpt_10_1_sft.pt"))
     ap.add_argument("--data", default=str(HERE / "pref_train.jsonl"))
     ap.add_argument("--epochs", type=int, default=1)
     ap.add_argument("--batch-size", type=int, default=4, help="每步的对数")
@@ -76,7 +76,7 @@ def main():
     ap.add_argument("--n-dev", type=int, default=128, help="留作 dev 的对数")
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--device", default="auto")
-    ap.add_argument("--ckpt-out", default=str(HERE / "ckpt_10_dpo.pt"))
+    ap.add_argument("--ckpt-out", default=str(HERE / "ckpt_10_1_dpo.pt"))
     args = ap.parse_args()
 
     global DEVICE

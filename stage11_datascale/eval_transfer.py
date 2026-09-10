@@ -49,7 +49,7 @@ def val_loss(model, ids, tok):
 
 def main():
     tok = BPETokenizer.load(HERE / "cache_mm" / "bpe.json")
-    ckpt = torch.load(HERE / "ckpt_11_mm.pt")
+    ckpt = torch.load(HERE / "ckpt_11_1_mm.pt")
     cfg = GPTConfig(**ckpt["config"])
     model = GPT(cfg).to(DEVICE)
     model.load_state_dict(ckpt["model"])

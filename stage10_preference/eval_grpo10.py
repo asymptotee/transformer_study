@@ -46,9 +46,9 @@ def main():
     ap.add_argument("--k", type=int, default=3, help="每模型每 prompt 采样数")
     ap.add_argument("--ckpts", nargs="+",
                     default=[str(HERE / f) for f in
-                             ("ckpt_10_sft.pt", "ckpt_10_dpo.pt",
-                              "ckpt_10_grpo.pt", "ckpt_10_grpo_strong.pt",
-                              "ckpt_10_dpo_rule.pt")])
+                             ("ckpt_10_1_sft.pt", "ckpt_10_1_dpo.pt",
+                              "ckpt_10_2_grpo.pt", "ckpt_10_2_grpo_strong.pt",
+                              "ckpt_10_2_dpo_rule.pt")])
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--device", default="auto")
     args = ap.parse_args()

@@ -26,11 +26,11 @@ echo "[sup2] prep exit $? $(tail -1 prep10g.log)" >> sup2.log
 $PY -u ../stage9_modern_gpt/train_large9.py \
     --cache-dir cache_mm10g --norm rms --ff silu --pos rope --rope-theta 1e6 \
     --rope-ctx 4096 --n-kv-heads 6 --d-ff 3072 --steps $STEPS \
-    --ckpt ckpt_12_10g.pt > train_12_10g.log 2>&1
+    --ckpt ckpt_11_2_10g.pt > train_12_10g.log 2>&1
 echo "[sup2] train exit $? ($STEPS steps)" >> sup2.log
 
 # 4) 语料内评估(新词表 val + 20 题 + 样例)
-$PY -u ../stage9_modern_gpt/eval_harness.py --ckpt ckpt_12_10g.pt \
+$PY -u ../stage9_modern_gpt/eval_harness.py --ckpt ckpt_11_2_10g.pt \
     --model-module model_modern --bpe cache_mm10g/bpe.json --tokens cache_mm10g/tokens.pt \
     --val-batches 16 --label 12-10g --json-out results/12-10g.json > eval_12_10g.log 2>&1
 echo "[sup2] eval exit $?" >> sup2.log

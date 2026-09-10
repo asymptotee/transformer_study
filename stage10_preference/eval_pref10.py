@@ -63,8 +63,8 @@ def main():
     ap.add_argument("--n", type=int, default=200)
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--ckpts", nargs="+",
-                    default=[str(HERE / "ckpt_10_sft.pt"),
-                             str(HERE / "ckpt_10_dpo.pt")])
+                    default=[str(HERE / "ckpt_10_1_sft.pt"),
+                             str(HERE / "ckpt_10_1_dpo.pt")])
     ap.add_argument("--device", default="auto")
     args = ap.parse_args()
 
