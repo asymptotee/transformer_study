@@ -193,9 +193,16 @@ chat SFT 是否损伤 raw 能力);③ 顺带量 SFT 对语料内 val 的影响�
 
 | 文件 | 内容 |
 |---|---|
+| `chat11.py` | **终局模型的交互式对话**(chat 模板 + KV cache;--ask 批量/交互两用) |
 | (复用) | `stage10_preference/{render_sft_chat,train_chat10,eval_chat10}.py` — 脚本住 10.3,基座/词表/缓存换成本档 |
 | `stage10_preference/results/12-chat-raw.json` | 终局模型的 raw 格式 harness 结果 |
-| ckpt(不入库) | `ckpt_11_3_chat.pt`(Spark) |
+| ckpt(不入库) | `ckpt_11_3_chat.pt`(Spark,stage11_datascale/;11.x 三个模型现在同目录) |
+
+**chat11.py 使用笔记**(现场测试的结论,已写进脚本 docstring):
+事实题用 `--temperature 0` 贪心(采样会幻觉:"水的化学式是 CO2O");
+重复惩罚 1.2 会误伤知识召回(H2O/π 答丢),**1.1 是安全线**;复读拖尾是
+本模型固有弱点(无 RLHF),惩罚只能缓解不能根治;多轮/长上下文会进入
+位置外推区胡言(训练窗口 256),脚本按 512 token 预算自动截断历史。
 
 ## 下一步
 
