@@ -1,23 +1,29 @@
-"""chat11.py —— 11.3 最终模型的交互式对话(chat 模板 + KV cache)
+"""chat11.py —— 11.3 最终模型的问答工具(chat 模板 + KV cache,**单轮无状态**)
 
 用法(Spark):
-  # 交互模式(多轮,输入 /reset 清空历史、/exit 退出)
+  # 交互模式(每问独立,输入空行退出)
   ~/llm_study/.venv/bin/python chat11.py
 
-  # 单次问答(可多个 --ask,便于脚本批量测)
+  # 单次问答(可多个 --ask,便于脚本批量测;同样每题独立)
   ~/llm_study/.venv/bin/python chat11.py \
       --ask "中国的首都是哪里？" --ask "用一句话解释什么是机器学习"
 
-说明:
-  · 模板 = 训练时的官方 chat 形态(无 system 单轮):
+为什么默认单轮无状态(实测结论,见 README 11.3):
+  · 本模型的 SFT 数据只有单轮对(user→assistant),从未见过"历史+新问题"
+    结构——多轮对话是外推。表现:主题粘连(答完"你好"聊了 ML,下一问
+    "介绍北京"答半句就滚回 ML 列表)、角色混乱("你是一个有意识的AI")、
+    自问自答(把"问-答"表面模式当文风模仿)。
+  · 因此每次提问都渲染干净的单轮模板:
       <|im_start|>user\\n{q}<|im_end|>\\n<|im_start|>assistant\\n
-    多轮时把历史按同样模板拼进 context(训练是单轮,多轮属于外推,可玩)
-  · 用 KV cache 增量解码(9.3);停止:生成文本出现 <|im_end|> 或 EOS
-  · **事实题建议 --temperature 0**(贪心):采样(0.7)会引入幻觉
+    轮与轮之间完全独立,上下文不互相污染。
+  · 要真正的多轮,需要多轮 SFT(官方数据里有多轮对话,10.3 时被我们
+    筛掉了)——那是后续实验,不是工具层能修的。
+
+其他实测结论:
+  · 事实题建议 --temperature 0(贪心):采样(0.7)会引入幻觉
     ("水的化学式是CO2O");重复惩罚 1.2 会误伤召回(H2O/π 答丢),
     1.1 是安全线——复读拖尾是本模型固有弱点(无 RLHF),惩罚只能缓解
-  · 上下文截断:训练窗口只有 256 token,超过会进入外推区胡说;render
-    按 512 token 预算自动丢弃最老轮次
+  · 停止:生成文本出现 <|im_end|> 或 EOS;--max-new 封顶
 """
 
 import argparse
@@ -38,28 +44,16 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 IM_END = "<|im_end|>"
 
 
-def render(history, tok=None, cap=512):
-    """history: [(role, content)],渲染成训练同款模板(结尾 assistant 待续)。
-
-    截断:模型训练窗口只有 256 token,上下文过长会进入"位置外推区"导致
-    胡言(实测 ~800 token 时崩)。给了 tok 就按 token 预算从最老的轮次
-    开始丢,保证上下文不超出 cap(默认 512,留出生成空间)。
-    """
-    while True:
-        s = ""
-        for role, content in history:
-            s += f"<|im_start|>{role}\n{content}{IM_END}\n"
-        s += "<|im_start|>assistant\n"
-        if tok is None or len(tok.encode(s)) <= cap or len(history) <= 2:
-            return s
-        history = history[2:]                      # 丢最老的一轮 user+assistant
+def single_turn_prompt(q):
+    """训练同款单轮模板(结尾 assistant 待续)。"""
+    return f"<|im_start|>user\n{q}{IM_END}\n<|im_start|>assistant\n"
 
 
 @torch.no_grad()
-def reply(model, tok, history, max_new=120, temperature=0.7, top_p=0.9,
-          rep_penalty=1.2):
-    prompt = render(history, tok)
-    ids = tok.encode(prompt)
+def reply(model, tok, question, max_new=120, temperature=0.7, top_p=0.9,
+          rep_penalty=1.1):
+    """单轮问答:渲染干净上下文(不带任何历史),KV cache 增量解码。"""
+    ids = tok.encode(single_turn_prompt(question))
     ctx = torch.tensor([ids], dtype=torch.long, device=DEVICE)
     logits, past = model.forward_cached(ctx, None)       # prefill
     gen = []
@@ -67,8 +61,7 @@ def reply(model, tok, history, max_new=120, temperature=0.7, top_p=0.9,
         nxt = sample_next(logits[0, -1], ids + gen, temperature, 0, top_p,
                           rep_penalty)
         gen.append(nxt)
-        text = tok.decode(gen)
-        if IM_END in text or nxt == EOS_ID:
+        if IM_END in tok.decode(gen) or nxt == EOS_ID:
             break
         tk = torch.tensor([[nxt]], dtype=torch.long, device=DEVICE)
         logits, past = model.forward_cached(tk, past)    # 增量步
@@ -102,18 +95,16 @@ def main():
     model, tok, cfg = load(args.ckpt, args.bpe)
     print(f"[chat11] {Path(args.ckpt).name} | {sum(p.numel() for p in model.parameters())/1e6:.1f}M"
           f" | vocab {len(tok)} | 温度 {args.temperature} top_p {args.top_p} "
-          f"重复惩罚 {args.rep_penalty}", flush=True)
+          f"重复惩罚 {args.rep_penalty} | 单轮无状态", flush=True)
 
     if args.ask:
-        # 每题独立上下文(避免互相污染);想测多轮用交互模式
         for q in args.ask:
-            out = reply(model, tok, [("user", q)], args.max_new,
-                        args.temperature, args.top_p, args.rep_penalty)
+            out = reply(model, tok, q, args.max_new, args.temperature,
+                        args.top_p, args.rep_penalty)
             print(f"\n问:{q}\n答:{out}", flush=True)
         return
 
-    history = []
-    print("交互模式(空行退出;/reset 清历史)")
+    print("交互模式(每问独立、不带历史;空行退出)")
     while True:
         try:
             q = input("\n你 > ").strip()
@@ -121,14 +112,8 @@ def main():
             break
         if not q:
             break
-        if q == "/reset":
-            history = []
-            print("(历史已清空)")
-            continue
-        history.append(("user", q))
-        out = reply(model, tok, history, args.max_new, args.temperature,
+        out = reply(model, tok, q, args.max_new, args.temperature,
                     args.top_p, args.rep_penalty)
-        history.append(("assistant", out))
         print(f"模型 > {out}")
 
 
