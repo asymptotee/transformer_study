@@ -41,6 +41,7 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 for sub in ("stage3_gpt", "stage4_scaling_bpe", "stage5_capstone"):
     sys.path.insert(0, str(REPO / sub))
 from bpe import BPETokenizer, EOS_ID          # noqa: E402
+from bpb import build_token_bytes, ce_nats_and_bytes, bpb   # noqa: E402
 from sampling import generate                  # noqa: E402
 
 # ---------------------------------------------------------------------------
@@ -124,23 +125,31 @@ def load_model(args, ckpt):
 def val_loss(model, tok, tokens_path, frac, batches, block, batch):
     """与 stage7 train_large.py 的 val_loss 同口径:取缓存 token 末尾 frac
     当验证集,随机取 batches 个 (batch×block) 窗口,CE(ignore_index=0)
-    按 token 数加权平均;cuda 上套 bf16 autocast(与训练时一致)。"""
+    按 token 数加权平均;cuda 上套 bf16 autocast(与训练时一致)。
+    返回 (按 token 平均 CE, bpb —— 词表无关口径,见 bpb.py)。"""
     ids = torch.load(tokens_path)
     n_val = int(len(ids) * frac)
     val_ids = ids[-n_val:].to(DEVICE)
     use_amp = DEVICE.startswith("cuda")
+    token_bytes = build_token_bytes(tok)
     with torch.autocast("cuda", dtype=torch.bfloat16, enabled=use_amp):
         tot, n = 0.0, 0
+        nats_all, bytes_all = 0.0, 0.0
         for _ in range(batches):
             ix = torch.randint(len(val_ids) - block - 1, (batch,),
                                device=val_ids.device)
             x = torch.stack([val_ids[i:i + block] for i in ix])
             y = torch.stack([val_ids[i + 1:i + 1 + block] for i in ix])
-            loss = F.cross_entropy(model(x).reshape(-1, len(tok)),
+            logits = model(x)
+            loss = F.cross_entropy(logits.reshape(-1, len(tok)),
                                    y.reshape(-1), ignore_index=0)
+            nats, nbytes = ce_nats_and_bytes(logits, y, token_bytes,
+                                             ignore_index=0)
             tot += loss.item() * x.numel()
             n += x.numel()
-    return tot / n
+            nats_all += nats
+            bytes_all += nbytes
+    return tot / n, bpb(nats_all, bytes_all)
 
 
 def fact_answer(model, tok, question, fmt, max_new=30):
@@ -227,12 +236,13 @@ def main():
     report["val"] = None
     if not args.no_val:
         if tokens_path.exists():
-            vl = val_loss(model, tok, tokens_path, args.val_frac,
-                          args.val_batches, args.block_size, args.batch_size)
+            vl, vb = val_loss(model, tok, tokens_path, args.val_frac,
+                              args.val_batches, args.block_size, args.batch_size)
             print(f"\n--- val loss: {vl:.3f}(ppl {math.exp(vl):.1f}) | "
+                  f"bpb {vb:.4f}(词表无关口径) | "
                   f"口径: token 末 {args.val_frac:.0%}, {args.val_batches}×"
                   f"{args.batch_size}×{args.block_size}, 与 stage7 相同")
-            report["val"] = {"loss": vl, "ppl": math.exp(vl)}
+            report["val"] = {"loss": vl, "ppl": math.exp(vl), "bpb": vb}
         else:
             print(f"\n(tokens 缓存不存在: {tokens_path},跳过 val loss)")
 

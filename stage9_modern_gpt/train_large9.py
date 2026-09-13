@@ -32,6 +32,7 @@ REPO = HERE.parent
 sys.path.insert(0, str(REPO / "stage4_scaling_bpe"))
 sys.path.insert(0, str(REPO / "stage5_capstone"))
 from bpe import BPETokenizer, EOS_ID            # noqa: E402
+from bpb import build_token_bytes, ce_nats_and_bytes, bpb   # noqa: E402
 from model_modern import GPT, GPTConfig         # noqa: E402
 from sampling import generate                    # noqa: E402
 
@@ -81,6 +82,7 @@ def main():
     torch.manual_seed(args.seed)
     cache = Path(args.cache_dir)
     tok = BPETokenizer.load(cache / "bpe.json")
+    token_bytes = build_token_bytes(tok)         # bpb 用:token→UTF-8 字节数
     ids = torch.load(cache / "tokens.pt")
     n_val = int(len(ids) * 0.05)
     train_ids = ids[:-n_val].to(DEVICE)
@@ -110,17 +112,24 @@ def main():
         return args.lr * 0.5 * (1 + math.cos(math.pi * t))
 
     def val_loss():
+        """返回 (按 token 平均 CE, bpb)。bpb = 词表无关口径(见 bpb.py)。"""
         model.eval()
         with torch.no_grad(), torch.autocast("cuda", dtype=torch.bfloat16,
                                              enabled=use_amp):
             tot, n = 0.0, 0
+            nats_all, bytes_all = 0.0, 0.0
             for _ in range(4):                      # 训练内口径:4 batch(探路用)
                 x, y = get_batch(val_ids, args.block_size, args.batch_size)
-                loss = F.cross_entropy(model(x).reshape(-1, len(tok)),
+                logits = model(x)
+                nats, nbytes = ce_nats_and_bytes(logits, y, token_bytes,
+                                                 ignore_index=0)
+                loss = F.cross_entropy(logits.reshape(-1, len(tok)),
                                        y.reshape(-1), ignore_index=0)
                 tot += loss.item() * x.numel()
                 n += x.numel()
-        return tot / n
+                nats_all += nats
+                bytes_all += nbytes
+        return tot / n, bpb(nats_all, bytes_all)
 
     def show_samples():
         model.eval()
@@ -141,10 +150,11 @@ def main():
         opt.zero_grad(); loss.backward(); opt.step()
 
         if step == 1 or step % args.eval_every == 0:
-            vl = val_loss()
+            vl, vb = val_loss()
             sps = step / (time.time() - t0)
             print(f"  step {step:5d}/{args.steps} | train {loss.item():.3f} "
-                  f"| val {vl:.3f} | lr {opt.param_groups[0]['lr']:.2e} "
+                  f"| val {vl:.3f} | bpb {vb:.4f} | "
+                  f"lr {opt.param_groups[0]['lr']:.2e} "
                   f"| {sps:.1f} step/s", flush=True)
             if vl < best:
                 best = vl
