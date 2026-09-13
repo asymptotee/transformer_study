@@ -1,0 +1,41 @@
+{
+  "config": {
+    "hf_dir": "hf_11_4_chat",
+    "tasks": "arc_easy,piqa,openbookqa",
+    "limit": null,
+    "apply_chat_template": true,
+    "batch_size": 1,
+    "device": "cuda",
+    "dtype": "float32",
+    "out": "results_lmeval/11_4_chat_en3.json"
+  },
+  "results": {
+    "arc_easy": {
+      "name": "arc_easy",
+      "alias": "arc_easy",
+      "sample_len": 2376,
+      "acc,none": 0.28703703703703703,
+      "acc_stderr,none": 0.009282621598983217,
+      "acc_norm,none": 0.2845117845117845,
+      "acc_norm_stderr,none": 0.009258050925618697
+    },
+    "piqa": {
+      "name": "piqa",
+      "alias": "piqa",
+      "sample_len": 1838,
+      "acc,none": 0.5484221980413493,
+      "acc_stderr,none": 0.011610989358814248,
+      "acc_norm,none": 0.530467899891186,
+      "acc_norm_stderr,none": 0.011644145418355097
+    },
+    "openbookqa": {
+      "name": "openbookqa",
+      "alias": "openbookqa",
+      "sample_len": 500,
+      "acc,none": 0.13,
+      "acc_stderr,none": 0.015055009352810992,
+      "acc_norm,none": 0.308,
+      "acc_norm_stderr,none": 0.020667032987466052
+    }
+  }
+}

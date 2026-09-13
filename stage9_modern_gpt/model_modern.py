@@ -243,6 +243,13 @@ class GPT(nn.Module):
             return self.lm_head(self.norm(x)), None
 
         # rope 路径
+        # 防御:transformers>=5 的 meta-device 初始化会丢非持久 buffer(置零),
+        # HF 包装(stage12)加载后 RoPE 表变全零 → 表首格应为 cos(0)=1 而非 0,
+        # 检测到就重算(minimind 同款防御,原注释见其 model_minimind.py)
+        if self.freqs_cos[0, 0] == 0:
+            fc, fs = precompute_freqs_cis(self.cfg.d_model // self.cfg.n_heads,
+                                          self.cfg.rope_ctx, self.cfg.rope_theta)
+            self.freqs_cos, self.freqs_sin = fc.to(x.device), fs.to(x.device)
         off = past_kv[0][0].shape[2] if past_kv else 0    # 已缓存的时间长度
         cos = self.freqs_cos[off: off + T]
         sin = self.freqs_sin[off: off + T]

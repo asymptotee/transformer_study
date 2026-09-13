@@ -82,6 +82,9 @@ def apply_rotary_pos_emb(q, k, cos, sin):
 
     cos = cos[None, None]                    # (1, 1, T, D) 广播到 B、H
     sin = sin[None, None]
-    q = q * cos + rotate_half(q) * sin
-    k = k * cos + rotate_half(k) * sin
+    # 算完 cast 回原 dtype:cos/sin 表是 fp32,半精度下 q*cos 会被提升成
+    # fp32,导致后面 attention 里 q/k(fp32) 与 v(fp16) 混算报错
+    # (stage12 的 HF fp16 加载暴露;minimind 同款处理,fp32 下是 no-op)
+    q = (q * cos + rotate_half(q) * sin).to(q.dtype)
+    k = (k * cos + rotate_half(k) * sin).to(k.dtype)
     return q, k
