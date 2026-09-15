@@ -1,12 +1,8 @@
 """eval_v2.py —— 13.1:扩容评测(131 题,两类格式,修正后的判定)
 
-相对旧 20 题 harness 的两处判定升级(针对历史踩坑):
-  1. **归一化匹配**:去掉空白/半全角逗号/顿号后再匹配 —— 修 "8,848米"
-     这类"内容对、关键词没匹配上"的漏判
-  2. **复读假阳检测**:若某次命中只出现在"题目回声"里,记为 suspect 不算
-     真阳 —— 修"秦始皇统一六国后…是秦始皇统一六国后"里 "秦" 命中
-     "秦始皇" 这类假阳(规则:命中片段周边的上下文若也出现在题干里,
-     视为题目回声)
+**判分内核在 judge.py**(纯 python,无依赖)——这样判分规则改动后可以
+用 rejudge.py 离线复算历史结果,不用重跑 GPU。本文件只负责"跑模型 + 汇总"。
+
 输出:每题的 raw/real/suspect 命中 + 汇总(总体/按格式/按分类/按频率档)。
 
 用法(Spark):
@@ -17,7 +13,6 @@
 
 import argparse
 import json
-import re
 import sys
 from pathlib import Path
 
@@ -27,40 +22,14 @@ HERE = Path(__file__).parent
 REPO = HERE.parent
 sys.path.insert(0, str(REPO / "stage4_scaling_bpe"))
 sys.path.insert(0, str(REPO / "stage9_modern_gpt"))
+sys.path.insert(0, str(HERE))
 from bpe import BPETokenizer, EOS_ID                      # noqa: E402
 from model_modern import GPT, GPTConfig                   # noqa: E402
+from judge import judge                                   # noqa: E402
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 IM_END = "<|im_end|>"
-NORM_RE = re.compile(r"[\s,，、·．。．]+")
-
-
-def norm(s):
-    return NORM_RE.sub("", s).lower()
-
-
-def judge(out, answers, question):
-    """返回 (raw_hit, real_hit, suspect_hit)。"""
-    o, q = norm(out), norm(question)
-    raw = real = suspect = False
-    for a in answers:
-        a_n = norm(a)
-        if not a_n:
-            continue
-        start = 0
-        while True:
-            i = o.find(a_n, start)
-            if i < 0:
-                break
-            raw = True
-            # 命中片段±2 字的上下文若整体出现在题干里 → 题目回声,算 suspect
-            ctx = o[max(0, i - 2): i + len(a_n) + 2]
-            if a_n in q and ctx in q:
-                suspect = True
-            else:
-                real = True
-            start = i + 1
-    return raw, real, suspect
+OUT_KEEP = 300          # 存进 JSON 的输出长度:要够长,离线复判才精确
 
 
 @torch.no_grad()
@@ -117,7 +86,7 @@ def main():
             raw, real, susp = judge(out, r["a"], r["q"])
             out_rows.append({"q": r["q"], "a": r["a"], "cat": r.get("cat"),
                              "bin": r.get("bin"), "freq": r.get("freq"),
-                             "out": out[:120], "raw": raw, "real": real,
+                             "out": out[:OUT_KEEP], "raw": raw, "real": real,
                              "suspect": susp})
         n = len(out_rows)
         n_real = sum(x["real"] for x in out_rows)
