@@ -9,6 +9,14 @@ stage7 train_large.py 的参数化版:模型从 model_modern.py 导入(带 norm/
     观察到的差异只能来自被换的那个零件(唯一变量)
   · 3000 步探路(≈20min)+ 16-batch 口径定论(见 9.0 噪声分析)
 
+**ckpt 存盘规则**(11.5 教训,2026-09-15):训练内 val 只有 4 batch,
+噪声 ±0.05,而余弦末段的真实改善远小于噪声 → "best val" 选点等于抽彩票。
+11.5 长跑因此把 186k 的终点丢在了 130k 的幸运低点上,29h 的收敛终态丢失。
+现规则:
+  · best-ckpt 照旧(用于崩溃恢复,不代表终态)
+  · **终步无条件存盘**到 --save-final(默认 ckpt 名加 _final)
+  · 续训(--init-from/--start-step)把权重加载与 lr 位置解耦,专供故障恢复
+
 用法(Spark):
   PY=~/llm_study/.venv/bin/python
   # 4 臂(control / 单换 Norm / 单换 FFN / 全换):
@@ -72,6 +80,12 @@ def main():
     ap.add_argument("--no-amp", action="store_true")
     ap.add_argument("--device", default="auto")
     ap.add_argument("--ckpt", default=str(HERE / "ckpt_91_control.pt"))
+    ap.add_argument("--save-final", default=None,
+                    help="终步无条件存盘路径(默认 ckpt 名加 _final;见文件头)")
+    ap.add_argument("--init-from", default=None,
+                    help="只加载权重续训(故障恢复用;lr 位置由 --start-step 决定)")
+    ap.add_argument("--start-step", type=int, default=0,
+                    help="续训起始步:决定 lr 在余弦上的位置(步数按原 schedule 计)")
     args = ap.parse_args()
 
     global DEVICE
@@ -96,6 +110,11 @@ def main():
                     pos=args.pos, rope_theta=args.rope_theta,
                     rope_ctx=args.rope_ctx, n_kv_heads=args.n_kv_heads)
     model = GPT(cfg).to(DEVICE)
+    if args.init_from:
+        ck = torch.load(args.init_from, map_location="cpu")
+        model.load_state_dict(ck["model"])       # strict:配置不匹配立刻暴露
+        print(f"续训: 权重 ← {args.init_from}(原存盘 step {ck.get('step')}),"
+              f"lr 位置 = step {args.start_step}", flush=True)
     n_params = sum(p.numel() for p in model.parameters())
     print(f"设备: {DEVICE} | AMP: {use_amp} | 参数: {n_params:,}"
           f" | norm={cfg.norm} ff={cfg.ff} pos={cfg.pos}"
@@ -140,7 +159,7 @@ def main():
 
     best = float("inf")
     t0 = time.time()
-    for step in range(1, args.steps + 1):
+    for step in range(args.start_step + 1, args.steps + 1):
         model.train()
         opt.param_groups[0]["lr"] = lr_at(step)
         x, y = get_batch(train_ids, args.block_size, args.batch_size)
@@ -151,7 +170,7 @@ def main():
 
         if step == 1 or step % args.eval_every == 0:
             vl, vb = val_loss()
-            sps = step / (time.time() - t0)
+            sps = (step - args.start_step) / (time.time() - t0)
             print(f"  step {step:5d}/{args.steps} | train {loss.item():.3f} "
                   f"| val {vl:.3f} | bpb {vb:.4f} | "
                   f"lr {opt.param_groups[0]['lr']:.2e} "
@@ -164,9 +183,14 @@ def main():
             if step > args.warmup:
                 show_samples()
 
+    # 终步无条件存盘(见文件头:4-batch 噪声会让 best-ckpt 选错点,终态必须另存)
+    final_path = args.save_final or args.ckpt.replace(".pt", "_final.pt")
+    torch.save({"model": model.state_dict(), "config": vars(cfg),
+                "step": args.steps}, final_path)
     print(f"\n完成 [{args.norm}/{args.ff}]: 最佳 val {best:.3f} | "
-          f"总耗时 {time.time()-t0:.0f}s ({args.steps/(time.time()-t0):.1f} step/s)",
+          f"总耗时 {time.time()-t0:.0f}s ({(args.steps-args.start_step)/(time.time()-t0):.1f} step/s)",
           flush=True)
+    print(f"✓ 终步 {args.steps} 无条件存盘 → {final_path}", flush=True)
 
 
 if __name__ == "__main__":
