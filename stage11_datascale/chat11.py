@@ -8,6 +8,10 @@
   ~/llm_study/.venv/bin/python chat11.py \
       --ask "中国的首都是哪里？" --ask "用一句话解释什么是机器学习"
 
+  # 测**基座**(没做过 chat-SFT 的权重)必须用 --format raw,否则测的不是模型
+  ~/llm_study/.venv/bin/python chat11.py --format raw \
+      --ckpt ckpt_11_5_final.pt --temperature 0 --ask "中国的首都是哪里？"
+
 为什么默认单轮无状态(实测结论,见 README 11.3):
   · 本模型的 SFT 数据只有单轮对(user→assistant),从未见过"历史+新问题"
     结构——多轮对话是外推。表现:主题粘连(答完"你好"聊了 ML,下一问
@@ -49,11 +53,22 @@ def single_turn_prompt(q):
     return f"<|im_start|>user\n{q}{IM_END}\n<|im_start|>assistant\n"
 
 
+def raw_prompt(q):
+    """预训练原生格式(语料本身就是"问…答…"文本,见 README 11.4)。
+
+    chat 模板是 SFT 才教的外来协议;**没做过 chat-SFT 的基座**在 chat 壳下
+    是分布外,会退化成主题粘连/角色混乱/自问自答 —— 实测 11_5_final
+    raw 74/131 vs chat 29/131。测基座必须用 raw 壳,否则测的不是模型。
+    """
+    return f"问：{q}\n答："
+
+
 @torch.no_grad()
 def reply(model, tok, question, max_new=120, temperature=0.7, top_p=0.9,
-          rep_penalty=1.1):
+          rep_penalty=1.1, fmt="chat"):
     """单轮问答:渲染干净上下文(不带任何历史),KV cache 增量解码。"""
-    ids = tok.encode(single_turn_prompt(question))
+    prompt = raw_prompt(question) if fmt == "raw" else single_turn_prompt(question)
+    ids = tok.encode(prompt)
     ctx = torch.tensor([ids], dtype=torch.long, device=DEVICE)
     logits, past = model.forward_cached(ctx, None)       # prefill
     gen = []
@@ -90,17 +105,24 @@ def main():
     ap.add_argument("--top-p", type=float, default=0.9)
     ap.add_argument("--rep-penalty", type=float, default=1.1,
                     help="1.2 会误伤知识召回,1.1 是安全线,1.0 关")
+    ap.add_argument("--format", dest="fmt", choices=["chat", "raw"],
+                    default="chat",
+                    help="chat=SFT 模板(需 chat-SFT 过的权重);"
+                         "raw=预训练原生壳(测基座必须用它,见 raw_prompt)")
     args = ap.parse_args()
 
     model, tok, cfg = load(args.ckpt, args.bpe)
     print(f"[chat11] {Path(args.ckpt).name} | {sum(p.numel() for p in model.parameters())/1e6:.1f}M"
-          f" | vocab {len(tok)} | 温度 {args.temperature} top_p {args.top_p} "
+          f" | vocab {len(tok)} | 壳 {args.fmt} | 温度 {args.temperature} top_p {args.top_p} "
           f"重复惩罚 {args.rep_penalty} | 单轮无状态", flush=True)
+    if args.fmt == "chat":
+        print("  (提醒:chat 壳要求权重做过 chat-SFT;直接测基座请加 --format raw)",
+              flush=True)
 
     if args.ask:
         for q in args.ask:
             out = reply(model, tok, q, args.max_new, args.temperature,
-                        args.top_p, args.rep_penalty)
+                        args.top_p, args.rep_penalty, args.fmt)
             print(f"\n问:{q}\n答:{out}", flush=True)
         return
 
@@ -113,7 +135,7 @@ def main():
         if not q:
             break
         out = reply(model, tok, q, args.max_new, args.temperature,
-                    args.top_p, args.rep_penalty)
+                    args.top_p, args.rep_penalty, args.fmt)
         print(f"模型 > {out}")
 
 
