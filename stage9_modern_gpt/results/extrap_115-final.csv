@@ -1,0 +1,15 @@
+model,scheme,L,loss,ppl
+115-final,plain,256,1.713,5.5
+115-final,plain,384,1.778,5.9
+115-final,plain,512,2.423,11.3
+115-final,plain,768,3.091,22.0
+115-final,plain,1024,3.394,29.8
+115-final,plain,1536,3.736,41.9
+115-final,plain,2048,3.926,50.7
+115-final,yarn8,256,1.845,6.3
+115-final,yarn8,384,1.754,5.8
+115-final,yarn8,512,1.821,6.2
+115-final,yarn8,768,1.863,6.4
+115-final,yarn8,1024,1.822,6.2
+115-final,yarn8,1536,1.856,6.4
+115-final,yarn8,2048,1.82,6.2

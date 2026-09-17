@@ -1,0 +1,8 @@
+model,scheme,L,loss,ppl
+ckpt_11_5_chat_2000,plain,256,1.814,6.1
+ckpt_11_5_chat_2000,plain,384,1.676,5.3
+ckpt_11_5_chat_2000,plain,512,1.734,5.7
+ckpt_11_5_chat_2000,plain,768,1.94,7.0
+ckpt_11_5_chat_2000,plain,1024,2.2,9.0
+ckpt_11_5_chat_2000,plain,1536,2.731,15.4
+ckpt_11_5_chat_2000,plain,2048,3.079,21.7
