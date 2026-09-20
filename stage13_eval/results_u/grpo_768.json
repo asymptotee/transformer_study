@@ -1,0 +1,797 @@
+{
+ "label": "grpo_768",
+ "weight": "/home/zhangxu/llm_study/mm_weights/minimind-3-pytorch/grpo_768.pth",
+ "n": 131,
+ "stopped": 118,
+ "stopped_rate": 0.9007633587786259,
+ "ntok_median": 253,
+ "chars_median": 360,
+ "rows": [
+  {
+   "q": "中国的首都是哪里？",
+   "stopped": true,
+   "ntok": 266,
+   "chars": 392
+  },
+  {
+   "q": "中华人民共和国的首都是哪里？",
+   "stopped": true,
+   "ntok": 256,
+   "chars": 341
+  },
+  {
+   "q": "故宫位于哪座城市？",
+   "stopped": true,
+   "ntok": 257,
+   "chars": 346
+  },
+  {
+   "q": "中国的第一大城市是？",
+   "stopped": true,
+   "ntok": 271,
+   "chars": 389
+  },
+  {
+   "q": "长江是中国的第几长河？",
+   "stopped": true,
+   "ntok": 205,
+   "chars": 276
+  },
+  {
+   "q": "中国的第二长河是？",
+   "stopped": true,
+   "ntok": 212,
+   "chars": 300
+  },
+  {
+   "q": "世界上最高的山峰是？",
+   "stopped": true,
+   "ntok": 294,
+   "chars": 369
+  },
+  {
+   "q": "大熊猫主要生活在中国哪个省份？",
+   "stopped": true,
+   "ntok": 344,
+   "chars": 418
+  },
+  {
+   "q": "中国有多少个省级行政区？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 446
+  },
+  {
+   "q": "秦始皇统一六国后建立的第一个朝代是？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 400
+  },
+  {
+   "q": "水的化学式是什么？",
+   "stopped": true,
+   "ntok": 213,
+   "chars": 277
+  },
+  {
+   "q": "世界上最小的国家是？",
+   "stopped": true,
+   "ntok": 212,
+   "chars": 323
+  },
+  {
+   "q": "爱因斯坦出生于哪个国家？",
+   "stopped": true,
+   "ntok": 302,
+   "chars": 405
+  },
+  {
+   "q": "第一次世界大战爆发于哪一年？",
+   "stopped": true,
+   "ntok": 253,
+   "chars": 360
+  },
+  {
+   "q": "中国最大的沙漠是？",
+   "stopped": true,
+   "ntok": 330,
+   "chars": 487
+  },
+  {
+   "q": "恐龙大约在多少万年前灭绝？",
+   "stopped": true,
+   "ntok": 254,
+   "chars": 360
+  },
+  {
+   "q": "世界上面积最大的国家是？",
+   "stopped": true,
+   "ntok": 254,
+   "chars": 364
+  },
+  {
+   "q": "诺基亚公司来自哪个国家？",
+   "stopped": true,
+   "ntok": 194,
+   "chars": 280
+  },
+  {
+   "q": "圆周率的近似值是多少？",
+   "stopped": true,
+   "ntok": 243,
+   "chars": 362
+  },
+  {
+   "q": "珠穆朗玛峰的海拔约为多少米？",
+   "stopped": true,
+   "ntok": 247,
+   "chars": 305
+  },
+  {
+   "q": "北京是中国的什么？",
+   "stopped": true,
+   "ntok": 194,
+   "chars": 291
+  },
+  {
+   "q": "上海位于哪条江的入海口？",
+   "stopped": true,
+   "ntok": 228,
+   "chars": 309
+  },
+  {
+   "q": "中国最大的淡水湖是？",
+   "stopped": true,
+   "ntok": 119,
+   "chars": 173
+  },
+  {
+   "q": "中国面积最大的省级行政区是？",
+   "stopped": true,
+   "ntok": 315,
+   "chars": 432
+  },
+  {
+   "q": "兵马俑位于中国哪座城市？",
+   "stopped": true,
+   "ntok": 226,
+   "chars": 278
+  },
+  {
+   "q": "中国哪个城市被称为春城？",
+   "stopped": true,
+   "ntok": 372,
+   "chars": 514
+  },
+  {
+   "q": "中国的国土面积约为多少万平方公里？",
+   "stopped": true,
+   "ntok": 340,
+   "chars": 474
+  },
+  {
+   "q": "黄河最终注入哪个海？",
+   "stopped": true,
+   "ntok": 188,
+   "chars": 248
+  },
+  {
+   "q": "中国最大的岛是？",
+   "stopped": true,
+   "ntok": 372,
+   "chars": 464
+  },
+  {
+   "q": "香港回归中国是在哪一年？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 567
+  },
+  {
+   "q": "澳门回归中国是在哪一年？",
+   "stopped": true,
+   "ntok": 329,
+   "chars": 444
+  },
+  {
+   "q": "中国最长的城墙是？",
+   "stopped": true,
+   "ntok": 253,
+   "chars": 360
+  },
+  {
+   "q": "珠穆朗玛峰位于哪两个国家的交界？",
+   "stopped": true,
+   "ntok": 241,
+   "chars": 269
+  },
+  {
+   "q": "世界上最大的海洋是？",
+   "stopped": true,
+   "ntok": 247,
+   "chars": 350
+  },
+  {
+   "q": "世界上最长的河流是？",
+   "stopped": true,
+   "ntok": 213,
+   "chars": 303
+  },
+  {
+   "q": "法国的首都是？",
+   "stopped": true,
+   "ntok": 240,
+   "chars": 342
+  },
+  {
+   "q": "美国的首都是？",
+   "stopped": true,
+   "ntok": 217,
+   "chars": 303
+  },
+  {
+   "q": "日本的首都是？",
+   "stopped": true,
+   "ntok": 330,
+   "chars": 459
+  },
+  {
+   "q": "澳大利亚的首都是？",
+   "stopped": true,
+   "ntok": 253,
+   "chars": 365
+  },
+  {
+   "q": "加拿大的首都是？",
+   "stopped": true,
+   "ntok": 276,
+   "chars": 368
+  },
+  {
+   "q": "埃及的首都是？",
+   "stopped": true,
+   "ntok": 219,
+   "chars": 294
+  },
+  {
+   "q": "巴西的首都是？",
+   "stopped": true,
+   "ntok": 267,
+   "chars": 377
+  },
+  {
+   "q": "世界上最大的沙漠是？",
+   "stopped": true,
+   "ntok": 225,
+   "chars": 321
+  },
+  {
+   "q": "意大利的首都是？",
+   "stopped": true,
+   "ntok": 198,
+   "chars": 300
+  },
+  {
+   "q": "英国的首都是？",
+   "stopped": true,
+   "ntok": 206,
+   "chars": 293
+  },
+  {
+   "q": "泰国的首都是？",
+   "stopped": true,
+   "ntok": 187,
+   "chars": 270
+  },
+  {
+   "q": "世界上人口最多的国家是？",
+   "stopped": true,
+   "ntok": 235,
+   "chars": 365
+  },
+  {
+   "q": "中国历史上第一个统一的封建王朝是？",
+   "stopped": true,
+   "ntok": 284,
+   "chars": 404
+  },
+  {
+   "q": "中国最后一个封建王朝是？",
+   "stopped": true,
+   "ntok": 213,
+   "chars": 298
+  },
+  {
+   "q": "辛亥革命发生在哪一年？",
+   "stopped": true,
+   "ntok": 260,
+   "chars": 339
+  },
+  {
+   "q": "中华人民共和国成立于哪一年？",
+   "stopped": true,
+   "ntok": 236,
+   "chars": 320
+  },
+  {
+   "q": "三国时期的三国是？",
+   "stopped": true,
+   "ntok": 172,
+   "chars": 260
+  },
+  {
+   "q": "明朝的开国皇帝是？",
+   "stopped": true,
+   "ntok": 380,
+   "chars": 501
+  },
+  {
+   "q": "郑和下西洋发生在哪个朝代？",
+   "stopped": true,
+   "ntok": 302,
+   "chars": 411
+  },
+  {
+   "q": "孔子生活在中国哪个历史时期？",
+   "stopped": true,
+   "ntok": 238,
+   "chars": 318
+  },
+  {
+   "q": "唐朝的开国皇帝是？",
+   "stopped": true,
+   "ntok": 233,
+   "chars": 294
+  },
+  {
+   "q": "秦始皇的姓名是？",
+   "stopped": true,
+   "ntok": 292,
+   "chars": 396
+  },
+  {
+   "q": "汉朝的开国皇帝是？",
+   "stopped": true,
+   "ntok": 265,
+   "chars": 336
+  },
+  {
+   "q": "红军长征结束于哪一年？",
+   "stopped": true,
+   "ntok": 217,
+   "chars": 307
+  },
+  {
+   "q": "五四运动发生在哪一年？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 351
+  },
+  {
+   "q": "清朝最后一位皇帝是？",
+   "stopped": true,
+   "ntok": 306,
+   "chars": 403
+  },
+  {
+   "q": "第二次世界大战结束于哪一年？",
+   "stopped": true,
+   "ntok": 241,
+   "chars": 356
+  },
+  {
+   "q": "标准大气压下水沸腾的温度是多少摄氏度？",
+   "stopped": true,
+   "ntok": 224,
+   "chars": 329
+  },
+  {
+   "q": "光在真空中的传播速度约为每秒多少公里？",
+   "stopped": true,
+   "ntok": 345,
+   "chars": 486
+  },
+  {
+   "q": "空气中含量最多的气体是？",
+   "stopped": true,
+   "ntok": 209,
+   "chars": 286
+  },
+  {
+   "q": "人类呼吸需要的气体是？",
+   "stopped": true,
+   "ntok": 232,
+   "chars": 343
+  },
+  {
+   "q": "铁的化学元素符号是？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 535
+  },
+  {
+   "q": "黄金的化学元素符号是？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 428
+  },
+  {
+   "q": "二氧化碳的化学式是？",
+   "stopped": true,
+   "ntok": 259,
+   "chars": 391
+  },
+  {
+   "q": "食盐的主要化学成分是？",
+   "stopped": true,
+   "ntok": 359,
+   "chars": 501
+  },
+  {
+   "q": "地球绕太阳一圈的时间约为多少天？",
+   "stopped": true,
+   "ntok": 220,
+   "chars": 337
+  },
+  {
+   "q": "地球上一共有几个大洲？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 402
+  },
+  {
+   "q": "地球的卫星是？",
+   "stopped": true,
+   "ntok": 219,
+   "chars": 318
+  },
+  {
+   "q": "太阳系中体积最大的行星是？",
+   "stopped": true,
+   "ntok": 333,
+   "chars": 440
+  },
+  {
+   "q": "距离太阳最近的行星是？",
+   "stopped": true,
+   "ntok": 399,
+   "chars": 517
+  },
+  {
+   "q": "重力加速度约为多少米每二次方秒？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 637
+  },
+  {
+   "q": "一个标准大气压约等于多少帕斯卡？",
+   "stopped": true,
+   "ntok": 305,
+   "chars": 421
+  },
+  {
+   "q": "声音在空气中的传播速度约为每秒多少米？",
+   "stopped": true,
+   "ntok": 162,
+   "chars": 252
+  },
+  {
+   "q": "电灯泡的发明者通常被认为是？",
+   "stopped": true,
+   "ntok": 221,
+   "chars": 309
+  },
+  {
+   "q": "相对论的提出者是？",
+   "stopped": true,
+   "ntok": 272,
+   "chars": 383
+  },
+  {
+   "q": "万有引力定律的提出者是？",
+   "stopped": true,
+   "ntok": 327,
+   "chars": 431
+  },
+  {
+   "q": "计算机的中央处理器英文缩写是？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 593
+  },
+  {
+   "q": "计算机的内存英文缩写是？",
+   "stopped": true,
+   "ntok": 227,
+   "chars": 363
+  },
+  {
+   "q": "Python 是一种什么？",
+   "stopped": true,
+   "ntok": 277,
+   "chars": 438
+  },
+  {
+   "q": "互联网的英文是？",
+   "stopped": true,
+   "ntok": 190,
+   "chars": 319
+  },
+  {
+   "q": "人工智能的英文缩写是？",
+   "stopped": true,
+   "ntok": 132,
+   "chars": 217
+  },
+  {
+   "q": "机器学习是人工智能的一个什么？",
+   "stopped": true,
+   "ntok": 268,
+   "chars": 439
+  },
+  {
+   "q": "GPT 中的 T 代表什么英文单词？",
+   "stopped": true,
+   "ntok": 135,
+   "chars": 204
+  },
+  {
+   "q": "二进制中只用哪两个数字？",
+   "stopped": true,
+   "ntok": 297,
+   "chars": 460
+  },
+  {
+   "q": "万维网的英文缩写是？",
+   "stopped": true,
+   "ntok": 233,
+   "chars": 364
+  },
+  {
+   "q": "电子邮件地址中必须包含的符号是？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 630
+  },
+  {
+   "q": "一个字节等于多少位？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 675
+  },
+  {
+   "q": "安卓系统的开发公司是？",
+   "stopped": true,
+   "ntok": 246,
+   "chars": 362
+  },
+  {
+   "q": "Windows 系统的开发公司是？",
+   "stopped": true,
+   "ntok": 178,
+   "chars": 280
+  },
+  {
+   "q": "苹果公司的创始人之一是？",
+   "stopped": true,
+   "ntok": 223,
+   "chars": 328
+  },
+  {
+   "q": "特斯拉汽车公司的 CEO 是？",
+   "stopped": true,
+   "ntok": 239,
+   "chars": 359
+  },
+  {
+   "q": "人体最大的器官是？",
+   "stopped": true,
+   "ntok": 304,
+   "chars": 396
+  },
+  {
+   "q": "成年人体内大约有多少块骨头？",
+   "stopped": true,
+   "ntok": 250,
+   "chars": 379
+  },
+  {
+   "q": "正常人体温约为多少摄氏度？",
+   "stopped": true,
+   "ntok": 259,
+   "chars": 379
+  },
+  {
+   "q": "血液为什么是红色的？因为含有？",
+   "stopped": true,
+   "ntok": 218,
+   "chars": 296
+  },
+  {
+   "q": "大熊猫的主要食物是？",
+   "stopped": true,
+   "ntok": 306,
+   "chars": 406
+  },
+  {
+   "q": "鲸鱼属于哪类动物？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 319
+  },
+  {
+   "q": "蜜蜂采集花蜜用来制造什么？",
+   "stopped": true,
+   "ntok": 230,
+   "chars": 325
+  },
+  {
+   "q": "植物通过什么作用制造养分？",
+   "stopped": true,
+   "ntok": 230,
+   "chars": 337
+  },
+  {
+   "q": "正常人类细胞中有多少条染色体？",
+   "stopped": true,
+   "ntok": 160,
+   "chars": 285
+  },
+  {
+   "q": "长颈鹿的脖子有多少块颈椎骨？",
+   "stopped": true,
+   "ntok": 283,
+   "chars": 384
+  },
+  {
+   "q": "人体的呼吸器官主要是？",
+   "stopped": true,
+   "ntok": 169,
+   "chars": 233
+  },
+  {
+   "q": "猫属于哪科动物？",
+   "stopped": true,
+   "ntok": 146,
+   "chars": 208
+  },
+  {
+   "q": "企鹅主要生活在地球的哪一端？",
+   "stopped": true,
+   "ntok": 204,
+   "chars": 288
+  },
+  {
+   "q": "世界上最大的动物是？",
+   "stopped": true,
+   "ntok": 283,
+   "chars": 400
+  },
+  {
+   "q": "蝴蝶是由什么变成的？",
+   "stopped": true,
+   "ntok": 233,
+   "chars": 291
+  },
+  {
+   "q": "《红楼梦》的作者是？",
+   "stopped": true,
+   "ntok": 304,
+   "chars": 388
+  },
+  {
+   "q": "《西游记》的作者是？",
+   "stopped": true,
+   "ntok": 293,
+   "chars": 354
+  },
+  {
+   "q": "《水浒传》的作者是？",
+   "stopped": true,
+   "ntok": 299,
+   "chars": 376
+  },
+  {
+   "q": "李白是哪个朝代的诗人？",
+   "stopped": true,
+   "ntok": 399,
+   "chars": 515
+  },
+  {
+   "q": "杜甫被后人称为？",
+   "stopped": true,
+   "ntok": 358,
+   "chars": 437
+  },
+  {
+   "q": "李白被后人称为？",
+   "stopped": false,
+   "ntok": 400,
+   "chars": 523
+  },
+  {
+   "q": "《论语》主要记录了谁的言行？",
+   "stopped": true,
+   "ntok": 289,
+   "chars": 381
+  },
+  {
+   "q": "中国古代的四大发明之一是？",
+   "stopped": true,
+   "ntok": 299,
+   "chars": 424
+  },
+  {
+   "q": "《三国演义》的作者是？",
+   "stopped": true,
+   "ntok": 335,
+   "chars": 444
+  },
+  {
+   "q": "中国的国宝动物是？",
+   "stopped": true,
+   "ntok": 367,
+   "chars": 446
+  },
+  {
+   "q": "一天有多少小时？",
+   "stopped": true,
+   "ntok": 187,
+   "chars": 318
+  },
+  {
+   "q": "一小时有多少分钟？",
+   "stopped": true,
+   "ntok": 160,
+   "chars": 275
+  },
+  {
+   "q": "一周有几天？",
+   "stopped": true,
+   "ntok": 167,
+   "chars": 287
+  },
+  {
+   "q": "中国的国庆节是几月几日？",
+   "stopped": true,
+   "ntok": 187,
+   "chars": 250
+  },
+  {
+   "q": "春节是农历几月初几？",
+   "stopped": true,
+   "ntok": 257,
+   "chars": 344
+  },
+  {
+   "q": "一年有多少个月？",
+   "stopped": true,
+   "ntok": 106,
+   "chars": 156
+  },
+  {
+   "q": "水的冰点是多少摄氏度？",
+   "stopped": true,
+   "ntok": 181,
+   "chars": 261
+  },
+  {
+   "q": "高铁的英文缩写是？",
+   "stopped": true,
+   "ntok": 213,
+   "chars": 314
+  },
+  {
+   "q": "中国法定成年年龄是？",
+   "stopped": true,
+   "ntok": 292,
+   "chars": 428
+  },
+  {
+   "q": "消防报警电话是多少？",
+   "stopped": true,
+   "ntok": 122,
+   "chars": 198
+  }
+ ]
+}
