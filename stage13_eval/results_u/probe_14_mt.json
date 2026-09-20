@@ -1,0 +1,175 @@
+{
+ "label": "14_mt",
+ "n": 21,
+ "ok": 8,
+ "rows": [
+  {
+   "q": "中国的第一大城市是？",
+   "gold": "上海",
+   "src": "model",
+   "margin_true": 3.6420528888702393,
+   "margin_false": 3.8258965015411377,
+   "ok": false
+  },
+  {
+   "q": "第一次世界大战爆发于哪一年？",
+   "gold": "1914",
+   "src": "model",
+   "margin_true": 4.438343048095703,
+   "margin_false": 4.291411399841309,
+   "ok": true
+  },
+  {
+   "q": "世界上面积最大的国家是？",
+   "gold": "俄罗斯",
+   "src": "model",
+   "margin_true": 3.4805784225463867,
+   "margin_false": 3.6467838287353516,
+   "ok": false
+  },
+  {
+   "q": "上海位于哪条江的入海口？",
+   "gold": "长江",
+   "src": "sub",
+   "margin_true": 3.343536376953125,
+   "margin_false": 3.4767444133758545,
+   "ok": false
+  },
+  {
+   "q": "澳门回归中国是在哪一年？",
+   "gold": "1999",
+   "src": "model",
+   "margin_true": 3.7929091453552246,
+   "margin_false": 3.818246364593506,
+   "ok": false
+  },
+  {
+   "q": "加拿大的首都是？",
+   "gold": "渥太华",
+   "src": "model",
+   "margin_true": 3.993685722351074,
+   "margin_false": 3.9791688919067383,
+   "ok": true
+  },
+  {
+   "q": "埃及的首都是？",
+   "gold": "开罗",
+   "src": "sub",
+   "margin_true": 3.533484935760498,
+   "margin_false": 3.5281295776367188,
+   "ok": true
+  },
+  {
+   "q": "辛亥革命发生在哪一年？",
+   "gold": "1911",
+   "src": "model",
+   "margin_true": 3.8625290393829346,
+   "margin_false": 3.704576015472412,
+   "ok": true
+  },
+  {
+   "q": "唐朝的开国皇帝是？",
+   "gold": "李渊",
+   "src": "model",
+   "margin_true": 3.601466178894043,
+   "margin_false": 3.5367465019226074,
+   "ok": true
+  },
+  {
+   "q": "第二次世界大战结束于哪一年？",
+   "gold": "1945",
+   "src": "model",
+   "margin_true": 4.075178146362305,
+   "margin_false": 4.05423641204834,
+   "ok": true
+  },
+  {
+   "q": "光在真空中的传播速度约为每秒多少公里？",
+   "gold": "30万",
+   "src": "model",
+   "margin_true": 3.5464296340942383,
+   "margin_false": 3.59649658203125,
+   "ok": false
+  },
+  {
+   "q": "空气中含量最多的气体是？",
+   "gold": "氮气",
+   "src": "model",
+   "margin_true": 3.7516684532165527,
+   "margin_false": 3.722126007080078,
+   "ok": true
+  },
+  {
+   "q": "铁的化学元素符号是？",
+   "gold": "Fe",
+   "src": "model",
+   "margin_true": 3.7554991245269775,
+   "margin_false": 3.8997185230255127,
+   "ok": false
+  },
+  {
+   "q": "万有引力定律的提出者是？",
+   "gold": "牛顿",
+   "src": "model",
+   "margin_true": 3.763822317123413,
+   "margin_false": 3.9037296772003174,
+   "ok": false
+  },
+  {
+   "q": "互联网的英文是？",
+   "gold": "Internet",
+   "src": "model",
+   "margin_true": 3.4196572303771973,
+   "margin_false": 3.613495111465454,
+   "ok": false
+  },
+  {
+   "q": "人工智能的英文缩写是？",
+   "gold": "AI",
+   "src": "model",
+   "margin_true": 3.7594268321990967,
+   "margin_false": 4.023785591125488,
+   "ok": false
+  },
+  {
+   "q": "一个字节等于多少位？",
+   "gold": "8",
+   "src": "sub",
+   "margin_true": 3.8642454147338867,
+   "margin_false": 3.992309808731079,
+   "ok": false
+  },
+  {
+   "q": "蝴蝶是由什么变成的？",
+   "gold": "毛毛虫",
+   "src": "model",
+   "margin_true": 4.018421173095703,
+   "margin_false": 4.03278112411499,
+   "ok": false
+  },
+  {
+   "q": "《西游记》的作者是？",
+   "gold": "吴承恩",
+   "src": "model",
+   "margin_true": 3.4791781902313232,
+   "margin_false": 3.1438355445861816,
+   "ok": true
+  },
+  {
+   "q": "李白被后人称为？",
+   "gold": "诗仙",
+   "src": "sub",
+   "margin_true": 3.820113182067871,
+   "margin_false": 3.822622060775757,
+   "ok": false
+  },
+  {
+   "q": "一年有多少个月？",
+   "gold": "12",
+   "src": "model",
+   "margin_true": 4.345402717590332,
+   "margin_false": 4.441561222076416,
+   "ok": false
+  }
+ ]
+}
