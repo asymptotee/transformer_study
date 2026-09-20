@@ -1,0 +1,1916 @@
+{
+ "label": "14_mt",
+ "ckpt": "../stage11_datascale/ckpt_14_mt.pt",
+ "n": 131,
+ "single_ok": 74,
+ "multi_ok": 70,
+ "contamination": 0.13513513513513514,
+ "gained": 6,
+ "by_bin": {
+  "high": [
+   2,
+   28
+  ],
+  "mid": [
+   3,
+   29
+  ],
+  "low": [
+   5,
+   17
+  ]
+ },
+ "rows": [
+  {
+   "q": "中国的首都是哪里？",
+   "a": [
+    "北京"
+   ],
+   "cat": "中国地理",
+   "bin": "high",
+   "hist_q": "上海位于哪条江的入海口？",
+   "out": "中国的首都是北京。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中华人民共和国的首都是哪里？",
+   "a": [
+    "北京"
+   ],
+   "cat": "中国地理",
+   "bin": "high",
+   "hist_q": "大熊猫的主要食物是？",
+   "out": "中华人民共和国的首都是北京。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "故宫位于哪座城市？",
+   "a": [
+    "北京"
+   ],
+   "cat": "中国地理",
+   "bin": "high",
+   "hist_q": "人体最大的器官是？",
+   "out": "故宫位于中国北京市，是一座历史悠久、文化底蕴深厚的宫殿建筑群，位于北京市中心，占地面积约72万平方米，建筑风格融合了中国传统建筑与现代建筑的元素，成为中国文化的象征之一。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国的第一大城市是？",
+   "a": [
+    "上海"
+   ],
+   "cat": "中国地理",
+   "bin": "high",
+   "hist_q": "辛亥革命发生在哪一年？",
+   "out": "中国的第一大城市是北京。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "长江是中国的第几长河？",
+   "a": [
+    "第一",
+    "最长"
+   ],
+   "cat": "中国地理",
+   "bin": "high",
+   "hist_q": "电子邮件地址中必须包含的符号是？",
+   "out": "长江是中国的第二长河，全长约6300公里。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国的第二长河是？",
+   "a": [
+    "黄河"
+   ],
+   "cat": "中国地理",
+   "bin": "mid",
+   "hist_q": "人体的呼吸器官主要是？",
+   "out": "中国的第二长河是长江。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "世界上最高的山峰是？",
+   "a": [
+    "珠穆朗玛",
+    "珠峰"
+   ],
+   "cat": "世界地理",
+   "bin": "high",
+   "hist_q": "中华人民共和国的首都是哪里？",
+   "out": "珠穆朗玛峰是世界上最高的山峰，海拔8848米。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "大熊猫主要生活在中国哪个省份？",
+   "a": [
+    "四川"
+   ],
+   "cat": "生物自然",
+   "bin": "mid",
+   "hist_q": "计算机的中央处理器英文缩写是？",
+   "out": "大熊猫主要分布在中国四川、陕西和甘肃等省份，主要分布在四川、陕西和甘肃等省份。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国有多少个省级行政区？",
+   "a": [
+    "34",
+    "三十四"
+   ],
+   "cat": "中国地理",
+   "bin": "high",
+   "hist_q": "加拿大的首都是？",
+   "out": "中国共有34个省级行政区，分别是北京、上海、广州和深圳。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "秦始皇统一六国后建立的第一个朝代是？",
+   "a": [
+    "秦朝",
+    "秦代"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "唐朝的开国皇帝是？",
+   "out": "秦始皇统一六国后，建立的第一个朝代是秦始皇统一六国后建立的第一个朝代。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "水的化学式是什么？",
+   "a": [
+    "H2O",
+    "H₂O"
+   ],
+   "cat": "科学",
+   "bin": "mid",
+   "hist_q": "秦始皇统一六国后建立的第一个朝代是？",
+   "out": "水的化学式是H2O。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上最小的国家是？",
+   "a": [
+    "梵蒂冈"
+   ],
+   "cat": "世界地理",
+   "bin": "low",
+   "hist_q": "世界上面积最大的国家是？",
+   "out": "俄罗斯",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "爱因斯坦出生于哪个国家？",
+   "a": [
+    "德国"
+   ],
+   "cat": "世界地理",
+   "bin": "high",
+   "hist_q": "电灯泡的发明者通常被认为是？",
+   "out": "爱因斯坦出生于德国，1905年获得诺贝尔物理学奖。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "第一次世界大战爆发于哪一年？",
+   "a": [
+    "1914"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "猫属于哪科动物？",
+   "out": "第一次世界大战爆发于1939年。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国最大的沙漠是？",
+   "a": [
+    "塔克拉玛干"
+   ],
+   "cat": "中国地理",
+   "bin": "low",
+   "hist_q": "一小时有多少分钟？",
+   "out": "中国最大的沙漠是撒哈拉沙漠，位于非洲东部，面积约为6,400,000平方公里。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "恐龙大约在多少万年前灭绝？",
+   "a": [
+    "6500",
+    "6600"
+   ],
+   "cat": "生物自然",
+   "bin": "low",
+   "hist_q": "大熊猫主要生活在中国哪个省份？",
+   "out": "恐龙灭绝的确切时间尚未公开，但大部分时间被认为是约6600万年前的白垩纪晚期。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上面积最大的国家是？",
+   "a": [
+    "俄罗斯"
+   ],
+   "cat": "世界地理",
+   "bin": "mid",
+   "hist_q": "中国的国土面积约为多少万平方公里？",
+   "out": "亚洲是世界上面积最大的国家，占全球总面积的约30%。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "诺基亚公司来自哪个国家？",
+   "a": [
+    "芬兰"
+   ],
+   "cat": "世界地理",
+   "bin": "mid",
+   "hist_q": "正常人类细胞中有多少条染色体？",
+   "out": "诺基亚公司来自美国，主要从事航空航天、航天科技和航空运输等领域的研究和开发。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "圆周率的近似值是多少？",
+   "a": [
+    "3.14",
+    "3.14159"
+   ],
+   "cat": "科学",
+   "bin": "mid",
+   "hist_q": "中国历史上第一个统一的封建王朝是？",
+   "out": "圆周率近似值约为3.14159265358979323846...",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "珠穆朗玛峰的海拔约为多少米？",
+   "a": [
+    "8848",
+    "8844",
+    "8,848"
+   ],
+   "cat": "世界地理",
+   "bin": "mid",
+   "hist_q": "万有引力定律的提出者是？",
+   "out": "珠穆朗玛峰的海拔约为8,848米。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "北京是中国的什么？",
+   "a": [
+    "首都"
+   ],
+   "cat": "中国地理",
+   "bin": "high",
+   "hist_q": "澳门回归中国是在哪一年？",
+   "out": "北京是中国的首都，位于中国北部，是一个历史悠久的城市，拥有悠久的历史和文化。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "上海位于哪条江的入海口？",
+   "a": [
+    "长江"
+   ],
+   "cat": "中国地理",
+   "bin": "mid",
+   "hist_q": "明朝的开国皇帝是？",
+   "out": "上海位于中国东部，东经34度西经118度东经120度东经120度东经110度东经110度东经110度东经110度东经110度东经110度东经110度东经110度东经110度东经110度东经110",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国最大的淡水湖是？",
+   "a": [
+    "鄱阳湖"
+   ],
+   "cat": "中国地理",
+   "bin": "low",
+   "hist_q": "中国最长的城墙是？",
+   "out": "中国最大的淡水湖是**长江**。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国面积最大的省级行政区是？",
+   "a": [
+    "新疆"
+   ],
+   "cat": "中国地理",
+   "bin": "low",
+   "hist_q": "一天有多少小时？",
+   "out": "中国面积最大的省级行政区是北京市，面积为11634平方千米。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "兵马俑位于中国哪座城市？",
+   "a": [
+    "西安"
+   ],
+   "cat": "中国地理",
+   "bin": "mid",
+   "hist_q": "正常人体温约为多少摄氏度？",
+   "out": "兵马俑位于中国陕西省西安市，坐落于陕西省西安市。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国哪个城市被称为春城？",
+   "a": [
+    "昆明"
+   ],
+   "cat": "中国地理",
+   "bin": "low",
+   "hist_q": "Windows 系统的开发公司是？",
+   "out": "中国春城是中国的一个著名城市，位于中国东部，距离春城仅有几公里。春城是春节期间的官方城市，位于中国北部，距离春城仅有几公里。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国的国土面积约为多少万平方公里？",
+   "a": [
+    "960"
+   ],
+   "cat": "中国地理",
+   "bin": "mid",
+   "hist_q": "圆周率的近似值是多少？",
+   "out": "中国的国土面积约为71,559.56万平方公里。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "黄河最终注入哪个海？",
+   "a": [
+    "渤海"
+   ],
+   "cat": "中国地理",
+   "bin": "low",
+   "hist_q": "中国法定成年年龄是？",
+   "out": "黄河最终注入黄海，位于中国境内，流经黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河、黄河",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国最大的岛是？",
+   "a": [
+    "台湾"
+   ],
+   "cat": "中国地理",
+   "bin": "mid",
+   "hist_q": "珠穆朗玛峰位于哪两个国家的交界？",
+   "out": "中国最大的岛是珠穆朗玛峰，位于喜马拉雅山脉，海拔8848米。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "香港回归中国是在哪一年？",
+   "a": [
+    "1997"
+   ],
+   "cat": "中国地理",
+   "bin": "mid",
+   "hist_q": "蜜蜂采集花蜜用来制造什么？",
+   "out": "香港回归中国是在1999年。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "澳门回归中国是在哪一年？",
+   "a": [
+    "1999"
+   ],
+   "cat": "中国地理",
+   "bin": "mid",
+   "hist_q": "光在真空中的传播速度约为每秒多少公里？",
+   "out": "澳门回归中国是在2020年。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国最长的城墙是？",
+   "a": [
+    "长城"
+   ],
+   "cat": "中国地理",
+   "bin": "high",
+   "hist_q": "铁的化学元素符号是？",
+   "out": "中国最长的城墙是秦始皇陵，全长约6464公里。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "珠穆朗玛峰位于哪两个国家的交界？",
+   "a": [
+    "中国和尼泊尔",
+    "中国、尼泊尔",
+    "中尼"
+   ],
+   "cat": "世界地理",
+   "bin": "low",
+   "hist_q": "故宫位于哪座城市？",
+   "out": "珠穆朗玛峰位于中国和尼泊尔交界，海拔8848米。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "世界上最大的海洋是？",
+   "a": [
+    "太平洋"
+   ],
+   "cat": "世界地理",
+   "bin": "mid",
+   "hist_q": "美国的首都是？",
+   "out": "世界上最大的海洋是太平洋，占地球表面积的约30%。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上最长的河流是？",
+   "a": [
+    "尼罗河"
+   ],
+   "cat": "世界地理",
+   "bin": "mid",
+   "hist_q": "企鹅主要生活在地球的哪一端？",
+   "out": "世界上最长的河流是尼罗河，全长约6650公里。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "法国的首都是？",
+   "a": [
+    "巴黎"
+   ],
+   "cat": "世界地理",
+   "bin": "high",
+   "hist_q": "特斯拉汽车公司的 CEO 是？",
+   "out": "法国的首都是巴黎。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "美国的首都是？",
+   "a": [
+    "华盛顿"
+   ],
+   "cat": "世界地理",
+   "bin": "mid",
+   "hist_q": "中国最大的沙漠是？",
+   "out": "美国的首都是华盛顿特区。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "日本的首都是？",
+   "a": [
+    "东京"
+   ],
+   "cat": "世界地理",
+   "bin": "high",
+   "hist_q": "长颈鹿的脖子有多少块颈椎骨？",
+   "out": "日本的首都是东京。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "澳大利亚的首都是？",
+   "a": [
+    "堪培拉"
+   ],
+   "cat": "世界地理",
+   "bin": "low",
+   "hist_q": "三国时期的三国是？",
+   "out": "澳大利亚的首都是堪培拉。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "加拿大的首都是？",
+   "a": [
+    "渥太华"
+   ],
+   "cat": "世界地理",
+   "bin": "low",
+   "hist_q": "水的冰点是多少摄氏度？",
+   "out": "加拿大的首都是渥太华。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "埃及的首都是？",
+   "a": [
+    "开罗"
+   ],
+   "cat": "世界地理",
+   "bin": "low",
+   "hist_q": "清朝最后一位皇帝是？",
+   "out": "埃及的首都是开罗。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "巴西的首都是？",
+   "a": [
+    "巴西利亚"
+   ],
+   "cat": "世界地理",
+   "bin": "low",
+   "hist_q": "中华人民共和国成立于哪一年？",
+   "out": "巴西的首都是巴西利亚。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上最大的沙漠是？",
+   "a": [
+    "撒哈拉"
+   ],
+   "cat": "世界地理",
+   "bin": "mid",
+   "hist_q": "一个标准大气压约等于多少帕斯卡？",
+   "out": "世界上最大的沙漠是撒哈拉沙漠，位于非洲东部，面积约为6,380,000平方公里。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "意大利的首都是？",
+   "a": [
+    "罗马"
+   ],
+   "cat": "世界地理",
+   "bin": "high",
+   "hist_q": "世界上最长的河流是？",
+   "out": "意大利的首都是罗马。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "英国的首都是？",
+   "a": [
+    "伦敦"
+   ],
+   "cat": "世界地理",
+   "bin": "high",
+   "hist_q": "秦始皇的姓名是？",
+   "out": "英国的首都是伦敦。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "泰国的首都是？",
+   "a": [
+    "曼谷"
+   ],
+   "cat": "世界地理",
+   "bin": "mid",
+   "hist_q": "五四运动发生在哪一年？",
+   "out": "泰国的首都是曼谷。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上人口最多的国家是？",
+   "a": [
+    "印度",
+    "中国"
+   ],
+   "cat": "世界地理",
+   "bin": "high",
+   "hist_q": "澳大利亚的首都是？",
+   "out": "根据联合国的数据，截至2023年，世界上人口最多的国家是亚洲，占全球人口的约38%。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国历史上第一个统一的封建王朝是？",
+   "a": [
+    "秦朝",
+    "秦"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "杜甫被后人称为？",
+   "out": "中国历史上第一个统一的封建王朝是秦朝。秦始皇统一六国后，实行统一的货币和度量衡制度，统一度量衡衡量国家利益，统一度量衡衡量国家利益，统一度量衡衡衡衡衡衡衡衡衡衡衡衡衡衡衡衡",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国最后一个封建王朝是？",
+   "a": [
+    "清朝",
+    "清"
+   ],
+   "cat": "中国历史",
+   "bin": "mid",
+   "hist_q": "巴西的首都是？",
+   "out": "中国最后一个封建王朝是秦朝。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "辛亥革命发生在哪一年？",
+   "a": [
+    "1911"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "二进制中只用哪两个数字？",
+   "out": "辛亥革命发生在1911年。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中华人民共和国成立于哪一年？",
+   "a": [
+    "1949"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "计算机的内存英文缩写是？",
+   "out": "中华人民共和国成立于1949年。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "三国时期的三国是？",
+   "a": [
+    "魏蜀吴",
+    "魏、蜀、吴",
+    "魏蜀吴三国"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "第二次世界大战结束于哪一年？",
+   "out": "三国时期的三国分别是：西域（西域）、东域（东域）、西域（东域）。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "明朝的开国皇帝是？",
+   "a": [
+    "朱元璋"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "世界上最大的沙漠是？",
+   "out": "明朝的开国皇帝是朱元璋。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "郑和下西洋发生在哪个朝代？",
+   "a": [
+    "明朝",
+    "明"
+   ],
+   "cat": "中国历史",
+   "bin": "mid",
+   "hist_q": "GPT 中的 T 代表什么英文单词？",
+   "out": "郑和下西洋发生在中国唐朝。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "孔子生活在中国哪个历史时期？",
+   "a": [
+    "春秋"
+   ],
+   "cat": "中国历史",
+   "bin": "mid",
+   "hist_q": "中国最大的淡水湖是？",
+   "out": "孔子生活在中国古代，主要在春秋战国时期（公元前770年-公元前221年）和战国时期（公元前221年-公元220年）。他以儒家思想和儒家思想为核心，推动了儒家思想的发展，影响了中国文化和思想体系。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "唐朝的开国皇帝是？",
+   "a": [
+    "李渊"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "血液为什么是红色的？因为含有？",
+   "out": "唐朝开国皇帝是唐太宗李世民。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "秦始皇的姓名是？",
+   "a": [
+    "嬴政"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "人类呼吸需要的气体是？",
+   "out": "秦始皇的姓名是秦始皇。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "汉朝的开国皇帝是？",
+   "a": [
+    "刘邦"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "中国面积最大的省级行政区是？",
+   "out": "汉朝的开国皇帝是唐太宗李世民。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "红军长征结束于哪一年？",
+   "a": [
+    "1936"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "鲸鱼属于哪类动物？",
+   "out": "红军长征结束于1961年。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "五四运动发生在哪一年？",
+   "a": [
+    "1919"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "埃及的首都是？",
+   "out": "开罗",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "清朝最后一位皇帝是？",
+   "a": [
+    "溥仪"
+   ],
+   "cat": "中国历史",
+   "bin": "low",
+   "hist_q": "蝴蝶是由什么变成的？",
+   "out": "清朝最后一位皇帝是朱元璋。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "第二次世界大战结束于哪一年？",
+   "a": [
+    "1945"
+   ],
+   "cat": "中国历史",
+   "bin": "mid",
+   "hist_q": "春节是农历几月初几？",
+   "out": "第二次世界大战结束于1939年。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "标准大气压下水沸腾的温度是多少摄氏度？",
+   "a": [
+    "100"
+   ],
+   "cat": "科学",
+   "bin": "high",
+   "hist_q": "太阳系中体积最大的行星是？",
+   "out": "标准大气压下水沸腾的温度是约5,500摄氏度。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "光在真空中的传播速度约为每秒多少公里？",
+   "a": [
+    "30万",
+    "299792",
+    "3×10"
+   ],
+   "cat": "科学",
+   "bin": "low",
+   "hist_q": "互联网的英文是？",
+   "out": "光在真空中的传播速度约为每秒约347公里。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "空气中含量最多的气体是？",
+   "a": [
+    "氮气",
+    "氮"
+   ],
+   "cat": "科学",
+   "bin": "mid",
+   "hist_q": "黄金的化学元素符号是？",
+   "out": "空气中含量最多的气体是二氧化碳（CO2），其分子量为约400万个单位。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "人类呼吸需要的气体是？",
+   "a": [
+    "氧气",
+    "氧"
+   ],
+   "cat": "科学",
+   "bin": "high",
+   "hist_q": "距离太阳最近的行星是？",
+   "out": "人类呼吸需要的气体是二氧化碳（CO2）和甲烷（CH4），它们在大气中占据了约21%的体积。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "铁的化学元素符号是？",
+   "a": [
+    "Fe"
+   ],
+   "cat": "科学",
+   "bin": "high",
+   "hist_q": "地球的卫星是？",
+   "out": "铁的化学符号是Fe2O3。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "黄金的化学元素符号是？",
+   "a": [
+    "Au"
+   ],
+   "cat": "科学",
+   "bin": "high",
+   "hist_q": "《红楼梦》的作者是？",
+   "out": "黄金的化学符号是Columbia Columbia。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "二氧化碳的化学式是？",
+   "a": [
+    "CO2",
+    "CO₂"
+   ],
+   "cat": "科学",
+   "bin": "mid",
+   "hist_q": "相对论的提出者是？",
+   "out": "二氧化碳的化学式是CO2。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "食盐的主要化学成分是？",
+   "a": [
+    "氯化钠",
+    "NaCl"
+   ],
+   "cat": "科学",
+   "bin": "low",
+   "hist_q": "中国有多少个省级行政区？",
+   "out": "食盐的主要化学成分是氯化钠（NaCl）和氯化钾（CuSO4），它们在食品加工和烹饪中广泛使用。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "地球绕太阳一圈的时间约为多少天？",
+   "a": [
+    "365"
+   ],
+   "cat": "科学",
+   "bin": "mid",
+   "hist_q": "兵马俑位于中国哪座城市？",
+   "out": "地球绕太阳一圈的时间约为365.24天。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "地球上一共有几个大洲？",
+   "a": [
+    "7",
+    "七"
+   ],
+   "cat": "科学",
+   "bin": "high",
+   "hist_q": "世界上人口最多的国家是？",
+   "out": "地球上一共有8个大洲，分别是亚洲、非洲、南美洲、欧洲和北美洲。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "地球的卫星是？",
+   "a": [
+    "月球",
+    "月亮"
+   ],
+   "cat": "科学",
+   "bin": "high",
+   "hist_q": "日本的首都是？",
+   "out": "地球的卫星是月球。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "太阳系中体积最大的行星是？",
+   "a": [
+    "木星"
+   ],
+   "cat": "科学",
+   "bin": "high",
+   "hist_q": "高铁的英文缩写是？",
+   "out": "太阳系中体积最大的行星是木星。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "距离太阳最近的行星是？",
+   "a": [
+    "水星"
+   ],
+   "cat": "科学",
+   "bin": "mid",
+   "hist_q": "水的化学式是什么？",
+   "out": "距离太阳最近的行星是水星。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "重力加速度约为多少米每二次方秒？",
+   "a": [
+    "9.8"
+   ],
+   "cat": "科学",
+   "bin": "mid",
+   "hist_q": "人工智能的英文缩写是？",
+   "out": "重力加速度约为9.8米每二次方秒。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "一个标准大气压约等于多少帕斯卡？",
+   "a": [
+    "101325",
+    "10万",
+    "100000"
+   ],
+   "cat": "科学",
+   "bin": "low",
+   "hist_q": "恐龙大约在多少万年前灭绝？",
+   "out": "标准大气压约等于101.325帕斯卡（kPa）。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "声音在空气中的传播速度约为每秒多少米？",
+   "a": [
+    "340"
+   ],
+   "cat": "科学",
+   "bin": "low",
+   "hist_q": "二氧化碳的化学式是？",
+   "out": "声音在空气中的传播速度约为每秒约1米。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "电灯泡的发明者通常被认为是？",
+   "a": [
+    "爱迪生"
+   ],
+   "cat": "科学",
+   "bin": "low",
+   "hist_q": "红军长征结束于哪一年？",
+   "out": "电灯泡的发明者通常被认为是苏格兰的爱德华·奥尔森（Edward Orwell）。爱德华·奥尔森是德国发明家，他在1879年发明了第一台可见光灯，标志着电灯的普及。他的工作对现代照明技术产生了深远影响。<|im_",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "相对论的提出者是？",
+   "a": [
+    "爱因斯坦"
+   ],
+   "cat": "科学",
+   "bin": "mid",
+   "hist_q": "中国的第二长河是？",
+   "out": "相对论的提出者是爱因斯坦。相对论揭示了时间、空间和物质的相对性，而相对论的提出者是爱因斯坦。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "万有引力定律的提出者是？",
+   "a": [
+    "牛顿"
+   ],
+   "cat": "科学",
+   "bin": "high",
+   "hist_q": "世界上最大的海洋是？",
+   "out": "万有引力定律是物理学中的一个基本定律，由牛顿在17世纪提出。它表明，任何两个物体之间都存在相互吸引的力，无论它们之间的距离有多远。\n\n具体来说，万有引力定律表明，两个物体之间的引力与它们的质量成正比，与它们之间的距离的平方成反比。\n\n太平洋是地球上最大的海洋，占",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "计算机的中央处理器英文缩写是？",
+   "a": [
+    "CPU"
+   ],
+   "cat": "科技",
+   "bin": "mid",
+   "hist_q": "世界上最大的动物是？",
+   "out": "中央处理器英文缩写是CPU（中央处理器）英文缩写，全称为Central Processing Unit，是一种用于执行计算机程序的芯片。CPU是计算机的核心部件，用于执行计算机程序中的指令和数据处理。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "计算机的内存英文缩写是？",
+   "a": [
+    "RAM"
+   ],
+   "cat": "科技",
+   "bin": "mid",
+   "hist_q": "英国的首都是？",
+   "out": "CPU（中央处理器）是计算机的核心部件，用于执行指令和数据处理。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "Python 是一种什么？",
+   "a": [
+    "编程语言",
+    "程序设计语言"
+   ],
+   "cat": "科技",
+   "bin": "high",
+   "hist_q": "泰国的首都是？",
+   "out": "Python 是一种高级编程语言，主要用于数据分析、人工智能、Web开发等领域。它具有简洁、易读、可扩展等特点，适合初学者入门。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "互联网的英文是？",
+   "a": [
+    "Internet"
+   ],
+   "cat": "科技",
+   "bin": "low",
+   "hist_q": "爱因斯坦出生于哪个国家？",
+   "out": "Input is the first line of the English language and the word \"Input\" is the second line of the English language and the word \"Input\" is the second line of the Eng",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "人工智能的英文缩写是？",
+   "a": [
+    "AI"
+   ],
+   "cat": "科技",
+   "bin": "high",
+   "hist_q": "中国最后一个封建王朝是？",
+   "out": "AI（Artificial Intelligence，简称AI）是计算机科学与工程的交叉领域，旨在开发出能够像人类一样思考、学习和解决问题的智能系统。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "机器学习是人工智能的一个什么？",
+   "a": [
+    "分支",
+    "领域",
+    "子领域"
+   ],
+   "cat": "科技",
+   "bin": "high",
+   "hist_q": "《水浒传》的作者是？",
+   "out": "机器学习是人工智能的一个分支，旨在使计算机系统能够从数据中学习并改进性能，而无需明确编程。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "GPT 中的 T 代表什么英文单词？",
+   "a": [
+    "Transformer"
+   ],
+   "cat": "科技",
+   "bin": "mid",
+   "hist_q": "一周有几天？",
+   "out": "T 代表“Transformers”（循环神经网络）\n\nT 代表“Transformers”（循环神经网络）\n\nT 代表“Transformers”（循环神经网络）\n\nT 代表“Transformers”（循环神经网络）\n\nT 代表“Transformers”（",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "二进制中只用哪两个数字？",
+   "a": [
+    "0和1",
+    "0 和 1",
+    "0、1"
+   ],
+   "cat": "科技",
+   "bin": "mid",
+   "hist_q": "安卓系统的开发公司是？",
+   "out": "谷歌的二进制中使用的是十进制（0-9）和十六进制（0-9），但具体用法可能因地区而异。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "万维网的英文缩写是？",
+   "a": [
+    "WWW"
+   ],
+   "cat": "科技",
+   "bin": "low",
+   "hist_q": "《西游记》的作者是？",
+   "out": "万维网的英文缩写是Web 2.0。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "电子邮件地址中必须包含的符号是？",
+   "a": [
+    "@"
+   ],
+   "cat": "科技",
+   "bin": "high",
+   "hist_q": "珠穆朗玛峰的海拔约为多少米？",
+   "out": "电子邮件地址中必须包含的符号是 \".com\"。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "一个字节等于多少位？",
+   "a": [
+    "8",
+    "八"
+   ],
+   "cat": "科技",
+   "bin": "high",
+   "hist_q": "成年人体内大约有多少块骨头？",
+   "out": "206 的 16 位是 16 位。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "安卓系统的开发公司是？",
+   "a": [
+    "谷歌",
+    "Google"
+   ],
+   "cat": "科技",
+   "bin": "high",
+   "hist_q": "意大利的首都是？",
+   "out": "安卓系统的开发公司是苹果（Apple）和谷歌（Google）的开发公司。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "Windows 系统的开发公司是？",
+   "a": [
+    "微软",
+    "Microsoft"
+   ],
+   "cat": "科技",
+   "bin": "mid",
+   "hist_q": "李白被后人称为？",
+   "out": "Windows 系统的开发公司是Apple。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "苹果公司的创始人之一是？",
+   "a": [
+    "乔布斯"
+   ],
+   "cat": "科技",
+   "bin": "mid",
+   "hist_q": "植物通过什么作用制造养分？",
+   "out": "苹果公司的创始人之一是史蒂夫·乔布斯（Steve Jobs）和史蒂夫·沃兹尼亚克（Steve Wozniak）。他在1976年创建了苹果公司，推出了iPod、iPhone和iPad等产品，并推出了iPod、i",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "特斯拉汽车公司的 CEO 是？",
+   "a": [
+    "马斯克"
+   ],
+   "cat": "科技",
+   "bin": "low",
+   "hist_q": "北京是中国的什么？",
+   "out": "特斯拉汽车公司是美国汽车制造商，成立于1976年。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "人体最大的器官是？",
+   "a": [
+    "皮肤"
+   ],
+   "cat": "生物自然",
+   "bin": "high",
+   "hist_q": "中国的首都是哪里？",
+   "out": "人体最大的器官是皮肤。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "成年人体内大约有多少块骨头？",
+   "a": [
+    "206"
+   ],
+   "cat": "生物自然",
+   "bin": "low",
+   "hist_q": "法国的首都是？",
+   "out": "成年人体内大约有约120块骨头。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "正常人体温约为多少摄氏度？",
+   "a": [
+    "37",
+    "36.5",
+    "36"
+   ],
+   "cat": "生物自然",
+   "bin": "high",
+   "hist_q": "《论语》主要记录了谁的言行？",
+   "out": "正常人体温约为38.5℃。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "血液为什么是红色的？因为含有？",
+   "a": [
+    "血红蛋白",
+    "铁"
+   ],
+   "cat": "生物自然",
+   "bin": "low",
+   "hist_q": "汉朝的开国皇帝是？",
+   "out": "血液呈现红色是因为血液中含有色素分子（如色素细胞），这些色素分子会将红色光转化为血红蛋白。红色光在血液中呈现为红色，但具体机制尚未完全理解。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "大熊猫的主要食物是？",
+   "a": [
+    "竹子",
+    "竹"
+   ],
+   "cat": "生物自然",
+   "bin": "mid",
+   "hist_q": "一年有多少个月？",
+   "out": "大熊猫主要以竹子为食，主要以竹子为食。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "鲸鱼属于哪类动物？",
+   "a": [
+    "哺乳动物",
+    "哺乳"
+   ],
+   "cat": "生物自然",
+   "bin": "high",
+   "hist_q": "郑和下西洋发生在哪个朝代？",
+   "out": "鲸鱼属于鲸目（Cetacea），是海洋哺乳动物，体长可达30米，体重可达200吨。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "蜜蜂采集花蜜用来制造什么？",
+   "a": [
+    "蜂蜜",
+    "蜜"
+   ],
+   "cat": "生物自然",
+   "bin": "high",
+   "hist_q": "《三国演义》的作者是？",
+   "out": "蜜蜂采集花蜜用来制造蜂蜜。",
+   "raw": true,
+   "real": true,
+   "suspect": true,
+   "single_real": true
+  },
+  {
+   "q": "植物通过什么作用制造养分？",
+   "a": [
+    "光合作用",
+    "光合"
+   ],
+   "cat": "生物自然",
+   "bin": "mid",
+   "hist_q": "万维网的英文缩写是？",
+   "out": "植物通过光合作用制造养分，主要通过光合作用将二氧化碳和水转化为有机物质（如葡萄糖）和氧气（O2），同时释放出氧气。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "正常人类细胞中有多少条染色体？",
+   "a": [
+    "46",
+    "23对"
+   ],
+   "cat": "生物自然",
+   "bin": "high",
+   "hist_q": "Python 是一种什么？",
+   "out": "正常人类细胞中有约7条染色体，分别是：1. **前额叶皮层**（前额叶皮层）2. **前额叶皮层**（前额叶皮层）3. **前额叶皮层**（前额叶皮层）4. **前额叶皮层**（前额叶皮层）5. **前额叶",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "长颈鹿的脖子有多少块颈椎骨？",
+   "a": [
+    "7",
+    "七"
+   ],
+   "cat": "生物自然",
+   "bin": "high",
+   "hist_q": "一个字节等于多少位？",
+   "out": "长颈鹿的颈椎骨数量是4块。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "人体的呼吸器官主要是？",
+   "a": [
+    "肺"
+   ],
+   "cat": "生物自然",
+   "bin": "high",
+   "hist_q": "中国哪个城市被称为春城？",
+   "out": "人体的呼吸器官主要是肺、胸腔和气管。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "猫属于哪科动物？",
+   "a": [
+    "猫科"
+   ],
+   "cat": "生物自然",
+   "bin": "mid",
+   "hist_q": "地球上一共有几个大洲？",
+   "out": "猫属于哺乳动物门（Mammalia），是家猫的一种，属于Felidae科（Felidae），是家猫的一种。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "企鹅主要生活在地球的哪一端？",
+   "a": [
+    "南极"
+   ],
+   "cat": "生物自然",
+   "bin": "high",
+   "hist_q": "中国的国宝动物是？",
+   "out": "企鹅主要生活在南极洲的冰川和海岸线，主要在冰川和海冰上活动。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上最大的动物是？",
+   "a": [
+    "蓝鲸"
+   ],
+   "cat": "生物自然",
+   "bin": "mid",
+   "hist_q": "声音在空气中的传播速度约为每秒多少米？",
+   "out": "世界上最大的动物是蓝鲸（Balaenoptera musculus），它们的体长可达30米，体重可达200吨。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "蝴蝶是由什么变成的？",
+   "a": [
+    "毛毛虫",
+    "幼虫"
+   ],
+   "cat": "生物自然",
+   "bin": "low",
+   "hist_q": "空气中含量最多的气体是？",
+   "out": "蝴蝶是由无色、无味、无味、无臭的气味组成的，它们的翅膀由羽毛、肌肉、神经系统和触角组成。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "《红楼梦》的作者是？",
+   "a": [
+    "曹雪芹"
+   ],
+   "cat": "文化文学",
+   "bin": "mid",
+   "hist_q": "香港回归中国是在哪一年？",
+   "out": "《红楼梦》的作者是清代作家曹雪芹。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "《西游记》的作者是？",
+   "a": [
+    "吴承恩"
+   ],
+   "cat": "文化文学",
+   "bin": "low",
+   "hist_q": "黄河最终注入哪个海？",
+   "out": "《西游记》的作者是吴承恩。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "《水浒传》的作者是？",
+   "a": [
+    "施耐庵"
+   ],
+   "cat": "文化文学",
+   "bin": "low",
+   "hist_q": "中国古代的四大发明之一是？",
+   "out": "《水浒传》的作者是宋江。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "李白是哪个朝代的诗人？",
+   "a": [
+    "唐朝",
+    "唐"
+   ],
+   "cat": "文化文学",
+   "bin": "mid",
+   "hist_q": "中国的第一大城市是？",
+   "out": "李白是唐朝的诗人，他的诗作以豪放、奔放著称。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "杜甫被后人称为？",
+   "a": [
+    "诗圣"
+   ],
+   "cat": "文化文学",
+   "bin": "low",
+   "hist_q": "长江是中国的第几长河？",
+   "out": "杜甫被后人称为杜甫。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "李白被后人称为？",
+   "a": [
+    "诗仙"
+   ],
+   "cat": "文化文学",
+   "bin": "low",
+   "hist_q": "孔子生活在中国哪个历史时期？",
+   "out": "李白被后人称为李白，源自唐代诗人李白。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "《论语》主要记录了谁的言行？",
+   "a": [
+    "孔子"
+   ],
+   "cat": "文化文学",
+   "bin": "mid",
+   "hist_q": "重力加速度约为多少米每二次方秒？",
+   "out": "《论语》是孔子及其弟子的言行，记录了孔子及其弟子的言行。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国古代的四大发明之一是？",
+   "a": [
+    "造纸术",
+    "印刷术",
+    "火药",
+    "指南针"
+   ],
+   "cat": "文化文学",
+   "bin": "mid",
+   "hist_q": "世界上最小的国家是？",
+   "out": "中国古代的四大发明包括：造纸术、指南针、火药和印刷术。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "《三国演义》的作者是？",
+   "a": [
+    "罗贯中"
+   ],
+   "cat": "文化文学",
+   "bin": "low",
+   "hist_q": "食盐的主要化学成分是？",
+   "out": "《三国演义》的作者是明代小说家罗贯中（作者：吴承恩）。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国的国宝动物是？",
+   "a": [
+    "大熊猫",
+    "熊猫"
+   ],
+   "cat": "文化文学",
+   "bin": "mid",
+   "hist_q": "李白是哪个朝代的诗人？",
+   "out": "中国的国宝动物是孔雀。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "一天有多少小时？",
+   "a": [
+    "24",
+    "二十四"
+   ],
+   "cat": "生活常识",
+   "bin": "high",
+   "hist_q": "中国的国庆节是几月几日？",
+   "out": "10月1日有31小时。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "一小时有多少分钟？",
+   "a": [
+    "60",
+    "六十"
+   ],
+   "cat": "生活常识",
+   "bin": "high",
+   "hist_q": "机器学习是人工智能的一个什么？",
+   "out": "一小时有60分钟。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "一周有几天？",
+   "a": [
+    "7",
+    "七"
+   ],
+   "cat": "生活常识",
+   "bin": "high",
+   "hist_q": "第一次世界大战爆发于哪一年？",
+   "out": "一周有7天。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国的国庆节是几月几日？",
+   "a": [
+    "10月1日",
+    "十月一日"
+   ],
+   "cat": "生活常识",
+   "bin": "mid",
+   "hist_q": "苹果公司的创始人之一是？",
+   "out": "中国的国庆节是10月1日。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "春节是农历几月初几？",
+   "a": [
+    "正月初一",
+    "一月一日"
+   ],
+   "cat": "生活常识",
+   "bin": "low",
+   "hist_q": "诺基亚公司来自哪个国家？",
+   "out": "春节是农历的正月初一，公历是阳历的1月21日至2月20日。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "一年有多少个月？",
+   "a": [
+    "12",
+    "十二"
+   ],
+   "cat": "生活常识",
+   "bin": "high",
+   "hist_q": "消防报警电话是多少？",
+   "out": "一年有365天。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "水的冰点是多少摄氏度？",
+   "a": [
+    "0"
+   ],
+   "cat": "生活常识",
+   "bin": "high",
+   "hist_q": "标准大气压下水沸腾的温度是多少摄氏度？",
+   "out": "100",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "高铁的英文缩写是？",
+   "a": [
+    "HSR"
+   ],
+   "cat": "生活常识",
+   "bin": "low",
+   "hist_q": "地球绕太阳一圈的时间约为多少天？",
+   "out": "高铁的英文缩写是**Traveler**。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国法定成年年龄是？",
+   "a": [
+    "18",
+    "十八"
+   ],
+   "cat": "生活常识",
+   "bin": "high",
+   "hist_q": "世界上最高的山峰是？",
+   "out": "中国法定成年年龄是根据《中华人民共和国婚姻法》的规定，成年人每年大约有31岁。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "消防报警电话是多少？",
+   "a": [
+    "119"
+   ],
+   "cat": "生活常识",
+   "bin": "low",
+   "hist_q": "中国最大的岛是？",
+   "out": "台湾消防报警电话是************************************************************************************************************************************************",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  }
+ ]
+}

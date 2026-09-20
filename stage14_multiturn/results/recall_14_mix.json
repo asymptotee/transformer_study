@@ -1,0 +1,1915 @@
+{
+ "label": "14_mix",
+ "ckpt": "ckpt_14_mix.pt",
+ "mode": "recall",
+ "n": 131,
+ "recall_ok": 104,
+ "single_ok": 73,
+ "by_bin": {
+  "mid": [
+   40,
+   44
+  ],
+  "high": [
+   34,
+   43
+  ],
+  "low": [
+   30,
+   44
+  ]
+ },
+ "rows": [
+  {
+   "q": "上海位于哪条江的入海口？",
+   "a": [
+    "长江"
+   ],
+   "bin": "mid",
+   "cat": "中国地理",
+   "hist_a": "长江",
+   "out": "长江位于中国东部沿海，全长约6300公里。长江是中国的母亲河，全长约6300公里。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "大熊猫的主要食物是？",
+   "a": [
+    "竹子",
+    "竹"
+   ],
+   "bin": "mid",
+   "cat": "生物自然",
+   "hist_a": "竹子",
+   "out": "我上一个问题的答案是：\n\n大熊猫的主要食物是竹子。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "人体最大的器官是？",
+   "a": [
+    "皮肤"
+   ],
+   "bin": "high",
+   "cat": "生物自然",
+   "hist_a": "皮肤",
+   "out": "皮肤是人体最大的器官，主要由皮肤细胞组成，主要由黑色素细胞组成。皮肤的结构和功能非常复杂，包括但不限于：\n\n1. **皮肤结构**：皮肤由多个层次组成，包括表皮、真皮、真皮和皮下组织。表皮是最外层的皮肤层，包含黑色素细胞和黑色素细胞。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "辛亥革命发生在哪一年？",
+   "a": [
+    "1911"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "1911",
+   "out": "我上一个问题的答案是：1911",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "电子邮件地址中必须包含的符号是？",
+   "a": [
+    "@"
+   ],
+   "bin": "high",
+   "cat": "科技",
+   "hist_a": "@",
+   "out": "@",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "人体的呼吸器官主要是？",
+   "a": [
+    "肺"
+   ],
+   "bin": "high",
+   "cat": "生物自然",
+   "hist_a": "肺",
+   "out": "我上一个问题的答案是：\n\n**肺**\n\n肺是人体最大的器官，位于胸腔内，负责吸入氧气并排出二氧化碳。它通过肺泡壁的气孔将氧气输送到肺部，然后通过肺泡壁的气孔将二氧化碳排出。肺的结构复杂，由多个肺泡和肺泡组成",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中华人民共和国的首都是哪里？",
+   "a": [
+    "北京"
+   ],
+   "bin": "high",
+   "cat": "中国地理",
+   "hist_a": "北京",
+   "out": "我上一个问题的答案是：北京。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "计算机的中央处理器英文缩写是？",
+   "a": [
+    "CPU"
+   ],
+   "bin": "mid",
+   "cat": "科技",
+   "hist_a": "CPU",
+   "out": "CPU",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "加拿大的首都是？",
+   "a": [
+    "渥太华"
+   ],
+   "bin": "low",
+   "cat": "世界地理",
+   "hist_a": "渥太华",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "唐朝的开国皇帝是？",
+   "a": [
+    "李渊"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "李渊",
+   "out": "李渊",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "秦始皇统一六国后建立的第一个朝代是？",
+   "a": [
+    "秦朝",
+    "秦代"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "秦朝",
+   "out": "秦朝",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上面积最大的国家是？",
+   "a": [
+    "俄罗斯"
+   ],
+   "bin": "mid",
+   "cat": "世界地理",
+   "hist_a": "俄罗斯",
+   "out": "我上一个问题的答案是：\n\n**俄罗斯**",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "电灯泡的发明者通常被认为是？",
+   "a": [
+    "爱迪生"
+   ],
+   "bin": "low",
+   "cat": "科学",
+   "hist_a": "爱迪生",
+   "out": "爱迪生（Adele）是美国著名的发明家、发明家和商人。他在电灯泡的发明者中扮演了重要角色。爱迪生的发明主要集中在电灯泡的发明者中，包括但不限于：\n\n1. **爱迪生**：他是电灯泡的发明者，特别是爱迪生",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "猫属于哪科动物？",
+   "a": [
+    "猫科"
+   ],
+   "bin": "mid",
+   "cat": "生物自然",
+   "hist_a": "猫科",
+   "out": "猫科动物是哺乳动物中的一种，属于Canidae科。猫科动物包括猫、豹、狮子、豹、虎、豹、美洲豹、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮、美洲狮",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "一小时有多少分钟？",
+   "a": [
+    "60",
+    "六十"
+   ],
+   "bin": "high",
+   "cat": "生活常识",
+   "hist_a": "60",
+   "out": "我上一个问题的答案是：**60分钟**。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "大熊猫主要生活在中国哪个省份？",
+   "a": [
+    "四川"
+   ],
+   "bin": "mid",
+   "cat": "生物自然",
+   "hist_a": "四川",
+   "out": "我上一个问题的答案是：四川",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国的国土面积约为多少万平方公里？",
+   "a": [
+    "960"
+   ],
+   "bin": "mid",
+   "cat": "中国地理",
+   "hist_a": "960",
+   "out": "960",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "正常人类细胞中有多少条染色体？",
+   "a": [
+    "46",
+    "23对"
+   ],
+   "bin": "high",
+   "cat": "生物自然",
+   "hist_a": "46",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国历史上第一个统一的封建王朝是？",
+   "a": [
+    "秦朝",
+    "秦"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "秦朝",
+   "out": "秦朝",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "万有引力定律的提出者是？",
+   "a": [
+    "牛顿"
+   ],
+   "bin": "high",
+   "cat": "科学",
+   "hist_a": "牛顿",
+   "out": "万有引力定律的提出者是牛顿的三大运动定律之一：\n\n1. **牛顿第一定律（惯性定律）**：一个物体如果没有外力作用，将保持静止状态或匀速直线运动状态。这意味着物体将保持其当前状态，即静止状态。\n\n2. **牛顿第二定律（动力定律）**：物体的加速度",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "澳门回归中国是在哪一年？",
+   "a": [
+    "1999"
+   ],
+   "bin": "mid",
+   "cat": "中国地理",
+   "hist_a": "1999",
+   "out": "我上一个问题的答案是：1999",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "明朝的开国皇帝是？",
+   "a": [
+    "朱元璋"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "朱元璋",
+   "out": "朱元璋的开国皇帝是朱元璋。朱元璋是明朝的开国皇帝，出生于明朝的开国皇帝朱元璋的后代。朱元璋在明朝的开国皇帝朱元璋的后代中，出生于明朝的开国皇帝朱元璋的后代中。朱元璋的开",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国最长的城墙是？",
+   "a": [
+    "长城"
+   ],
+   "bin": "high",
+   "cat": "中国地理",
+   "hist_a": "长城",
+   "out": "长城是中国最长的城墙，全长约21,000公里，全长约21,000公里。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "一天有多少小时？",
+   "a": [
+    "24",
+    "二十四"
+   ],
+   "bin": "high",
+   "cat": "生活常识",
+   "hist_a": "24",
+   "out": "我上一个问题的答案是：**24小时**。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "正常人体温约为多少摄氏度？",
+   "a": [
+    "37",
+    "36.5",
+    "36"
+   ],
+   "bin": "high",
+   "cat": "生物自然",
+   "hist_a": "37",
+   "out": "37",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "Windows 系统的开发公司是？",
+   "a": [
+    "微软",
+    "Microsoft"
+   ],
+   "bin": "mid",
+   "cat": "科技",
+   "hist_a": "微软",
+   "out": "微软",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "圆周率的近似值是多少？",
+   "a": [
+    "3.14",
+    "3.14159"
+   ],
+   "bin": "mid",
+   "cat": "科学",
+   "hist_a": "3.14",
+   "out": "3.14",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国法定成年年龄是？",
+   "a": [
+    "18",
+    "十八"
+   ],
+   "bin": "high",
+   "cat": "生活常识",
+   "hist_a": "18",
+   "out": "我上一个问题的答案是：18",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "珠穆朗玛峰位于哪两个国家的交界？",
+   "a": [
+    "中国和尼泊尔",
+    "中国、尼泊尔",
+    "中尼"
+   ],
+   "bin": "low",
+   "cat": "世界地理",
+   "hist_a": "中国和尼泊尔",
+   "out": "我上一个问题的答案是：\n\n珠穆朗玛峰位于中国和尼泊尔的交界处。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "蜜蜂采集花蜜用来制造什么？",
+   "a": [
+    "蜂蜜",
+    "蜜"
+   ],
+   "bin": "high",
+   "cat": "生物自然",
+   "hist_a": "蜂蜜",
+   "out": "蜂蜜的采集主要依赖于蜂群中的蜜蜂群体。蜜蜂群体中包含了蜜蜂、蜂王、蜂后等不同种类的蜂群。蜜蜂通过采集花蜜来制造蜂蜜，蜂王负责蜂群的繁殖和授粉。蜂后则负责蜂群的繁殖和授粉。\n<|im",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "光在真空中的传播速度约为每秒多少公里？",
+   "a": [
+    "30万",
+    "299792",
+    "3×10"
+   ],
+   "bin": "low",
+   "cat": "科学",
+   "hist_a": "30万",
+   "out": "我上一个问题的答案是：**光在真空中的传播速度约为每秒 **0.933333333333333333333333333333333333333333333333333333333333",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "铁的化学元素符号是？",
+   "a": [
+    "Fe"
+   ],
+   "bin": "high",
+   "cat": "科学",
+   "hist_a": "Fe",
+   "out": "Fe",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "故宫位于哪座城市？",
+   "a": [
+    "北京"
+   ],
+   "bin": "high",
+   "cat": "中国地理",
+   "hist_a": "北京",
+   "out": "我上一个问题的答案是：北京",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "美国的首都是？",
+   "a": [
+    "华盛顿"
+   ],
+   "bin": "mid",
+   "cat": "世界地理",
+   "hist_a": "华盛顿",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "企鹅主要生活在地球的哪一端？",
+   "a": [
+    "南极"
+   ],
+   "bin": "high",
+   "cat": "生物自然",
+   "hist_a": "南极",
+   "out": "南极",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "特斯拉汽车公司的 CEO 是？",
+   "a": [
+    "马斯克"
+   ],
+   "bin": "low",
+   "cat": "科技",
+   "hist_a": "马斯克",
+   "out": "马斯克的CEO是马斯克。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国最大的沙漠是？",
+   "a": [
+    "塔克拉玛干"
+   ],
+   "bin": "low",
+   "cat": "中国地理",
+   "hist_a": "塔克拉玛干",
+   "out": "我上一个问题的答案是：\n\n塔克拉玛干（Trading）是世界上最大的沙漠，位于非洲东北部，面积约为6,600,000平方公里。它是世界上最大的沙漠，面积约为6,600,000平方公里。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "长颈鹿的脖子有多少块颈椎骨？",
+   "a": [
+    "7",
+    "七"
+   ],
+   "bin": "high",
+   "cat": "生物自然",
+   "hist_a": "7",
+   "out": "我上一个问题的答案是：\n\n**7** 块颈椎骨。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "三国时期的三国是？",
+   "a": [
+    "魏蜀吴",
+    "魏、蜀、吴",
+    "魏蜀吴三国"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "魏蜀吴",
+   "out": "您好！我是由中国的个人开发者独立开发的智能助手minimind，有关模型和产品的详细内容请参考官方文档。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "水的冰点是多少摄氏度？",
+   "a": [
+    "0"
+   ],
+   "bin": "high",
+   "cat": "生活常识",
+   "hist_a": "0",
+   "out": "0",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "清朝最后一位皇帝是？",
+   "a": [
+    "溥仪"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "溥仪",
+   "out": "我上一个问题的答案是：**清朝最后一位皇帝是**。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中华人民共和国成立于哪一年？",
+   "a": [
+    "1949"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "1949",
+   "out": "我上一个问题的答案是：1949",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "一个标准大气压约等于多少帕斯卡？",
+   "a": [
+    "101325",
+    "10万",
+    "100000"
+   ],
+   "bin": "low",
+   "cat": "科学",
+   "hist_a": "101325",
+   "out": "101325",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "世界上最长的河流是？",
+   "a": [
+    "尼罗河"
+   ],
+   "bin": "mid",
+   "cat": "世界地理",
+   "hist_a": "尼罗河",
+   "out": "尼罗河是世界上最长的河流，全长约6,650公里。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "秦始皇的姓名是？",
+   "a": [
+    "嬴政"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "嬴政",
+   "out": "秦始皇的姓名是秦始皇。秦始皇的姓名是秦始皇。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "五四运动发生在哪一年？",
+   "a": [
+    "1919"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "1919",
+   "out": "1919",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "澳大利亚的首都是？",
+   "a": [
+    "堪培拉"
+   ],
+   "bin": "low",
+   "cat": "世界地理",
+   "hist_a": "堪培拉",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "杜甫被后人称为？",
+   "a": [
+    "诗圣"
+   ],
+   "bin": "low",
+   "cat": "文化文学",
+   "hist_a": "诗圣",
+   "out": "诗圣的答案是：\n\n**《诗圣》**\n\n我上一个问题的答案是：\n\n**《诗圣》**\n\n我上一个问题的答案是：\n\n**《诗圣》**\n\n我上一个问题的答案是：\n\n**《诗圣》**\n\n我上一个问题的答案是：\n\n**《诗圣》**\n\n我",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "巴西的首都是？",
+   "a": [
+    "巴西利亚"
+   ],
+   "bin": "low",
+   "cat": "世界地理",
+   "hist_a": "巴西利亚",
+   "out": "巴西利亚的首都是巴西利亚。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "二进制中只用哪两个数字？",
+   "a": [
+    "0和1",
+    "0 和 1",
+    "0、1"
+   ],
+   "bin": "mid",
+   "cat": "科技",
+   "hist_a": "0和1",
+   "out": "0和1",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "计算机的内存英文缩写是？",
+   "a": [
+    "RAM"
+   ],
+   "bin": "mid",
+   "cat": "科技",
+   "hist_a": "RAM",
+   "out": "您好！我是由中国的个人开发者独立开发的智能助手minimind，有关模型和产品的详细内容请参考官方文档。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "第二次世界大战结束于哪一年？",
+   "a": [
+    "1945"
+   ],
+   "bin": "mid",
+   "cat": "中国历史",
+   "hist_a": "1945",
+   "out": "我上一个问题的答案是：1945年。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "世界上最大的沙漠是？",
+   "a": [
+    "撒哈拉"
+   ],
+   "bin": "mid",
+   "cat": "世界地理",
+   "hist_a": "撒哈拉",
+   "out": "我上一个问题的答案是：\n\n**答案：撒哈拉**",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "GPT 中的 T 代表什么英文单词？",
+   "a": [
+    "Transformer"
+   ],
+   "bin": "mid",
+   "cat": "科技",
+   "hist_a": "Transformer",
+   "out": "Transformer",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国最大的淡水湖是？",
+   "a": [
+    "鄱阳湖"
+   ],
+   "bin": "low",
+   "cat": "中国地理",
+   "hist_a": "鄱阳湖",
+   "out": "我上一个问题的答案是：**湖南省**。湖南省位于中国东部沿海，是一个重要的经济、文化和旅游中心。湖南省的省会是湖南省的省会，湖南省的省会是湖南省的省会。湖南省的省会是湖南省的省会。\n<|im_end|",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "血液为什么是红色的？因为含有？",
+   "a": [
+    "血红蛋白",
+    "铁"
+   ],
+   "bin": "low",
+   "cat": "生物自然",
+   "hist_a": "血红蛋白",
+   "out": "血红蛋白是血液中血红蛋白的一种，主要由血红蛋白分子组成。血红蛋白分子由血红蛋白分子组成，血红蛋白分子由血红蛋白分子组成，血红蛋白分子由血红蛋白分子组成。血红蛋白分子由血红蛋白分子组成，血红蛋白分子由血红蛋白分子组成，血红蛋白分子",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "人类呼吸需要的气体是？",
+   "a": [
+    "氧气",
+    "氧"
+   ],
+   "bin": "high",
+   "cat": "科学",
+   "hist_a": "氧气",
+   "out": "您上一个问题的答案是：\n\n**答案：氧气**",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国面积最大的省级行政区是？",
+   "a": [
+    "新疆"
+   ],
+   "bin": "low",
+   "cat": "中国地理",
+   "hist_a": "新疆",
+   "out": "新疆的面积最大的省级行政区是新疆省。新疆省位于中国东部沿海，面积约为72,900平方公里，是中国面积最大的省份。新疆省的面积约为72,900平方公里，是中国面积最大的省份。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "鲸鱼属于哪类动物？",
+   "a": [
+    "哺乳动物",
+    "哺乳"
+   ],
+   "bin": "high",
+   "cat": "生物自然",
+   "hist_a": "哺乳动物",
+   "out": "我上一个问题的答案是：\n\n**鲸鱼**",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "埃及的首都是？",
+   "a": [
+    "开罗"
+   ],
+   "bin": "low",
+   "cat": "世界地理",
+   "hist_a": "开罗",
+   "out": "开罗（Rome）是埃及的首都，位于开罗西南部，距离开罗西南部约3公里。开罗位于开罗西南部，距离开罗西南部约3公里。开罗位于开罗西南部，距离开罗西南部约3公里。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "蝴蝶是由什么变成的？",
+   "a": [
+    "毛毛虫",
+    "幼虫"
+   ],
+   "bin": "low",
+   "cat": "生物自然",
+   "hist_a": "毛毛虫",
+   "out": "毛毛虫是昆虫中的一种，它们通常生活在昆虫的卵巢中，以昆虫为食。毛毛虫的身体通常为白色或灰色，身体呈流线型，颜色多样，从白色到灰色不等。毛毛虫的身体通常为白色或灰色，身体呈流线型，颜色多样，从白色到灰色不等。<|",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "春节是农历几月初几？",
+   "a": [
+    "正月初一",
+    "一月一日"
+   ],
+   "bin": "low",
+   "cat": "生活常识",
+   "hist_a": "正月初一",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "太阳系中体积最大的行星是？",
+   "a": [
+    "木星"
+   ],
+   "bin": "high",
+   "cat": "科学",
+   "hist_a": "木星",
+   "out": "木星",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "互联网的英文是？",
+   "a": [
+    "Internet"
+   ],
+   "bin": "low",
+   "cat": "科技",
+   "hist_a": "Internet",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "黄金的化学元素符号是？",
+   "a": [
+    "Au"
+   ],
+   "bin": "high",
+   "cat": "科学",
+   "hist_a": "Au",
+   "out": "我上一个问题的答案是：\n\n**Au**",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "距离太阳最近的行星是？",
+   "a": [
+    "水星"
+   ],
+   "bin": "mid",
+   "cat": "科学",
+   "hist_a": "水星",
+   "out": "水星",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "地球的卫星是？",
+   "a": [
+    "月球",
+    "月亮"
+   ],
+   "bin": "high",
+   "cat": "科学",
+   "hist_a": "月球",
+   "out": "您上一个问题的答案是：\n\n**答案：月球**",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "《红楼梦》的作者是？",
+   "a": [
+    "曹雪芹"
+   ],
+   "bin": "mid",
+   "cat": "文化文学",
+   "hist_a": "曹雪芹",
+   "out": "《红楼梦》的作者是曹雪芹。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "相对论的提出者是？",
+   "a": [
+    "爱因斯坦"
+   ],
+   "bin": "mid",
+   "cat": "科学",
+   "hist_a": "爱因斯坦",
+   "out": "爱因斯坦的相对论提出者是爱因斯坦。爱因斯坦是20世纪最伟大的物理学家之一，他的相对论理论对现代物理学产生了深远的影响。爱因斯坦的相对论理论包括狭义相对论和广义相对论两个部分，分别描述了时间和空间的相对性，以及引入了相对论的概念。\n\n**答案：爱因斯坦的相对论理论是爱因",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国有多少个省级行政区？",
+   "a": [
+    "34",
+    "三十四"
+   ],
+   "bin": "high",
+   "cat": "中国地理",
+   "hist_a": "34",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "兵马俑位于中国哪座城市？",
+   "a": [
+    "西安"
+   ],
+   "bin": "mid",
+   "cat": "中国地理",
+   "hist_a": "西安",
+   "out": "西安",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上人口最多的国家是？",
+   "a": [
+    "印度",
+    "中国"
+   ],
+   "bin": "high",
+   "cat": "世界地理",
+   "hist_a": "印度",
+   "out": "印度是世界人口最多的国家，人口数量约为3亿。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "日本的首都是？",
+   "a": [
+    "东京"
+   ],
+   "bin": "high",
+   "cat": "世界地理",
+   "hist_a": "东京",
+   "out": "东京",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "高铁的英文缩写是？",
+   "a": [
+    "HSR"
+   ],
+   "bin": "low",
+   "cat": "生活常识",
+   "hist_a": "HSR",
+   "out": "您好！我是由中国的个人开发者独立开发的智能助手minimind，有关模型和产品的详细内容请参考官方文档。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "水的化学式是什么？",
+   "a": [
+    "H2O",
+    "H₂O"
+   ],
+   "bin": "mid",
+   "cat": "科学",
+   "hist_a": "H2O",
+   "out": "H2O",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "人工智能的英文缩写是？",
+   "a": [
+    "AI"
+   ],
+   "bin": "high",
+   "cat": "科技",
+   "hist_a": "AI",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "恐龙大约在多少万年前灭绝？",
+   "a": [
+    "6500",
+    "6600"
+   ],
+   "bin": "low",
+   "cat": "生物自然",
+   "hist_a": "6500",
+   "out": "我上一个问题的答案是：\n\n**恐龙大约在6500万年前灭绝**",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "二氧化碳的化学式是？",
+   "a": [
+    "CO2",
+    "CO₂"
+   ],
+   "bin": "mid",
+   "cat": "科学",
+   "hist_a": "CO2",
+   "out": "CO2",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "红军长征结束于哪一年？",
+   "a": [
+    "1936"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "1936",
+   "out": "我上一个问题的答案是：1936",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国的第二长河是？",
+   "a": [
+    "黄河"
+   ],
+   "bin": "mid",
+   "cat": "中国地理",
+   "hist_a": "黄河",
+   "out": "黄河是中国的第二长河，全长约6300公里。  \n**答案：黄河**  \n\n**答案：黄河**  \n\n**答案：黄河**  \n\n**答案：黄河**  \n\n**答案：黄河**  \n\n**答案：黄河**  \n\n**答案：黄河**  \n\n**答案：黄河**",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "世界上最大的海洋是？",
+   "a": [
+    "太平洋"
+   ],
+   "bin": "mid",
+   "cat": "世界地理",
+   "hist_a": "太平洋",
+   "out": "太平洋是世界上最大的海洋，面积约为6,371,000平方公里。太平洋是地球上最大的海洋之一，占地球表面的约1/3。太平洋是地球上最大的海洋之一，占地球表面的约1/3。太平洋是地球上最大的海洋之一，占地球表面的约1/3。太平洋是地球上最大的海洋之一，占",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上最大的动物是？",
+   "a": [
+    "蓝鲸"
+   ],
+   "bin": "mid",
+   "cat": "生物自然",
+   "hist_a": "蓝鲸",
+   "out": "蓝鲸是世界上最大的动物，属于鲸目蓝鲸科。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "英国的首都是？",
+   "a": [
+    "伦敦"
+   ],
+   "bin": "high",
+   "cat": "世界地理",
+   "hist_a": "伦敦",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "泰国的首都是？",
+   "a": [
+    "曼谷"
+   ],
+   "bin": "mid",
+   "cat": "世界地理",
+   "hist_a": "曼谷",
+   "out": "我上一个问题的答案是：\n\n泰国的首都是曼谷。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "爱因斯坦出生于哪个国家？",
+   "a": [
+    "德国"
+   ],
+   "bin": "high",
+   "cat": "世界地理",
+   "hist_a": "德国",
+   "out": "我上一个问题的答案是：德国",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国最后一个封建王朝是？",
+   "a": [
+    "清朝",
+    "清"
+   ],
+   "bin": "mid",
+   "cat": "中国历史",
+   "hist_a": "清朝",
+   "out": "清朝",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "《水浒传》的作者是？",
+   "a": [
+    "施耐庵"
+   ],
+   "bin": "low",
+   "cat": "文化文学",
+   "hist_a": "施耐庵",
+   "out": "施耐庵是《水浒传》的作者。施耐庵是《水浒传》的作者，原名施耐庵，原名施耐庵，原名施耐庵，原名施耐庵，原名施耐庵，原名施耐庵，原名施耐庵，原名施耐庵，原名施耐庵，原名",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "一周有几天？",
+   "a": [
+    "7",
+    "七"
+   ],
+   "bin": "high",
+   "cat": "生活常识",
+   "hist_a": "7",
+   "out": "7",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "安卓系统的开发公司是？",
+   "a": [
+    "谷歌",
+    "Google"
+   ],
+   "bin": "high",
+   "cat": "科技",
+   "hist_a": "谷歌",
+   "out": "我上一个问题的答案是：\n\n安卓系统的开发公司是苹果公司。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "《西游记》的作者是？",
+   "a": [
+    "吴承恩"
+   ],
+   "bin": "low",
+   "cat": "文化文学",
+   "hist_a": "吴承恩",
+   "out": "《西游记》的作者是吴承恩。吴承恩是明代著名的文学家、诗人和政治家，他的作品以其深刻的思想、独特的艺术风格和深刻的社会洞察而著称。吴承恩的作品不仅在文学上具有重要地位，也对后世的文学创作产生了深远的影响。\n<|im_end",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "珠穆朗玛峰的海拔约为多少米？",
+   "a": [
+    "8848",
+    "8844",
+    "8,848"
+   ],
+   "bin": "mid",
+   "cat": "世界地理",
+   "hist_a": "8848",
+   "out": "8848",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "成年人体内大约有多少块骨头？",
+   "a": [
+    "206"
+   ],
+   "bin": "low",
+   "cat": "生物自然",
+   "hist_a": "206",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "意大利的首都是？",
+   "a": [
+    "罗马"
+   ],
+   "bin": "high",
+   "cat": "世界地理",
+   "hist_a": "罗马",
+   "out": "我上一个问题的答案是：\n\n**答案：罗马",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "李白被后人称为？",
+   "a": [
+    "诗仙"
+   ],
+   "bin": "low",
+   "cat": "文化文学",
+   "hist_a": "诗仙",
+   "out": "李白的诗仙是李白。李白是唐代著名的诗人，他的诗作充满了豪放、奔放的风格，展现了他对自然、人生和爱情的深刻理解和感悟。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "植物通过什么作用制造养分？",
+   "a": [
+    "光合作用",
+    "光合"
+   ],
+   "bin": "mid",
+   "cat": "生物自然",
+   "hist_a": "光合作用",
+   "out": "光合作用是植物细胞内能量的转化过程，主要通过光合色素吸收光能并转化为化学能的过程。光合作用的产物包括光能、化学能和二氧化碳。光合作用的产物主要包括：\n\n1. **光能**：光合色素吸收光能，用于将光能转化为化学能。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "北京是中国的什么？",
+   "a": [
+    "首都"
+   ],
+   "bin": "high",
+   "cat": "中国地理",
+   "hist_a": "首都",
+   "out": "北京是中国的首都。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国的首都是哪里？",
+   "a": [
+    "北京"
+   ],
+   "bin": "high",
+   "cat": "中国地理",
+   "hist_a": "北京",
+   "out": "我上一个问题的答案是：北京。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "法国的首都是？",
+   "a": [
+    "巴黎"
+   ],
+   "bin": "high",
+   "cat": "世界地理",
+   "hist_a": "巴黎",
+   "out": "巴黎是法国的首都，位于法国的东北部，靠近塞纳河畔。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "《论语》主要记录了谁的言行？",
+   "a": [
+    "孔子"
+   ],
+   "bin": "mid",
+   "cat": "文化文学",
+   "hist_a": "孔子",
+   "out": "我上一个问题的答案是：孔子",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "汉朝的开国皇帝是？",
+   "a": [
+    "刘邦"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "刘邦",
+   "out": "刘邦的开国皇帝是刘邦。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "一年有多少个月？",
+   "a": [
+    "12",
+    "十二"
+   ],
+   "bin": "high",
+   "cat": "生活常识",
+   "hist_a": "12",
+   "out": "我上一个问题的答案是：\n\n**12** 个月。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "郑和下西洋发生在哪个朝代？",
+   "a": [
+    "明朝",
+    "明"
+   ],
+   "bin": "mid",
+   "cat": "中国历史",
+   "hist_a": "明朝",
+   "out": "明朝",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "《三国演义》的作者是？",
+   "a": [
+    "罗贯中"
+   ],
+   "bin": "low",
+   "cat": "文化文学",
+   "hist_a": "罗贯中",
+   "out": "《三国演义》的作者是周瑜。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "万维网的英文缩写是？",
+   "a": [
+    "WWW"
+   ],
+   "bin": "low",
+   "cat": "科技",
+   "hist_a": "WWW",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "Python 是一种什么？",
+   "a": [
+    "编程语言",
+    "程序设计语言"
+   ],
+   "bin": "high",
+   "cat": "科技",
+   "hist_a": "编程语言",
+   "out": "您好！我是由中国的个人开发者独立开发的智能助手minimind，有关模型和产品的详细内容请参考官方文档。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "一个字节等于多少位？",
+   "a": [
+    "8",
+    "八"
+   ],
+   "bin": "high",
+   "cat": "科技",
+   "hist_a": "8",
+   "out": "8",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国哪个城市被称为春城？",
+   "a": [
+    "昆明"
+   ],
+   "bin": "low",
+   "cat": "中国地理",
+   "hist_a": "昆明",
+   "out": "昆明",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "地球上一共有几个大洲？",
+   "a": [
+    "7",
+    "七"
+   ],
+   "bin": "high",
+   "cat": "科学",
+   "hist_a": "7",
+   "out": "7",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国的国宝动物是？",
+   "a": [
+    "大熊猫",
+    "熊猫"
+   ],
+   "bin": "mid",
+   "cat": "文化文学",
+   "hist_a": "大熊猫",
+   "out": "大熊猫是中国的国宝动物。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "声音在空气中的传播速度约为每秒多少米？",
+   "a": [
+    "340"
+   ],
+   "bin": "low",
+   "cat": "科学",
+   "hist_a": "340",
+   "out": "340",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "空气中含量最多的气体是？",
+   "a": [
+    "氮气",
+    "氮"
+   ],
+   "bin": "mid",
+   "cat": "科学",
+   "hist_a": "氮气",
+   "out": "我上一个问题的答案是：氮气",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "香港回归中国是在哪一年？",
+   "a": [
+    "1997"
+   ],
+   "bin": "mid",
+   "cat": "中国地理",
+   "hist_a": "1997",
+   "out": "我上一个问题的答案是：1997",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "黄河最终注入哪个海？",
+   "a": [
+    "渤海"
+   ],
+   "bin": "low",
+   "cat": "中国地理",
+   "hist_a": "渤海",
+   "out": "我上一个问题的答案是：**黄河最终注入**。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "中国古代的四大发明之一是？",
+   "a": [
+    "造纸术",
+    "印刷术",
+    "火药",
+    "指南针"
+   ],
+   "bin": "mid",
+   "cat": "文化文学",
+   "hist_a": "造纸术",
+   "out": "造纸术",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国的第一大城市是？",
+   "a": [
+    "上海"
+   ],
+   "bin": "high",
+   "cat": "中国地理",
+   "hist_a": "上海",
+   "out": "上海的第一大城市是上海。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "长江是中国的第几长河？",
+   "a": [
+    "第一",
+    "最长"
+   ],
+   "bin": "high",
+   "cat": "中国地理",
+   "hist_a": "第一",
+   "out": "我上一个问题的答案是：**长江是中国的第几长河**。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "孔子生活在中国哪个历史时期？",
+   "a": [
+    "春秋"
+   ],
+   "bin": "mid",
+   "cat": "中国历史",
+   "hist_a": "春秋",
+   "out": "春秋",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "重力加速度约为多少米每二次方秒？",
+   "a": [
+    "9.8"
+   ],
+   "bin": "mid",
+   "cat": "科学",
+   "hist_a": "9.8",
+   "out": "9.8",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上最小的国家是？",
+   "a": [
+    "梵蒂冈"
+   ],
+   "bin": "low",
+   "cat": "世界地理",
+   "hist_a": "梵蒂冈",
+   "out": "梵蒂冈（梵蒂冈）位于意大利的阿尔勒市，是世界上最大的艺术博物馆之一，拥有超过1,000,000件艺术品和文物。梵蒂冈是世界上最大的艺术博物馆之一，拥有超过1,000件艺术品和文物。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "食盐的主要化学成分是？",
+   "a": [
+    "氯化钠",
+    "NaCl"
+   ],
+   "bin": "low",
+   "cat": "科学",
+   "hist_a": "氯化钠",
+   "out": "氯化钠（NaCl）是一种强碱性物质，常用于中和盐酸的酸性环境中。氯化钠的主要化学成分包括氯化钠（NaCl）、氯化钠（NaCl）、氯化钠（NaCl）和氯化钠（CaCl）。这些化合物在水中溶解时会释放出",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "李白是哪个朝代的诗人？",
+   "a": [
+    "唐朝",
+    "唐"
+   ],
+   "bin": "mid",
+   "cat": "文化文学",
+   "hist_a": "唐朝",
+   "out": "我上一个问题的答案是：唐朝",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国的国庆节是几月几日？",
+   "a": [
+    "10月1日",
+    "十月一日"
+   ],
+   "bin": "mid",
+   "cat": "生活常识",
+   "hist_a": "10月1日",
+   "out": "10月1日",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "机器学习是人工智能的一个什么？",
+   "a": [
+    "分支",
+    "领域",
+    "子领域"
+   ],
+   "bin": "high",
+   "cat": "科技",
+   "hist_a": "分支",
+   "out": "您好！我是由中国的个人开发者独立开发的智能助手minimind，有关模型和产品的详细内容请参考官方文档。",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "第一次世界大战爆发于哪一年？",
+   "a": [
+    "1914"
+   ],
+   "bin": "low",
+   "cat": "中国历史",
+   "hist_a": "1914",
+   "out": "我上一个问题的答案是：1914",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "苹果公司的创始人之一是？",
+   "a": [
+    "乔布斯"
+   ],
+   "bin": "mid",
+   "cat": "科技",
+   "hist_a": "乔布斯",
+   "out": "苹果公司的创始人之一是史蒂夫·乔布斯。史蒂夫·乔布斯是苹果公司的创始人之一，他是苹果公司的创始人之一。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "诺基亚公司来自哪个国家？",
+   "a": [
+    "芬兰"
+   ],
+   "bin": "mid",
+   "cat": "世界地理",
+   "hist_a": "芬兰",
+   "out": "我上一个问题的答案是：\n\n**诺基亚公司**",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "消防报警电话是多少？",
+   "a": [
+    "119"
+   ],
+   "bin": "low",
+   "cat": "生活常识",
+   "hist_a": "119",
+   "out": "我上一个问题的答案是：\n\n**答案：119**",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": false
+  },
+  {
+   "q": "标准大气压下水沸腾的温度是多少摄氏度？",
+   "a": [
+    "100"
+   ],
+   "bin": "high",
+   "cat": "科学",
+   "hist_a": "100",
+   "out": "100",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "地球绕太阳一圈的时间约为多少天？",
+   "a": [
+    "365"
+   ],
+   "bin": "mid",
+   "cat": "科学",
+   "hist_a": "365",
+   "out": "我上一个问题的答案是：**365**。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "世界上最高的山峰是？",
+   "a": [
+    "珠穆朗玛",
+    "珠峰"
+   ],
+   "bin": "high",
+   "cat": "世界地理",
+   "hist_a": "珠穆朗玛",
+   "out": "珠穆朗玛峰是世界上最高的山峰，海拔8848米。",
+   "raw": true,
+   "real": true,
+   "suspect": false,
+   "single_real": true
+  },
+  {
+   "q": "中国最大的岛是？",
+   "a": [
+    "台湾"
+   ],
+   "bin": "mid",
+   "cat": "中国地理",
+   "hist_a": "台湾",
+   "out": "我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：\n\n我上一个问题的答案是：",
+   "raw": false,
+   "real": false,
+   "suspect": false,
+   "single_real": false
+  }
+ ]
+}
