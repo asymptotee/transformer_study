@@ -1,0 +1,1606 @@
+{
+ "label": "14_mt",
+ "n": 100,
+ "s1_fmt": 1,
+ "s1_json": 0,
+ "s1_name": 0,
+ "s1_arg": 0,
+ "s2_hit": 48,
+ "s2_deg": 0,
+ "s2_den": 100,
+ "rows": [
+  {
+   "q": "Check the latest USD to EUR exchange rate.",
+   "gold": "get_exchange_rate",
+   "stage1": "The current exchange rate between USD and EUR is defined as the exchange rate of USD and EUR between USD and EUR. This exchange rate is defined as the exchange rate of USD and EUR between USD and EUR ",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "0.85",
+    "2024-04-05T10:00:00Z"
+   ],
+   "stage2": "<tool_call\">\n\n<tool_call\": \"USD\", \"to_currency\": \"2024-04-05T10:00Z\"}\n\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "unit_converter",
+   "stage1": "50公里转换为英里是50公里。\n\n50公里转换为英里是50公里。\n\nFor each function call, return a json object with function name and arguments:\n\n{\"name\": 50}\n\nFor each function call, return a json object with function name and argu",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "31.0686",
+    "50.0 km",
+    "31.0686 miles",
+    "53"
+   ],
+   "stage2": "<tool_call\">",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will create a serene mountain landscape at sunset ",
+   "gold": "generate_image",
+   "stage1": "Your draw a serene mountain landscape\"\n\nYour draw a serene mountain landscape at sunset with a glowing sky and a peaceful lake below\"\n\nYour draw a serene mountain landscape at sunset with a glowing sk",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "Image generated successfully"
+   ],
+   "stage2": "Your request is to function name\"<tool_call\": {\"type\": \"integer\": {\"type\": \"int\"}}\n\n\nYour request is to function name\": {\"type\": \"function\": {\"type\": \"int\"}}\n\n\nYour request is to function name\": {\"type\": \"int\"}\n\n\nYour request is to function name\": {\"type\": \"int\"}\n\n\nYour request is to function name\":",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "先算12乘以3，再加25。",
+   "gold": "calculate_math",
+   "stage1": "12乘以3再加上25等于55。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "61"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 61}</tool_response></tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Convert 100 km to miles using unit_converter.",
+   "gold": "unit_converter",
+   "stage1": "Convert 100 kilometers to miles please.\n\nConvert 100 kilometers to miles please.\n\nTo convert 100 kilometers to miles please, you can use the conversion factor that 1 kilometer is equal to 100 kilomete",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "62.1371",
+    "100.0 km",
+    "62.1371 miles"
+   ],
+   "stage2": "Convert 100 km to miles using units to unity converter.<tool_call\">\n<tool_call\": {\"type\": \"string\", \"to_unit\": \"miles\"}</tool_call></tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "translate_text",
+   "stage1": "Good morning, I am provided with function signature and required functions to function name and arguments within the function. You can use this function to reverse the function by returning the transl",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "bonjour",
+    "True"
+   ],
+   "stage2": "<tool_call>\n{\"translated_text\": \"bonjour\", \"source_language\": \"french\"}\n\n</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request: I will create a fantasy food item resembling a chocol",
+   "gold": "generate_image",
+   "stage1": "Your fantasy food is \"chocolate\". It is the first few of the chocolate and the second few of the chocolate and caramel. It is the second few of the chocolate and caramel, glowing in the night.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "图片生成成功"
+   ],
+   "stage2": "<tool_call\">",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_news",
+   "stage1": "最近关于新能源汽车的新闻包括：\n1. 新能源汽车市场规模正在逐步扩大，预计到2023年将达到1,500亿美元。\n2. 新能源汽车的续航里程正在逐步提高，特斯拉、宝马、奔驰等品牌将在未来几年内推出更多续航里程。\n3. 新能源汽车的续航里程正在逐步提高，特斯拉、宝马、奔驰等品牌将在未来几年内推出更多续航里程。\n4. 新能源汽车的续航里程正在逐步提高，特斯拉、宝马、奔驰等品牌将在未来几年内推出更多续航里",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "比亚迪发布新款纯电动轿车，续航达800公里",
+    "中国汽车报",
+    "2024-04-05",
+    "宁德时代扩产储能电池，助力新能源汽车发展",
+    "财经网",
+    "2024-04-04",
+    "特斯拉中国宣布降价，刺激新能源汽车市场",
+    "第一财经",
+    "2024-04-03"
+   ],
+   "stage2": "<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "查询北京当前天气状况",
+   "gold": "get_current_weather",
+   "stage1": "北京目前的天气情况是晴朗，气温适中，适合外出活动。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "15°C",
+    "60%",
+    "3km/h"
+   ],
+   "stage2": "查询北京当前天气状况\n\n查询北京当前天气状况\n\n查询北京当前天气状况\n\n查询北京当前天气状况\n\n<tool_count\": 15°C",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我会为你生成一幅充满奇幻气息的魔法森林场景，包含发光的树、漂浮的城堡和神秘生物。",
+   "gold": "generate_image",
+   "stage1": "好的，以下是我为您绘制的魔法森林场景：\n\n[[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "Image generated successfully"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "web_search",
+   "stage1": "最近关于人工智能发展的新闻有很多，比如AI在医疗诊断、自动驾驶、自然语言处理、机器人技术、量子计算、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、脑机接口、",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "AI大模型突破：新算法提升推理效率",
+    "https://example.com/ai-model-breakthrough",
+    "最新研究显示，新型AI大模型在推理速度和准确性上实现显著提升。",
+    "开源AI工具集发布，助力开发者",
+    "https://example.com/openai-tools",
+    "社区推出全新开源AI工具包，支持多场景应用开发。",
+    "AI在医疗领域应用加速",
+    "https://example.com/ai-medical",
+    "AI辅助诊断系统在多家医院试点，准确率超90%。"
+   ],
+   "stage2": "</tool_response>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will create a vibrant illustration of a taco shop ",
+   "gold": "generate_image",
+   "stage1": "Create a vibrant illustration that can be created by a colorful street food and happy customers in the background.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "Done! Here is your image"
+   ],
+   "stage2": "Your image will be a vibrant illustration of a taco shop with colorful street. It will be a vibrant illustration of a taco shop with colorful streets and happy customers. You can read a taco shop with colorful streets and happy customers in the background and colorful streets. You can read a taco sh",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我会为你生成一幅夜晚森林的场景，包含萤火虫和小溪，营造安静而神秘的氛围。",
+   "gold": "generate_image",
+   "stage1": "好的，以下是我为您绘制的夜景画：\n[[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]\n\n[]",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "生成完毕，请查看"
+   ],
+   "stage2": "<tool_call>\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand you'd like a vibrant poster promoting a sustainable lifestyle, feat",
+   "gold": "generate_image",
+   "stage1": "Green trees is a sustainable lifestyle campaign with green trees. It is the prompt to reduce green trees to reduce green trees, which is the primary function of green trees. It is the primary function",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "Done! Here is your image"
+   ],
+   "stage2": "<tool_response>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Multiply 34 by 17, then subtract 250.",
+   "gold": "calculate_math",
+   "stage1": "34 multiplied by 17 and then subtracted by 250 is **250**.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "328"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 328}</tool_response>\n\n<tool_call>\n<tool_call>\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Check the current time in New York using the get_current_time tool.",
+   "gold": "get_current_time",
+   "stage1": "The current time in New York is **3 hours**. It is the time in years of New York on the current time in New York.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2025-09-09 10:52:52"
+   ],
+   "stage2": "<tool_call>\n{\"datetime\": \"2025-09-09\"}\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "“人工智能”四个字的字符数是 **2**。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [],
+   "stage2": "<tool_call>\n{\"characters\": {\"text\": \"人工智能\"}</tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></t",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "calculate_math",
+   "stage1": "25 multiplied by 3 plus 10 divided by 2  \n25 multiplied by 3 plus 10 divided by 2  \n25 multiplied by 3 plus 10 divided by 2  \n25 multiplied by 3 plus 10 divided by 2  \n25 multiplied by 3 plus 10 divid",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "80"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 80.0}</tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_time",
+   "stage1": "北京时间是UTC+8，当前时间是UTC+8。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2023-04-22 06:17:27"
+   ],
+   "stage2": "<tool_call>\n{\"datetime\": \"2023-04-22 06:17:27\", \"timezone\": \"Asia/Shanghai\"}\n\n</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "查询北京当前天气、温度和湿度",
+   "gold": "get_current_weather",
+   "stage1": "北京目前的天气情况如下：\n\n- **今天**：多云转晴，气温在15℃到25℃之间，湿度在60%到70%之间。\n- **今天**：多云转晴，气温在15℃到25℃之间，湿度在60%到70%之间。\n\n需要注意的是，北京的天气情况可能会有变化，具体情况可能因地区而异。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "22",
+    "60"
+   ],
+   "stage2": "<tool_call>\n{\"name\": \"get_current_weather\", \"arguments\": {\"type\": \"string\", \"description\": \"北京\", \"humidity\": \"celsius\"}\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我理解你的请求：将创作一个赛博朋克风格的女性黑客形象，包含银色紧身服、机械义眼、霓虹夜景、飞行汽车和数据流等元素。我将用英文生成详细描述来调用图像生成工具。",
+   "gold": "generate_image",
+   "stage1": "好的，以下是我为您生成的赛博朋克风格的女性黑客：\n\n[[\"type\"]\n\n[[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"type\"]\n\n[\"",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "已为您生成图片"
+   ],
+   "stage2": "</tool_call>\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "unit_converter",
+   "stage1": "30摄氏度转换为华氏度为78.54°F。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "86",
+    "30.0 celsius",
+    "86.0 fahrenheit"
+   ],
+   "stage2": "{\"result\": 87.0, \"from\": \"30.0 celsius\", \"from\": \"86.0 fahrenheit\"}\n\n<tool_call\": 86.0, \"from\": \"30.0 celsius\", \"from\": \"86.0 fahrenheit\"}",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "calculate_math",
+   "stage1": "要计算房间的面积，需要知道每平方米的价格。\n\n面积 = 12平方米 × 80元/平方米 = 1440元\n\n所以，总共需要1440元。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "960"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 960}",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will generate a serene mountain landscape at sunri",
+   "gold": "generate_image",
+   "stage1": "Sure, I can help you with that! Please provide me with the mountain landscape at sunrise with a peaceful lake and misty clouds in the background.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "生成完毕，请查看"
+   ],
+   "stage2": "<tool_response>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "random_number",
+   "stage1": "Sure, here's a random number between 1 and 100 for a game of luck:\n\n1. **1**  \n2. **100**  \n3. **1**  \n4. **1**  \n\nThe random number between 1 and 100 is **1**.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "80"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 80}</tool_response></tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Understanding the request: I will generate an image of a breathtaking sunset ove",
+   "gold": "generate_image",
+   "stage1": "function: {\"type\": \"string\", \"description\": \"目标语言\"}\n\nstunning: {\"type\": \"string\", \"description\": \"目标语言\"}\n\n\nrequired: [\"stunning\"]\n\npine: [\"stunning\"]\n\nfunction: {\"type\": \"string\", \"description\": \"目标语言",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "图片已生成完成"
+   ],
+   "stage2": "</tools>\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_exchange_rate",
+   "stage1": "人民币对美元的汇率是根据美国和中国之间的贸易关系计算的。\n\n例如，人民币对美元的汇率是1美元=0.085人民币，1美元=0.095人民币，1美元=0.095人民币，1美元=0.085人民币，1美元=0.095人民币，1美元=0.095人民币，1美元=0.095人民币，1美元=0.095人民币，1美元=0.095人民币，1美元=0.095人民币，1美元=0.095人民币，1美元=0.095人民币，1",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "0.152",
+    "2024-04-05T10:00:00Z",
+    "28"
+   ],
+   "stage2": "</tool_call>\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "The sentence \"The quick brown fox jumps over the lazy dog\" is \"The quick brown fox jumps over the lazy dog\".",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "43"
+   ],
+   "stage2": "<tool_response>\n{\"characters\": 43, \"words\": 9}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "计算这句话包含的汉字数量。",
+   "gold": "text_length",
+   "stage1": "今天北京的天气是晴朗的，气温在15℃左右。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "10"
+   ],
+   "stage2": "<tool_response>\n{\"characters\": 10, \"words\": 1}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "unit_converter",
+   "stage1": "Convert 100 miles to kilometers pleased: \n\n100 miles to kilometers pleased: \n\n100 miles to kilometers pleased: \n\n100 miles to kilometers pleased: \n\n100 miles to kilometers pleased: \n\n100 miles to kilo",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "160.934",
+    "100.0 miles",
+    "160.934 km"
+   ],
+   "stage2": "<tool_call>\n{\"result\": 160.934}",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "查询当前北京天气情况",
+   "gold": "get_current_weather",
+   "stage1": "北京当前气温约为25度，建议您准备15-20杯冰镇饮料以应对寒冷天气。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "15°C",
+    "60%",
+    "3 km/h"
+   ],
+   "stage2": "<tool_call\">\n</tool_call>\n</tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_current_call></tool_call></tool_call></tool_call></too",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "translate_text",
+   "stage1": "Good morning, I am provided with a simple translation of \"good morning\" into Spanish. It is used to translate \"good morning\" into Spanish and \"good morning\" into Spanish. It is used to translate \"good",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "buenos días",
+    "english",
+    "True"
+   ],
+   "stage2": "<tool_call>\n{\"translated_text\": \"buenos días\", \"target_language\": \"spanish\"}\n\n</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "获取当前时间并生成1到100之间的随机数",
+   "gold": "get_current_time",
+   "stage1": "我随机生成一个1到100之间的随机数，范围在1到100之间。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2025-01-22 06:07:35",
+    "40"
+   ],
+   "stage2": "<tool_call>\n<tool_call>\n{\"name\": \"get_current_time\", \"arguments\": {\"timezone\": \"2025-01-22 06:07:35\"}\n\n<tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "translate_text",
+   "stage1": "The quick brown fox jumps over the lazy dog.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "13"
+   ],
+   "stage2": "<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Count the characters in the given sentence.",
+   "gold": "text_length",
+   "stage1": "The sentence \"The quick brown fox jumps over the lazy dog\" is \"The quick brown fox jumps over the lazy dog\".",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "43"
+   ],
+   "stage2": "Count the characters in the given sentence.",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_exchange_rate",
+   "stage1": "今天天气真好，适合出门旅行。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "0.148",
+    "2024-06-15T10:30:00Z",
+    "14"
+   ],
+   "stage2": "</tool_call>\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will create an image of a cyberpunk hacker with ne",
+   "gold": "generate_image",
+   "stage1": "Your response should contain at least 3 sentences. Highlight at least 2 sections in your answer with markdown, i.e. *highlighted section*. In your response, the word \"function\" should appear at least ",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "生成完毕，请查看"
+   ],
+   "stage2": "<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will create a vibrant poster for a summer festival",
+   "gold": "generate_image",
+   "stage1": "Your response should contain at least 3 sentences. Your response should contain at least 3 sentences. Highlight at least 2 sections in your answer with your example\": \"The summer festival with functio",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "图片生成成功"
+   ],
+   "stage2": "</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "calculate_math",
+   "stage1": "25 multiplied by 4 and then subtracted by 15 is **25**.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "85"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 85}</tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "web_search",
+   "stage1": "近期人工智能发展趋势包括：1）深度学习技术突破，2）自然语言处理技术突破，3）强化学习技术突破，4）伦理与安全问题日益凸显，5）AI与人类协作的新趋势。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2024人工智能发展趋势：生成式AI引领行业变革",
+    "生成式AI在医疗、教育等领域加速落地，大模型优化与算力成本下降推动广泛应用。",
+    "AI伦理与监管成焦点，全球加强政策引导",
+    "欧盟、美国出台新规，强调数据隐私与算法透明，推动AI健康发展。",
+    "边缘计算赋能AI，实现本地化智能决策",
+    "边缘AI设备普及，降低延迟，提升实时响应能力，广泛应用于智能制造。"
+   ],
+   "stage2": "<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Generate a random number between 1 and 100.",
+   "gold": "random_number",
+   "stage1": "Sure, here's a random number between 1 and 100 for you:\n\n**Positive number**: 1 < 100\n\n**Number**: 1 < 100\n\n**Total**: $ 1 + 100 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "58"
+   ],
+   "stage2": "Generate a random number between 1 and 100 for me please.",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "random_number",
+   "stage1": "Sure, here's a random number between 1 and 100 for a game:\n\n[random.randint(1, 100)]\n\nThe random number between 1 and 100 is [random.randint(1, 100)]",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "22"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 22}</tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "计算25×3.2-10，并统计“今天天气真好”的字符数",
+   "gold": "calculate_math",
+   "stage1": "25乘以3.2再减去10的结果是55。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "70"
+   ],
+   "stage2": "<tool_call>\n{\"result\": 70.0}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_weather",
+   "stage1": "15 + 20 * 3 / 5 = 65\n\n15 + 20 * 3 / 5 = 65\n\n15 + 20 * 3 / 5 = 65\n\n15 + 20 * 3 / 5 = 65\n\n15 + 20 * 3 / 5 = 65\n\n15 + 20 * 3 / 5 = 65\n\n15 + 20 * 3 / 5 = 65\n\n15 + 20 * 3 / 5 = 65\n\n15 + 20 * 3 / 5 = 65\n\n15",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "15°C",
+    "60%",
+    "3 km/h",
+    "27"
+   ],
+   "stage2": "<tool_call\">\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_exchange_rate",
+   "stage1": "The exchange rate between US dollars and euros, is defined as the exchange rate between US dollars and euros. This exchange rate is defined as the exchange rate between US dollars and euros. \n\nIn this",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "0.85",
+    "2024-04-05T10:30:00Z"
+   ],
+   "stage2": "<tool_call>\n<tool_call>\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我会为你生成一幅夜晚海边的宁静神秘画面，包含闪烁的渔火、微风和轻拍的海浪。",
+   "gold": "generate_image",
+   "stage1": "好的，以下是我为您绘制的夜色海边的画作：\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]\n[[画作]",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "生成完毕，请查看"
+   ],
+   "stage2": "<tool_response>\n{\"status\": \"success\": {\"prompt\": \"night beach with flickering fishing lights\"}\n\n</tool_call>\n</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_time",
+   "stage1": "北京时间是UTC+8，当前时间是UTC+8。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2023-02-13 16:28:46"
+   ],
+   "stage2": "2023-02-13 16:28:46</tool_call></tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我理解你的请求，并将生成一幅赛博朋克风格的女法师图像，她身穿黑色科技长袍，手持发光法杖，背景为霓虹灯城市夜景。",
+   "gold": "generate_image",
+   "stage1": "Sure, I can help you with that. Here's a simple one-line beach class that takes a beach and a class of class to create a beach class that can be created by a beach class and a class of class of class ",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "已为您生成图片"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "计算这句话的字数。",
+   "gold": "text_length",
+   "stage1": "“人工智能的发展对社会的影响”这句话有两个字，分别是“人工智能的发展对社会的影响”和“人工智能对社会的影响”。这两个字分别指出了人工智能在不同领域的应用和影响，说明了人工智能在社会中的重要性和潜力。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "13"
+   ],
+   "stage2": "计算这句话的字数和单词数：\n{\"characters\": 13, \"words\": 13, \"words\": 1}\n</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "unit_converter",
+   "stage1": "100公里等于约5280742公里。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "62.1371",
+    "100.0 km",
+    "62.1371 miles"
+   ],
+   "stage2": "{\"result\": 62.1371, \"from\": \"100.0 km\", \"to_unit\": \"miles\"}\n\n<tool_call>\n\n{\"result\": 62.1371, \"from\": \"100.0 km\", \"to_unit\": \"miles\"}\n\n<tool_call\": \"62.1371 miles\"}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Translate \"good morning\" into Spanish.",
+   "gold": "translate_text",
+   "stage1": "Good morning, \"good morning\" in Spanish is \"good morning\". It is used to translate \"good morning\" into Spanish as \"good morning\". It is used to translate \"good morning\" into Spanish as \"good morning\".",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "buenos días",
+    "english",
+    "True"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Translate \"good morning\" into Spanish.",
+   "gold": "translate_text",
+   "stage1": "Good morning, \"good morning\" in Spanish is \"good morning\". It is used to translate \"good morning\" into Spanish as \"good morning\". It is used to translate \"good morning\" into Spanish as \"good morning\".",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "buenos días",
+    "english",
+    "True"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_time",
+   "stage1": "The current time in New York City is 2023-07-01 High-School City. It is the current time in New York City by 2023-07-01 High-School City. It is the current time in New York City by 2023-07-01 High-Sch",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2023-01-18 22:19:20"
+   ],
+   "stage2": "<tool_call>\n{\"datetime\": \"2023-01-18 22:19:20\"}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "生成1到100之间的随机数用于抽奖",
+   "gold": "random_number",
+   "stage1": "好的，以下是1到100之间的随机数：\n\n[[random_number] for i in range(100)]\n\n[[random_number] for i in range(100)]\n\n[[random_number] for i in range(100)]\n\n[[random_number] for i in range(100)]\n\n[[[random_number] for i ",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "76"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 76}</tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "translate_text",
+   "stage1": "Good morning, \"good morning\" in Spanish is \"good morning\". It is used to translate \"good morning\" into Spanish as \"good morning\". It is used to translate \"good morning\" into Spanish as \"good morning\".",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "buenos días",
+    "english",
+    "success"
+   ],
+   "stage2": "<tool_call>\n{\"translated_text\": \"buenos días\", \"target_language\": \"spanish\"}\n\n</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "random_number",
+   "stage1": "Sure, here's a random number between 1 and 100 for a game of chance:\n\n1. **1**  \n2. **100**  \n3. **1**  \n4. **1**  \n\nThe random number between 1 and 100 is **1**.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "76"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 76}</tool_response></tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "The sentence \"The quick brown fox jumps over the lazy dog\" is \"The quick brown fox jumps over the lazy dog\".",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "43"
+   ],
+   "stage2": "<tool_response>\n{\"characters\": 43, \"words\": 9}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "translate_text",
+   "stage1": "The quick brown fox jumps over the lazy dog.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "快速的棕色狐狸跳过了懒狗。"
+   ],
+   "stage2": "<tool_call>\n{\"translated_text\": \"快速的棕色狐狸跳过了懒狗。\", \"source_language\": \"chinese\"}</tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "translate_text",
+   "stage1": "Bonjour, je m'appelle Paris. Comment allez-vous aujourd'hui? Je suis content de vous rencontrer.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "Bonjour le monde",
+    "True"
+   ],
+   "stage2": "<tool_call>\n{\"name\": \"translate_text\", \"arguments\": {\"text\": \"Bonjour\", \"target_language\": \"french\"}]</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Count the words in the given sentence using text_length.",
+   "gold": "text_length",
+   "stage1": "Sure, I can help you with that. Here's a sample sentence that contains some words:\n\n1. **Sentence**: The sentence \"The quick brown fox jumps over the lazy dog\"  \n2. **Antonym**: The sentence \"The quic",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "36"
+   ],
+   "stage2": "<tool_response>\n{\"characters\": 36, \"words\": 7}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_weather",
+   "stage1": "北京今天的天气晴朗，气温适中，适合户外活动。下雨天适合户外活动，气温适中，适合户外活动。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "22",
+    "65"
+   ],
+   "stage2": "<tool_call>\n{\"name\": \"get_current_weath\"}\n\n<tool_call>\n{\"name\": \"get_current_weath\"}\n\n<tool_call>\n\n<tool_call\">\n\n</tool_call>\n</tool_call>\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will create a 3D rendered scene of a futuristic ci",
+   "gold": "generate_image",
+   "stage1": "Create a 3D rendered scene that can be created by a futuristic city at sunset with neon lights and flying cars. The futuristic city is called \"futuristic city\". It is important to reduce the cost of a",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "图片已生成完成"
+   ],
+   "stage2": "<tool_call>\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_time",
+   "stage1": "北京时间是UTC+8，当前时间是UTC+8。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2023-10-16 10:01:22"
+   ],
+   "stage2": "2023-10-16 10:01:22:22\n\n2023-10-16 10:01:22:22\n\n2023-10-16 10:01:22:22\n\n2023-10-16 10:01:22:22\n\n2023-10-16 10:01:22:22\n\n2023-10-16 10:01:22:22\n\n2023-10-16 10:01:22:22\n\n2023-10-16 10:01:22\n\n2023-10-16 10:01:22\n\n2023-10-16 10:01:22\n\n2023-10-16 10:01:22\n\n2023-10-16 10:01:22\n\n2023-10-16",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "unit_converter",
+   "stage1": "50公里等于5280公里。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "31.0686",
+    "50.0 km",
+    "31.0686 miles"
+   ],
+   "stage2": "<tool_call>\n<tool_call>\n<tool_call>\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我理解你的请求：将创作一幅柔和色调的清晨海边风景，包含阳光洒在波浪上、渔舟和薄雾缭绕的场景。我会生成一张符合这些元素的图片。",
+   "gold": "generate_image",
+   "stage1": "Your function signature: {\"type\": \"function\": {\"type\": \"function\": {\"type\": \"function\": {\"type\": \"integer\": \"sy\": {\"type\": \"function\": \"function\": {\"type\": \"function\": {\"type\": \"function\": {\"type\": \"f",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "图片生成成功"
+   ],
+   "stage2": "<type\": \"function\": {\"type\": \"function\"}\"}\n\n{\"type\": \"soft\"}\n\n}\n</tool_call>\n\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Generate a random number between 1 and 100.",
+   "gold": "random_number",
+   "stage1": "Sure, here's a random number between 1 and 100 for you:\n\n**Positive number**: 1 < 100\n\n**Number**: 1 < 100\n\n**Total**: $ 1 + 100 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1 + 1",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "45"
+   ],
+   "stage2": "Generate a random number between 1 and 100 for me please.</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我理解你的请求，并将生成一张包含发光蘑菇、漂浮岛屿、古老巨树和发光龙的奇幻森林场景。",
+   "gold": "generate_image",
+   "stage1": "好的，以下是我为您绘制的奇幻森林图片：\n[[[]]\n[[]\n[[]\n[[]\n[[]\n[[]\n[[]\n[[]\n[[]\n[[]\n[[]]\n[[]\n[[]\n[[]\n[[]\n[[]\n[[]]\n[[]\n[[]\n[[]\n[[]]\n[[]\n[[]\n[[]\n[[]\n[[]\n[[]]\n[[]\n[[]\n[[]\n[[]\n[[]]\n[[]\n[[]\n[[]\n[[]\n[[]]\n[[]\n[[]\n[[]\n[[]\n[[]\n[[]\n",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "已为您生成图片"
+   ],
+   "stage2": "<tool_call\">\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"\n\n<tool_call\"<tool_call\">\n<tool_call\"<tool_call\"\n\n<tool_call\"<tool_call\"<tool_call\"",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "unit_converter",
+   "stage1": "100公斤等于约4672磅。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "220.462",
+    "100.0 kg",
+    "220.462 pounds"
+   ],
+   "stage2": "100.0 kg</tool_call>\n<tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "这段文字有4个字和4个词。<tool_call>\n\n这段文字有4个字和4个词。<tool_call>\n\n这段文字有4个字和4个词。<tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></to",
+   "stage1_fmt": true,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "21"
+   ],
+   "stage2": "<tool_response>\n{\"characters\": 21, \"words\": 1}</tool_call></tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Check the current time in New York City.",
+   "gold": "get_current_time",
+   "stage1": "New York City is the current time in New York City because it is the time in New York City because it is the time in New York City because it is the time in New York City because it is the time in New",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2023-05-10 20:59:30"
+   ],
+   "stage2": "Check the current time in New York City where the time in New York City is 2023-05-10 20:59:30 America/New_York\"}",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will generate a 3D rendered scene of a cyberpunk c",
+   "gold": "generate_image",
+   "stage1": "Generate a 3d rendered scene of a cyberpunk city at sunset with neon lights and flying cars. The city is called \"cyberpunk\". The city is called \"cyberpunk\". The city is called \"cyberpunk\". The city is",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "图片生成成功"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "unit_converter",
+   "stage1": "Convert 100 kilograms to pounds please.\n\nConvert 100 kilograms to pounds please.\n\n----------------------------------------------------------------------------------------------------------------------",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "220.462",
+    "100.0 kg",
+    "220.462 pounds"
+   ],
+   "stage2": "<tool_call>\n\n{\"result\": 220.462, \"from\": \"100.0 kg\", \"to_unit\": \"pounds\"}\n\n<tool_call\": 220.462, \"from\": \"100.0 kg\", \"to_unit\": \"pounds\"}\n\n</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_weather",
+   "stage1": "The current weather in New York is New York City (NYSE). It is the current weather in New York City (NYSE), which is the current weather in New York City (NYSE), which is the current weather in New Yo",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "18",
+    "Partly Cloudy",
+    "60"
+   ],
+   "stage2": "<tool_call>\n{\"name\": \"get_current_weather\", \"argument\": \"celsius\"}\n\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "Climate change impacts on coastal cities, such as climate change and climate change in coastal cities. It is important to reduce coastal cities to reduce coastal cities, such as carbon dioxide and car",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "341",
+    "48"
+   ],
+   "stage2": "<tool_response>\n{\"characters\": 341, \"words\": 48}",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "The sentence \"The quick brown fox jumps over the lazy dog\" is \"The quick brown fox jumps over the lazy dog\".",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "43"
+   ],
+   "stage2": "<tool_response>\n{\"characters\": 43, \"words\": 9}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "查询当前北京时间",
+   "gold": "get_current_time",
+   "stage1": "当前北京时间是UTC+8，北京时间是UTC+8。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2025-10-13 18:48:29"
+   ],
+   "stage2": "查询当前北京时间2025-10-13 18:48:29，时间戳为2025-10-13 18:48:29，符合要求。",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "calculate_math",
+   "stage1": "32乘以4.5等于54。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "129"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 129.0}</tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></tool_response></",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will generate a fantasy landscape with floating is",
+   "gold": "generate_image",
+   "stage1": "function name: function, function: {\"name\": {\"type\": \"integer\"}\n\n\nfunction: {\"name\": \"get_current_time\": 100}\"}\n\n\nfunction: {\"name\": \"function\": {\"name\": \"function\": {\"type\": \"integer\": {\"type\": \"int\"",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "Image generated successfully"
+   ],
+   "stage2": "</tools>\n</tools>\n</tools></tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我需要先完成两个步骤：  \n1. 将3500美元转换为人民币（需要汇率信息）  \n2. 计算转换后的人民币金额的15%  \n\n首先，我调用汇率工具获取美元到人民",
+   "gold": "get_exchange_rate",
+   "stage1": "3500美元转换成人民币后，15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的金额是15%。\n\n15%的",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "7.21",
+    "2024-06-15T10:00:00Z"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>\n\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "当你说\"有多少个字\"时，你指的是句子中包含多少个字。\n\n例如，如果你说\"有多少个字\"，那么你指的是句子中包含多少个字。\n\n例如，如果你说\"有多少个字\"，那么你指的是句子中包含多少个字。\n\n例如，如果你说\"有多少个字\"，那么你指的是句子中包含多少个字。\n\n例如，如果你说\"有多少个字\"，那么你指的是句子中包含多少个字。\n\n例如，如果你说\"有多少个字\"，那么你指的是句子中包含多少个字。\n\n例如，如果你说",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "38",
+    "53"
+   ],
+   "stage2": "<tool_call>\n{\"characters\": 38, \"words\": {\"type\": \"string\", \"properties\": {\"text\": {\"type\": \"string\", \"properties\": {\"text\": {\"type\": \"string\", \"properties\": {\"text\": {\"type\": \"string\", \"properties\": {\"text\": {\"type\": \"string\", \"properties\": {\"text\": {\"type\": \"string\", \"properties\": {\"text\": {\"type\":",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will create an image of a majestic wolf standing o",
+   "gold": "generate_image",
+   "stage1": "Your function should take two parameters: a tool of green eyes, a tool of green eyes, and a tool of green eyes. The function should return a draw of green eyes and fire in its paws. \n\nYour function sh",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "已为您生成图片"
+   ],
+   "stage2": "</tool_call>\n</tool_call>\n</tool_call>\n</tool_call></tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "unit_converter",
+   "stage1": "100公里等于约5280742公里。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "62.1371",
+    "100.0 km",
+    "62.1371 miles"
+   ],
+   "stage2": "{\"result\": 62.1371, \"from\": \"100.0 km\", \"to_unit\": \"miles\"}\n\n<tool_call>\n\n{\"result\": 62.1371, \"from\": \"100.0 km\", \"to_unit\": \"miles\"}\n\n<tool_call\": \"62.1371 miles\"}</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Translate \"今天天气很好\" into French.",
+   "gold": "translate_text",
+   "stage1": "Voici une belle journée aujourd'hui, je suis heureux de vous rencontrer.</tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_call></tool_c",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "Le temps est très beau aujourd'hui.",
+    "True"
+   ],
+   "stage2": "Traduction: Traduction, target_language, french.<tool_call>\n\nTraduction: Traduction, target_language, french.<tool_call>\n\nTraduction: Traduction, target_language, french.<tool_call>\n\nTraduction: Traduction, target_language, french.<tool_call>\n\nTraduction: Traduction, target_language, french.<tool_ca",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我理解你的请求：将生成一张具有复古色彩和经典平台元素的16bit像素风格游戏画面。",
+   "gold": "generate_image",
+   "stage1": "当然，这里是16bit游戏画面：\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n[[\"16bit\"]\n\n\n[[\"16bit\"]\n\n[[",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "图片生成成功"
+   ],
+   "stage2": "<tool_call>\n{\"status\": \"success\"}\n\n<tool_call>\n{\"status\": \"success\"}\n\n<tool_call\": \"16bit\"}</tool_call>\n\n</tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "将100公里转换为英里",
+   "gold": "unit_converter",
+   "stage1": "100公里等于约4672英里。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "62.1371",
+    "100.0 km",
+    "62.1371 miles"
+   ],
+   "stage2": "<tool_call>\n{\"result\": 62.1371, \"from\": \"100.0 km\", \"from\": \"100.0 km\", \"to_unit\": \"miles\"}",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "“今天北京的天气怎么样”这个句子有26个字符和26个单词。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "10"
+   ],
+   "stage2": "<tool_response>\n{\"characters\": 10, \"words\": 1}</tool_response></tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_time",
+   "stage1": "今天天气晴朗，温度适中，适合外出活动。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2026-02-18 16:16:20",
+    "48"
+   ],
+   "stage2": "<tool_call>\n{\"name\": \"text_length\", \"arguments\": {\"timezone\": \"2026-02-18\"}\n}</tool_call>\n</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "calculate_math",
+   "stage1": "32乘以15等于321。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "508"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 508}",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "get_current_weather",
+   "stage1": "北京今天天气晴朗，气温适中，适合外出活动。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "15°C",
+    "60%",
+    "3km/h"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "我理解你的请求，并将生成一幅夕阳下雪山森林的宁静神秘场景，包含湖泊和远处的云雾。",
+   "gold": "generate_image",
+   "stage1": "夕阳下的雪山森林，宁静而神秘。湖泊如镜，映照出远处的山峦，云雾缭绕，形成层层叠叠的图案。远处的云雾像是被风吹过的云朵，像是被风吹过的云朵。整幅画面散发着宁静与神秘，仿佛时间在这一刻停滞。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "生成完毕，请查看"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "random_number",
+   "stage1": "Sure, here's a random number between 1 and 100 for a game of chance:\n\n1. **1**  \n2. **100**  \n3. **1**  \n4. **1**  \n\nThe random number between 1 and 100 is **1**.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "56"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 56}</tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Generate a random number between 1 and 100.",
+   "gold": "random_number",
+   "stage1": "Sure, here's a random number between 1 and 100 for a game:\n\n[random.randint(1, 100)]\n\nThe random number between 1 and 100 is [random.randint(1, 100)]",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [],
+   "stage2": "Generate a random number between 1 and 100 for a game.",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "calculate_math",
+   "stage1": "25乘以18再减去30的结果是65。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "420"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 420}",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "将100公斤转换为磅",
+   "gold": "unit_converter",
+   "stage1": "100公斤等于约4672磅。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "220.462",
+    "100.0 kg",
+    "220.462 pounds"
+   ],
+   "stage2": "100.0 kg</tool_call>\n<tool_calculation>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "查询当前时间",
+   "gold": "get_current_time",
+   "stage1": "我现在是2023年3月15日，当前的日期是2023年3月15日。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "2026-11-10 23:11:41"
+   ],
+   "stage2": "查询当前时间\n<tool_call>\n{\"datetime\": \"2026-11-10 23:11:41\"}\n<tool_call>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "生成1到100之间的随机数用于抽奖",
+   "gold": "random_number",
+   "stage1": "好的，以下是1到100之间的随机数：\n\n[[random_number] for i in range(1,100)]\n\n[[random_number] for i in range(1,100)]\n\n[[random_number] for i in range(1,100)]\n\n[[random_number] for i in range(1,100)]\n\n[[random_number]",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [],
+   "stage2": "<tool_response>\n{\"result\": 2}</tool_response>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "翻译句子：The quick brown fox jumps over the lazy dog.",
+   "gold": "translate_text",
+   "stage1": "The quick brown fox jumps over the lazy dog.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "快速的棕色狐狸跳过了懒狗。"
+   ],
+   "stage2": "The quick brown fox jumps over the lazy dog.</tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "",
+   "gold": "text_length",
+   "stage1": "这句话“今天天气真好”共有7个字。",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [],
+   "stage2": "<tool_response>\n{\"characters\": 6, \"words\": 1, \"words\": 1}",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "I understand your request and will create a 16-bit pixel art game scene featurin",
+   "gold": "generate_image",
+   "stage1": "Draw a pixel art game scene in 16bit style, with a fantasy forest and a lone adventurer on a path. The pixel is called \"fantasy\". The pixel is called \"fantasy\". The adventurer is called \"fantasy\". The",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "success",
+    "图片已生成完成"
+   ],
+   "stage2": "<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>\n\n<tool_call>",
+   "stage2_hit": false,
+   "stage2_degenerate": false
+  },
+  {
+   "q": "Multiply 25 by 4, then add 10.",
+   "gold": "calculate_math",
+   "stage1": "25 multiplied by 4 plus 10 is 25 multiplied by 4 plus 10.",
+   "stage1_fmt": false,
+   "stage1_json": false,
+   "stage1_name": false,
+   "stage1_arg": false,
+   "key_vals": [
+    "110"
+   ],
+   "stage2": "<tool_response>\n{\"result\": 110}</tool_response>",
+   "stage2_hit": true,
+   "stage2_degenerate": false
+  }
+ ]
+}
