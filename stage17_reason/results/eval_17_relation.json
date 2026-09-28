@@ -1,0 +1,5632 @@
+{
+ "label": "17_relation",
+ "task": "relation",
+ "by_level": {
+  "3": [
+   200,
+   0,
+   0,
+   200
+  ],
+  "4": [
+   200,
+   0,
+   0,
+   200
+  ],
+  "5": [
+   200,
+   0,
+   0,
+   200
+  ],
+  "6": [
+   200,
+   0,
+   0,
+   200
+  ]
+ },
+ "rows": [
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 3,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高，D 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高，C 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高，B 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，D 比 B 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，D 比 B 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，A 比 C 高，B 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，B 比 A 高，A 比 D 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，A 比 B 高，C 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高，D 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 D 高，D 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 D 高，C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 D 高，D 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，D 比 B 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高，D 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 D 高，A 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，A 比 B 高，D 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，B 比 A 高，C 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，D 比 A 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 D 高，A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，D 比 C 高，A 比 D 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 A 高，C 比 D 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 D 高，A 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，A 比 B 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，C 比 A 高，A 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，A 比 C 高，D 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，D 比 B 高，A 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，A 比 B 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，A 比 B 高，C 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 D 高，A 比 C 高，D 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高，D 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 D 高，D 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，D 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 D 高，D 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高，D 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，D 比 B 高，A 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 D 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 D 高，D 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高，A 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，D 比 A 高，B 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，B 比 A 高，D 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 D 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，A 比 D 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，B 比 C 高，D 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 A 高，B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高，B 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，A 比 C 高，D 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，D 比 A 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高，A 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 D 高，C 比 A 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，A 比 D 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，D 比 B 高，C 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，D 比 C 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 C 高，A 比 B 高，B 比 D 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 D 高，D 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，A 比 D 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，A 比 B 高，D 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，D 比 B 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，A 比 D 高，D 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 D 高，C 比 B 高，D 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，D 比 C 高，A 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 A 高，C 比 B 高，B 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，A 比 D 高，C 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，D 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高，D 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，D 比 A 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 D 高，C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 D 高，D 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，D 比 B 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高，A 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，C 比 A 高，A 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，A 比 D 高，D 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 A 高，C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 D 高，D 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 D 高，D 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高，D 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 D 高，D 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，D 比 A 高，C 比 D 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，A 比 D 高，D 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 D 高，B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 C 高，C 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，A 比 D 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 D 高，C 比 A 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 D 高，D 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "D 比 B 高，C 比 D 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，D 比 C 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，D 比 A 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 D 高，D 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 D 高，D 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，B 比 D 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 D 高，D 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 B 高，B 比 D 高，D 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "B 比 C 高，C 比 D 高，D 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 4,
+   "q": "A 比 C 高，C 比 D 高，D 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，B 比 A 高，C 比 E 高，D 比 B 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，D 比 A 高，E 比 D 高，B 比 C 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "E 比 A 高，C 比 D 高，A 比 B 高，D 比 E 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高，E 比 D 高，D 比 C 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，B 比 D 高，D 比 A 高，E 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，E 比 B 高，C 比 E 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，D 比 B 高，E 比 D 高，C 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，C 比 D 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，D 比 E 高，C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 E 高，B 比 A 高，E 比 C 高，D 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 D 高，E 比 C 高，D 比 A 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 A 高，A 比 B 高，B 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，E 比 C 高，B 比 D 高，D 比 E 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 A 高，E 比 C 高，C 比 D 高，A 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，D 比 B 高，E 比 D 高，C 比 E 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，A 比 C 高，D 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，D 比 B 高，E 比 D 高，C 比 E 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，D 比 B 高，C 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 E 高，E 比 D 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，D 比 C 高，A 比 D 高，E 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，C 比 E 高，B 比 A 高，A 比 D 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高，C 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，A 比 D 高，D 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，D 比 B 高，C 比 E 高，B 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高，D 比 A 高，C 比 E 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 E 高，C 比 D 高，B 比 C 高，D 比 A 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，D 比 A 高，A 比 E 高，B 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "E 比 A 高，A 比 D 高，D 比 B 高，C 比 E 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，D 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，D 比 B 高，A 比 E 高，E 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 D 高，B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "E 比 A 高，B 比 C 高，C 比 D 高，D 比 E 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 D 高，D 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "E 比 B 高，B 比 D 高，A 比 E 高，D 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，A 比 D 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高，A 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 E 高，A 比 B 高，B 比 D 高，C 比 A 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，D 比 A 高，A 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，A 比 D 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 D 高，D 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 E 高，D 比 A 高，C 比 D 高，A 比 B 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，D 比 C 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，D 比 B 高，C 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 A 高，B 比 D 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 A 高，E 比 D 高，C 比 E 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，A 比 C 高，D 比 A 高，E 比 D 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 D 高，B 比 C 高，D 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，C 比 A 高，A 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高，D 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 D 高，E 比 B 高，D 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 C 高，C 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，A 比 B 高，B 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 E 高，B 比 A 高，E 比 D 高，A 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 D 高，B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，A 比 C 高，C 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，C 比 D 高，D 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 D 高，D 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，C 比 A 高，D 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，C 比 D 高，B 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 E 高，B 比 C 高，A 比 D 高，E 比 A 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 E 高，C 比 B 高，A 比 C 高，E 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 E 高，E 比 A 高，D 比 C 高，A 比 D 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，E 比 B 高，C 比 D 高，A 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，A 比 B 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 A 高，B 比 D 高，E 比 C 高，A 比 E 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 D 高，C 比 A 高，D 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，A 比 C 高，C 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，D 比 C 高，C 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，B 比 D 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 C 高，C 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，B 比 A 高，D 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，C 比 A 高，D 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，C 比 D 高，D 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，B 比 A 高，A 比 D 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，D 比 C 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，E 比 C 高，A 比 D 高，D 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，B 比 C 高，A 比 D 高，E 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，D 比 A 高，C 比 E 高，E 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 A 高，A 比 C 高，C 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 D 高，A 比 C 高，D 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，A 比 D 高，C 比 E 高，E 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，E 比 D 高，B 比 E 高，D 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 D 高，D 比 E 高，B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 A 高，A 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "E 比 D 高，C 比 E 高，D 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，D 比 C 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高，B 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，C 比 D 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 B 高，A 比 E 高，C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，D 比 C 高，E 比 A 高，C 比 E 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 D 高，D 比 C 高，E 比 A 高，C 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，A 比 C 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 E 高，C 比 A 高，E 比 D 高，A 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，D 比 C 高，C 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，A 比 E 高，B 比 D 高，D 比 A 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 B 高，A 比 D 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 D 高，D 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 B 高，A 比 D 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 D 高，E 比 A 高，D 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "E 比 D 高，A 比 E 高，C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，B 比 D 高，D 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高，C 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 D 高，B 比 A 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，C 比 A 高，D 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 C 高，A 比 B 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 D 高，D 比 B 高，A 比 C 高，B 比 E 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 D 高，B 比 C 高，E 比 B 高，D 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，D 比 C 高，A 比 D 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，D 比 C 高，E 比 B 高，B 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 D 高，A 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，D 比 A 高，B 比 D 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 D 高，D 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，A 比 B 高，C 比 A 高，E 比 C 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 B 高，A 比 C 高，D 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 E 高，B 比 A 高，C 比 B 高，D 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 B 高，B 比 D 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 D 高，A 比 B 高，D 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 D 高，D 比 C 高，B 比 E 高，E 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，D 比 B 高，C 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "D 比 B 高，C 比 E 高，B 比 C 高，E 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 A 高，E 比 B 高，D 比 E 高，A 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "A 比 E 高，E 比 B 高，D 比 A 高，C 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 A 高，D 比 B 高，C 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "C 比 E 高，A 比 D 高，B 比 C 高，D 比 B 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 5,
+   "q": "B 比 C 高，D 比 A 高，A 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，D 比 B 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，C 比 E 高，B 比 C 高，A 比 F 高，E 比 D 高。谁最矮？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 D 高，E 比 A 高，A 比 C 高，C 比 B 高，F 比 E 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 E 高，A 比 D 高，D 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 D 高，A 比 E 高，E 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 D 高，C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 E 高，B 比 C 高，C 比 D 高，D 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 C 高，B 比 F 高，A 比 B 高，C 比 A 高，F 比 E 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，E 比 F 高，C 比 A 高，B 比 C 高，A 比 E 高。谁最矮？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 E 高，B 比 A 高，E 比 D 高，D 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 E 高，D 比 B 高，E 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，E 比 C 高，D 比 A 高，C 比 D 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 D 高，E 比 B 高，B 比 C 高，D 比 E 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，D 比 C 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 E 高，C 比 B 高，B 比 D 高，F 比 A 高，E 比 F 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 F 高，E 比 C 高，C 比 D 高，D 比 B 高，A 比 E 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 D 高，D 比 B 高，B 比 C 高，E 比 A 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 E 高，C 比 B 高，E 比 C 高，F 比 A 高，A 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，D 比 B 高，C 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 E 高，B 比 C 高，F 比 B 高，E 比 D 高，A 比 F 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 C 高，C 比 B 高，A 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，C 比 D 高，E 比 A 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 C 高，C 比 A 高，F 比 E 高，B 比 F 高，E 比 D 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "F 比 C 高，A 比 B 高，B 比 D 高，E 比 F 高，C 比 A 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高，A 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，D 比 C 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 E 高，C 比 D 高，B 比 A 高，E 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 D 高，C 比 B 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，A 比 B 高，C 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，E 比 D 高，A 比 E 高，D 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "F 比 E 高，D 比 B 高，E 比 A 高，A 比 C 高，B 比 F 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，D 比 C 高，C 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 D 高，D 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，C 比 A 高，A 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 E 高，A 比 C 高，D 比 A 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，C 比 A 高，B 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 D 高，C 比 E 高，D 比 F 高，F 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 A 高，B 比 E 高，A 比 C 高，D 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 D 高，C 比 A 高，D 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 D 高，A 比 E 高，E 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 D 高，D 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 F 高，F 比 D 高，E 比 A 高，A 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 F 高，F 比 A 高，C 比 E 高，A 比 D 高，D 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，D 比 B 高，E 比 F 高，F 比 C 高，A 比 E 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，E 比 C 高，C 比 B 高，A 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，A 比 B 高，C 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 E 高，E 比 C 高，A 比 B 高，D 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，C 比 D 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 F 高，F 比 E 高，C 比 A 高，E 比 B 高，A 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 C 高，D 比 A 高，C 比 B 高，A 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，E 比 C 高，B 比 E 高，C 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，E 比 A 高，A 比 C 高，B 比 D 高，D 比 F 高。谁最矮？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，F 比 B 高，A 比 F 高，E 比 D 高，D 比 C 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 D 高，A 比 B 高，D 比 A 高，C 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 E 高，E 比 C 高，C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 D 高，D 比 A 高，C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 D 高，B 比 A 高，D 比 B 高，F 比 E 高，A 比 F 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 A 高，B 比 E 高，C 比 B 高，D 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 D 高，A 比 C 高，D 比 B 高，B 比 A 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 C 高，B 比 D 高，A 比 B 高，E 比 A 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 E 高，D 比 B 高，E 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，D 比 F 高，E 比 C 高，B 比 E 高，A 比 D 高。谁最矮？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，C 比 A 高，B 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，B 比 C 高，E 比 D 高，F 比 E 高，C 比 A 高。谁最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，B 比 C 高，A 比 D 高，C 比 E 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，A 比 E 高，C 比 B 高，F 比 D 高，B 比 F 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，D 比 A 高，C 比 D 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 D 高，C 比 A 高，B 比 C 高，E 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 D 高，D 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 D 高，A 比 E 高，E 比 C 高，F 比 B 高，C 比 F 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 E 高，A 比 B 高，E 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，B 比 D 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，B 比 D 高，D 比 E 高，E 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，C 比 E 高，B 比 C 高，E 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 A 高，D 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，A 比 F 高，F 比 D 高，C 比 E 高，D 比 C 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 B 高，C 比 E 高，D 比 A 高，A 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 E 高，A 比 B 高，C 比 A 高，D 比 C 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "F 比 D 高，B 比 A 高，E 比 C 高，C 比 F 高，A 比 E 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，C 比 D 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 E 高，B 比 A 高，C 比 B 高，D 比 C 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 D 高，C 比 B 高，E 比 F 高，D 比 E 高，F 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 D 高，C 比 A 高，E 比 C 高，F 比 B 高，D 比 F 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，B 比 C 高，F 比 D 高，D 比 A 高，C 比 E 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 C 高，A 比 D 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 F 高，F 比 D 高，C 比 B 高，A 比 C 高，D 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高，A 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，B 比 C 高，D 比 F 高，E 比 A 高，C 比 D 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 D 高，A 比 B 高，D 比 C 高，B 比 E 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 C 高，A 比 D 高，D 比 E 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 E 高，B 比 D 高，E 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 E 高，C 比 A 高，D 比 F 高，A 比 D 高，E 比 C 高。谁最矮？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，E 比 A 高，D 比 E 高，C 比 D 高，F 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，A 比 D 高，D 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 E 高，A 比 B 高，F 比 D 高，B 比 F 高，C 比 A 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 E 高，E 比 A 高，B 比 C 高，A 比 D 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 C 高，D 比 F 高，A 比 B 高，B 比 D 高，F 比 E 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，E 比 B 高，A 比 F 高，D 比 E 高，F 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 B 高，A 比 F 高，C 比 D 高，F 比 C 高，D 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，A 比 D 高，D 比 E 高，E 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，E 比 D 高，A 比 C 高，D 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "F 比 E 高，D 比 A 高，C 比 B 高，B 比 D 高，E 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，D 比 C 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，D 比 C 高，A 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 D 高，C 比 B 高，D 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，D 比 C 高，B 比 D 高，A 比 E 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "F 比 C 高，E 比 A 高，C 比 B 高，D 比 F 高，B 比 E 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 E 高，E 比 C 高，B 比 A 高，F 比 B 高，C 比 F 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，B 比 C 高，D 比 E 高，E 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，D 比 E 高，E 比 A 高，C 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 C 高，B 比 D 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 D 高，F 比 A 高，D 比 F 高，B 比 E 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 E 高，F 比 D 高，B 比 C 高，E 比 A 高，A 比 F 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，C 比 D 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高，A 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，C 比 B 高，B 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 A 高，F 比 B 高，D 比 E 高，A 比 F 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，D 比 B 高，B 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 A 高，A 比 C 高，B 比 D 高，D 比 E 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高，E 比 B 高，C 比 D 高，D 比 F 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 B 高，A 比 C 高，B 比 A 高，C 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，C 比 A 高，D 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 B 高，D 比 C 高，C 比 A 高，B 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 E 高，C 比 B 高，A 比 C 高，E 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，A 比 C 高，D 比 F 高，F 比 E 高，E 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 B 高，A 比 E 高，D 比 A 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 C 高，A 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，A 比 C 高，B 比 D 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，A 比 C 高，E 比 D 高，C 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 A 高，A 比 B 高，B 比 D 高，F 比 C 高，C 比 E 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，A 比 C 高，B 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，F 比 C 高，D 比 E 高，E 比 F 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 E 高，D 比 A 高，B 比 F 高，F 比 C 高，E 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，A 比 C 高，E 比 D 高，C 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 A 高，B 比 D 高，A 比 E 高，E 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 C 高，A 比 D 高，C 比 A 高，D 比 E 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "C 比 A 高，B 比 D 高，A 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 B 高，D 比 F 高，C 比 E 高，F 比 C 高，E 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 C 高，B 比 E 高，F 比 D 高，D 比 B 高，C 比 A 高。谁最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 A 高，A 比 F 高，E 比 B 高，C 比 E 高，F 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "B 比 D 高，D 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "D 比 B 高，A 比 D 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 D 高，A 比 E 高，C 比 A 高，D 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "E 比 F 高，F 比 A 高，A 比 B 高，D 比 C 高，C 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "level": 6,
+   "q": "A 比 C 高，B 比 D 高，D 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  }
+ ]
+}

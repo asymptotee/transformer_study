@@ -1,0 +1,5632 @@
+{
+ "label": "17_relation_variant",
+ "task": "relation",
+ "by_level": {
+  "身高(训练同款)": [
+   200,
+   0,
+   0,
+   200
+  ],
+  "年龄(新)": [
+   176,
+   0,
+   0,
+   200
+  ],
+  "分数(新)": [
+   187,
+   0,
+   0,
+   200
+  ],
+  "排队(新)": [
+   47,
+   0,
+   0,
+   200
+  ]
+ },
+ "rows": [
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 E 高，D 比 C 高，B 比 D 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 B 高，B 比 C 高，A 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，F 比 D 高，C 比 B 高，E 比 F 高，A 比 E 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，B 比 D 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "E 比 B 高，B 比 F 高，C 比 D 高，F 比 A 高，D 比 E 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "E 比 A 高，C 比 E 高，D 比 C 高，A 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，A 比 E 高，B 比 F 高，C 比 B 高，E 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 C 高，D 比 B 高，E 比 D 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 C 高，D 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，D 比 C 高，E 比 A 高，C 比 E 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，A 比 D 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，A 比 D 高，B 比 A 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "E 比 C 高，B 比 A 高，A 比 E 高，C 比 D 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 F 高，E 比 C 高，D 比 E 高，F 比 D 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，B 比 D 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 E 高，B 比 A 高，E 比 B 高，A 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 B 高，A 比 D 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 E 高，C 比 D 高，A 比 C 高，D 比 B 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，D 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，C 比 B 高，A 比 E 高，D 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，C 比 B 高，B 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 E 高，D 比 C 高，F 比 B 高，B 比 D 高，E 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，A 比 B 高，D 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 D 高，D 比 A 高，A 比 E 高，E 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 D 高，B 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 D 高，B 比 A 高，D 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，E 比 F 高，F 比 D 高，C 比 B 高，A 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 D 高，A 比 F 高，E 比 B 高，D 比 A 高，B 比 C 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 E 高，B 比 C 高，A 比 B 高，C 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，D 比 C 高，A 比 F 高，E 比 D 高，C 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，F 比 B 高，C 比 E 高，A 比 F 高，D 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 E 高，E 比 A 高，B 比 C 高，D 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，D 比 A 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 F 高，D 比 B 高，A 比 C 高，C 比 D 高，F 比 E 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，C 比 A 高，D 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，A 比 D 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，E 比 C 高，D 比 F 高，A 比 D 高，C 比 B 高。谁最矮？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 F 高，D 比 A 高，E 比 C 高，C 比 B 高，F 比 D 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 B 高，B 比 A 高，E 比 D 高，C 比 E 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 D 高，B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 F 高，A 比 D 高，F 比 A 高，B 比 C 高，D 比 E 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 B 高，C 比 D 高，E 比 F 高，A 比 E 高，F 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，B 比 C 高，C 比 D 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，B 比 E 高，C 比 D 高，E 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，A 比 B 高，B 比 D 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "F 比 B 高，D 比 A 高，B 比 D 高，E 比 F 高，C 比 E 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 D 高，B 比 F 高，F 比 A 高，A 比 C 高，D 比 E 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 E 高，E 比 B 高，A 比 C 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，F 比 D 高，D 比 E 高，B 比 A 高，E 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "F 比 A 高，E 比 C 高，B 比 D 高，C 比 B 高，D 比 F 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 F 高，F 比 A 高，E 比 B 高，D 比 E 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 E 高，D 比 B 高，B 比 A 高，E 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，E 比 F 高，F 比 C 高，B 比 E 高，C 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 F 高，A 比 C 高，B 比 E 高，D 比 B 高，E 比 A 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 E 高，A 比 D 高，D 比 B 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，F 比 E 高，E 比 B 高，B 比 A 高，D 比 F 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 E 高，D 比 C 高，C 比 B 高，A 比 F 高，F 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 D 高，C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 E 高，B 比 C 高，F 比 A 高，E 比 D 高，D 比 B 高。谁最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 E 高，D 比 C 高，B 比 A 高，C 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 D 高，E 比 B 高，C 比 A 高，F 比 C 高，D 比 E 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，D 比 A 高，E 比 C 高，A 比 E 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 D 高，B 比 C 高，E 比 A 高，D 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，E 比 B 高，B 比 D 高，A 比 E 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 E 高，B 比 C 高，D 比 B 高，E 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 E 高，F 比 D 高，E 比 B 高，D 比 A 高，C 比 F 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，A 比 E 高，B 比 C 高，E 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，A 比 C 高，D 比 A 高，B 比 E 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 E 高，A 比 D 高，E 比 B 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，A 比 E 高，F 比 B 高，D 比 C 高，C 比 F 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 D 高，D 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，F 比 D 高，B 比 F 高，D 比 A 高，C 比 E 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，E 比 D 高，F 比 E 高，B 比 F 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "E 比 D 高，D 比 B 高，C 比 E 高，B 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，D 比 A 高，C 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 D 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，A 比 C 高，D 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，B 比 D 高，D 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 B 高，A 比 D 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，B 比 E 高，D 比 C 高，C 比 A 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 D 高，D 比 A 高，B 比 E 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 E 高，E 比 A 高，D 比 C 高，B 比 D 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，E 比 B 高，A 比 D 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，B 比 C 高，C 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，A 比 C 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 D 高，A 比 C 高，B 比 A 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，C 比 E 高，E 比 A 高，A 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，F 比 D 高，E 比 C 高，C 比 F 高，A 比 E 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，F 比 B 高，A 比 E 高，D 比 A 高，E 比 F 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，D 比 C 高，A 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，A 比 D 高，B 比 A 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 E 高，D 比 B 高，C 比 A 高，E 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 E 高，D 比 A 高，A 比 B 高，C 比 D 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 D 高，E 比 F 高，F 比 A 高，B 比 C 高，A 比 B 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，A 比 B 高，C 比 E 高，E 比 D 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "F 比 B 高，C 比 A 高，A 比 F 高，D 比 E 高，E 比 C 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 E 高，E 比 B 高，B 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 B 高，B 比 A 高，C 比 D 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，B 比 D 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，C 比 A 高，A 比 E 高，E 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，C 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，D 比 C 高，A 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "F 比 D 高，C 比 A 高，B 比 C 高，E 比 B 高，A 比 F 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 F 高，C 比 E 高，F 比 C 高，A 比 D 高，D 比 B 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 D 高，A 比 C 高，B 比 E 高，D 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "E 比 A 高，B 比 D 高，D 比 E 高，A 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 E 高，C 比 A 高，F 比 B 高，B 比 C 高，E 比 D 高。谁最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "F 比 C 高，B 比 E 高，E 比 F 高，C 比 D 高，A 比 B 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，D 比 B 高，C 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，B 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，A 比 E 高，D 比 B 高，C 比 D 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 E 高，A 比 D 高，E 比 C 高，D 比 B 高，C 比 F 高。谁最矮？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，D 比 A 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 E 高，E 比 C 高，D 比 B 高，A 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 A 高，B 比 D 高，A 比 C 高，E 比 F 高，F 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，A 比 B 高，F 比 E 高，E 比 C 高，C 比 A 高。谁最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，B 比 D 高，C 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 D 高，E 比 C 高，D 比 B 高，C 比 A 高。谁最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "E 比 B 高，C 比 A 高，D 比 C 高，A 比 E 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 B 高，C 比 D 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，D 比 A 高，E 比 D 高，A 比 C 高，F 比 E 高。谁最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，B 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，B 比 E 高，F 比 A 高，D 比 F 高，A 比 C 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，A 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 A 高，A 比 B 高，B 比 D 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，E 比 C 高，D 比 A 高，C 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，B 比 D 高，D 比 E 高，A 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "F 比 C 高，E 比 A 高，D 比 B 高，C 比 E 高，A 比 D 高。谁最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 D 高，A 比 C 高，D 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，C 比 D 高，D 比 B 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "F 比 D 高，C 比 B 高，E 比 A 高，B 比 F 高，D 比 E 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，E 比 D 高，B 比 E 高，D 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，B 比 A 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，B 比 C 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 B 高，C 比 A 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "E 比 A 高，C 比 D 高，D 比 B 高，A 比 C 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 C 高，C 比 A 高，A 比 B 高。谁最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "C 比 B 高，A 比 C 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，C 比 A 高，D 比 C 高。谁最矮？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，D 比 F 高，A 比 E 高，C 比 A 高，F 比 C 高。谁最矮？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 E 高，A 比 B 高，F 比 A 高，C 比 D 高，E 比 F 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 D 高，E 比 C 高，B 比 E 高，D 比 B 高。谁最矮？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，D 比 E 高，C 比 B 高，B 比 D 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 C 高，C 比 A 高。谁最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 D 高，C 比 A 高，E 比 C 高，A 比 B 高。谁最矮？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "D 比 B 高，A 比 D 高，B 比 C 高。谁最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "A 比 C 高，C 比 B 高。谁最矮？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "身高(训练同款)",
+   "q": "B 比 A 高，C 比 B 高。谁最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，D 比 E 年长，A 比 C 年长，F 比 B 年长，C 比 D 年长。谁年龄最大？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，D 比 B 年长，C 比 D 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，B 比 A 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 D 年长，F 比 A 年长，A 比 C 年长，D 比 F 年长，C 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，C 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 D 年长，C 比 B 年长，A 比 F 年长，D 比 C 年长，F 比 E 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，D 比 C 年长，C 比 A 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，C 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，C 比 A 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，B 比 D 年长，E 比 A 年长，D 比 F 年长，A 比 C 年长。谁年龄最小？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 B 年长，C 比 A 年长，B 比 C 年长。谁年龄最大？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，C 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 A 年长，E 比 D 年长，A 比 B 年长，B 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 E 年长，A 比 C 年长，B 比 D 年长，C 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，B 比 D 年长，C 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 F 年长，D 比 B 年长，A 比 C 年长，B 比 E 年长，F 比 A 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 A 年长，A 比 C 年长，F 比 D 年长，C 比 F 年长，D 比 B 年长。谁年龄最大？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 D 年长，A 比 C 年长，B 比 A 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 E 年长，B 比 A 年长，D 比 B 年长，A 比 C 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 C 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，C 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 A 年长，C 比 B 年长，B 比 D 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，A 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，C 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，A 比 C 年长，C 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 D 年长，B 比 A 年长，A 比 C 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，A 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 E 年长，C 比 D 年长，B 比 C 年长，A 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 F 年长，A 比 C 年长，D 比 B 年长，F 比 E 年长，C 比 D 年长。谁年龄最大？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 D 年长，D 比 C 年长，C 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，D 比 A 年长，B 比 C 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 A 年长，C 比 B 年长，A 比 E 年长，B 比 D 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，C 比 A 年长，D 比 C 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，B 比 A 年长，A 比 D 年长。谁年龄最大？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，A 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，D 比 A 年长，C 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，B 比 A 年长，E 比 D 年长，C 比 E 年长，D 比 F 年长。谁年龄最大？",
+   "want": "B",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 A 年长，B 比 C 年长，A 比 D 年长，C 比 E 年长。谁年龄最大？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长，A 比 D 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 A 年长，F 比 D 年长，A 比 F 年长，C 比 B 年长，B 比 E 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，B 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 F 年长，B 比 E 年长，D 比 B 年长，E 比 C 年长，F 比 D 年长。谁年龄最大？",
+   "want": "A",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，C 比 D 年长，A 比 B 年长，E 比 A 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，D 比 A 年长，B 比 E 年长，E 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，A 比 D 年长，C 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 B 年长，A 比 D 年长，C 比 A 年长，D 比 E 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 D 年长，D 比 B 年长，C 比 F 年长，A 比 C 年长，F 比 E 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，D 比 B 年长，A 比 E 年长，E 比 D 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，A 比 E 年长，D 比 B 年长，F 比 D 年长，E 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 E 年长，D 比 B 年长，E 比 C 年长，C 比 A 年长。谁年龄最大？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，C 比 A 年长，A 比 B 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "F 比 A 年长，D 比 F 年长，E 比 C 年长，A 比 E 年长，C 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，E 比 B 年长，A 比 E 年长，B 比 D 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，A 比 D 年长，D 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，D 比 A 年长，C 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 B 年长，E 比 A 年长，B 比 C 年长，C 比 E 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，A 比 B 年长，B 比 D 年长，D 比 E 年长，E 比 F 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 E 年长，E 比 D 年长，D 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，C 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，C 比 A 年长，F 比 B 年长，A 比 E 年长，E 比 F 年长。谁年龄最大？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，C 比 D 年长，D 比 A 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 C 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 B 年长，A 比 C 年长，B 比 A 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 A 年长，E 比 B 年长，B 比 D 年长，C 比 E 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 E 年长，E 比 D 年长，B 比 C 年长，C 比 A 年长。谁年龄最大？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 D 年长，C 比 A 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "F 比 D 年长，C 比 E 年长，E 比 F 年长，B 比 A 年长，D 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 B 年长，C 比 E 年长，A 比 C 年长，D 比 A 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，C 比 A 年长，D 比 C 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，E 比 B 年长，A 比 D 年长，D 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 A 年长，B 比 D 年长，A 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，C 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，B 比 D 年长，C 比 A 年长。谁年龄最大？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，A 比 C 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，D 比 B 年长，C 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，C 比 A 年长，E 比 D 年长，B 比 E 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，A 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，A 比 B 年长，D 比 C 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，A 比 C 年长。谁年龄最小？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 D 年长，F 比 B 年长，A 比 E 年长，D 比 F 年长，B 比 A 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "F 比 D 年长，C 比 E 年长，A 比 B 年长，B 比 F 年长，D 比 C 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 D 年长，A 比 C 年长，D 比 B 年长，B 比 E 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 A 年长，E 比 B 年长，C 比 E 年长，A 比 F 年长，B 比 D 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，B 比 A 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 D 年长，D 比 A 年长，E 比 B 年长，B 比 C 年长。谁年龄最大？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，D 比 E 年长，B 比 F 年长，F 比 C 年长，E 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，E 比 D 年长，C 比 B 年长，B 比 A 年长。谁年龄最大？",
+   "want": "E",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，A 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，C 比 A 年长，B 比 D 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，A 比 D 年长，D 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 E 年长，B 比 A 年长，E 比 D 年长，A 比 C 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，D 比 B 年长，A 比 E 年长，C 比 F 年长，F 比 D 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，B 比 A 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，A 比 B 年长，B 比 D 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，D 比 C 年长，A 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，C 比 B 年长，B 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，C 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，C 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，D 比 E 年长，C 比 A 年长，E 比 B 年长。谁年龄最大？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，A 比 C 年长，B 比 D 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，D 比 B 年长，A 比 D 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，A 比 D 年长，D 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，C 比 B 年长，B 比 D 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长，A 比 D 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 D 年长，D 比 A 年长，B 比 C 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 D 年长，B 比 A 年长，D 比 E 年长，C 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 D 年长，E 比 A 年长，B 比 E 年长，C 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，C 比 A 年长，E 比 C 年长，B 比 D 年长。谁年龄最大？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，C 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 C 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，A 比 C 年长，C 比 B 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，A 比 E 年长，C 比 B 年长，D 比 A 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，C 比 F 年长，E 比 C 年长，A 比 B 年长，D 比 E 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "F 比 D 年长，E 比 B 年长，A 比 E 年长，B 比 C 年长，D 比 A 年长。谁年龄最大？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 F 年长，E 比 D 年长，C 比 A 年长，B 比 C 年长，A 比 E 年长。谁年龄最小？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，C 比 A 年长，D 比 C 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 D 年长，A 比 E 年长，D 比 B 年长，E 比 C 年长，B 比 F 年长。谁年龄最小？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，B 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 D 年长，F 比 B 年长，C 比 E 年长，E 比 A 年长，B 比 C 年长。谁年龄最大？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，E 比 D 年长，D 比 B 年长，A 比 C 年长。谁年龄最大？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，D 比 B 年长，A 比 D 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，D 比 A 年长，A 比 C 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，C 比 D 年长，D 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，D 比 A 年长，C 比 B 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，B 比 A 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，C 比 A 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，B 比 D 年长，C 比 B 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，A 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 A 年长，A 比 C 年长，B 比 E 年长，C 比 B 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，C 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 F 年长，F 比 C 年长，E 比 D 年长，C 比 B 年长，A 比 E 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，C 比 E 年长，D 比 B 年长，E 比 A 年长。谁年龄最大？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，B 比 A 年长，D 比 C 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 F 年长，D 比 B 年长，E 比 A 年长，A 比 C 年长，F 比 E 年长。谁年龄最大？",
+   "want": "D",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 D 年长，D 比 C 年长，C 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，B 比 F 年长，D 比 C 年长，C 比 E 年长，E 比 A 年长。谁年龄最大？",
+   "want": "D",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，A 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，C 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，A 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 A 年长，C 比 E 年长，E 比 D 年长，A 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 B 年长，A 比 E 年长，D 比 C 年长，C 比 A 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 C 年长，F 比 E 年长，C 比 B 年长，D 比 F 年长，B 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 C 年长，A 比 D 年长，D 比 B 年长，C 比 A 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 E 年长，D 比 A 年长，A 比 B 年长，B 比 C 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，A 比 D 年长，B 比 A 年长，C 比 E 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，A 比 C 年长。谁年龄最小？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，A 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，C 比 B 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，B 比 A 年长。谁年龄最大？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，F 比 C 年长，D 比 E 年长，A 比 F 年长，B 比 D 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，C 比 B 年长，B 比 E 年长，A 比 D 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，C 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，A 比 B 年长，C 比 A 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 B 年长，C 比 F 年长，B 比 A 年长，E 比 C 年长，F 比 D 年长。谁年龄最大？",
+   "want": "E",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，D 比 A 年长，B 比 E 年长，E 比 D 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，C 比 A 年长，B 比 D 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 A 年长，B 比 D 年长，D 比 E 年长，A 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，C 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，A 比 B 年长，C 比 D 年长，D 比 E 年长。谁年龄最大？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，B 比 E 年长，E 比 A 年长，C 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 D 年长，B 比 A 年长，C 比 B 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，B 比 D 年长，C 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，C 比 A 年长，A 比 B 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，E 比 D 年长，A 比 E 年长，D 比 C 年长。谁年龄最大？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，B 比 A 年长，C 比 B 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，E 比 F 年长，B 比 E 年长，F 比 D 年长，A 比 B 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，A 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，B 比 E 年长，D 比 A 年长，E 比 D 年长，C 比 F 年长。谁年龄最小？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "F 比 E 年长，B 比 F 年长，E 比 D 年长，A 比 C 年长，C 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，C 比 B 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 D 年长，D 比 C 年长，C 比 B 年长，B 比 E 年长。谁年龄最大？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，E 比 D 年长，D 比 B 年长，A 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 C 年长，A 比 B 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 C 年长，C 比 B 年长。谁年龄最小？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "D 比 C 年长，C 比 B 年长，B 比 A 年长，A 比 E 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，D 比 C 年长，E 比 A 年长，C 比 E 年长，A 比 F 年长。谁年龄最大？",
+   "want": "B",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，B 比 D 年长，D 比 A 年长。谁年龄最小？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 B 年长，A 比 C 年长，B 比 D 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 D 年长，B 比 A 年长，D 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 E 年长，A 比 B 年长，D 比 A 年长，E 比 C 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，D 比 A 年长，B 比 C 年长，C 比 E 年长。谁年龄最大？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "F 比 B 年长，C 比 D 年长，E 比 A 年长，B 比 E 年长，A 比 C 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 A 年长，B 比 E 年长，E 比 D 年长，A 比 B 年长，D 比 F 年长。谁年龄最小？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "C 比 E 年长，E 比 A 年长，A 比 D 年长，B 比 C 年长。谁年龄最大？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 D 年长，C 比 A 年长，E 比 C 年长，A 比 B 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "B 比 A 年长，F 比 E 年长，C 比 B 年长，E 比 C 年长，A 比 D 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 B 年长，D 比 E 年长，B 比 D 年长，E 比 C 年长。谁年龄最小？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "E 比 C 年长，F 比 A 年长，A 比 E 年长，B 比 D 年长，C 比 B 年长。谁年龄最小？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "年龄(新)",
+   "q": "A 比 E 年长，D 比 F 年长，B 比 C 年长，C 比 A 年长，F 比 B 年长。谁年龄最小？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，B 的分数比 D 高，D 的分数比 A 高，E 的分数比 C 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，A 的分数比 B 高。谁分数最低？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，A 的分数比 B 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，E 的分数比 B 高，C 的分数比 F 高，B 的分数比 D 高，D 的分数比 A 高。谁分数最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 C 高，C 的分数比 A 高，B 的分数比 D 高，A 的分数比 B 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 D 高，F 的分数比 A 高，A 的分数比 C 高，C 的分数比 B 高，B 的分数比 E 高。谁分数最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，D 的分数比 A 高，B 的分数比 D 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，C 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，A 的分数比 C 高，E 的分数比 B 高，C 的分数比 E 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 B 高，B 的分数比 A 高，C 的分数比 E 高，D 的分数比 F 高，A 的分数比 C 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，C 的分数比 B 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，D 的分数比 A 高，B 的分数比 C 高。谁分数最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，D 的分数比 C 高，A 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，E 的分数比 A 高，C 的分数比 B 高，D 的分数比 E 高。谁分数最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 D 高，A 的分数比 B 高，D 的分数比 A 高。谁分数最低？",
+   "want": "B",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，C 的分数比 A 高，B 的分数比 C 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，D 的分数比 E 高，E 的分数比 C 高，A 的分数比 D 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，A 的分数比 B 高。谁分数最低？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，B 的分数比 C 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，D 的分数比 E 高，E 的分数比 C 高，C 的分数比 F 高，B 的分数比 D 高。谁分数最低？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，C 的分数比 A 高，A 的分数比 D 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，B 的分数比 D 高，A 的分数比 B 高，C 的分数比 E 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，D 的分数比 C 高，A 的分数比 B 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，C 的分数比 B 高，E 的分数比 F 高，F 的分数比 C 高，A 的分数比 E 高。谁分数最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，A 的分数比 D 高，C 的分数比 A 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，A 的分数比 E 高，E 的分数比 D 高，C 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，B 的分数比 C 高，C 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，C 的分数比 D 高，B 的分数比 A 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，F 的分数比 E 高，C 的分数比 A 高，A 的分数比 D 高，E 的分数比 B 高。谁分数最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，B 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，A 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，C 的分数比 B 高，A 的分数比 D 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，F 的分数比 C 高，D 的分数比 A 高，E 的分数比 F 高，A 的分数比 E 高。谁分数最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，C 的分数比 D 高，D 的分数比 A 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，E 的分数比 D 高，A 的分数比 E 高，C 的分数比 B 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 D 高，B 的分数比 E 高，C 的分数比 A 高，D 的分数比 B 高，E 的分数比 C 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，B 的分数比 C 高，E 的分数比 A 高，A 的分数比 D 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，D 的分数比 C 高，E 的分数比 A 高，B 的分数比 F 高，C 的分数比 B 高。谁分数最低？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，E 的分数比 D 高，B 的分数比 A 高，A 的分数比 C 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，B 的分数比 A 高，D 的分数比 F 高，F 的分数比 C 高，A 的分数比 E 高。谁分数最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，E 的分数比 A 高，F 的分数比 D 高，B 的分数比 F 高，A 的分数比 C 高。谁分数最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，A 的分数比 C 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，A 的分数比 D 高，D 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，A 的分数比 D 高，D 的分数比 C 高，E 的分数比 B 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 C 高，A 的分数比 B 高，D 的分数比 A 高，F 的分数比 D 高，C 的分数比 F 高。谁分数最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，D 的分数比 C 高，B 的分数比 E 高，E 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，D 的分数比 C 高，E 的分数比 B 高，A 的分数比 F 高，F 的分数比 E 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 E 高，A 的分数比 C 高，D 的分数比 F 高，E 的分数比 B 高，C 的分数比 D 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，C 的分数比 D 高，A 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 A 高，B 的分数比 C 高，C 的分数比 E 高，A 的分数比 D 高，D 的分数比 B 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 C 高，B 的分数比 E 高，A 的分数比 D 高，C 的分数比 A 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，B 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，B 的分数比 D 高，D 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 E 高，D 的分数比 F 高，A 的分数比 C 高，E 的分数比 B 高，B 的分数比 D 高。谁分数最低？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 D 高，D 的分数比 B 高，A 的分数比 C 高，F 的分数比 A 高，B 的分数比 F 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，E 的分数比 B 高，C 的分数比 E 高，D 的分数比 C 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，B 的分数比 A 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 D 高，A 的分数比 C 高，D 的分数比 B 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，A 的分数比 D 高，C 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，E 的分数比 A 高，C 的分数比 F 高，F 的分数比 B 高，B 的分数比 E 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 E 高，D 的分数比 B 高，F 的分数比 C 高，E 的分数比 F 高，C 的分数比 D 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 D 高，B 的分数比 A 高，A 的分数比 C 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，C 的分数比 B 高，F 的分数比 E 高，D 的分数比 F 高，E 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 D 高，E 的分数比 B 高，D 的分数比 E 高，A 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 E 高，B 的分数比 A 高，D 的分数比 C 高，E 的分数比 D 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，B 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，A 的分数比 E 高，E 的分数比 D 高，C 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 E 高，A 的分数比 B 高，C 的分数比 A 高，D 的分数比 C 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，F 的分数比 E 高，C 的分数比 D 高，D 的分数比 F 高，B 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，D 的分数比 E 高，B 的分数比 C 高，C 的分数比 F 高，F 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，B 的分数比 D 高，A 的分数比 C 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，B 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，E 的分数比 C 高，C 的分数比 D 高，D 的分数比 A 高。谁分数最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，B 的分数比 A 高，C 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，D 的分数比 A 高，B 的分数比 D 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，C 的分数比 B 高，A 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，B 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，F 的分数比 A 高，D 的分数比 C 高，C 的分数比 E 高，B 的分数比 F 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 D 高，A 的分数比 B 高，B 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，C 的分数比 B 高，A 的分数比 D 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，D 的分数比 E 高，F 的分数比 A 高，A 的分数比 C 高，E 的分数比 F 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 E 高，B 的分数比 A 高，E 的分数比 C 高，D 的分数比 B 高，F 的分数比 D 高。谁分数最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，C 的分数比 B 高，A 的分数比 D 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，E 的分数比 D 高，C 的分数比 E 高，F 的分数比 A 高，B 的分数比 F 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，C 的分数比 A 高。谁分数最低？",
+   "want": "B",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，B 的分数比 D 高，C 的分数比 A 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，A 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，C 的分数比 A 高。谁分数最低？",
+   "want": "B",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 D 高，A 的分数比 F 高，F 的分数比 C 高，B 的分数比 A 高，D 的分数比 E 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，C 的分数比 A 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，A 的分数比 B 高，C 的分数比 E 高，E 的分数比 A 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，A 的分数比 B 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，A 的分数比 D 高，C 的分数比 B 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 D 高，A 的分数比 B 高，B 的分数比 C 高，D 的分数比 F 高，C 的分数比 E 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，B 的分数比 C 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 E 高，B 的分数比 A 高，C 的分数比 B 高，A 的分数比 D 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 E 高，B 的分数比 D 高，E 的分数比 C 高，A 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，E 的分数比 D 高，C 的分数比 A 高，A 的分数比 E 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，C 的分数比 A 高，D 的分数比 C 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，C 的分数比 B 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，D 的分数比 C 高，C 的分数比 A 高。谁分数最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，A 的分数比 C 高。谁分数最低？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，C 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，A 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，B 的分数比 A 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，C 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，A 的分数比 B 高，C 的分数比 A 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，B 的分数比 A 高。谁分数最低？",
+   "want": "C",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，E 的分数比 B 高，D 的分数比 E 高，A 的分数比 D 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，D 的分数比 B 高，A 的分数比 D 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，C 的分数比 A 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，C 的分数比 E 高，A 的分数比 D 高，E 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，A 的分数比 D 高，D 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，D 的分数比 C 高，C 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，C 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，B 的分数比 C 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 B 高，A 的分数比 D 高，C 的分数比 E 高，B 的分数比 C 高，D 的分数比 F 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，C 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 A 高，C 的分数比 B 高，D 的分数比 C 高，A 的分数比 D 高。谁分数最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，F 的分数比 D 高，C 的分数比 F 高，E 的分数比 A 高，A 的分数比 B 高。谁分数最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 B 高，C 的分数比 D 高，E 的分数比 C 高，A 的分数比 E 高，B 的分数比 A 高。谁分数最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，A 的分数比 F 高，B 的分数比 E 高，D 的分数比 C 高，E 的分数比 A 高。谁分数最低？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，C 的分数比 A 高，B 的分数比 D 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 A 高，A 的分数比 D 高，B 的分数比 E 高，D 的分数比 C 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，D 的分数比 C 高，B 的分数比 D 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 D 高，B 的分数比 C 高，A 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，F 的分数比 B 高，B 的分数比 E 高，A 的分数比 D 高，E 的分数比 A 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，D 的分数比 E 高，E 的分数比 B 高，A 的分数比 D 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，B 的分数比 C 高，D 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，C 的分数比 D 高，A 的分数比 B 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，A 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，A 的分数比 F 高，C 的分数比 B 高，F 的分数比 E 高，D 的分数比 C 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，C 的分数比 E 高，E 的分数比 D 高，A 的分数比 C 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，A 的分数比 C 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，A 的分数比 B 高，D 的分数比 A 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 D 高，E 的分数比 F 高，C 的分数比 E 高，D 的分数比 A 高，A 的分数比 B 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，B 的分数比 C 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，A 的分数比 C 高，B 的分数比 D 高，C 的分数比 E 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，D 的分数比 E 高，A 的分数比 C 高，E 的分数比 B 高。谁分数最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，B 的分数比 A 高，C 的分数比 B 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，A 的分数比 E 高，B 的分数比 A 高，C 的分数比 D 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，C 的分数比 B 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，B 的分数比 D 高，C 的分数比 B 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，C 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，A 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，A 的分数比 B 高，C 的分数比 D 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，C 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 B 高，D 的分数比 A 高，C 的分数比 E 高，B 的分数比 D 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 E 高，D 的分数比 B 高，C 的分数比 D 高，E 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 C 高，F 的分数比 A 高，D 的分数比 E 高，B 的分数比 F 高，A 的分数比 D 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 D 高，D 的分数比 C 高，B 的分数比 E 高，A 的分数比 F 高，F 的分数比 B 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，D 的分数比 C 高，C 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，C 的分数比 B 高，B 的分数比 A 高，E 的分数比 D 高。谁分数最高？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，C 的分数比 A 高，A 的分数比 E 高，D 的分数比 C 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，B 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 E 高，A 的分数比 C 高，B 的分数比 D 高，E 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，A 的分数比 C 高，D 的分数比 A 高。谁分数最低？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，C 的分数比 A 高，E 的分数比 C 高，F 的分数比 B 高，D 的分数比 F 高。谁分数最低？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，B 的分数比 C 高，C 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，B 的分数比 C 高，E 的分数比 A 高，D 的分数比 B 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，A 的分数比 B 高，D 的分数比 C 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 B 高，A 的分数比 E 高，B 的分数比 C 高，D 的分数比 A 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 B 高，C 的分数比 D 高，A 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，C 的分数比 A 高，D 的分数比 B 高。谁分数最高？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，B 的分数比 C 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，C 的分数比 B 高，D 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 C 高，A 的分数比 E 高，C 的分数比 F 高，F 的分数比 D 高，D 的分数比 B 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 E 高，E 的分数比 D 高，C 的分数比 B 高，D 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 B 高，C 的分数比 D 高，A 的分数比 C 高，D 的分数比 E 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，C 的分数比 E 高，E 的分数比 B 高，D 的分数比 A 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，C 的分数比 B 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 D 高，C 的分数比 A 高，D 的分数比 C 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，B 的分数比 C 高，C 的分数比 D 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，B 的分数比 D 高，C 的分数比 B 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，A 的分数比 D 高，C 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，A 的分数比 C 高。谁分数最低？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 A 高，B 的分数比 D 高，A 的分数比 B 高，C 的分数比 E 高，D 的分数比 C 高。谁分数最高？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 E 高，D 的分数比 A 高，E 的分数比 D 高，A 的分数比 B 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 D 高，B 的分数比 A 高，D 的分数比 C 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，B 的分数比 C 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，A 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 C 高，A 的分数比 B 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，A 的分数比 C 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 C 高，C 的分数比 A 高，A 的分数比 B 高。谁分数最低？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，C 的分数比 D 高，B 的分数比 A 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 B 高，C 的分数比 A 高。谁分数最低？",
+   "want": "B",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，B 的分数比 C 高，C 的分数比 D 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，A 的分数比 B 高，E 的分数比 C 高，B 的分数比 D 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "D 的分数比 A 高，C 的分数比 D 高，B 的分数比 E 高，E 的分数比 C 高。谁分数最低？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，B 的分数比 D 高，C 的分数比 B 高。谁分数最低？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，B 的分数比 A 高。谁分数最低？",
+   "want": "C",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 F 高，D 的分数比 A 高，B 的分数比 C 高，C 的分数比 D 高，A 的分数比 E 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 A 高，D 的分数比 B 高，C 的分数比 E 高，B 的分数比 F 高，E 的分数比 D 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "A 的分数比 C 高，C 的分数比 E 高，E 的分数比 B 高，B 的分数比 D 高。谁分数最高？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "E 的分数比 A 高，A 的分数比 C 高，D 的分数比 B 高，B 的分数比 E 高。谁分数最低？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "B 的分数比 A 高，A 的分数比 C 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "F 的分数比 B 高，B 的分数比 D 高，A 的分数比 E 高，D 的分数比 C 高，C 的分数比 A 高。谁分数最低？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 D 高，B 的分数比 A 高，A 的分数比 C 高，D 的分数比 E 高。谁分数最高？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 A 高，A 的分数比 B 高，D 的分数比 C 高。谁分数最低？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "分数(新)",
+   "q": "C 的分数比 B 高，B 的分数比 A 高。谁分数最高？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 D 前面，B 排在 C 前面，A 排在 B 前面，E 排在 A 前面。谁排在最前面？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 D 前面，B 排在 E 前面，C 排在 B 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 E 前面，E 排在 C 前面，C 排在 F 前面，D 排在 A 前面，B 排在 D 前面。谁排在最前面？",
+   "want": "B",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "A",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面，C 排在 E 前面，E 排在 F 前面，D 排在 A 前面。谁排在最前面？",
+   "want": "D",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，B 排在 C 前面，C 排在 D 前面。谁排在最后面？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 E 前面，F 排在 A 前面，E 排在 B 前面，C 排在 D 前面，B 排在 F 前面。谁排在最前面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，C 排在 D 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 B 前面，C 排在 D 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，D 排在 C 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 F 前面，E 排在 A 前面，A 排在 D 前面，F 排在 E 前面。谁排在最前面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 B 前面，D 排在 E 前面，A 排在 D 前面，E 排在 F 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "B",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，B 排在 A 前面。谁排在最前面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 B 前面，B 排在 E 前面，A 排在 D 前面，F 排在 C 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "F",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 D 前面，E 排在 A 前面，D 排在 C 前面，C 排在 E 前面。谁排在最后面？",
+   "want": "A",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，C 排在 D 前面，D 排在 B 前面。谁排在最前面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 D 前面，B 排在 E 前面，C 排在 B 前面，A 排在 C 前面，F 排在 A 前面。谁排在最前面？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，B 排在 D 前面，D 排在 A 前面。谁排在最前面？",
+   "want": "B",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 E 前面，C 排在 B 前面，D 排在 C 前面，A 排在 D 前面。谁排在最后面？",
+   "want": "E",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，B 排在 A 前面。谁排在最前面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 B 前面，C 排在 A 前面，A 排在 D 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 F 前面，F 排在 C 前面，C 排在 E 前面，E 排在 B 前面，B 排在 A 前面。谁排在最前面？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 A 前面，A 排在 B 前面，D 排在 E 前面，C 排在 D 前面。谁排在最前面？",
+   "want": "C",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，D 排在 C 前面，E 排在 B 前面，C 排在 E 前面。谁排在最前面？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 D 前面，C 排在 B 前面，B 排在 A 前面。谁排在最前面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 D 前面，D 排在 B 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，B 排在 F 前面，D 排在 B 前面，E 排在 D 前面，A 排在 E 前面。谁排在最后面？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，D 排在 A 前面，C 排在 E 前面，E 排在 D 前面。谁排在最前面？",
+   "want": "C",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，A 排在 B 前面。谁排在最前面？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 B 前面，F 排在 A 前面，D 排在 C 前面，C 排在 F 前面，A 排在 E 前面。谁排在最前面？",
+   "want": "D",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 B 前面，A 排在 C 前面，C 排在 E 前面，B 排在 D 前面。谁排在最后面？",
+   "want": "D",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 E 前面，E 排在 D 前面，C 排在 A 前面，D 排在 C 前面，B 排在 F 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 D 前面，D 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，C 排在 B 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 A 前面，D 排在 E 前面，C 排在 D 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "A",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 C 前面，C 排在 E 前面，B 排在 F 前面，A 排在 B 前面，F 排在 D 前面。谁排在最前面？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，B 排在 A 前面。谁排在最前面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 C 前面，C 排在 D 前面，A 排在 E 前面，F 排在 A 前面，B 排在 F 前面。谁排在最后面？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，B 排在 E 前面，C 排在 B 前面，E 排在 D 前面。谁排在最前面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，C 排在 D 前面，D 排在 A 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 D 前面，C 排在 A 前面，A 排在 B 前面，D 排在 C 前面。谁排在最前面？",
+   "want": "E",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，C 排在 D 前面，B 排在 C 前面，E 排在 B 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 D 前面，C 排在 B 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "D",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 A 前面，D 排在 C 前面，E 排在 D 前面，B 排在 E 前面，C 排在 F 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，D 排在 B 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 C 前面，B 排在 D 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 D 前面，B 排在 C 前面，D 排在 A 前面，C 排在 E 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，C 排在 E 前面，A 排在 C 前面，E 排在 B 前面。谁排在最前面？",
+   "want": "D",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 C 前面，A 排在 D 前面，B 排在 E 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "B",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 D 前面，B 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 F 前面，A 排在 E 前面，D 排在 B 前面，E 排在 C 前面，F 排在 A 前面。谁排在最后面？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，C 排在 D 前面，B 排在 A 前面。谁排在最后面？",
+   "want": "D",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，D 排在 C 前面，B 排在 D 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 B 前面，D 排在 C 前面，C 排在 A 前面，A 排在 E 前面。谁排在最后面？",
+   "want": "B",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 F 前面，A 排在 E 前面，D 排在 A 前面，F 排在 D 前面。谁排在最前面？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，C 排在 B 前面，D 排在 C 前面。谁排在最后面？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 F 前面，C 排在 D 前面，F 排在 E 前面，E 排在 B 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 B 前面，B 排在 A 前面，C 排在 F 前面，E 排在 D 前面，D 排在 C 前面。谁排在最前面？",
+   "want": "E",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 B 前面，B 排在 A 前面，D 排在 C 前面，A 排在 D 前面。谁排在最前面？",
+   "want": "E",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，B 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，B 排在 C 前面，A 排在 E 前面，C 排在 D 前面。谁排在最后面？",
+   "want": "E",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 D 前面，A 排在 C 前面，D 排在 A 前面，C 排在 E 前面。谁排在最前面？",
+   "want": "B",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面，D 排在 A 前面。谁排在最前面？",
+   "want": "D",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 E 前面，B 排在 C 前面，D 排在 A 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "E",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，E 排在 B 前面，A 排在 D 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "D",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 C 前面，B 排在 A 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 D 前面，A 排在 C 前面，D 排在 B 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 D 前面，D 排在 B 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "C",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 A 前面，B 排在 F 前面，A 排在 D 前面，E 排在 B 前面，D 排在 C 前面。谁排在最前面？",
+   "want": "E",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 B 前面，A 排在 D 前面，B 排在 E 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，B 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 E 前面，D 排在 F 前面，F 排在 B 前面，E 排在 C 前面。谁排在最前面？",
+   "want": "D",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 D 前面，B 排在 C 前面，D 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 E 前面，F 排在 D 前面，B 排在 C 前面，C 排在 A 前面，D 排在 B 前面。谁排在最后面？",
+   "want": "E",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 D 前面，A 排在 C 前面，D 排在 A 前面。谁排在最后面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 B 前面，E 排在 F 前面，C 排在 D 前面，F 排在 A 前面，B 排在 E 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A 比 F 高。谁最矮？C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 D 前面，A 排在 B 前面，D 排在 A 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，D 排在 E 前面，E 排在 C 前面，A 排在 F 前面，F 排在 D 前面。谁排在最前面？",
+   "want": "B",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，A 排在 D 前面，D 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 D 前面，F 排在 B 前面，A 排在 F 前面，D 排在 E 前面，E 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，C 排在 D 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 D 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，C 排在 D 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 F 前面，F 排在 D 前面，A 排在 B 前面，E 排在 C 前面，D 排在 E 前面。谁排在最前面？",
+   "want": "A",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 E 前面，B 排在 F 前面，C 排在 B 前面，E 排在 D 前面，D 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 D 前面，A 排在 C 前面，F 排在 B 前面，B 排在 E 前面，D 排在 A 前面。谁排在最后面？",
+   "want": "C",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 B 前面，C 排在 E 前面，A 排在 D 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，D 排在 C 前面，A 排在 D 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 E 前面，C 排在 B 前面，E 排在 D 前面，A 排在 C 前面，D 排在 A 前面。谁排在最前面？",
+   "want": "F",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，A 排在 B 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "D",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，B 排在 D 前面，A 排在 E 前面，E 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 A 前面，C 排在 B 前面，A 排在 D 前面，B 排在 E 前面。谁排在最前面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，C 排在 A 前面，D 排在 C 前面，E 排在 D 前面。谁排在最后面？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 B 前面，C 排在 A 前面，A 排在 D 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 D 前面，E 排在 C 前面，D 排在 A 前面，A 排在 E 前面。谁排在最后面？",
+   "want": "C",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 C 前面，D 排在 B 前面，B 排在 A 前面，C 排在 D 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面，D 排在 B 前面。谁排在最后面？",
+   "want": "A",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "A",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，D 排在 B 前面，B 排在 A 前面。谁排在最前面？",
+   "want": "D",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，E 排在 C 前面，B 排在 D 前面，C 排在 F 前面，D 排在 E 前面。谁排在最后面？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面，D 排在 A 前面。谁排在最前面？",
+   "want": "D",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 B 前面，E 排在 F 前面，D 排在 C 前面，C 排在 E 前面，B 排在 A 前面。谁排在最前面？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面，D 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，E 排在 A 前面，C 排在 E 前面，B 排在 D 前面。谁排在最前面？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 E 前面，C 排在 B 前面，A 排在 D 前面，E 排在 F 前面，F 排在 C 前面。谁排在最后面？",
+   "want": "B",
+   "got": "B",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 E 前面，E 排在 B 前面，B 排在 C 前面，F 排在 D 前面，D 排在 A 前面。谁排在最后面？",
+   "want": "C",
+   "got": "C",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面，D 排在 B 前面。谁排在最前面？",
+   "want": "D",
+   "got": "D",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，D 排在 A 前面，A 排在 B 前面，E 排在 D 前面。谁排在最后面？",
+   "want": "C",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，E 排在 C 前面，D 排在 F 前面，F 排在 E 前面，B 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面，C 排在 D 前面。谁排在最前面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，D 排在 E 前面，C 排在 B 前面，E 排在 A 前面。谁排在最前面？",
+   "want": "D",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，B 排在 D 前面，C 排在 B 前面。谁排在最后面？",
+   "want": "D",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 B 前面，D 排在 A 前面，B 排在 F 前面，F 排在 C 前面，A 排在 E 前面。谁排在最前面？",
+   "want": "D",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 F 前面，A 排在 B 前面，C 排在 A 前面，E 排在 C 前面，F 排在 D 前面。谁排在最前面？",
+   "want": "E",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 E 前面，A 排在 B 前面，D 排在 A 前面，C 排在 D 前面，E 排在 C 前面。谁排在最前面？",
+   "want": "F",
+   "got": "B",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，E 排在 A 前面，B 排在 C 前面，C 排在 D 前面。谁排在最前面？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，D 排在 B 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "D",
+   "got": "C",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 E 前面，A 排在 F 前面，C 排在 D 前面，D 排在 A 前面，E 排在 C 前面。谁排在最后面？",
+   "want": "F",
+   "got": "F",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面，D 排在 A 前面。谁排在最后面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，C 排在 B 前面。谁排在最后面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 D 前面，E 排在 A 前面，D 排在 B 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "E",
+   "got": "E",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 B 前面，C 排在 A 前面，A 排在 D 前面。谁排在最后面？",
+   "want": "B",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，C 排在 B 前面，D 排在 C 前面。谁排在最后面？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，E 排在 C 前面，F 排在 B 前面，D 排在 E 前面，B 排在 D 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 B 前面，C 排在 A 前面，B 排在 D 前面，A 排在 E 前面。谁排在最前面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 E 前面，E 排在 A 前面，C 排在 D 前面，B 排在 F 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，B 排在 C 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，D 排在 A 前面，C 排在 D 前面。谁排在最后面？",
+   "want": "A",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 A 前面，B 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，B 排在 C 前面，D 排在 B 前面。谁排在最前面？",
+   "want": "D",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 C 前面，A 排在 E 前面，B 排在 A 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "D",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 E 前面，E 排在 A 前面，C 排在 D 前面，D 排在 B 前面。谁排在最后面？",
+   "want": "A",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，A 排在 C 前面。谁排在最前面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，D 排在 A 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "C",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 C 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "D 排在 C 前面，C 排在 B 前面，E 排在 D 前面，B 排在 A 前面。谁排在最前面？",
+   "want": "E",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 B 前面，B 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，D 排在 A 前面，C 排在 D 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 E 前面，A 排在 B 前面，E 排在 C 前面，F 排在 D 前面，D 排在 A 前面。谁排在最后面？",
+   "want": "C",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 D 前面，D 排在 C 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 B 前面，C 排在 A 前面。谁排在最后面？",
+   "want": "B",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 E 前面，E 排在 C 前面，F 排在 A 前面，C 排在 F 前面，A 排在 D 前面。谁排在最前面？",
+   "want": "B",
+   "got": "A",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 C 前面，A 排在 B 前面。谁排在最后面？",
+   "want": "C",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "A 排在 D 前面，E 排在 B 前面，F 排在 C 前面，B 排在 A 前面，C 排在 E 前面。谁排在最后面？",
+   "want": "D",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "F 排在 C 前面，E 排在 D 前面，D 排在 A 前面，B 排在 E 前面，C 排在 B 前面。谁排在最后面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  },
+  {
+   "theme": "排队(新)",
+   "q": "B 排在 A 前面，C 排在 B 前面。谁排在最后面？",
+   "want": "A",
+   "got": "D",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 D 前面，A 排在 E 前面，E 排在 B 前面，B 排在 C 前面。谁排在最后面？",
+   "want": "D",
+   "got": "F",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "C 排在 A 前面，A 排在 B 前面，B 排在 D 前面。谁排在最后面？",
+   "want": "D",
+   "got": "E",
+   "exact": false
+  },
+  {
+   "theme": "排队(新)",
+   "q": "E 排在 C 前面，A 排在 F 前面，B 排在 D 前面，F 排在 E 前面，C 排在 B 前面。谁排在最前面？",
+   "want": "A",
+   "got": "A",
+   "exact": true
+  }
+ ]
+}
