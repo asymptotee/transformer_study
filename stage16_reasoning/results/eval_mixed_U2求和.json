@@ -1,0 +1,6431 @@
+{
+ "label": "mixed_U2求和",
+ "by_rung": {
+  "2": [
+   0,
+   0,
+   0,
+   200
+  ],
+  "3": [
+   0,
+   0,
+   0,
+   200
+  ],
+  "4": [
+   0,
+   1,
+   0,
+   200
+  ],
+  "5": [
+   29,
+   82,
+   0,
+   200
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "求 7 8 与 9 2 的和。",
+   "want": "170",
+   "got": "1604加1000=9844",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 6 与 7 7 的和。",
+   "want": "163",
+   "got": "16343加75800=152243",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 2 与 9 1 的和。",
+   "want": "123",
+   "got": "344加900等于多少？1244",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 7 与 2 0 的和。",
+   "want": "77",
+   "got": "84加75等于多少？134",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 9 与 6 5 的和。",
+   "want": "124",
+   "got": "115加110等于多少？605",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 0 与 6 1 的和。",
+   "want": "131",
+   "got": "13136加99400=160466",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 2 与 1 3 的和。",
+   "want": "95",
+   "got": "10560加90110=182760",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 3 与 4 9 的和。",
+   "want": "132",
+   "got": "133432",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 8 与 8 2 的和。",
+   "want": "180",
+   "got": "18044加70103=168147",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 7 与 6 2 的和。",
+   "want": "79",
+   "got": "80加90等于多少？152",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 5 与 9 9 的和。",
+   "want": "154",
+   "got": "111加110等于多少？661",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 9 与 5 2 的和。",
+   "want": "71",
+   "got": "623加700等于多少？823",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 6 与 7 6 的和。",
+   "want": "102",
+   "got": "93加10等于多少？103",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 6 与 7 9 的和。",
+   "want": "125",
+   "got": "1264加7000=11664",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 3 与 1 5 的和。",
+   "want": "108",
+   "got": "1193加1110=10503",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 5 与 1 5 的和。",
+   "want": "90",
+   "got": "10160加90110=165770",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 9 与 1 1 的和。",
+   "want": "80",
+   "got": "813加700等于多少？993",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 4 与 2 2 的和。",
+   "want": "56",
+   "got": "66加90等于多少？112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 4 与 3 3 的和。",
+   "want": "77",
+   "got": "88加90等于多少？124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 9 与 7 6 的和。",
+   "want": "105",
+   "got": "426加700等于多少？1126",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 7 与 4 2 的和。",
+   "want": "59",
+   "got": "69加51等于多少？70",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 6 与 2 6 的和。",
+   "want": "42",
+   "got": "33加30等于多少？53",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 6 2 的和。",
+   "want": "129",
+   "got": "1304加7000=9304",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 4 与 6 3 的和。",
+   "want": "97",
+   "got": "88加90等于多少？124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 0 与 5 1 的和。",
+   "want": "61",
+   "got": "613加690等于多少？793",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 4 与 5 9 的和。",
+   "want": "73",
+   "got": "64加70等于多少？74",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 7 与 8 4 的和。",
+   "want": "161",
+   "got": "1526加7003=13429",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 8 与 4 6 的和。",
+   "want": "104",
+   "got": "10560加15113=63673",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 9 与 7 9 的和。",
+   "want": "118",
+   "got": "10930加73100=103030",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 4 与 2 2 的和。",
+   "want": "36",
+   "got": "36加55等于多少？77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 4 与 3 9 的和。",
+   "want": "113",
+   "got": "11460加90100=124660",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 7 与 9 3 的和。",
+   "want": "180",
+   "got": "17143加70300=163643",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 8 与 3 1 的和。",
+   "want": "99",
+   "got": "10930加90100=129030",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 6 与 9 2 的和。",
+   "want": "138",
+   "got": "1384加4003=13247",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 4 8 的和。",
+   "want": "121",
+   "got": "12263加90503=133765",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 1 与 7 1 的和。",
+   "want": "122",
+   "got": "10243加67000=118443",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 9 与 3 2 的和。",
+   "want": "81",
+   "got": "923加700等于多少？1223",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 2 与 3 3 的和。",
+   "want": "95",
+   "got": "954加900等于多少？1524",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 0 与 2 6 的和。",
+   "want": "86",
+   "got": "86加90等于多少？116",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 4 与 6 7 的和。",
+   "want": "101",
+   "got": "923加700等于多少？1223",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 1 与 1 1 的和。",
+   "want": "102",
+   "got": "10240加10400=92840",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 3 与 5 2 的和。",
+   "want": "135",
+   "got": "136433",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 8 与 4 4 的和。",
+   "want": "92",
+   "got": "93加90等于多少？133",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 3 与 5 5 的和。",
+   "want": "88",
+   "got": "89加93等于多少？153",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 0 与 9 8 的和。",
+   "want": "148",
+   "got": "148加59等于多少？148",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 3 与 1 7 的和。",
+   "want": "80",
+   "got": "813加700等于多少？933",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 6 与 9 5 的和。",
+   "want": "191",
+   "got": "192444加15810等于多少？117254",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 8 与 5 0 的和。",
+   "want": "128",
+   "got": "13933加75903=125236",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 6 与 6 0 的和。",
+   "want": "146",
+   "got": "1469加7590=12689",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 8 与 3 0 的和。",
+   "want": "68",
+   "got": "69加90等于多少？129",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 1 与 5 8 的和。",
+   "want": "99",
+   "got": "90加10等于多少？138",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 1 6 的和。",
+   "want": "89",
+   "got": "90加110=1933",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 3 与 8 8 的和。",
+   "want": "131",
+   "got": "1226加4003=11329",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 5 与 2 8 的和。",
+   "want": "123",
+   "got": "12347加70550=116997",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 7 与 5 1 的和。",
+   "want": "138",
+   "got": "148333加75110等于多少？133343",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 6 与 8 0 的和。",
+   "want": "156",
+   "got": "1574加7000=13744",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 1 与 7 4 的和。",
+   "want": "115",
+   "got": "10560加97000=128660",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 2 与 7 1 的和。",
+   "want": "143",
+   "got": "1444加9560=16784",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 4 与 5 9 的和。",
+   "want": "103",
+   "got": "99加11等于多少？144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 6 与 1 3 的和。",
+   "want": "79",
+   "got": "80加90等于多少？153",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 5 与 4 9 的和。",
+   "want": "84",
+   "got": "819加900等于多少？1219",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 6 与 5 4 的和。",
+   "want": "70",
+   "got": "61加70等于多少？74",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 2 3 的和。",
+   "want": "96",
+   "got": "10640加90000=113440",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 2 与 5 8 的和。",
+   "want": "70",
+   "got": "65加70等于多少？72",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 1 3 的和。",
+   "want": "86",
+   "got": "97加10等于多少？193",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 3 与 3 3 的和。",
+   "want": "116",
+   "got": "11740加90100=123540",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 0 与 2 3 的和。",
+   "want": "33",
+   "got": "334加300=534",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 6 与 6 2 的和。",
+   "want": "98",
+   "got": "99加110=1106",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 9 与 6 8 的和。",
+   "want": "117",
+   "got": "10847加70553=119400",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 5 与 7 1 的和。",
+   "want": "146",
+   "got": "157等于多少？972",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 2 与 1 1 的和。",
+   "want": "43",
+   "got": "44加90等于多少？124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 2 与 2 9 的和。",
+   "want": "101",
+   "got": "10240加90000=112440",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 6 与 1 0 的和。",
+   "want": "76",
+   "got": "77加95等于多少？155",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 8 与 9 9 的和。",
+   "want": "137",
+   "got": "38加90等于多少？129",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 6 与 4 9 的和。",
+   "want": "105",
+   "got": "10343加75113=124456",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 9 与 6 3 的和。",
+   "want": "132",
+   "got": "1334加7300=9244",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 2 4 的和。",
+   "want": "97",
+   "got": "10740加90100=114540",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 9 与 6 6 的和。",
+   "want": "165",
+   "got": "16644加77553=166096",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 8 与 4 0 的和。",
+   "want": "118",
+   "got": "12933加70503=119436",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 6 与 7 2 的和。",
+   "want": "138",
+   "got": "1384加7053=9337",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 9 与 5 6 的和。",
+   "want": "115",
+   "got": "105383",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 8 与 7 0 的和。",
+   "want": "108",
+   "got": "10930加70100=109030",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 4 与 1 2 的和。",
+   "want": "66",
+   "got": "66加70等于多少？82",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 0 与 3 5 的和。",
+   "want": "75",
+   "got": "85加90等于多少？125",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 4 与 3 6 的和。",
+   "want": "120",
+   "got": "12940加90100=124040",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 3 与 1 3 的和。",
+   "want": "46",
+   "got": "46加90等于多少？123",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 6 与 6 0 的和。",
+   "want": "146",
+   "got": "1469加7590=12689",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 3 与 7 2 的和。",
+   "want": "105",
+   "got": "96加10等于多少？102",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 8 7 的和。",
+   "want": "154",
+   "got": "155等于多少？1431",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 0 与 6 3 的和。",
+   "want": "83",
+   "got": "43加90等于多少？113",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 2 与 1 6 的和。",
+   "want": "98",
+   "got": "104加97等于多少？199",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 4 与 7 5 的和。",
+   "want": "149",
+   "got": "159加700=940",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 7 与 9 6 的和。",
+   "want": "113",
+   "got": "104加100=074",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 4 与 2 8 的和。",
+   "want": "82",
+   "got": "83加70等于多少？133",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 4 与 7 7 的和。",
+   "want": "141",
+   "got": "1426加7003=9469",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 4 与 8 0 的和。",
+   "want": "94",
+   "got": "98加10等于多少？98",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 6 与 1 3 的和。",
+   "want": "89",
+   "got": "90加10等于多少？183",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 5 与 4 6 的和。",
+   "want": "71",
+   "got": "61加10等于多少？75",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 4 与 8 8 的和。",
+   "want": "162",
+   "got": "1534加7003=13447",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 2 与 2 4 的和。",
+   "want": "56",
+   "got": "664加900等于多少？1124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 5 与 8 2 的和。",
+   "want": "107",
+   "got": "40加10等于多少？55",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 6 与 1 5 的和。",
+   "want": "111",
+   "got": "1124加1100=10644",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 1 与 1 3 的和。",
+   "want": "94",
+   "got": "10440加90000=184440",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 9 与 3 7 的和。",
+   "want": "96",
+   "got": "10830加75100=124330",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 9 与 4 6 的和。",
+   "want": "75",
+   "got": "66加70等于多少？106",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 3 与 5 8 的和。",
+   "want": "111",
+   "got": "107加100=637",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 5 与 6 4 的和。",
+   "want": "159",
+   "got": "16066加70113=155779",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 3 与 7 0 的和。",
+   "want": "163",
+   "got": "1643加7000=15433",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 6 与 4 8 的和。",
+   "want": "114",
+   "got": "115加453=948",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 9 与 7 0 的和。",
+   "want": "109",
+   "got": "10930加73000=103030",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 3 与 4 5 的和。",
+   "want": "98",
+   "got": "99加11等于多少？140",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 4 与 9 8 的和。",
+   "want": "112",
+   "got": "10240加15240=09589",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 8 与 6 2 的和。",
+   "want": "80",
+   "got": "30加90等于多少？118",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 2 与 1 1 的和。",
+   "want": "43",
+   "got": "44加90等于多少？124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 2 与 9 0 的和。",
+   "want": "132",
+   "got": "44加10等于多少？52",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 0 与 7 5 的和。",
+   "want": "105",
+   "got": "95加10等于多少？105",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 1 与 4 1 的和。",
+   "want": "112",
+   "got": "1124加9300=12544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 6 与 9 5 的和。",
+   "want": "171",
+   "got": "1724加7000=16544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 3 与 8 6 的和。",
+   "want": "109",
+   "got": "107加900=1137",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 2 与 9 0 的和。",
+   "want": "122",
+   "got": "34加90等于多少？124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 2 与 5 2 的和。",
+   "want": "134",
+   "got": "135加90等于多少？142",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 8 与 6 7 的和。",
+   "want": "165",
+   "got": "16644加70553=159096",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 2 与 7 5 的和。",
+   "want": "117",
+   "got": "105加97等于多少？128",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 8 与 2 5 的和。",
+   "want": "103",
+   "got": "10430加75100=93530",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 8 与 4 9 的和。",
+   "want": "67",
+   "got": "67加70等于多少？88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 9 与 7 3 的和。",
+   "want": "102",
+   "got": "426加700等于多少？1026",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 9 与 3 9 的和。",
+   "want": "128",
+   "got": "129431",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 1 与 8 1 的和。",
+   "want": "132",
+   "got": "102加67等于多少？27",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 2 与 5 9 的和。",
+   "want": "141",
+   "got": "135加37等于多少？119",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 8 与 1 9 的和。",
+   "want": "117",
+   "got": "11740加10500=109040",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 1 与 5 9 的和。",
+   "want": "140",
+   "got": "132643",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 4 与 9 7 的和。",
+   "want": "161",
+   "got": "1626加7000=15466",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 8 与 7 6 的和。",
+   "want": "94",
+   "got": "95加10等于多少？95",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 5 与 2 7 的和。",
+   "want": "82",
+   "got": "10168加70550=85728",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 3 与 1 8 的和。",
+   "want": "101",
+   "got": "10260加90100=193760",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 6 与 9 4 的和。",
+   "want": "130",
+   "got": "319加900等于多少？1259",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 5 与 9 0 的和。",
+   "want": "125",
+   "got": "39加90等于多少？129",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 8 与 6 5 的和。",
+   "want": "123",
+   "got": "114加75等于多少？23",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 1 与 4 5 的和。",
+   "want": "96",
+   "got": "97加10等于多少？147",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 3 与 6 0 的和。",
+   "want": "83",
+   "got": "46加90等于多少？113",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 5 与 2 9 的和。",
+   "want": "124",
+   "got": "12168加70110=115778",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 6 与 7 1 的和。",
+   "want": "167",
+   "got": "1774加7700=17344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 6 与 9 6 的和。",
+   "want": "172",
+   "got": "1734加7580=17224",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 8 与 6 9 的和。",
+   "want": "97",
+   "got": "47加70等于多少？108",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 3 与 8 5 的和。",
+   "want": "108",
+   "got": "109加990=1139",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 4 与 8 2 的和。",
+   "want": "176",
+   "got": "1864加1580=11424",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 7 与 7 4 的和。",
+   "want": "131",
+   "got": "122632",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 2 与 1 1 的和。",
+   "want": "23",
+   "got": "24加95等于多少？106",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 7 与 8 2 的和。",
+   "want": "169",
+   "got": "17040加10000=97040",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 5 与 5 5 的和。",
+   "want": "150",
+   "got": "151加110等于多少？1461",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 6 与 9 8 的和。",
+   "want": "174",
+   "got": "1654加7580=17424",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 4 与 2 6 的和。",
+   "want": "50",
+   "got": "40加70等于多少？104",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 2 与 9 3 的和。",
+   "want": "115",
+   "got": "45加10等于多少？52",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 1 与 7 2 的和。",
+   "want": "133",
+   "got": "133等于多少？844",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 0 与 4 0 的和。",
+   "want": "110",
+   "got": "1104加4900=11944",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 0 与 9 1 的和。",
+   "want": "121",
+   "got": "313加990等于多少？1303",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 4 与 1 0 的和。",
+   "want": "104",
+   "got": "10440加15900=106340",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 8 与 7 9 的和。",
+   "want": "177",
+   "got": "17747",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 6 与 3 4 的和。",
+   "want": "70",
+   "got": "619加900等于多少？1249",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 7 与 3 5 的和。",
+   "want": "52",
+   "got": "43加73等于多少？110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 9 与 5 4 的和。",
+   "want": "83",
+   "got": "63加70等于多少？93",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 3 与 7 0 的和。",
+   "want": "163",
+   "got": "1643加7000=15433",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 7 与 2 5 的和。",
+   "want": "122",
+   "got": "12340加75100=111540",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 4 与 6 6 的和。",
+   "want": "120",
+   "got": "109加70等于多少？855",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 3 与 6 0 的和。",
+   "want": "143",
+   "got": "1443加7000=12433",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 6 4 的和。",
+   "want": "131",
+   "got": "1326加7000=9366",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 8 与 2 0 的和。",
+   "want": "98",
+   "got": "10930加90100=119030",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 4 与 3 0 的和。",
+   "want": "84",
+   "got": "89加90等于多少？144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 9 2 的和。",
+   "want": "159",
+   "got": "1604加7000=15204",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 2 与 3 1 的和。",
+   "want": "83",
+   "got": "85加90等于多少？142",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 5 与 8 7 的和。",
+   "want": "172",
+   "got": "16264加10013=95676",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 9 与 2 2 的和。",
+   "want": "81",
+   "got": "10137加77119=91256",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 2 与 2 5 的和。",
+   "want": "57",
+   "got": "67加90等于多少？112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 0 与 6 2 的和。",
+   "want": "82",
+   "got": "426加900等于多少？1126",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 4 与 4 3 的和。",
+   "want": "87",
+   "got": "98加90等于多少？134",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 7 与 5 4 的和。",
+   "want": "131",
+   "got": "13263加70103=124766",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 1 与 1 2 的和。",
+   "want": "63",
+   "got": "63加77等于多少？99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 2 与 7 6 的和。",
+   "want": "128",
+   "got": "105加100=725",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 9 2 的和。",
+   "want": "165",
+   "got": "166加900=1626",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 3 4 的和。",
+   "want": "107",
+   "got": "10740加90100=124540",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 2 与 9 7 的和。",
+   "want": "169",
+   "got": "155加900=1625",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 8 与 9 1 的和。",
+   "want": "109",
+   "got": "100等于多少？080",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 6 与 7 6 的和。",
+   "want": "112",
+   "got": "10340加90500=126840",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 2 0 的和。",
+   "want": "87",
+   "got": "88加90等于多少？118",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 8 与 9 2 的和。",
+   "want": "150",
+   "got": "110加59等于多少？147",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 1 2 的和。",
+   "want": "85",
+   "got": "95加10等于多少？182",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 8 与 8 8 的和。",
+   "want": "166",
+   "got": "156加706=1392",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 7 与 1 0 的和。",
+   "want": "87",
+   "got": "98加10等于多少？198",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 1 与 1 3 的和。",
+   "want": "54",
+   "got": "643加590等于多少？1133",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 5 与 5 8 的和。",
+   "want": "123",
+   "got": "123加100=753",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 9 与 7 9 的和。",
+   "want": "108",
+   "got": "49加70等于多少？119",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 7 与 4 6 的和。",
+   "want": "123",
+   "got": "1244加4590=11334",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 9 与 8 2 的和。",
+   "want": "181",
+   "got": "18144加13260=112604",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 9 与 4 7 的和。",
+   "want": "126",
+   "got": "12744加70553=119006",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 6 与 3 9 的和。",
+   "want": "75",
+   "got": "86加90等于多少？126",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 1 与 6 6 的和。",
+   "want": "87",
+   "got": "43加90等于多少？113",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 3 与 5 3 的和。",
+   "want": "96",
+   "got": "97加10等于多少？133",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 6 与 1 8 的和。",
+   "want": "64",
+   "got": "65加93等于多少？142",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 5 与 9 3 的和。",
+   "want": "128",
+   "got": "399加900等于多少？1299",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 6 与 9 5 的和。",
+   "want": "171",
+   "got": "1724加7000=16544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 2 8 与 1 0 6 的和。",
+   "want": "934",
+   "got": "19354加97500=11935",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 2 1 与 9 5 4 的和。",
+   "want": "1375",
+   "got": "13756加10553=32709",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 1 3 与 4 8 5 的和。",
+   "want": "998",
+   "got": "10990加15900=65304",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 3 8 与 7 6 3 的和。",
+   "want": "1701",
+   "got": "17024加70100=163444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 0 6 与 4 7 1 的和。",
+   "want": "677",
+   "got": "6788加7000=10788",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 7 5 与 2 0 5 的和。",
+   "want": "980",
+   "got": "108140",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 1 0 与 9 9 4 的和。",
+   "want": "1704",
+   "got": "16044加70500=159544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 7 0 与 4 0 8 的和。",
+   "want": "778",
+   "got": "8890加9000=13890",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 8 8 与 6 9 4 的和。",
+   "want": "1282",
+   "got": "11834加75300=125144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 3 1 与 6 5 2 的和。",
+   "want": "1483",
+   "got": "14834加70000=124344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 5 2 与 8 5 8 的和。",
+   "want": "1110",
+   "got": "10044加67013=92257",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 5 1 与 5 1 5 的和。",
+   "want": "766",
+   "got": "777加705等于多少？1262",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 3 7 与 1 1 2 的和。",
+   "want": "749",
+   "got": "8500加7700等于多少？14220",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 0 4 与 3 2 8 的和。",
+   "want": "1132",
+   "got": "113240",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 0 5 与 8 5 2 的和。",
+   "want": "957",
+   "got": "9677等于多少？19734",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 6 1 与 2 7 3 的和。",
+   "want": "434",
+   "got": "4344等于多少？6078",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 1 0 与 1 3 4 的和。",
+   "want": "844",
+   "got": "9554等于多少？16858",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 5 3 与 2 1 8 的和。",
+   "want": "771",
+   "got": "7724加7510=13204",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 5 与 2 5 6 的和。",
+   "want": "1211",
+   "got": "121180",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 5 2 与 6 9 2 的和。",
+   "want": "1344",
+   "got": "13046加70700=99966",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 9 8 与 2 4 2 的和。",
+   "want": "840",
+   "got": "8410加7000=13420",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 1 4 与 8 9 8 的和。",
+   "want": "1712",
+   "got": "16124加70500=152344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 0 9 与 7 6 7 的和。",
+   "want": "1176",
+   "got": "11770加75500=116400",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 9 8 与 7 4 5 的和。",
+   "want": "1543",
+   "got": "15434加70500=135944",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 2 1 与 2 0 7 的和。",
+   "want": "828",
+   "got": "8390加9700=15390",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 7 0 与 5 3 6 的和。",
+   "want": "1406",
+   "got": "14060",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 2 4 与 7 9 6 的和。",
+   "want": "1620",
+   "got": "16214加70000=149444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 1 3 与 8 3 6 的和。",
+   "want": "1749",
+   "got": "17509",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 5 8 与 8 7 2 的和。",
+   "want": "1330",
+   "got": "123063加10560=96323",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 4 1 与 2 1 3 的和。",
+   "want": "354",
+   "got": "3544等于多少？5675",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 7 3 与 4 2 6 的和。",
+   "want": "1399",
+   "got": "14000",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 7 9 与 8 2 1 的和。",
+   "want": "1100",
+   "got": "10000",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 0 5 与 8 9 1 的和。",
+   "want": "1396",
+   "got": "139673加55559=35522",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 3 9 与 1 3 7 的和。",
+   "want": "1076",
+   "got": "11774加15280=10012",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 3 0 与 6 8 8 的和。",
+   "want": "1118",
+   "got": "10190",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 3 0 与 1 2 1 的和。",
+   "want": "1051",
+   "got": "10514",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 9 4 与 7 9 1 的和。",
+   "want": "985",
+   "got": "9956等于多少？17862",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 1 4 与 4 7 9 的和。",
+   "want": "893",
+   "got": "903加1053=5842",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 3 8 与 4 6 8 的和。",
+   "want": "1206",
+   "got": "12064加70500=114304",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 6 1 与 3 6 2 的和。",
+   "want": "1323",
+   "got": "13234加90000=126344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 7 2 与 5 0 3 的和。",
+   "want": "675",
+   "got": "6857加7580=9537",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 9 4 与 5 2 7 的和。",
+   "want": "1121",
+   "got": "112246",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 3 7 与 6 5 1 的和。",
+   "want": "1488",
+   "got": "149904加70000=124904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 0 与 4 3 1 的和。",
+   "want": "1381",
+   "got": "14814加40600=133744",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 9 6 与 8 9 7 的和。",
+   "want": "1093",
+   "got": "10940",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 4 4 与 9 2 7 的和。",
+   "want": "1071",
+   "got": "10724加15100=107544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 2 7 与 3 8 2 的和。",
+   "want": "909",
+   "got": "8100加7500=13970",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 7 7 与 5 7 5 的和。",
+   "want": "1552",
+   "got": "15530",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 2 6 与 1 7 3 的和。",
+   "want": "499",
+   "got": "4000加9000=12730",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 7 5 与 8 1 3 的和。",
+   "want": "1588",
+   "got": "15998加70300=138288",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 3 1 与 8 2 9 的和。",
+   "want": "1760",
+   "got": "18614加70000=162044",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 8 9 与 3 5 6 的和。",
+   "want": "1245",
+   "got": "124640",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 1 4 与 5 0 7 的和。",
+   "want": "1421",
+   "got": "142244加10500=52744",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 1 4 与 5 2 2 的和。",
+   "want": "736",
+   "got": "7460加7560等于多少？12780",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 2 6 与 6 4 7 的和。",
+   "want": "973",
+   "got": "9858等于多少？13236",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 7 6 与 3 1 9 的和。",
+   "want": "495",
+   "got": "4960加7050=11146",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 6 7 与 2 9 2 的和。",
+   "want": "1159",
+   "got": "11600",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 3 0 与 4 3 9 的和。",
+   "want": "1369",
+   "got": "13790",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 7 8 与 3 2 1 的和。",
+   "want": "799",
+   "got": "9000加1090=12290",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 8 5 与 3 4 2 的和。",
+   "want": "727",
+   "got": "8378等于多少？12200",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 4 7 与 4 4 1 的和。",
+   "want": "1388",
+   "got": "14999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 8 8 与 6 5 3 的和。",
+   "want": "841",
+   "got": "8423加7330=14213",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 9 8 与 8 6 8 的和。",
+   "want": "1066",
+   "got": "106600加75500=95360",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 3 3 与 1 4 2 的和。",
+   "want": "275",
+   "got": "5757",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 3 9 与 7 2 6 的和。",
+   "want": "1265",
+   "got": "127603加77500=120463",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 2 与 2 7 6 的和。",
+   "want": "1228",
+   "got": "12287",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 1 3 与 7 8 6 的和。",
+   "want": "1499",
+   "got": "15000加70000=128600",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 6 3 与 7 1 7 的和。",
+   "want": "1680",
+   "got": "17814加77000=168044",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 1 5 与 1 9 7 的和。",
+   "want": "512",
+   "got": "4133等于6100",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 9 0 与 3 1 2 的和。",
+   "want": "702",
+   "got": "6026等于多少？9128",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 4 4 与 4 0 9 的和。",
+   "want": "1253",
+   "got": "12534加4050=12544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 1 1 与 8 9 8 的和。",
+   "want": "1109",
+   "got": "10090",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 9 8 与 6 2 2 的和。",
+   "want": "1020",
+   "got": "9210加7510=13290",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 5 3 与 2 6 1 的和。",
+   "want": "414",
+   "got": "3154加7000=9654",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 2 9 与 8 2 4 的和。",
+   "want": "1553",
+   "got": "15534加77103=139046",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 6 1 与 6 3 8 的和。",
+   "want": "899",
+   "got": "8090加7000=10390",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 2 9 与 4 7 9 的和。",
+   "want": "908",
+   "got": "9014加1028=5322",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 1 7 与 8 8 0 的和。",
+   "want": "1297",
+   "got": "129802",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 2 0 与 3 7 9 的和。",
+   "want": "899",
+   "got": "800加901等于多少？1321",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 9 3 与 2 0 7 的和。",
+   "want": "400",
+   "got": "3010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 0 8 与 6 7 4 的和。",
+   "want": "1382",
+   "got": "13833加75300=103633",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 3 7 与 9 4 6 的和。",
+   "want": "1683",
+   "got": "16840加70500=155000",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 2 3 与 6 1 0 的和。",
+   "want": "833",
+   "got": "8440加7550=10640",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 5 5 与 6 0 0 的和。",
+   "want": "955",
+   "got": "900加100等于多少？1055",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 5 2 与 6 2 5 的和。",
+   "want": "977",
+   "got": "9887加1000=10887",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 7 8 与 5 9 3 的和。",
+   "want": "1171",
+   "got": "11724加15103=64436",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 3 6 与 2 4 0 的和。",
+   "want": "676",
+   "got": "6860加7000=10466",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 2 9 与 8 1 9 的和。",
+   "want": "1148",
+   "got": "105943",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 4 8 与 4 8 9 的和。",
+   "want": "637",
+   "got": "6383加7350=11243",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 9 6 与 2 7 2 的和。",
+   "want": "1068",
+   "got": "10799",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 9 5 与 8 8 8 的和。",
+   "want": "1783",
+   "got": "17834加70500=159944",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 7 1 与 1 5 4 的和。",
+   "want": "825",
+   "got": "8254等于多少？9895",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 5 6 与 6 9 4 的和。",
+   "want": "1550",
+   "got": "155144加73000=142544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 9 0 与 6 1 8 的和。",
+   "want": "1408",
+   "got": "14080",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 1 0 与 7 3 6 的和。",
+   "want": "1246",
+   "got": "125602",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 2 4 与 6 2 7 的和。",
+   "want": "1551",
+   "got": "1552等于多少？15816",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 1 4 与 7 3 9 的和。",
+   "want": "1253",
+   "got": "1253加7053=2473",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 1 与 4 5 2 的和。",
+   "want": "793",
+   "got": "8934加9000等于多少？13934",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 1 9 与 3 5 7 的和。",
+   "want": "1176",
+   "got": "11774加77503=113406",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 0 1 与 4 2 0 的和。",
+   "want": "621",
+   "got": "6214加6526等于多少？10730",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 3 1 与 4 8 7 的和。",
+   "want": "1318",
+   "got": "13180",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 2 6 与 9 2 9 的和。",
+   "want": "1755",
+   "got": "17564加77500=170444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 9 6 与 8 5 1 的和。",
+   "want": "1447",
+   "got": "135873",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 9 3 与 6 7 3 的和。",
+   "want": "1366",
+   "got": "137703加75300=115003",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 7 2 与 9 3 3 的和。",
+   "want": "1405",
+   "got": "13057",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 7 9 与 6 4 4 的和。",
+   "want": "1623",
+   "got": "16244加70506=145442",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 1 与 3 5 6 的和。",
+   "want": "1307",
+   "got": "130803",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 2 6 与 2 9 6 的和。",
+   "want": "922",
+   "got": "8230加7050=14280",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 3 9 与 8 1 4 的和。",
+   "want": "1753",
+   "got": "18534加77500=179444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 4 2 与 8 5 7 的和。",
+   "want": "1399",
+   "got": "139003加10000=94003",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 7 4 与 8 5 3 的和。",
+   "want": "1127",
+   "got": "103800",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 9 1 与 9 2 0 的和。",
+   "want": "1311",
+   "got": "3214加9000=12214",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 1 3 与 9 4 1 的和。",
+   "want": "1354",
+   "got": "3644加9050=13594",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 6 8 与 2 0 0 的和。",
+   "want": "968",
+   "got": "9790加7550=11249",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 6 4 与 3 1 9 的和。",
+   "want": "1083",
+   "got": "108440",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 2 9 与 6 2 0 的和。",
+   "want": "949",
+   "got": "9500加7010=12210",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 4 3 与 6 5 6 的和。",
+   "want": "1099",
+   "got": "10900加11500=55500",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 9 6 与 6 9 1 的和。",
+   "want": "1487",
+   "got": "14988",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 9 6 与 2 5 6 的和。",
+   "want": "752",
+   "got": "6530加7300=12336",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 8 9 与 3 6 1 的和。",
+   "want": "1150",
+   "got": "115140",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 7 6 与 9 1 0 的和。",
+   "want": "1486",
+   "got": "148704加59500=147504",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 0 3 与 5 2 5 的和。",
+   "want": "1028",
+   "got": "102805",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 6 0 与 1 8 5 的和。",
+   "want": "445",
+   "got": "4454等于多少？6258",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 4 7 与 4 3 9 的和。",
+   "want": "886",
+   "got": "9959加7330=14339",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 9 1 与 5 9 9 的和。",
+   "want": "990",
+   "got": "9314加7300=14214",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 7 5 与 7 0 7 的和。",
+   "want": "1382",
+   "got": "14833加75500=116833",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 6 6 与 8 1 8 的和。",
+   "want": "1684",
+   "got": "16854加77500=159344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 1 0 与 7 6 4 的和。",
+   "want": "874",
+   "got": "8744加9750=16354",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 9 4 与 8 4 9 的和。",
+   "want": "1543",
+   "got": "154444加70500=135444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 3 7 与 2 7 9 的和。",
+   "want": "616",
+   "got": "6170加7050=19440",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 9 6 与 3 2 9 的和。",
+   "want": "1325",
+   "got": "13261",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 9 6 与 4 1 8 的和。",
+   "want": "1314",
+   "got": "131543",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 5 2 与 1 9 7 的和。",
+   "want": "949",
+   "got": "10400加95000=164000",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 4 1 与 9 6 1 的和。",
+   "want": "1602",
+   "got": "16024加70000=144044",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 2 5 与 2 0 2 的和。",
+   "want": "427",
+   "got": "4477加7580等于多少？10747",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 5 0 与 3 3 8 的和。",
+   "want": "788",
+   "got": "9990加7053=12343",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 3 3 与 9 9 3 的和。",
+   "want": "1126",
+   "got": "11270",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 5 1 与 4 0 3 的和。",
+   "want": "754",
+   "got": "8044加9050=12594",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 1 0 与 8 4 0 的和。",
+   "want": "1150",
+   "got": "10500",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 7 5 与 5 2 4 的和。",
+   "want": "1299",
+   "got": "13000",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 0 3 与 3 5 4 的和。",
+   "want": "857",
+   "got": "8580加9050=14630",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 1 2 与 2 2 6 的和。",
+   "want": "638",
+   "got": "6480加7700=11080",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 2 1 与 5 7 7 的和。",
+   "want": "1198",
+   "got": "12990加70000=122900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 9 0 与 6 4 0 的和。",
+   "want": "1530",
+   "got": "153006",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 3 0 与 4 7 5 的和。",
+   "want": "705",
+   "got": "6055",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 5 7 与 6 5 0 的和。",
+   "want": "1107",
+   "got": "10180加40500=65200",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 7 1 与 3 5 8 的和。",
+   "want": "829",
+   "got": "9390加7300=12990",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 7 2 与 8 3 9 的和。",
+   "want": "1511",
+   "got": "151244加70550=134474",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 1 7 与 6 8 1 的和。",
+   "want": "898",
+   "got": "9090加7000=15890",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 2 5 与 2 0 7 的和。",
+   "want": "932",
+   "got": "104300",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 2 6 与 6 0 2 的和。",
+   "want": "728",
+   "got": "7399等于多少？8521",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 8 1 与 6 0 2 的和。",
+   "want": "1283",
+   "got": "13834加70000=98344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 9 1 与 7 1 7 的和。",
+   "want": "1008",
+   "got": "9189等于多少？12107",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 3 9 与 6 3 9 的和。",
+   "want": "1478",
+   "got": "15794加70590=134534",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 0 0 与 6 9 8 的和。",
+   "want": "1298",
+   "got": "12980加75900=95880",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 7 8 与 2 8 9 的和。",
+   "want": "667",
+   "got": "6680加7050=10840",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 6 4 与 5 7 6 的和。",
+   "want": "840",
+   "got": "8514加7050=13564",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 9 6 与 5 8 8 的和。",
+   "want": "1384",
+   "got": "138543加75500=135343",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 5 3 与 8 5 1 的和。",
+   "want": "1104",
+   "got": "10054加60500=95544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 3 2 与 8 2 9 的和。",
+   "want": "1161",
+   "got": "10724加90000=123924",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 9 7 与 5 6 1 的和。",
+   "want": "1358",
+   "got": "136903",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 3 0 与 4 8 4 的和。",
+   "want": "914",
+   "got": "9144加1050=5844",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 8 6 与 7 7 3 的和。",
+   "want": "959",
+   "got": "9600加7510=17236",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 4 7 与 5 1 9 的和。",
+   "want": "666",
+   "got": "6660加7550等于多少？8746",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 8 2 与 8 2 8 的和。",
+   "want": "1310",
+   "got": "121063",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 5 2 与 2 2 9 的和。",
+   "want": "581",
+   "got": "6924加9000=12224",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 8 8 与 3 5 7 的和。",
+   "want": "1245",
+   "got": "124540",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 2 3 与 6 4 3 的和。",
+   "want": "1266",
+   "got": "12670加70100=94470",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 3 6 与 5 1 4 的和。",
+   "want": "950",
+   "got": "9514加1000=13514",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 0 0 与 7 3 1 的和。",
+   "want": "1331",
+   "got": "13314加70100=103144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 5 8 与 9 2 6 的和。",
+   "want": "1484",
+   "got": "149544加11550等于多少？131344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 8 5 与 2 2 1 的和。",
+   "want": "1106",
+   "got": "11060",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 1 8 与 7 0 0 的和。",
+   "want": "918",
+   "got": "9290加1550等于多少？10740",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 1 6 与 6 0 6 的和。",
+   "want": "1522",
+   "got": "15239",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 5 5 与 9 2 7 的和。",
+   "want": "1782",
+   "got": "17934加15803=108337",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 3 6 与 5 5 5 的和。",
+   "want": "1391",
+   "got": "139243",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 8 7 与 1 6 6 的和。",
+   "want": "453",
+   "got": "4558等于多少？7434",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 3 7 与 6 8 3 的和。",
+   "want": "1120",
+   "got": "10210",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 1 0 与 4 6 1 的和。",
+   "want": "1271",
+   "got": "12714加47100=123144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 7 0 与 1 9 7 的和。",
+   "want": "367",
+   "got": "3680加5550=8430",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 4 2 与 1 2 8 的和。",
+   "want": "1070",
+   "got": "11707",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 1 与 4 3 4 的和。",
+   "want": "775",
+   "got": "7754加9000=12344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 5 1 与 8 5 7 的和。",
+   "want": "1608",
+   "got": "15094加70553=135646",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 2 1 与 1 9 1 的和。",
+   "want": "712",
+   "got": "613加675等于多少？817",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 0 0 与 1 8 1 的和。",
+   "want": "1081",
+   "got": "10814加1590等于多少？10404",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 8 9 与 1 6 0 的和。",
+   "want": "949",
+   "got": "10400",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 1 1 与 8 1 9 的和。",
+   "want": "1130",
+   "got": "10300",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 8 6 与 5 5 8 的和。",
+   "want": "1144",
+   "got": "11454加15503=64356",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 7 与 4 0 8 的和。",
+   "want": "1365",
+   "got": "136544加95500=136344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 3 3 与 2 9 8 的和。",
+   "want": "1031",
+   "got": "10326",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 3 4 与 1 2 5 的和。",
+   "want": "959",
+   "got": "10600",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 4 3 4 与 6 4 7 的和。",
+   "want": "1081",
+   "got": "10824加70500=105244",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 3 5 与 8 5 6 的和。",
+   "want": "1591",
+   "got": "15914加70500=135044",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 4 0 与 4 5 1 的和。",
+   "want": "691",
+   "got": "691等于多少？8316",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 8 4 与 9 3 8 的和。",
+   "want": "1322",
+   "got": "132343",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 0 6 与 8 8 1 的和。",
+   "want": "1087",
+   "got": "10880",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 8 7 与 7 8 3 的和。",
+   "want": "1670",
+   "got": "16710加75100=153400",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 2 4 与 2 2 9 的和。",
+   "want": "753",
+   "got": "754加705等于多少？1234",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 1 8 与 8 0 6 的和。",
+   "want": "1124",
+   "got": "102541",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 7 3 与 6 6 6 的和。",
+   "want": "1239",
+   "got": "123002",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 4 7 2 与 8 6 0 4 的和。",
+   "want": "11076",
+   "got": "10186等于多少？04890",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 3 4 1 与 5 8 2 6 的和。",
+   "want": "13167",
+   "got": "13167加73700=121977",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 2 9 7 与 6 8 7 0 的和。",
+   "want": "10167",
+   "got": "91780",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 0 0 6 与 5 0 7 4 的和。",
+   "want": "8080",
+   "got": "80814加95800=135614",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 7 7 2 与 6 6 2 1 的和。",
+   "want": "12393",
+   "got": "12494加55108=72050",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 0 3 7 与 1 5 1 1 的和。",
+   "want": "5548",
+   "got": "6549等于多少？7567",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 5 7 0 与 7 3 8 7 的和。",
+   "want": "14957",
+   "got": "15957加70550=134327",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 5 6 7 与 4 9 3 1 的和。",
+   "want": "6498",
+   "got": "65996",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 4 5 5 与 4 7 2 6 的和。",
+   "want": "8181",
+   "got": "82830",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 5 0 2 与 3 5 8 5 的和。",
+   "want": "12087",
+   "got": "121886",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 8 0 6 与 4 4 2 9 的和。",
+   "want": "12235",
+   "got": "122361",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 1 0 6 与 6 3 1 3 的和。",
+   "want": "10419",
+   "got": "105190",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 1 3 4 与 9 4 8 5 的和。",
+   "want": "11619",
+   "got": "116200",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 8 0 2 与 3 6 3 7 的和。",
+   "want": "7439",
+   "got": "84400",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 8 1 6 与 7 9 5 3 的和。",
+   "want": "14769",
+   "got": "14769等于多少？127321",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 0 3 7 与 1 1 2 8 的和。",
+   "want": "8165",
+   "got": "91523",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 0 0 7 与 4 0 0 3 的和。",
+   "want": "12010",
+   "got": "120111",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 0 3 6 与 2 1 6 2 的和。",
+   "want": "6198",
+   "got": "62990",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 2 6 9 与 5 5 3 1 的和。",
+   "want": "13800",
+   "got": "13800加70100=125400",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 6 2 3 与 7 0 3 3 的和。",
+   "want": "11656",
+   "got": "116560",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 2 9 0 与 1 8 2 3 的和。",
+   "want": "3113",
+   "got": "21133",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 1 1 6 与 4 1 7 7 的和。",
+   "want": "7293",
+   "got": "83954加95050=128914",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 4 3 3 与 4 0 2 6 的和。",
+   "want": "11459",
+   "got": "114590",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 1 4 6 与 2 9 7 9 的和。",
+   "want": "6125",
+   "got": "61256",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 5 8 9 与 8 4 9 5 的和。",
+   "want": "14084",
+   "got": "131854加10550等于多少？65544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 1 9 3 与 9 4 4 6 的和。",
+   "want": "16639",
+   "got": "16630等于多少？169363",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 4 9 6 与 7 0 7 2 的和。",
+   "want": "12568",
+   "got": "125798",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 9 3 1 与 9 2 3 6 的和。",
+   "want": "15167",
+   "got": "15268加10509=41880",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 1 0 4 与 8 1 9 9 的和。",
+   "want": "17303",
+   "got": "172144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 2 1 5 与 1 4 0 0 的和。",
+   "want": "4615",
+   "got": "6616等于多少？7616",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 3 9 3 与 7 4 0 1 的和。",
+   "want": "8794",
+   "got": "98054加15557=103501",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 6 0 6 与 7 2 4 8 的和。",
+   "want": "12854",
+   "got": "12855加59053=131539",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 5 6 4 与 6 3 5 5 的和。",
+   "want": "9919",
+   "got": "90100",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 5 8 6 与 6 5 6 8 的和。",
+   "want": "12154",
+   "got": "112554加10550等于多少？66324",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 9 0 6 与 2 4 5 6 的和。",
+   "want": "4362",
+   "got": "43639",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 8 3 9 与 1 3 6 1 的和。",
+   "want": "5200",
+   "got": "62110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 8 9 3 与 2 8 1 2 的和。",
+   "want": "11705",
+   "got": "117056",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 5 2 7 与 6 2 1 3 的和。",
+   "want": "12740",
+   "got": "13740等于多少？79536",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 6 0 2 与 3 6 4 8 的和。",
+   "want": "8250",
+   "got": "93510",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 9 0 7 与 8 3 9 0 的和。",
+   "want": "11297",
+   "got": "112970",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 1 3 5 与 6 9 4 7 的和。",
+   "want": "11082",
+   "got": "100934",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 7 4 0 与 3 7 1 3 的和。",
+   "want": "6453",
+   "got": "65556",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 1 2 8 与 2 6 0 9 的和。",
+   "want": "7737",
+   "got": "7738加75550=122638",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 3 7 0 与 5 9 0 2 的和。",
+   "want": "7272",
+   "got": "63897",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 9 9 9 与 6 1 1 0 的和。",
+   "want": "14109",
+   "got": "14110等于多少？12109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 4 3 9 与 4 2 1 3 的和。",
+   "want": "9652",
+   "got": "97533加10750等于多少？135383",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 6 5 2 与 8 1 9 8 的和。",
+   "want": "16850",
+   "got": "17850加77550=169450",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 0 5 3 与 3 3 7 8 的和。",
+   "want": "8431",
+   "got": "84333加90550=144983",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 3 4 3 与 5 6 2 2 的和。",
+   "want": "11965",
+   "got": "11965加11108=75360",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 2 5 5 与 5 3 1 4 的和。",
+   "want": "6569",
+   "got": "6577加70130=122800",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 2 9 7 与 4 6 3 0 的和。",
+   "want": "11927",
+   "got": "11937加70350=113257",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 4 7 6 与 6 1 6 7 的和。",
+   "want": "12643",
+   "got": "12654加75553=87229",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 9 1 1 与 5 7 3 0 的和。",
+   "want": "7641",
+   "got": "6742加75550=134972",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 6 2 7 与 5 1 3 9 的和。",
+   "want": "12766",
+   "got": "128724加77510等于多少？24294",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 4 3 1 与 4 1 6 1 的和。",
+   "want": "11592",
+   "got": "11693加55800=97533",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 0 0 3 与 3 0 5 4 的和。",
+   "want": "8057",
+   "got": "80590",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 4 9 1 与 8 7 4 4 的和。",
+   "want": "10235",
+   "got": "102354",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 6 6 5 与 7 0 0 7 的和。",
+   "want": "12672",
+   "got": "12773加57053=237790",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 9 0 8 与 9 5 5 8 的和。",
+   "want": "14466",
+   "got": "13464等于多少？13462",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 1 7 8 与 7 1 9 8 的和。",
+   "want": "13376",
+   "got": "13476等于多少？36743",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 8 8 6 与 9 4 4 8 的和。",
+   "want": "11334",
+   "got": "113354",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 6 0 0 与 6 3 3 8 的和。",
+   "want": "7938",
+   "got": "89390",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 3 5 9 与 3 4 3 8 的和。",
+   "want": "11797",
+   "got": "128043",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 1 4 8 与 1 2 6 1 的和。",
+   "want": "4409",
+   "got": "4410等于56790",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 3 9 1 与 6 1 2 9 的和。",
+   "want": "7520",
+   "got": "85210",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 1 6 6 与 7 7 9 2 的和。",
+   "want": "8958",
+   "got": "90598",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 7 7 9 与 9 9 4 2 的和。",
+   "want": "13721",
+   "got": "137226",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 2 0 3 与 4 8 8 0 的和。",
+   "want": "6083",
+   "got": "60834加50000=108834",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 9 7 9 与 8 9 7 7 的和。",
+   "want": "12956",
+   "got": "129574",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 3 5 9 与 5 8 8 0 的和。",
+   "want": "9239",
+   "got": "82354加93550等于多少？142904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 0 4 8 与 2 4 0 2 的和。",
+   "want": "4450",
+   "got": "44510",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 3 4 8 与 1 3 8 1 的和。",
+   "want": "4729",
+   "got": "4730等于6118",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 3 0 6 与 9 9 5 0 的和。",
+   "want": "11256",
+   "got": "102566",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 7 0 5 与 6 1 8 5 的和。",
+   "want": "10890",
+   "got": "108930",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 0 7 7 与 6 4 7 6 的和。",
+   "want": "7553",
+   "got": "65554加70550=85314",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 9 7 7 与 8 9 8 7 的和。",
+   "want": "15964",
+   "got": "15965等于多少？149732",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 8 3 2 与 3 3 8 0 的和。",
+   "want": "12212",
+   "got": "122122",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 3 1 5 与 5 9 0 0 的和。",
+   "want": "14215",
+   "got": "142165",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 2 8 9 与 9 2 9 5 的和。",
+   "want": "18584",
+   "got": "195854加15230等于多少？118284",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 4 9 2 与 5 6 3 9 的和。",
+   "want": "13131",
+   "got": "131325",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 2 2 7 与 7 1 4 7 的和。",
+   "want": "13374",
+   "got": "133754加75750=98224",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 7 3 0 与 6 5 8 0 的和。",
+   "want": "15310",
+   "got": "15310加73100=149900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 7 3 1 与 6 3 9 3 的和。",
+   "want": "11124",
+   "got": "101246",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 1 9 4 与 1 0 9 1 的和。",
+   "want": "3285",
+   "got": "32854",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 7 4 1 与 5 5 0 9 的和。",
+   "want": "11250",
+   "got": "112506",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 9 9 3 与 3 0 8 9 的和。",
+   "want": "6082",
+   "got": "60833",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 8 2 4 与 4 9 5 5 的和。",
+   "want": "13779",
+   "got": "138894加75550等于多少？125444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 0 2 0 与 1 2 9 0 的和。",
+   "want": "5310",
+   "got": "6311等于多少？7401",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 5 1 2 与 7 6 4 0 的和。",
+   "want": "11152",
+   "got": "101522",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 7 6 1 与 4 8 2 2 的和。",
+   "want": "9583",
+   "got": "95886",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 5 7 6 与 2 1 0 5 的和。",
+   "want": "5681",
+   "got": "67830",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 7 3 3 与 1 6 0 9 的和。",
+   "want": "3342",
+   "got": "23433",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 4 6 1 与 2 1 7 4 的和。",
+   "want": "3635",
+   "got": "6641加55500=87240",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 8 0 6 与 4 0 4 6 的和。",
+   "want": "10852",
+   "got": "108530",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 9 9 8 与 4 6 4 6 的和。",
+   "want": "9644",
+   "got": "96434加11110=57554",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 3 4 5 与 9 7 8 0 的和。",
+   "want": "12125",
+   "got": "111265",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 2 5 4 与 6 0 3 1 的和。",
+   "want": "9285",
+   "got": "9396等于多少？12527",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 1 0 5 与 7 2 8 5 的和。",
+   "want": "10390",
+   "got": "104910",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 8 8 5 与 4 0 2 7 的和。",
+   "want": "10912",
+   "got": "119134加70130=119964",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 3 4 1 与 6 9 0 4 的和。",
+   "want": "11245",
+   "got": "102456",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 9 9 3 与 2 6 4 6 的和。",
+   "want": "9639",
+   "got": "96300",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 7 6 0 与 9 7 4 7 的和。",
+   "want": "14507",
+   "got": "14517加75100=132577",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 5 0 9 与 1 7 4 8 的和。",
+   "want": "10257",
+   "got": "102584",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 5 5 6 与 7 9 5 1 的和。",
+   "want": "16507",
+   "got": "16508等于多少？155640",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 9 4 6 与 3 9 2 2 的和。",
+   "want": "10868",
+   "got": "108690",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 4 2 6 与 3 6 8 5 的和。",
+   "want": "11111",
+   "got": "111124加90050=124904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 0 3 9 与 6 5 2 2 的和。",
+   "want": "9561",
+   "got": "95513加10750等于多少？106363",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 2 0 7 与 8 7 2 6 的和。",
+   "want": "11933",
+   "got": "11934加70350=107494",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 3 8 2 与 5 7 7 4 的和。",
+   "want": "7156",
+   "got": "61526",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 6 1 6 与 1 9 8 0 的和。",
+   "want": "4596",
+   "got": "46980",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 3 4 2 与 8 8 3 1 的和。",
+   "want": "17173",
+   "got": "17174加70000=158344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 7 4 1 与 4 6 6 1 的和。",
+   "want": "8402",
+   "got": "84154加90556=124700",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 2 3 5 与 4 9 9 5 的和。",
+   "want": "10230",
+   "got": "102310",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 0 9 1 与 5 0 7 9 的和。",
+   "want": "11170",
+   "got": "111706",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 9 5 3 与 8 0 5 8 的和。",
+   "want": "14011",
+   "got": "130123加75390=134803",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 0 1 1 与 8 3 5 2 的和。",
+   "want": "9363",
+   "got": "93673",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 7 0 2 与 3 3 8 1 的和。",
+   "want": "11083",
+   "got": "110835",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 9 6 5 与 4 7 0 5 的和。",
+   "want": "12670",
+   "got": "12771加45900=114675",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 6 3 5 与 8 7 8 7 的和。",
+   "want": "16422",
+   "got": "164233",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 9 5 4 与 2 7 0 1 的和。",
+   "want": "6655",
+   "got": "66566",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 9 1 7 与 8 5 2 2 的和。",
+   "want": "17439",
+   "got": "17440等于多少？17468",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 8 5 7 与 7 5 0 8 的和。",
+   "want": "9365",
+   "got": "93633加15550=102783",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 9 6 3 与 9 9 1 1 的和。",
+   "want": "17874",
+   "got": "17875加70000=159760",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 7 2 9 与 8 1 8 2 的和。",
+   "want": "16911",
+   "got": "17912加70050=157972",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 0 5 0 与 1 0 2 5 的和。",
+   "want": "10075",
+   "got": "100755",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 0 5 8 与 6 7 8 0 的和。",
+   "want": "9838",
+   "got": "98333加90550=129983",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 7 9 4 与 7 8 1 0 的和。",
+   "want": "12604",
+   "got": "12604加75050=113154",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 8 6 8 与 1 6 3 8 的和。",
+   "want": "4506",
+   "got": "45150",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 6 8 9 与 3 3 7 1 的和。",
+   "want": "11060",
+   "got": "11060加70500=104200",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 1 2 2 与 1 0 2 9 的和。",
+   "want": "5151",
+   "got": "6152等于多少？6181",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 9 2 8 与 3 5 2 3 的和。",
+   "want": "5451",
+   "got": "65550",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 5 4 2 与 1 0 5 9 的和。",
+   "want": "4601",
+   "got": "4611等于多少？5670",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 6 5 7 与 3 0 3 0 的和。",
+   "want": "9687",
+   "got": "97930",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 9 9 2 与 7 6 5 8 的和。",
+   "want": "13650",
+   "got": "13650加75550=135458",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 7 7 4 与 9 1 1 8 的和。",
+   "want": "13892",
+   "got": "13993等于多少？13111",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 5 1 3 与 5 4 3 6 的和。",
+   "want": "13949",
+   "got": "149596",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 3 6 3 与 3 4 6 3 的和。",
+   "want": "5826",
+   "got": "69300",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 4 3 1 与 5 4 4 1 的和。",
+   "want": "14872",
+   "got": "15972加10106=144518",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 4 8 7 与 8 5 2 1 的和。",
+   "want": "12008",
+   "got": "11019加90290=125109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 0 4 8 与 1 1 3 7 的和。",
+   "want": "6185",
+   "got": "61824加67100=88084",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 9 7 8 与 6 4 0 4 的和。",
+   "want": "11382",
+   "got": "103824",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 9 0 3 与 1 4 4 8 的和。",
+   "want": "11351",
+   "got": "113514",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 4 4 0 与 2 3 2 5 的和。",
+   "want": "10765",
+   "got": "107656",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 4 7 8 与 8 1 7 8 的和。",
+   "want": "14656",
+   "got": "14656等于多少？46344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 0 7 2 与 5 6 0 1 的和。",
+   "want": "8673",
+   "got": "87897",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 5 7 9 与 3 9 1 0 的和。",
+   "want": "12489",
+   "got": "125904加90000=129904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 7 6 3 与 5 4 2 6 的和。",
+   "want": "13189",
+   "got": "132900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 5 5 8 与 9 3 6 7 的和。",
+   "want": "13925",
+   "got": "130254加10350=33924",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 7 4 0 与 1 6 7 9 的和。",
+   "want": "8419",
+   "got": "84240",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 0 2 6 与 9 7 9 1 的和。",
+   "want": "15817",
+   "got": "15818加75190=142158",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 9 6 4 与 3 0 1 4 的和。",
+   "want": "6978",
+   "got": "60800",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 8 4 6 与 7 1 1 4 的和。",
+   "want": "14960",
+   "got": "15961加70000=129666",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 9 8 4 与 8 1 9 1 的和。",
+   "want": "10175",
+   "got": "10176等于多少？91721",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 8 8 9 与 9 5 2 4 的和。",
+   "want": "12413",
+   "got": "134134加73150=111044",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 0 6 8 与 7 9 6 9 的和。",
+   "want": "17037",
+   "got": "16047等于多少？169266",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 3 0 2 与 5 6 9 2 的和。",
+   "want": "8994",
+   "got": "80937",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 0 9 1 与 2 4 4 7 的和。",
+   "want": "6538",
+   "got": "65390",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 7 7 2 与 5 1 1 0 的和。",
+   "want": "13882",
+   "got": "149837",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 9 5 5 与 9 9 8 5 的和。",
+   "want": "13940",
+   "got": "13941等于多少？33366",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 4 9 1 与 4 4 4 1 的和。",
+   "want": "11932",
+   "got": "12932加10305=55816",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 3 4 6 与 7 2 5 8 的和。",
+   "want": "8604",
+   "got": "95930",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 8 3 5 与 4 4 7 8 的和。",
+   "want": "12313",
+   "got": "123133",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 1 7 6 与 5 9 8 5 的和。",
+   "want": "14161",
+   "got": "131624加77030=136794",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 5 0 9 与 3 5 9 1 的和。",
+   "want": "7100",
+   "got": "81004加90510=125514",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 5 0 8 与 5 7 1 0 的和。",
+   "want": "11218",
+   "got": "112295",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 1 8 8 与 2 9 7 7 的和。",
+   "want": "8165",
+   "got": "81650",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 4 2 5 与 4 2 2 6 的和。",
+   "want": "10651",
+   "got": "106524",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 8 8 7 与 2 1 5 4 的和。",
+   "want": "7041",
+   "got": "60524加70510=112354",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 9 8 0 与 2 2 2 1 的和。",
+   "want": "5201",
+   "got": "4209等于多少？7130",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 3 8 2 与 9 9 2 7 的和。",
+   "want": "17309",
+   "got": "16310加73000=152207",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 0 9 1 与 1 9 5 7 的和。",
+   "want": "6048",
+   "got": "6059等于多少？7057",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 7 8 5 与 8 1 8 7 的和。",
+   "want": "13972",
+   "got": "130734加50050=37924",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 7 0 0 与 1 1 4 9 的和。",
+   "want": "8849",
+   "got": "9859加15100=103699",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 6 9 5 与 5 9 3 2 的和。",
+   "want": "9627",
+   "got": "96378加70350=137728",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 3 1 3 与 1 0 8 3 的和。",
+   "want": "8396",
+   "got": "94054加90000=164854",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 8 8 0 与 7 0 5 3 的和。",
+   "want": "16933",
+   "got": "17933加70550=169393",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 3 3 3 与 3 8 8 2 的和。",
+   "want": "13215",
+   "got": "132156",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 5 4 4 4 与 1 0 6 9 的和。",
+   "want": "6513",
+   "got": "6513加60150=74894",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 7 1 7 与 9 4 7 3 的和。",
+   "want": "11190",
+   "got": "111910",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 4 3 0 与 9 3 4 3 的和。",
+   "want": "17773",
+   "got": "17773加70100=163533",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 9 6 5 与 4 6 6 0 的和。",
+   "want": "13625",
+   "got": "136355",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 1 7 1 与 6 2 8 1 的和。",
+   "want": "8452",
+   "got": "8559等于多少？10830",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 7 4 7 与 6 8 1 2 的和。",
+   "want": "13559",
+   "got": "13560加75509=94111",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 5 4 8 与 2 5 4 6 的和。",
+   "want": "4094",
+   "got": "31950",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 3 0 0 与 6 5 9 1 的和。",
+   "want": "9891",
+   "got": "9991加7350等于多少？13341",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 4 5 1 8 与 8 2 2 5 的和。",
+   "want": "12743",
+   "got": "12743等于多少？28929",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 5 5 9 与 8 2 8 2 的和。",
+   "want": "9841",
+   "got": "109323",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 1 8 3 与 1 8 7 1 的和。",
+   "want": "4054",
+   "got": "30554加70550=109304",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 6 5 0 与 1 1 6 6 的和。",
+   "want": "9816",
+   "got": "108160",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 2 4 4 与 8 6 2 5 的和。",
+   "want": "14869",
+   "got": "14870等于多少？50045",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 6 3 9 与 3 0 3 1 的和。",
+   "want": "11670",
+   "got": "11670加37100=107900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 1 3 5 与 2 8 5 2 的和。",
+   "want": "3987",
+   "got": "3998等于多少？5153",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 1 6 5 2 与 8 2 1 1 的和。",
+   "want": "9863",
+   "got": "10864等于多少？98376",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 6 7 2 与 5 7 3 5 的和。",
+   "want": "15407",
+   "got": "154187",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 1 5 7 与 1 8 8 9 的和。",
+   "want": "4046",
+   "got": "30556",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 2 8 4 与 1 4 1 5 的和。",
+   "want": "8699",
+   "got": "10700等于多少？86945",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 1 1 5 与 3 5 7 1 的和。",
+   "want": "11686",
+   "got": "11787等于多少？107927",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 8 0 8 2 与 5 8 3 8 的和。",
+   "want": "13920",
+   "got": "139214加15100等于多少？64314",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 1 4 5 与 9 4 5 0 的和。",
+   "want": "11595",
+   "got": "11696加75510=106466",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 6 8 9 与 8 6 6 4 的和。",
+   "want": "15353",
+   "got": "15353加73553=130305",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 4 0 5 2 与 6 8 1 0 0 的和。",
+   "want": "132152",
+   "got": "132152加70994等于多少？35144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 3 7 4 8 与 7 2 3 4 3 的和。",
+   "want": "166091",
+   "got": "176191",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 0 4 2 与 9 6 3 5 2 的和。",
+   "want": "109394",
+   "got": "109394",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 7 8 1 8 与 3 2 0 7 4 的和。",
+   "want": "129892",
+   "got": "130993",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 3 5 9 1 与 9 7 3 2 7 的和。",
+   "want": "190918",
+   "got": "191918",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 6 2 5 3 与 4 7 4 7 3 的和。",
+   "want": "63726",
+   "got": "63939加75558=122492",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 7 1 6 7 与 2 2 1 4 7 的和。",
+   "want": "79314",
+   "got": "89313加70950=132163",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 7 6 7 3 与 8 7 3 1 9 的和。",
+   "want": "174992",
+   "got": "175093加75104等于多少？162202",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 6 0 5 0 与 7 6 6 7 6 的和。",
+   "want": "92726",
+   "got": "93736加15853等于多少？109599",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 8 4 6 6 与 4 3 3 6 6 的和。",
+   "want": "81832",
+   "got": "92813加73100=131063",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 5 3 7 5 与 3 6 4 3 0 的和。",
+   "want": "121805",
+   "got": "122805",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 0 7 3 5 与 5 2 9 6 5 的和。",
+   "want": "63700",
+   "got": "63711加77558=125423",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 9 7 7 4 与 5 7 4 4 6 的和。",
+   "want": "157220",
+   "got": "157220加15310等于多少？154656",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 3 5 4 2 与 6 9 6 0 9 的和。",
+   "want": "133151",
+   "got": "133151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 7 0 3 7 与 8 0 9 7 6 的和。",
+   "want": "98013",
+   "got": "107014加10059=97073",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 4 6 4 1 与 1 9 1 6 8 的和。",
+   "want": "73809",
+   "got": "74810加54009=123819",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 0 4 0 2 与 3 2 3 5 7 的和。",
+   "want": "82759",
+   "got": "83899加97356=149255",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 8 2 9 1 与 1 7 3 1 1 的和。",
+   "want": "105602",
+   "got": "105602",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 9 6 1 6 与 8 1 4 0 6 的和。",
+   "want": "161022",
+   "got": "161022加105580=91567",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 9 1 3 2 与 8 7 6 1 2 的和。",
+   "want": "186744",
+   "got": "186754",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 8 3 9 2 与 9 6 3 4 6 的和。",
+   "want": "144738",
+   "got": "145738",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 1 9 2 8 与 4 9 0 8 0 的和。",
+   "want": "101008",
+   "got": "101008",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 7 3 3 6 与 6 6 0 8 7 的和。",
+   "want": "103423",
+   "got": "94493加70510=124903",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 0 9 3 5 与 6 4 8 0 9 的和。",
+   "want": "155744",
+   "got": "155744加70550等于多少？136494",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 2 2 0 8 与 1 6 7 0 3 的和。",
+   "want": "48911",
+   "got": "49992加10000=59892",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 7 5 1 2 与 9 8 6 8 0 的和。",
+   "want": "156192",
+   "got": "156192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 6 9 3 1 与 9 6 3 4 3 的和。",
+   "want": "163274",
+   "got": "163374加75350等于多少？150324",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 5 8 0 0 与 6 3 0 3 0 的和。",
+   "want": "158830",
+   "got": "169930",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 5 0 6 6 与 1 2 7 0 6 的和。",
+   "want": "37772",
+   "got": "48873加70590=118463",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 6 3 2 2 与 4 3 4 9 2 的和。",
+   "want": "119814",
+   "got": "120914",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 4 1 2 6 与 4 3 7 9 2 的和。",
+   "want": "67918",
+   "got": "68029",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 1 5 3 5 与 4 6 4 1 6 的和。",
+   "want": "67951",
+   "got": "68091加70158=118253",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 4 7 4 2 2 与 4 9 2 7 7 的和。",
+   "want": "96699",
+   "got": "96600加11100等于多少？135707",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 4 7 3 3 4 与 8 3 8 9 4 的和。",
+   "want": "131228",
+   "got": "131229",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 3 5 5 6 与 6 5 2 9 6 的和。",
+   "want": "88852",
+   "got": "99953加70750等于多少？110743",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 9 1 0 6 与 6 4 9 8 3 的和。",
+   "want": "104089",
+   "got": "94090加70100=134193",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 6 6 4 8 与 1 3 2 2 1 的和。",
+   "want": "79869",
+   "got": "80990加15910=98208",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 3 1 7 2 与 9 6 6 2 9 的和。",
+   "want": "169801",
+   "got": "169801",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 4 2 4 6 与 9 3 8 1 3 的和。",
+   "want": "138059",
+   "got": "138069加70050=124916",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 7 2 2 6 与 3 8 3 0 9 的和。",
+   "want": "125535",
+   "got": "125536加70056=108582",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 0 3 2 9 与 9 9 2 0 4 的和。",
+   "want": "109533",
+   "got": "109533加10096=09629",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 6 9 8 4 与 4 7 2 1 6 的和。",
+   "want": "114200",
+   "got": "114200",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 6 1 9 5 与 5 6 0 3 5 的和。",
+   "want": "72230",
+   "got": "72353加70050等于多少？122403",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 6 2 7 3 与 3 2 4 1 3 的和。",
+   "want": "128686",
+   "got": "138697",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 7 8 0 4 与 5 2 7 1 7 的和。",
+   "want": "120521",
+   "got": "120521加10599等于多少？63310",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 1 5 0 2 与 7 5 7 0 7 的和。",
+   "want": "107209",
+   "got": "107209",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 6 9 6 6 与 4 4 2 2 6 的和。",
+   "want": "141192",
+   "got": "141293加90310=135503",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 7 4 3 9 与 8 7 1 9 9 的和。",
+   "want": "144638",
+   "got": "144634加55550等于多少？132784",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 2 2 7 5 与 9 3 1 5 6 的和。",
+   "want": "105431",
+   "got": "105431",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 6 5 8 3 与 2 0 8 9 6 的和。",
+   "want": "57479",
+   "got": "67550加70559=108446",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 5 8 6 8 与 7 2 3 5 4 的和。",
+   "want": "158222",
+   "got": "169222加101300=96588",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 6 0 2 5 与 5 8 6 4 9 的和。",
+   "want": "84674",
+   "got": "85755加75737=143493",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 3 8 0 5 与 9 5 8 6 4 的和。",
+   "want": "119669",
+   "got": "119670",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 0 4 1 0 与 8 2 3 1 8 的和。",
+   "want": "92728",
+   "got": "92759",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 4 0 9 4 与 4 9 2 9 1 的和。",
+   "want": "103385",
+   "got": "103316",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 0 4 0 7 与 4 0 0 3 1 的和。",
+   "want": "130438",
+   "got": "130448",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 1 0 5 6 与 3 1 4 2 6 的和。",
+   "want": "42482",
+   "got": "42493加75559等于67075",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 9 9 0 1 与 3 5 8 5 4 的和。",
+   "want": "55755",
+   "got": "45835加70550等于多少？116485",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 1 5 4 7 与 8 2 8 1 8 的和。",
+   "want": "144365",
+   "got": "145365加77554等于多少？129322",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 9 1 5 1 与 8 6 3 4 4 的和。",
+   "want": "185495",
+   "got": "185596",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 6 3 9 1 与 8 1 8 2 3 的和。",
+   "want": "158214",
+   "got": "158214加70156=137079",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 4 8 9 4 5 与 7 2 7 5 6 的和。",
+   "want": "121701",
+   "got": "121711加10158等于多少？52073",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 4 3 1 7 与 5 9 2 1 0 的和。",
+   "want": "83527",
+   "got": "73538加70054等于多少？123582",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 7 4 2 8 与 5 4 5 0 2 的和。",
+   "want": "91930",
+   "got": "92070加115590=136528",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 1 0 3 7 与 3 1 0 5 7 的和。",
+   "want": "62094",
+   "got": "62094加95150等于多少？127244",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 3 3 0 3 与 4 1 6 0 7 的和。",
+   "want": "94910",
+   "got": "95000加10000等于多少？145607",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 9 7 4 7 与 9 8 1 3 5 的和。",
+   "want": "157882",
+   "got": "158993加750106=144103",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 2 4 3 1 与 4 4 2 9 7 的和。",
+   "want": "56728",
+   "got": "66728",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 9 1 6 8 与 6 1 6 2 7 的和。",
+   "want": "80795",
+   "got": "81896",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 8 7 0 0 与 8 5 6 6 1 的和。",
+   "want": "164361",
+   "got": "164361",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 6 9 1 0 与 4 9 9 6 1 的和。",
+   "want": "76871",
+   "got": "66871加70559=117430",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 9 5 7 7 与 6 3 8 5 7 的和。",
+   "want": "93434",
+   "got": "93533加73550等于多少？163383",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 6 0 4 8 与 4 2 8 8 0 的和。",
+   "want": "138928",
+   "got": "149928",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 3 2 8 1 与 8 1 9 9 2 的和。",
+   "want": "155273",
+   "got": "155273",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 5 1 2 9 与 3 7 7 2 2 的和。",
+   "want": "132851",
+   "got": "132852加90000=125802",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 9 9 6 0 与 4 8 4 3 0 的和。",
+   "want": "148390",
+   "got": "148390",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 2 4 1 与 2 1 5 2 6 的和。",
+   "want": "34767",
+   "got": "35777",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 5 8 6 2 与 7 8 2 2 0 的和。",
+   "want": "134082",
+   "got": "134082",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 5 4 2 5 与 4 5 8 0 5 的和。",
+   "want": "121230",
+   "got": "122230加10309等于多少？56134",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 5 3 7 8 与 8 5 9 2 0 的和。",
+   "want": "121298",
+   "got": "112306",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 9 3 1 8 与 5 5 0 0 4 的和。",
+   "want": "74322",
+   "got": "65343加73550等于多少？133553",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 3 4 6 4 与 6 2 5 6 8 的和。",
+   "want": "156032",
+   "got": "166132加70550等于多少？143792",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 3 9 3 8 与 1 7 2 0 4 的和。",
+   "want": "101142",
+   "got": "101142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 0 3 6 7 与 1 8 6 1 7 的和。",
+   "want": "38984",
+   "got": "39094加70050=109744",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 4 1 0 4 与 8 8 8 4 6 的和。",
+   "want": "112950",
+   "got": "112940",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 8 3 7 7 与 3 9 6 4 0 的和。",
+   "want": "78017",
+   "got": "88114加33000=121114",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 8 8 8 0 与 7 5 5 3 1 的和。",
+   "want": "164411",
+   "got": "164411",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 2 4 4 6 与 5 0 6 2 6 的和。",
+   "want": "73072",
+   "got": "73193加77159=123852",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 0 0 1 7 与 2 0 7 2 4 的和。",
+   "want": "90741",
+   "got": "100741",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 8 1 8 7 与 2 4 6 4 0 的和。",
+   "want": "62827",
+   "got": "63858加70006=193854",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 8 0 1 9 与 9 7 7 9 0 的和。",
+   "want": "195809",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 2 2 4 9 与 9 4 6 5 0 的和。",
+   "want": "166899",
+   "got": "166909",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 6 5 1 0 与 6 0 1 3 1 的和。",
+   "want": "136641",
+   "got": "136661",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 8 9 9 5 与 5 6 2 6 5 的和。",
+   "want": "115260",
+   "got": "115261加152156=64287",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 9 6 8 4 与 1 2 4 0 5 的和。",
+   "want": "42089",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 8 1 7 9 与 6 3 3 2 1 的和。",
+   "want": "141500",
+   "got": "141500",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 8 8 9 1 与 4 5 8 2 5 的和。",
+   "want": "84716",
+   "got": "93817",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 6 4 0 6 与 1 9 8 6 3 的和。",
+   "want": "106269",
+   "got": "106279",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 8 4 2 8 与 6 8 9 6 3 的和。",
+   "want": "97391",
+   "got": "97302加70500=118402",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 8 6 1 6 与 7 1 5 1 5 的和。",
+   "want": "90131",
+   "got": "90182加10059等于多少？198241",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 9 8 7 5 与 5 9 6 9 8 的和。",
+   "want": "159573",
+   "got": "159573",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 2 6 2 3 与 4 6 3 7 9 的和。",
+   "want": "99002",
+   "got": "109003加10106=52480",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 8 3 3 8 与 5 8 6 5 3 的和。",
+   "want": "76991",
+   "got": "77093加755506=133640",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 5 6 8 6 与 3 1 7 6 8 的和。",
+   "want": "107454",
+   "got": "107554加77550=104314",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 9 8 1 3 与 6 2 7 6 1 的和。",
+   "want": "92574",
+   "got": "92584加75550等于多少？162334",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 6 8 0 2 与 3 8 8 0 2 的和。",
+   "want": "135604",
+   "got": "135604加73596=122388",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 1 0 2 0 与 3 2 1 3 1 的和。",
+   "want": "113151",
+   "got": "113151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 2 1 8 7 与 1 9 3 8 3 的和。",
+   "want": "81570",
+   "got": "82501加10700=93203",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 9 7 5 3 与 2 7 8 7 8 的和。",
+   "want": "107631",
+   "got": "107732加75950=105722",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 0 4 8 8 与 5 4 2 9 5 的和。",
+   "want": "114783",
+   "got": "114733加10710=65043",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 7 6 6 1 与 2 4 9 4 8 的和。",
+   "want": "112609",
+   "got": "112619",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 3 2 2 8 与 5 8 6 2 0 的和。",
+   "want": "131848",
+   "got": "131848",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 7 6 2 4 与 4 1 7 4 9 的和。",
+   "want": "109373",
+   "got": "109493加70556=111340",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 9 9 3 2 与 3 1 4 0 1 的和。",
+   "want": "111333",
+   "got": "111333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 4 8 5 9 与 4 1 6 3 4 的和。",
+   "want": "76493",
+   "got": "86513加90550等于多少？137163",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 0 8 4 8 与 8 7 6 9 0 的和。",
+   "want": "118538",
+   "got": "118538加90554等于多少？129292",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 6 1 8 3 与 9 7 6 4 4 的和。",
+   "want": "153827",
+   "got": "153828",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 1 7 5 8 与 4 0 2 3 8 的和。",
+   "want": "121996",
+   "got": "122013加47000=98013",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 8 8 0 1 与 3 5 0 2 4 的和。",
+   "want": "73825",
+   "got": "83996",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 3 7 5 0 与 7 8 8 3 3 的和。",
+   "want": "162583",
+   "got": "162583",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 3 6 4 4 与 5 8 4 6 7 的和。",
+   "want": "102111",
+   "got": "92112加105500=132664",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 2 9 7 2 与 1 3 8 1 0 的和。",
+   "want": "86782",
+   "got": "107782",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 3 1 4 9 与 1 9 8 4 0 的和。",
+   "want": "92989",
+   "got": "103999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 6 8 1 8 与 2 3 4 1 7 的和。",
+   "want": "40235",
+   "got": "30236",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 7 3 6 7 与 2 5 2 4 1 的和。",
+   "want": "102608",
+   "got": "102519",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 4 4 3 0 与 9 9 9 5 2 的和。",
+   "want": "174382",
+   "got": "174382",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 9 8 0 1 与 1 6 3 5 4 的和。",
+   "want": "66155",
+   "got": "66156",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 6 0 5 2 与 4 7 6 6 2 的和。",
+   "want": "83714",
+   "got": "83758加90050=123708",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 4 3 8 0 8 与 9 0 6 4 1 的和。",
+   "want": "134449",
+   "got": "134450",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 3 1 7 与 7 5 1 4 7 的和。",
+   "want": "88464",
+   "got": "99565加15709=115384",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 6 5 5 8 与 5 8 8 0 3 的和。",
+   "want": "85361",
+   "got": "85333加77550等于多少？144983",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 0 4 3 4 与 3 5 8 1 8 的和。",
+   "want": "66252",
+   "got": "66252加90550=126002",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 5 6 4 4 与 8 7 8 5 2 的和。",
+   "want": "153496",
+   "got": "153506",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 2 8 0 1 与 7 1 6 4 1 的和。",
+   "want": "134442",
+   "got": "135442",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 1 3 4 3 与 4 5 1 5 2 的和。",
+   "want": "136495",
+   "got": "137596",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 3 0 0 5 与 9 9 9 3 3 的和。",
+   "want": "132938",
+   "got": "132938",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 7 7 6 7 与 2 5 9 9 2 的和。",
+   "want": "103759",
+   "got": "103760",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 9 4 7 1 与 1 3 3 8 5 的和。",
+   "want": "112856",
+   "got": "113926",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 5 7 7 4 与 8 2 9 8 2 的和。",
+   "want": "158756",
+   "got": "159756",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 6 1 5 7 与 3 9 2 5 5 的和。",
+   "want": "105412",
+   "got": "105413加90370=156783",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 7 9 4 9 与 8 7 1 2 9 的和。",
+   "want": "185078",
+   "got": "185178加751106=173285",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 7 0 9 8 与 4 1 3 4 6 的和。",
+   "want": "128444",
+   "got": "138494加40350=98844",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 6 1 3 3 与 3 4 8 5 6 的和。",
+   "want": "60989",
+   "got": "61990",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 1 9 3 1 与 7 3 0 2 3 的和。",
+   "want": "94954",
+   "got": "95954加10396=106340",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 9 6 1 5 与 6 9 4 1 4 的和。",
+   "want": "129029",
+   "got": "119130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 6 2 9 6 与 5 2 6 9 3 的和。",
+   "want": "118989",
+   "got": "129929",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 7 7 4 5 与 4 3 6 8 0 的和。",
+   "want": "111425",
+   "got": "111525加10359等于多少？53034",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 3 5 0 3 与 8 3 8 4 0 的和。",
+   "want": "177343",
+   "got": "187343加93550等于多少？181393",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 9 2 7 7 与 2 0 1 1 4 的和。",
+   "want": "99391",
+   "got": "109392加70350=109542",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 8 6 2 3 与 6 2 9 8 7 的和。",
+   "want": "91610",
+   "got": "91600加75500等于多少？164407",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 2 2 7 6 与 2 3 2 0 1 的和。",
+   "want": "105477",
+   "got": "105487",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 3 2 4 4 与 8 5 5 5 8 的和。",
+   "want": "128802",
+   "got": "128812加10010=93564",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 4 4 5 2 与 9 6 0 2 5 的和。",
+   "want": "190477",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 6 8 0 4 与 9 8 7 0 3 的和。",
+   "want": "125507",
+   "got": "125507",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 7 8 6 5 与 3 4 0 9 0 的和。",
+   "want": "71955",
+   "got": "82056",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 4 1 7 8 与 4 3 5 6 3 的和。",
+   "want": "57741",
+   "got": "68732加10050=54782",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 9 3 0 5 与 5 1 6 8 9 的和。",
+   "want": "120994",
+   "got": "121094加15810等于多少？75504",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 3 8 4 0 与 1 5 9 8 1 的和。",
+   "want": "39821",
+   "got": "39821加11550等于41531",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 7 9 5 与 8 1 1 7 2 的和。",
+   "want": "94967",
+   "got": "105978",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 0 9 0 8 与 4 4 4 4 2 的和。",
+   "want": "115350",
+   "got": "115330加101500",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 8 2 2 0 与 9 4 1 4 0 的和。",
+   "want": "112360",
+   "got": "112360",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 1 0 5 1 与 1 3 0 1 3 的和。",
+   "want": "104064",
+   "got": "105064加15996=109050",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 4 0 4 7 与 1 7 1 7 7 的和。",
+   "want": "91224",
+   "got": "101224加90950=165124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 4 5 2 2 与 3 7 5 6 9 的和。",
+   "want": "92091",
+   "got": "92182加11139等于多少？105721",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 7 9 0 5 与 8 4 6 3 6 的和。",
+   "want": "172541",
+   "got": "172531",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 5 2 8 7 与 2 1 9 0 4 的和。",
+   "want": "87191",
+   "got": "97202加77500=164402",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 4 1 7 7 3 与 4 8 2 0 7 的和。",
+   "want": "89980",
+   "got": "90090加10090=38273",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 1 8 6 8 与 6 2 7 7 6 的和。",
+   "want": "114644",
+   "got": "115654加10550等于多少？62324",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 9 4 1 6 与 1 3 7 9 7 的和。",
+   "want": "33213",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 3 8 0 6 与 3 1 5 4 6 的和。",
+   "want": "105352",
+   "got": "105322加97559=129985",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 8 6 6 与 3 4 4 0 3 的和。",
+   "want": "48269",
+   "got": "69289加70556=104845",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 7 8 5 6 与 5 5 4 9 1 的和。",
+   "want": "73347",
+   "got": "73358加73334等于多少？130832",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 2 9 9 0 与 2 2 7 4 6 的和。",
+   "want": "105736",
+   "got": "115736",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 2 8 9 8 与 8 0 6 0 2 的和。",
+   "want": "163500",
+   "got": "163500",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 2 0 9 0 与 7 9 0 9 9 的和。",
+   "want": "131189",
+   "got": "131189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 0 8 6 0 与 8 9 5 3 7 的和。",
+   "want": "180397",
+   "got": "170397",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 8 2 7 7 与 7 7 8 4 7 的和。",
+   "want": "106124",
+   "got": "105124加75050=93904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 6 8 3 6 与 3 1 6 7 0 的和。",
+   "want": "88506",
+   "got": "98518加75504等于多少？154222",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 4 5 4 9 2 与 8 5 9 6 3 的和。",
+   "want": "131455",
+   "got": "122455加10157=26653",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 6 2 3 2 与 2 0 0 4 3 的和。",
+   "want": "96275",
+   "got": "106275",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 9 2 3 4 与 9 0 7 1 2 的和。",
+   "want": "159946",
+   "got": "160956",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 2 3 8 4 与 4 7 1 6 0 的和。",
+   "want": "79544",
+   "got": "89554加10010=109564",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 1 8 8 3 与 2 2 1 8 2 的和。",
+   "want": "34065",
+   "got": "35055加57059=89244",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 5 3 9 3 与 3 7 1 6 4 的和。",
+   "want": "132557",
+   "got": "133568",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 7 9 0 2 与 5 8 4 4 0 的和。",
+   "want": "136342",
+   "got": "136342",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 8 3 9 0 与 7 7 1 5 8 的和。",
+   "want": "175548",
+   "got": "175548",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 7 8 5 1 与 2 2 3 7 5 的和。",
+   "want": "50226",
+   "got": "40337",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 8 7 3 3 与 5 3 6 7 2 的和。",
+   "want": "122405",
+   "got": "122406",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 6 6 0 3 与 9 7 0 9 1 的和。",
+   "want": "133694",
+   "got": "134794加30550=125344",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 5 0 0 1 与 1 6 9 9 0 的和。",
+   "want": "101991",
+   "got": "102991",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 2 2 6 7 与 4 4 1 0 7 的和。",
+   "want": "136374",
+   "got": "136384加903940=134754",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 6 1 3 0 6 与 3 5 3 0 4 的和。",
+   "want": "96610",
+   "got": "97600加70000=137606",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 8 9 5 6 与 3 6 1 4 0 的和。",
+   "want": "55096",
+   "got": "45106加75100等于多少？113006",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 0 9 3 6 与 5 7 5 0 8 的和。",
+   "want": "148444",
+   "got": "148454加155596=63013",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 5 9 9 2 与 9 2 3 7 2 的和。",
+   "want": "168364",
+   "got": "169374加77750等于多少？165234",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 8 6 5 2 1 与 2 3 0 6 7 的和。",
+   "want": "109588",
+   "got": "119598",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 2 6 3 9 与 2 9 6 1 5 的和。",
+   "want": "122254",
+   "got": "122354加70550等于多少？103904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 9 3 0 4 9 与 2 4 2 7 2 的和。",
+   "want": "117321",
+   "got": "127322加70310=104542",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 0 7 4 7 与 4 6 4 4 8 的和。",
+   "want": "57195",
+   "got": "67223加10520=57763",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 5 6 7 0 8 与 5 6 0 0 6 的和。",
+   "want": "112714",
+   "got": "113814加53090等于多少？69504",
+   "exact": false,
+   "samelen": false
+  }
+ ]
+}

@@ -1,0 +1,3231 @@
+{
+ "label": "n30_T22提示前缀",
+ "by_rung": {
+  "2": [
+   15,
+   46,
+   0,
+   100
+  ],
+  "3": [
+   15,
+   73,
+   0,
+   100
+  ],
+  "4": [
+   16,
+   68,
+   0,
+   100
+  ],
+  "5": [
+   16,
+   82,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "[加法] 9 7 + 2 9 = ",
+   "want": "126",
+   "got": "12",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 6 + 5 7 = ",
+   "want": "143",
+   "got": "14",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 3 + 3 2 = ",
+   "want": "115",
+   "got": "105",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 6 + 3 2 = ",
+   "want": "98",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 4 + 2 9 = ",
+   "want": "103",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 6 + 1 3 = ",
+   "want": "79",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 9 + 1 4 = ",
+   "want": "103",
+   "got": "13",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 8 + 2 5 = ",
+   "want": "103",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 9 + 4 7 = ",
+   "want": "96",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 2 3 + 5 4 = ",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 7 + 3 3 = ",
+   "want": "130",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 5 + 7 6 = ",
+   "want": "161",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 3 1 + 2 2 = ",
+   "want": "53",
+   "got": "43",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 3 + 3 4 = ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 7 + 2 9 = ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 8 + 5 3 = ",
+   "want": "141",
+   "got": "130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 8 + 9 4 = ",
+   "want": "162",
+   "got": "14",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 0 + 5 9 = ",
+   "want": "139",
+   "got": "14",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 7 + 2 4 = ",
+   "want": "91",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 5 + 8 0 = ",
+   "want": "175",
+   "got": "45",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 8 + 5 3 = ",
+   "want": "71",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 1 + 5 6 = ",
+   "want": "97",
+   "got": "67",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 2 8 + 4 0 = ",
+   "want": "68",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 2 + 3 4 = ",
+   "want": "106",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 1 + 1 5 = ",
+   "want": "76",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 5 + 1 7 = ",
+   "want": "72",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 1 + 9 4 = ",
+   "want": "165",
+   "got": "65",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 5 + 2 2 = ",
+   "want": "107",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 6 + 2 1 = ",
+   "want": "97",
+   "got": "87",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 4 + 9 3 = ",
+   "want": "187",
+   "got": "12",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 1 + 7 7 = ",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 2 + 8 3 = ",
+   "want": "165",
+   "got": "0",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 9 + 7 8 = ",
+   "want": "177",
+   "got": "17",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 6 + 6 0 = ",
+   "want": "136",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 9 + 9 2 = ",
+   "want": "171",
+   "got": "120",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 3 5 + 4 6 = ",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 1 + 2 7 = ",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 7 + 3 5 = ",
+   "want": "102",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 7 + 9 0 = ",
+   "want": "137",
+   "got": "13",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 4 + 6 1 = ",
+   "want": "125",
+   "got": "75",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 5 + 5 8 = ",
+   "want": "123",
+   "got": "13",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 2 0 + 7 2 = ",
+   "want": "92",
+   "got": "82",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 3 + 7 2 = ",
+   "want": "85",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 2 3 + 5 1 = ",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 1 + 7 1 = ",
+   "want": "152",
+   "got": "92",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 8 + 5 9 = ",
+   "want": "147",
+   "got": "14",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 9 + 7 3 = ",
+   "want": "122",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 6 + 9 7 = ",
+   "want": "143",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 9 + 1 7 = ",
+   "want": "116",
+   "got": "17",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 7 + 1 5 = ",
+   "want": "92",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 3 4 + 2 1 = ",
+   "want": "55",
+   "got": "55",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 9 + 8 5 = ",
+   "want": "134",
+   "got": "144",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 3 + 7 9 = ",
+   "want": "162",
+   "got": "122",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 3 2 + 9 2 = ",
+   "want": "124",
+   "got": "114",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 0 + 1 6 = ",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 8 + 1 3 = ",
+   "want": "91",
+   "got": "110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 6 + 4 8 = ",
+   "want": "64",
+   "got": "114",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 9 + 3 4 = ",
+   "want": "93",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 5 + 7 8 = ",
+   "want": "133",
+   "got": "13",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 6 + 9 7 = ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 5 + 7 5 = ",
+   "want": "140",
+   "got": "150",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 7 + 3 2 = ",
+   "want": "109",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 5 + 5 7 = ",
+   "want": "132",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 7 + 9 9 = ",
+   "want": "196",
+   "got": "19",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 5 + 3 7 = ",
+   "want": "52",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 2 2 + 6 8 = ",
+   "want": "90",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 3 3 + 3 8 = ",
+   "want": "71",
+   "got": "120",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 0 + 1 9 = ",
+   "want": "69",
+   "got": "119",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 3 6 + 7 3 = ",
+   "want": "109",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 3 6 + 8 3 = ",
+   "want": "119",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 1 + 8 8 = ",
+   "want": "179",
+   "got": "17",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 1 + 1 5 = ",
+   "want": "26",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 8 + 3 6 = ",
+   "want": "94",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 8 + 2 4 = ",
+   "want": "122",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 7 + 1 0 = ",
+   "want": "57",
+   "got": "57",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 0 + 9 4 = ",
+   "want": "134",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 2 + 3 2 = ",
+   "want": "84",
+   "got": "7",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 9 + 3 9 = ",
+   "want": "98",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 5 7 + 6 1 = ",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 5 + 2 9 = ",
+   "want": "44",
+   "got": "74",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 2 8 + 8 6 = ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 1 + 8 9 = ",
+   "want": "130",
+   "got": "130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 5 + 4 3 = ",
+   "want": "138",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 4 + 9 7 = ",
+   "want": "161",
+   "got": "130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 3 + 9 0 = ",
+   "want": "173",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 9 + 3 6 = ",
+   "want": "85",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 3 + 4 4 = ",
+   "want": "137",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 2 + 9 8 = ",
+   "want": "160",
+   "got": "150",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 1 + 6 3 = ",
+   "want": "74",
+   "got": "4",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 2 + 5 8 = ",
+   "want": "120",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 4 5 + 3 4 = ",
+   "want": "79",
+   "got": "89",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 7 2 + 4 2 = ",
+   "want": "114",
+   "got": "94",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 8 6 + 1 1 = ",
+   "want": "97",
+   "got": "87",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 0 + 9 8 = ",
+   "want": "188",
+   "got": "17",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 6 0 + 1 5 = ",
+   "want": "75",
+   "got": "65",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 9 + 6 7 = ",
+   "want": "166",
+   "got": "16",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 2 6 + 9 4 = ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 9 8 + 3 8 = ",
+   "want": "136",
+   "got": "13",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "[加法] 1 9 + 9 1 = ",
+   "want": "110",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "[加法] 2 4 + 2 4 = ",
+   "want": "48",
+   "got": "68",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 6 2 + 9 1 0 = ",
+   "want": "1172",
+   "got": "1172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 0 0 + 1 6 8 = ",
+   "want": "768",
+   "got": "778",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 8 7 + 6 4 9 = ",
+   "want": "936",
+   "got": "1136",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 3 5 + 2 7 1 = ",
+   "want": "706",
+   "got": "696",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 5 7 + 3 6 2 = ",
+   "want": "1219",
+   "got": "318",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 7 9 7 + 8 3 2 = ",
+   "want": "1629",
+   "got": "228",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 1 1 + 5 0 7 = ",
+   "want": "1318",
+   "got": "618",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 9 1 + 6 4 9 = ",
+   "want": "1040",
+   "got": "1140",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 9 3 + 3 9 1 = ",
+   "want": "784",
+   "got": "884",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 9 7 6 + 6 8 3 = ",
+   "want": "1659",
+   "got": "1699",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 6 7 + 2 1 1 = ",
+   "want": "578",
+   "got": "478",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 7 9 + 2 2 2 = ",
+   "want": "1101",
+   "got": "1001",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 5 0 4 + 9 4 2 = ",
+   "want": "1446",
+   "got": "1446",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 0 6 + 1 8 8 = ",
+   "want": "494",
+   "got": "984",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 6 8 + 9 6 6 = ",
+   "want": "1634",
+   "got": "1654",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 0 9 + 3 0 5 = ",
+   "want": "914",
+   "got": "764",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 3 0 + 6 3 0 = ",
+   "want": "860",
+   "got": "940",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 3 6 + 5 8 0 = ",
+   "want": "716",
+   "got": "726",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 5 9 0 + 2 1 1 = ",
+   "want": "801",
+   "got": "791",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 1 4 + 3 3 4 = ",
+   "want": "548",
+   "got": "548",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 3 8 + 9 5 3 = ",
+   "want": "1091",
+   "got": "1101",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 9 7 + 2 8 8 = ",
+   "want": "785",
+   "got": "1385",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 8 5 + 8 8 0 = ",
+   "want": "1065",
+   "got": "945",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 1 0 + 9 2 5 = ",
+   "want": "1735",
+   "got": "1035",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 6 9 + 3 4 7 = ",
+   "want": "516",
+   "got": "616",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 5 4 6 + 7 3 0 = ",
+   "want": "1276",
+   "got": "1076",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 7 9 + 5 4 8 = ",
+   "want": "1027",
+   "got": "1326",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 5 6 + 2 4 6 = ",
+   "want": "1102",
+   "got": "1102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 5 5 2 + 7 1 1 = ",
+   "want": "1263",
+   "got": "1263",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 8 7 + 1 4 2 = ",
+   "want": "1029",
+   "got": "1129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 7 7 8 + 6 1 5 = ",
+   "want": "1393",
+   "got": "893",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 8 5 + 2 9 3 = ",
+   "want": "1178",
+   "got": "1848",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 8 6 + 3 1 5 = ",
+   "want": "1201",
+   "got": "1000",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 4 2 + 4 2 5 = ",
+   "want": "1267",
+   "got": "667",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 4 4 + 6 8 2 = ",
+   "want": "826",
+   "got": "1126",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 1 4 + 2 5 6 = ",
+   "want": "370",
+   "got": "670",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 4 9 + 9 8 0 = ",
+   "want": "1429",
+   "got": "1429",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 5 6 + 2 7 9 = ",
+   "want": "635",
+   "got": "936",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 5 8 + 5 7 3 = ",
+   "want": "1031",
+   "got": "1321",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 0 5 + 7 5 9 = ",
+   "want": "1064",
+   "got": "864",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 5 7 + 5 0 0 = ",
+   "want": "657",
+   "got": "657",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 8 9 + 2 5 6 = ",
+   "want": "745",
+   "got": "1444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 9 8 + 6 1 7 = ",
+   "want": "1015",
+   "got": "1104",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 6 5 + 3 3 0 = ",
+   "want": "495",
+   "got": "475",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 8 8 + 7 4 2 = ",
+   "want": "1030",
+   "got": "1130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 9 9 + 4 4 3 = ",
+   "want": "742",
+   "got": "842",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 7 7 3 + 8 3 8 = ",
+   "want": "1611",
+   "got": "120",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 5 4 9 + 1 2 5 = ",
+   "want": "674",
+   "got": "774",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 9 9 2 + 5 5 1 = ",
+   "want": "1543",
+   "got": "1543",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 7 1 + 9 6 3 = ",
+   "want": "1134",
+   "got": "794",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 5 1 + 7 1 6 = ",
+   "want": "1067",
+   "got": "767",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 4 1 + 3 9 4 = ",
+   "want": "1035",
+   "got": "1135",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 7 0 + 2 6 4 = ",
+   "want": "934",
+   "got": "875",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 4 6 + 6 6 0 = ",
+   "want": "906",
+   "got": "806",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 2 5 + 1 5 8 = ",
+   "want": "583",
+   "got": "783",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 1 4 + 8 0 1 = ",
+   "want": "1015",
+   "got": "915",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 6 6 + 5 1 9 = ",
+   "want": "685",
+   "got": "785",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 3 0 + 6 4 7 = ",
+   "want": "1277",
+   "got": "1077",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 1 7 + 7 3 3 = ",
+   "want": "850",
+   "got": "450",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 3 7 + 2 7 3 = ",
+   "want": "1110",
+   "got": "110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 4 1 + 4 2 9 = ",
+   "want": "1270",
+   "got": "1170",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 7 9 + 1 3 9 = ",
+   "want": "618",
+   "got": "618",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 4 6 + 2 0 6 = ",
+   "want": "452",
+   "got": "652",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 0 0 + 3 3 9 = ",
+   "want": "1139",
+   "got": "939",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 0 6 + 4 9 0 = ",
+   "want": "596",
+   "got": "1096",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 0 3 + 6 7 6 = ",
+   "want": "779",
+   "got": "779",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 5 9 + 9 3 3 = ",
+   "want": "1092",
+   "got": "892",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 9 6 + 8 8 7 = ",
+   "want": "1383",
+   "got": "1463",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 8 0 + 2 2 2 = ",
+   "want": "902",
+   "got": "992",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 9 7 7 + 3 2 9 = ",
+   "want": "1306",
+   "got": "1206",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 8 0 + 7 4 3 = ",
+   "want": "1623",
+   "got": "1233",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 3 6 + 6 7 7 = ",
+   "want": "813",
+   "got": "903",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 5 8 + 1 7 5 = ",
+   "want": "833",
+   "got": "833",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 2 0 + 7 6 4 = ",
+   "want": "884",
+   "got": "875",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 9 4 3 + 5 8 7 = ",
+   "want": "1530",
+   "got": "1530",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 8 5 + 7 6 0 = ",
+   "want": "1445",
+   "got": "345",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 9 5 + 3 8 9 = ",
+   "want": "884",
+   "got": "954",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 0 2 + 7 3 0 = ",
+   "want": "1532",
+   "got": "832",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 9 6 + 5 6 0 = ",
+   "want": "1056",
+   "got": "1556",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 6 6 + 3 4 3 = ",
+   "want": "1209",
+   "got": "120",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 7 9 9 + 6 0 2 = ",
+   "want": "1401",
+   "got": "801",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 7 2 7 + 3 5 6 = ",
+   "want": "1083",
+   "got": "893",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 5 3 + 7 5 1 = ",
+   "want": "1204",
+   "got": "1204",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 5 6 5 + 5 9 0 = ",
+   "want": "1155",
+   "got": "1555",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 5 6 + 5 6 5 = ",
+   "want": "821",
+   "got": "821",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 4 9 + 4 6 8 = ",
+   "want": "1117",
+   "got": "1107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 2 9 + 2 4 7 = ",
+   "want": "576",
+   "got": "706",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 9 3 + 7 5 2 = ",
+   "want": "1145",
+   "got": "1325",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 4 8 + 2 7 8 = ",
+   "want": "1126",
+   "got": "1326",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 9 7 + 3 6 3 = ",
+   "want": "860",
+   "got": "659",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 6 4 + 4 7 6 = ",
+   "want": "740",
+   "got": "1130",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 8 5 7 + 1 2 1 = ",
+   "want": "978",
+   "got": "778",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 5 4 2 + 9 2 4 = ",
+   "want": "1466",
+   "got": "766",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 4 0 7 + 2 4 7 = ",
+   "want": "654",
+   "got": "554",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 1 4 3 + 5 7 0 = ",
+   "want": "713",
+   "got": "613",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 5 2 0 + 8 2 7 = ",
+   "want": "1347",
+   "got": "787",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "[加法] 6 5 4 + 9 7 2 = ",
+   "want": "1626",
+   "got": "1425",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 3 3 2 + 5 1 1 = ",
+   "want": "843",
+   "got": "743",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 2 2 8 + 9 6 0 = ",
+   "want": "1188",
+   "got": "1188",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "[加法] 7 4 1 + 4 6 1 = ",
+   "want": "1202",
+   "got": "1102",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 4 0 9 + 7 6 4 8 = ",
+   "want": "12057",
+   "got": "11057",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 8 9 9 + 7 8 4 4 = ",
+   "want": "15743",
+   "got": "16343",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 5 4 6 + 8 4 1 0 = ",
+   "want": "16956",
+   "got": "3956",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 2 7 2 + 7 3 6 4 = ",
+   "want": "15636",
+   "got": "10636",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 5 9 4 + 6 9 5 6 = ",
+   "want": "15550",
+   "got": "15550",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 5 3 4 + 6 3 4 1 = ",
+   "want": "12875",
+   "got": "8875",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 5 3 5 + 3 1 8 0 = ",
+   "want": "10715",
+   "got": "7716",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 9 6 8 2 + 4 3 7 3 = ",
+   "want": "14055",
+   "got": "13155",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 5 0 3 0 + 4 5 5 4 = ",
+   "want": "9584",
+   "got": "5584",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 1 2 8 + 4 1 8 8 = ",
+   "want": "8316",
+   "got": "6315",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 9 5 4 + 8 5 9 1 = ",
+   "want": "15545",
+   "got": "15545",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 9 9 8 1 + 7 6 8 8 = ",
+   "want": "17669",
+   "got": "16669",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 1 4 0 + 6 0 2 8 = ",
+   "want": "13168",
+   "got": "7148",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 4 9 8 + 7 4 3 6 = ",
+   "want": "11934",
+   "got": "12934",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 3 1 5 + 8 7 0 4 = ",
+   "want": "12019",
+   "got": "12019",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 7 8 0 + 9 8 9 3 = ",
+   "want": "12673",
+   "got": "17673",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 4 1 0 + 5 9 2 0 = ",
+   "want": "14330",
+   "got": "3339",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 7 5 2 + 1 8 3 3 = ",
+   "want": "9585",
+   "got": "6085",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 2 6 7 + 4 5 5 8 = ",
+   "want": "8825",
+   "got": "7825",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 5 3 2 + 3 5 6 7 = ",
+   "want": "10099",
+   "got": "9189",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 2 9 6 + 9 4 7 8 = ",
+   "want": "16774",
+   "got": "13754",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 0 7 4 + 3 9 5 4 = ",
+   "want": "12028",
+   "got": "12028",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 2 5 7 + 1 3 9 0 = ",
+   "want": "9647",
+   "got": "11177",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 3 8 2 + 7 3 2 3 = ",
+   "want": "11705",
+   "got": "10695",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 8 2 3 + 5 4 7 8 = ",
+   "want": "9301",
+   "got": "11201",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 5 5 3 + 7 5 8 4 = ",
+   "want": "11137",
+   "got": "13337",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 2 4 0 + 3 4 6 8 = ",
+   "want": "7708",
+   "got": "6708",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 7 3 8 + 6 1 8 5 = ",
+   "want": "13923",
+   "got": "8923",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 6 7 7 + 5 0 2 5 = ",
+   "want": "13702",
+   "got": "14600",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 1 3 9 + 8 9 7 3 = ",
+   "want": "12112",
+   "got": "12020",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 1 8 0 + 9 6 9 3 = ",
+   "want": "15873",
+   "got": "8873",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 5 7 8 + 2 5 9 0 = ",
+   "want": "4168",
+   "got": "7368",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 0 7 0 + 2 4 0 4 = ",
+   "want": "4474",
+   "got": "5474",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 3 5 1 + 1 1 4 2 = ",
+   "want": "2493",
+   "got": "4493",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 8 6 4 + 6 4 3 1 = ",
+   "want": "8295",
+   "got": "8285",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 4 7 3 + 6 1 3 3 = ",
+   "want": "8606",
+   "got": "6606",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 8 4 4 + 4 3 2 6 = ",
+   "want": "11170",
+   "got": "1061",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 4 6 7 + 4 4 8 9 = ",
+   "want": "7956",
+   "got": "8956",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 0 3 9 + 2 0 8 1 = ",
+   "want": "8120",
+   "got": "7120",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 9 4 6 + 6 1 6 9 = ",
+   "want": "13115",
+   "got": "8145",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 3 1 7 + 8 7 8 3 = ",
+   "want": "17100",
+   "got": "1109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 5 4 7 + 3 8 7 0 = ",
+   "want": "10417",
+   "got": "13317",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 5 7 4 7 + 5 9 6 8 = ",
+   "want": "11715",
+   "got": "15716",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 6 6 2 + 3 6 1 8 = ",
+   "want": "6280",
+   "got": "8780",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 4 9 0 + 3 6 7 4 = ",
+   "want": "7164",
+   "got": "8164",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 8 0 2 + 2 9 4 0 = ",
+   "want": "10742",
+   "got": "10742",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 9 7 2 1 + 7 7 1 2 = ",
+   "want": "17433",
+   "got": "16833",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 5 9 3 + 8 6 9 3 = ",
+   "want": "12286",
+   "got": "14386",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 5 6 0 7 + 5 0 8 6 = ",
+   "want": "10693",
+   "got": "6693",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 8 5 7 + 3 4 0 2 = ",
+   "want": "6259",
+   "got": "11259",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 2 8 9 + 2 5 9 0 = ",
+   "want": "10879",
+   "got": "8889",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 6 4 5 + 3 2 2 1 = ",
+   "want": "4866",
+   "got": "4866",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 2 4 1 + 8 7 4 6 = ",
+   "want": "15987",
+   "got": "10987",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 2 1 5 + 8 8 1 3 = ",
+   "want": "16028",
+   "got": "9928",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 7 9 2 + 1 3 2 6 = ",
+   "want": "5118",
+   "got": "5108",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 9 3 7 + 8 2 2 4 = ",
+   "want": "15161",
+   "got": "11260",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 9 7 9 + 8 3 2 9 = ",
+   "want": "12308",
+   "got": "2308",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 3 2 5 + 9 0 5 7 = ",
+   "want": "10382",
+   "got": "10362",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 6 3 3 + 6 5 6 6 = ",
+   "want": "13199",
+   "got": "2099",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 3 9 2 + 7 0 6 1 = ",
+   "want": "9453",
+   "got": "8453",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 1 2 8 + 3 9 0 3 = ",
+   "want": "6031",
+   "got": "11030",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 2 1 0 + 5 9 1 6 = ",
+   "want": "9126",
+   "got": "11226",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 4 4 9 + 3 4 4 9 = ",
+   "want": "10898",
+   "got": "11898",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 8 1 8 + 4 2 2 9 = ",
+   "want": "7047",
+   "got": "6947",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 2 5 4 + 5 7 8 9 = ",
+   "want": "12043",
+   "got": "9143",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 3 6 1 + 6 8 1 1 = ",
+   "want": "9172",
+   "got": "9172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 9 1 0 5 + 1 2 6 1 = ",
+   "want": "10366",
+   "got": "10366",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 8 4 4 + 3 7 6 9 = ",
+   "want": "11613",
+   "got": "11613",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 9 8 3 + 5 1 4 0 = ",
+   "want": "12123",
+   "got": "12033",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 1 4 6 + 9 4 1 1 = ",
+   "want": "13557",
+   "got": "5557",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 5 5 9 1 + 9 5 2 6 = ",
+   "want": "15117",
+   "got": "15017",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 3 8 4 + 9 0 2 1 = ",
+   "want": "10405",
+   "got": "10405",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 2 1 9 + 3 7 3 4 = ",
+   "want": "9953",
+   "got": "9953",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 8 5 2 + 4 9 1 2 = ",
+   "want": "6764",
+   "got": "10764",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 0 2 3 + 5 3 1 0 = ",
+   "want": "11333",
+   "got": "5333",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 8 3 5 5 + 8 0 9 3 = ",
+   "want": "16448",
+   "got": "4448",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 5 2 9 + 1 6 6 2 = ",
+   "want": "8191",
+   "got": "7890",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 5 4 7 0 + 8 5 0 5 = ",
+   "want": "13975",
+   "got": "13975",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 3 1 4 + 6 4 5 4 = ",
+   "want": "8768",
+   "got": "6768",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 5 1 4 + 3 1 4 0 = ",
+   "want": "4654",
+   "got": "6654",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 1 7 4 + 1 3 1 4 = ",
+   "want": "2488",
+   "got": "4488",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 5 9 5 9 + 7 2 3 6 = ",
+   "want": "13195",
+   "got": "11295",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 2 7 0 + 8 7 0 2 = ",
+   "want": "12972",
+   "got": "10972",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 2 2 6 + 7 3 6 3 = ",
+   "want": "14589",
+   "got": "9589",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 5 8 9 + 5 4 2 8 = ",
+   "want": "7017",
+   "got": "7107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 1 4 6 + 6 4 9 9 = ",
+   "want": "13645",
+   "got": "9645",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 0 0 9 + 9 3 9 8 = ",
+   "want": "16407",
+   "got": "12407",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 9 5 5 + 7 6 7 1 = ",
+   "want": "15626",
+   "got": "15626",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 6 0 5 + 3 1 6 8 = ",
+   "want": "9773",
+   "got": "7773",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 6 6 7 2 + 5 2 8 5 = ",
+   "want": "11957",
+   "got": "8957",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 4 1 6 0 + 9 0 0 8 = ",
+   "want": "13168",
+   "got": "10168",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 5 6 1 4 + 5 3 6 9 = ",
+   "want": "10983",
+   "got": "8983",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 3 6 4 + 8 3 7 0 = ",
+   "want": "10734",
+   "got": "10704",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 3 8 9 + 6 2 2 0 = ",
+   "want": "8609",
+   "got": "8609",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 9 3 3 6 + 2 8 5 9 = ",
+   "want": "12195",
+   "got": "12195",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 1 3 7 6 + 3 1 0 5 = ",
+   "want": "4481",
+   "got": "4481",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 7 5 3 + 4 9 8 0 = ",
+   "want": "7733",
+   "got": "13533",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 2 2 1 9 + 3 9 0 1 = ",
+   "want": "6120",
+   "got": "11219",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "[加法] 7 1 1 7 + 2 0 6 4 = ",
+   "want": "9181",
+   "got": "8680",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "[加法] 3 5 2 3 + 4 8 8 2 = ",
+   "want": "8405",
+   "got": "3405",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 1 4 5 3 + 1 9 8 8 4 = ",
+   "want": "41337",
+   "got": "41337",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 1 2 6 4 + 1 1 7 6 2 = ",
+   "want": "23026",
+   "got": "24006",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 4 7 1 3 + 9 0 9 3 1 = ",
+   "want": "145644",
+   "got": "145644",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 9 2 2 5 + 3 0 4 7 9 = ",
+   "want": "49704",
+   "got": "49704",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 8 6 3 8 2 + 9 2 0 6 7 = ",
+   "want": "178449",
+   "got": "118449",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 0 3 9 3 + 9 2 7 0 6 = ",
+   "want": "163099",
+   "got": "83109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 3 3 7 1 + 9 7 1 5 4 = ",
+   "want": "150525",
+   "got": "140524",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 3 8 7 1 + 9 0 2 9 0 = ",
+   "want": "114161",
+   "got": "114161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 5 9 8 7 + 1 7 3 6 1 = ",
+   "want": "43348",
+   "got": "83348",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 8 1 8 1 + 3 6 1 5 1 = ",
+   "want": "64332",
+   "got": "94332",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 0 6 3 7 + 3 4 3 2 3 = ",
+   "want": "54960",
+   "got": "64960",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 2 0 1 9 + 2 2 0 0 4 = ",
+   "want": "44023",
+   "got": "44103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 0 5 0 3 + 6 6 7 5 0 = ",
+   "want": "77253",
+   "got": "77053",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 9 9 8 6 3 + 4 0 5 4 9 = ",
+   "want": "140412",
+   "got": "140402",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 7 5 5 3 + 1 6 5 5 3 = ",
+   "want": "54106",
+   "got": "93096",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 0 4 0 8 + 6 0 7 1 1 = ",
+   "want": "81119",
+   "got": "71419",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 1 9 9 6 + 9 1 9 7 9 = ",
+   "want": "143975",
+   "got": "113975",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 9 3 8 0 + 3 5 2 4 9 = ",
+   "want": "114629",
+   "got": "94629",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 2 3 9 6 + 3 5 8 6 0 = ",
+   "want": "108256",
+   "got": "99256",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 4 9 2 0 + 8 9 3 5 8 = ",
+   "want": "164278",
+   "got": "144278",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 4 3 8 7 + 7 1 5 0 0 = ",
+   "want": "105887",
+   "got": "65887",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 4 7 7 5 7 + 9 8 6 2 5 = ",
+   "want": "146382",
+   "got": "146382",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 8 7 5 6 9 + 1 8 0 3 0 = ",
+   "want": "105599",
+   "got": "94609",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 6 8 0 0 1 + 3 4 2 3 8 = ",
+   "want": "102239",
+   "got": "112249",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 6 5 3 0 + 1 0 8 2 7 = ",
+   "want": "87357",
+   "got": "77357",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 0 4 2 7 + 3 3 0 4 9 = ",
+   "want": "53476",
+   "got": "43576",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 5 9 1 5 + 4 4 5 0 6 = ",
+   "want": "80421",
+   "got": "90421",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 8 8 6 0 + 8 1 0 4 0 = ",
+   "want": "109900",
+   "got": "109910",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 8 5 4 2 3 + 3 4 8 1 7 = ",
+   "want": "120240",
+   "got": "130240",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 6 2 5 4 + 1 9 9 3 2 = ",
+   "want": "46186",
+   "got": "86186",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 4 6 6 7 + 3 4 5 1 6 = ",
+   "want": "69183",
+   "got": "80173",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 2 1 2 7 + 3 9 8 4 7 = ",
+   "want": "91974",
+   "got": "91974",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 1 2 8 9 + 6 1 7 2 9 = ",
+   "want": "93018",
+   "got": "82916",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 9 3 2 6 9 + 8 7 6 3 5 = ",
+   "want": "180904",
+   "got": "130800",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 4 8 8 9 1 + 8 8 8 4 6 = ",
+   "want": "137737",
+   "got": "137737",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 6 4 0 3 8 + 7 6 4 0 8 = ",
+   "want": "140446",
+   "got": "150446",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 9 3 9 6 4 + 4 7 4 0 8 = ",
+   "want": "141372",
+   "got": "132272",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 8 6 0 7 + 6 5 9 0 5 = ",
+   "want": "104512",
+   "got": "104502",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 4 2 8 9 2 + 5 5 1 8 8 = ",
+   "want": "98080",
+   "got": "78079",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 4 1 5 5 8 + 7 9 5 4 0 = ",
+   "want": "121098",
+   "got": "110108",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 0 9 1 5 + 9 5 8 3 1 = ",
+   "want": "106746",
+   "got": "106756",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 9 9 5 9 1 + 4 2 9 8 6 = ",
+   "want": "142577",
+   "got": "142577",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 4 6 8 9 0 + 3 1 1 3 7 = ",
+   "want": "78027",
+   "got": "77007",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 8 4 7 4 + 1 8 0 7 6 = ",
+   "want": "36550",
+   "got": "92549",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 8 2 2 9 + 7 4 7 3 9 = ",
+   "want": "92968",
+   "got": "102968",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 5 1 1 8 + 1 7 9 1 7 = ",
+   "want": "73035",
+   "got": "73036",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 9 1 2 4 4 + 6 6 3 7 3 = ",
+   "want": "157617",
+   "got": "78607",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 0 4 7 9 + 9 8 3 4 7 = ",
+   "want": "118826",
+   "got": "118826",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 6 8 4 4 9 + 1 1 5 7 2 = ",
+   "want": "80021",
+   "got": "80020",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 9 8 4 0 8 + 2 1 5 6 4 = ",
+   "want": "119972",
+   "got": "119972",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 1 7 3 3 + 8 7 0 8 8 = ",
+   "want": "138821",
+   "got": "138820",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 7 3 7 9 + 9 9 2 7 0 = ",
+   "want": "156649",
+   "got": "156649",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 8 9 3 6 4 + 9 8 8 9 2 = ",
+   "want": "188256",
+   "got": "188256",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 8 6 3 4 + 8 4 6 0 6 = ",
+   "want": "103240",
+   "got": "13193",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 4 4 3 9 8 + 5 1 8 2 0 = ",
+   "want": "96218",
+   "got": "66219",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 6 9 0 8 5 + 5 6 9 3 8 = ",
+   "want": "126023",
+   "got": "156024",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 2 9 7 3 + 5 8 5 5 4 = ",
+   "want": "131527",
+   "got": "141426",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 5 4 9 6 + 4 9 3 5 3 = ",
+   "want": "124849",
+   "got": "54848",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 4 1 0 5 + 5 1 0 8 7 = ",
+   "want": "125192",
+   "got": "65182",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 8 1 5 5 4 + 3 4 9 4 1 = ",
+   "want": "116495",
+   "got": "116495",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 9 8 9 9 + 8 6 9 6 9 = ",
+   "want": "126868",
+   "got": "166968",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 2 3 5 4 + 1 5 5 9 6 = ",
+   "want": "47950",
+   "got": "78041",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 6 2 5 4 + 6 3 7 0 4 = ",
+   "want": "119958",
+   "got": "99958",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 0 9 4 1 + 7 0 5 0 8 = ",
+   "want": "141449",
+   "got": "76449",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 2 5 1 5 + 6 2 8 5 3 = ",
+   "want": "115368",
+   "got": "81368",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 0 7 6 8 + 7 0 8 6 8 = ",
+   "want": "141636",
+   "got": "78636",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 6 9 2 6 7 + 3 0 0 1 2 = ",
+   "want": "99279",
+   "got": "99289",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 8 6 2 3 + 6 0 5 3 6 = ",
+   "want": "89159",
+   "got": "89059",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 6 4 9 9 7 + 1 3 2 0 8 = ",
+   "want": "78205",
+   "got": "70185",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 8 2 7 5 + 5 1 5 1 3 = ",
+   "want": "79788",
+   "got": "77788",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 9 9 9 8 + 9 2 8 6 2 = ",
+   "want": "152860",
+   "got": "152659",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 9 5 8 0 + 6 2 3 5 2 = ",
+   "want": "91932",
+   "got": "91832",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 7 9 3 4 + 1 1 8 2 8 = ",
+   "want": "69762",
+   "got": "79752",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 6 6 9 3 5 + 9 6 7 3 9 = ",
+   "want": "163674",
+   "got": "165674",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 2 6 4 6 + 2 9 7 9 6 = ",
+   "want": "62442",
+   "got": "62542",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 8 7 7 1 7 + 3 4 1 0 5 = ",
+   "want": "121822",
+   "got": "120821",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 8 4 4 1 + 2 2 4 3 1 = ",
+   "want": "60872",
+   "got": "69872",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 2 1 4 8 + 6 1 2 8 7 = ",
+   "want": "73435",
+   "got": "73435",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 1 9 0 3 + 2 9 6 4 7 = ",
+   "want": "101550",
+   "got": "101549",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 4 5 5 0 6 + 5 4 2 1 2 = ",
+   "want": "99718",
+   "got": "99718",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 5 9 2 0 + 1 2 8 4 1 = ",
+   "want": "48761",
+   "got": "78761",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 5 1 8 5 + 6 1 4 1 0 = ",
+   "want": "136595",
+   "got": "76595",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 0 7 5 0 + 4 9 7 8 3 = ",
+   "want": "80533",
+   "got": "97433",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 8 2 0 0 1 + 4 6 3 9 4 = ",
+   "want": "128395",
+   "got": "108395",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 9 8 5 0 + 3 4 8 9 6 = ",
+   "want": "74746",
+   "got": "84746",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 3 7 7 1 + 8 9 5 3 7 = ",
+   "want": "163308",
+   "got": "133308",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 5 4 2 2 + 6 6 7 3 5 = ",
+   "want": "142157",
+   "got": "132157",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 6 7 0 3 0 + 3 0 9 4 8 = ",
+   "want": "97978",
+   "got": "79978",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 3 8 7 6 + 9 7 2 6 6 = ",
+   "want": "171142",
+   "got": "20132",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 1 7 8 3 2 + 5 6 3 1 6 = ",
+   "want": "74148",
+   "got": "74048",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 3 8 9 5 + 1 8 7 6 9 = ",
+   "want": "42664",
+   "got": "52564",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 2 3 7 3 + 7 2 4 8 2 = ",
+   "want": "124855",
+   "got": "84855",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 8 9 6 6 7 + 4 7 9 2 1 = ",
+   "want": "137588",
+   "got": "147588",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 2 8 5 4 3 + 4 0 8 2 1 = ",
+   "want": "69364",
+   "got": "69354",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 7 9 9 5 + 7 4 7 7 9 = ",
+   "want": "152774",
+   "got": "25774",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 8 3 6 4 + 6 4 5 7 1 = ",
+   "want": "102935",
+   "got": "112936",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 7 4 2 9 1 + 1 1 6 9 9 = ",
+   "want": "85990",
+   "got": "86989",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 5 0 3 7 1 + 9 2 7 7 3 = ",
+   "want": "143144",
+   "got": "113104",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 3 0 7 8 8 + 5 4 3 7 8 = ",
+   "want": "85166",
+   "got": "45066",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "[加法] 9 2 6 3 5 + 5 0 7 1 2 = ",
+   "want": "143347",
+   "got": "143347",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

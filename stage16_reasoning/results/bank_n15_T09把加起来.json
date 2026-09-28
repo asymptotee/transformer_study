@@ -1,0 +1,3231 @@
+{
+ "label": "n15_T09把加起来",
+ "by_rung": {
+  "2": [
+   98,
+   99,
+   0,
+   100
+  ],
+  "3": [
+   88,
+   100,
+   0,
+   100
+  ],
+  "4": [
+   68,
+   100,
+   0,
+   100
+  ],
+  "5": [
+   54,
+   100,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "把 5 8 和 1 6 加起来，得到 ",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 9 和 7 7 加起来，得到 ",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 5 和 5 0 加起来，得到 ",
+   "want": "65",
+   "got": "65",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 9 和 8 2 加起来，得到 ",
+   "want": "161",
+   "got": "161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 9 和 5 1 加起来，得到 ",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 4 和 9 9 加起来，得到 ",
+   "want": "173",
+   "got": "173",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 3 8 和 2 9 加起来，得到 ",
+   "want": "67",
+   "got": "67",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 6 和 9 6 加起来，得到 ",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 6 0 和 6 7 加起来，得到 ",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 6 和 8 3 加起来，得到 ",
+   "want": "169",
+   "got": "169",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 4 和 2 1 加起来，得到 ",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 3 8 和 6 5 加起来，得到 ",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 7 和 6 0 加起来，得到 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 8 和 2 6 加起来，得到 ",
+   "want": "54",
+   "got": "54",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 3 和 2 0 加起来，得到 ",
+   "want": "73",
+   "got": "73",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 0 和 8 3 加起来，得到 ",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 6 和 8 0 加起来，得到 ",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 6 1 和 4 3 加起来，得到 ",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 0 和 6 1 加起来，得到 ",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 4 和 6 5 加起来，得到 ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 9 和 2 6 加起来，得到 ",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 7 和 7 1 加起来，得到 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 1 和 3 5 加起来，得到 ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 2 和 6 0 加起来，得到 ",
+   "want": "132",
+   "got": "132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 3 和 8 3 加起来，得到 ",
+   "want": "176",
+   "got": "176",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 3 5 和 8 1 加起来，得到 ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 8 和 7 7 加起来，得到 ",
+   "want": "165",
+   "got": "165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 1 和 4 1 加起来，得到 ",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 9 和 4 4 加起来，得到 ",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 6 5 和 5 1 加起来，得到 ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 7 和 8 3 加起来，得到 ",
+   "want": "180",
+   "got": "180",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 1 和 2 4 加起来，得到 ",
+   "want": "45",
+   "got": "45",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 5 和 6 2 加起来，得到 ",
+   "want": "157",
+   "got": "157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 6 4 和 5 6 加起来，得到 ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 4 和 3 4 加起来，得到 ",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 1 和 5 4 加起来，得到 ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 6 和 9 3 加起来，得到 ",
+   "want": "179",
+   "got": "179",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 3 和 4 9 加起来，得到 ",
+   "want": "62",
+   "got": "62",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 3 1 和 5 4 加起来，得到 ",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 8 和 6 6 加起来，得到 ",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 9 和 2 8 加起来，得到 ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 6 6 和 1 5 加起来，得到 ",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 3 9 和 3 5 加起来，得到 ",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 7 和 5 7 加起来，得到 ",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 9 和 2 0 加起来，得到 ",
+   "want": "49",
+   "got": "49",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 4 和 1 6 加起来，得到 ",
+   "want": "40",
+   "got": "40",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 1 和 8 9 加起来，得到 ",
+   "want": "130",
+   "got": "130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 8 和 4 6 加起来，得到 ",
+   "want": "74",
+   "got": "75",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 1 和 5 3 加起来，得到 ",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 8 和 2 4 加起来，得到 ",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 9 和 6 7 加起来，得到 ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 0 和 1 2 加起来，得到 ",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 2 和 3 6 加起来，得到 ",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 8 和 3 7 加起来，得到 ",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 3 6 和 7 9 加起来，得到 ",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 6 和 4 3 加起来，得到 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 0 和 7 1 加起来，得到 ",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 9 和 2 8 加起来，得到 ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 8 和 9 9 加起来，得到 ",
+   "want": "197",
+   "got": "197",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 5 和 1 2 加起来，得到 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 8 和 8 4 加起来，得到 ",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 4 和 7 7 加起来，得到 ",
+   "want": "171",
+   "got": "171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 5 和 4 2 加起来，得到 ",
+   "want": "57",
+   "got": "57",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 3 1 和 1 7 加起来，得到 ",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 6 和 3 5 加起来，得到 ",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 9 和 8 9 加起来，得到 ",
+   "want": "188",
+   "got": "188",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 4 和 1 6 加起来，得到 ",
+   "want": "60",
+   "got": "60",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 6 9 和 9 3 加起来，得到 ",
+   "want": "162",
+   "got": "162",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 1 和 1 8 加起来，得到 ",
+   "want": "29",
+   "got": "29",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 9 和 9 4 加起来，得到 ",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 4 和 9 4 加起来，得到 ",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 4 和 5 6 加起来，得到 ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 3 和 1 2 加起来，得到 ",
+   "want": "35",
+   "got": "35",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 7 和 9 3 加起来，得到 ",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 9 和 3 9 加起来，得到 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 8 和 7 5 加起来，得到 ",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 2 和 5 0 加起来，得到 ",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 2 和 8 6 加起来，得到 ",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 8 和 2 1 加起来，得到 ",
+   "want": "99",
+   "got": "100",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "把 3 3 和 3 5 加起来，得到 ",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 4 和 6 8 加起来，得到 ",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 8 1 和 1 2 加起来，得到 ",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 5 和 4 1 加起来，得到 ",
+   "want": "56",
+   "got": "56",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 7 和 4 9 加起来，得到 ",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 2 和 7 2 加起来，得到 ",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 6 0 和 3 0 加起来，得到 ",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 2 和 5 4 加起来，得到 ",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 7 和 5 5 加起来，得到 ",
+   "want": "152",
+   "got": "152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 5 和 9 0 加起来，得到 ",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 8 和 4 0 加起来，得到 ",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 7 4 和 4 5 加起来，得到 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 7 和 9 0 加起来，得到 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 2 和 5 9 加起来，得到 ",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 1 3 和 8 1 加起来，得到 ",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 4 5 和 3 8 加起来，得到 ",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 9 和 5 3 加起来，得到 ",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 6 0 和 9 4 加起来，得到 ",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 2 7 和 2 1 加起来，得到 ",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 5 8 和 7 6 加起来，得到 ",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "把 9 6 和 8 8 加起来，得到 ",
+   "want": "184",
+   "got": "184",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 9 3 和 7 4 0 加起来，得到 ",
+   "want": "1733",
+   "got": "1733",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 0 2 和 3 3 2 加起来，得到 ",
+   "want": "1134",
+   "got": "1134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 2 7 和 3 4 6 加起来，得到 ",
+   "want": "873",
+   "got": "873",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 8 6 和 2 5 6 加起来，得到 ",
+   "want": "942",
+   "got": "942",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 3 6 和 4 1 9 加起来，得到 ",
+   "want": "955",
+   "got": "955",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 1 9 和 4 3 7 加起来，得到 ",
+   "want": "1156",
+   "got": "1156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 5 9 和 6 5 5 加起来，得到 ",
+   "want": "1214",
+   "got": "1217",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 3 4 和 3 1 1 加起来，得到 ",
+   "want": "545",
+   "got": "545",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 6 8 和 2 4 1 加起来，得到 ",
+   "want": "1009",
+   "got": "1010",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 9 4 和 6 5 4 加起来，得到 ",
+   "want": "1348",
+   "got": "1348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 0 0 和 9 1 9 加起来，得到 ",
+   "want": "1719",
+   "got": "1719",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 3 0 7 和 9 8 3 加起来，得到 ",
+   "want": "1290",
+   "got": "1290",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 4 1 和 4 1 6 加起来，得到 ",
+   "want": "657",
+   "got": "657",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 0 5 和 8 2 2 加起来，得到 ",
+   "want": "1627",
+   "got": "1627",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 3 6 和 2 3 8 加起来，得到 ",
+   "want": "874",
+   "got": "874",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 4 0 和 8 8 8 加起来，得到 ",
+   "want": "1428",
+   "got": "1429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 4 8 和 7 7 1 加起来，得到 ",
+   "want": "1019",
+   "got": "1020",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 7 8 和 2 6 1 加起来，得到 ",
+   "want": "939",
+   "got": "940",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 4 2 5 和 1 6 9 加起来，得到 ",
+   "want": "594",
+   "got": "594",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 7 0 和 6 4 5 加起来，得到 ",
+   "want": "1315",
+   "got": "1315",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 3 6 和 2 2 1 加起来，得到 ",
+   "want": "1057",
+   "got": "1057",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 8 8 和 4 2 5 加起来，得到 ",
+   "want": "713",
+   "got": "703",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 5 9 和 2 4 9 加起来，得到 ",
+   "want": "1208",
+   "got": "1198",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 4 4 和 1 3 0 加起来，得到 ",
+   "want": "974",
+   "got": "974",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 8 3 和 4 2 6 加起来，得到 ",
+   "want": "1309",
+   "got": "1309",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 2 3 和 5 2 1 加起来，得到 ",
+   "want": "1044",
+   "got": "1044",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 4 1 0 和 5 5 3 加起来，得到 ",
+   "want": "963",
+   "got": "963",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 6 3 和 9 4 1 加起来，得到 ",
+   "want": "1804",
+   "got": "1804",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 5 2 和 8 5 6 加起来，得到 ",
+   "want": "1608",
+   "got": "1608",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 3 8 0 和 2 5 5 加起来，得到 ",
+   "want": "635",
+   "got": "635",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 9 7 和 2 9 2 加起来，得到 ",
+   "want": "1189",
+   "got": "1189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 0 9 和 2 3 4 加起来，得到 ",
+   "want": "443",
+   "got": "443",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 8 9 和 1 2 6 加起来，得到 ",
+   "want": "415",
+   "got": "415",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 8 0 和 7 2 6 加起来，得到 ",
+   "want": "1606",
+   "got": "1606",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 3 1 和 3 7 3 加起来，得到 ",
+   "want": "1104",
+   "got": "1104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 2 0 和 6 8 0 加起来，得到 ",
+   "want": "1400",
+   "got": "1400",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 2 7 和 3 3 6 加起来，得到 ",
+   "want": "1063",
+   "got": "1063",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 1 0 和 3 3 7 加起来，得到 ",
+   "want": "1047",
+   "got": "1047",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 3 3 6 和 8 0 3 加起来，得到 ",
+   "want": "1139",
+   "got": "1139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 1 2 6 和 4 6 7 加起来，得到 ",
+   "want": "593",
+   "got": "593",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 1 8 1 和 8 0 4 加起来，得到 ",
+   "want": "985",
+   "got": "985",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 9 8 和 5 8 8 加起来，得到 ",
+   "want": "1486",
+   "got": "1486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 3 7 和 6 1 4 加起来，得到 ",
+   "want": "851",
+   "got": "851",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 6 6 和 7 1 9 加起来，得到 ",
+   "want": "1685",
+   "got": "1685",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 8 0 和 8 2 9 加起来，得到 ",
+   "want": "1409",
+   "got": "1409",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 6 5 和 4 8 2 加起来，得到 ",
+   "want": "1247",
+   "got": "1247",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 8 8 和 9 7 2 加起来，得到 ",
+   "want": "1260",
+   "got": "1260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 4 9 6 和 6 0 3 加起来，得到 ",
+   "want": "1099",
+   "got": "1099",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 8 5 和 2 4 0 加起来，得到 ",
+   "want": "825",
+   "got": "825",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 6 7 和 2 9 7 加起来，得到 ",
+   "want": "564",
+   "got": "564",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 3 3 1 和 1 3 3 加起来，得到 ",
+   "want": "464",
+   "got": "464",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 1 8 和 8 8 2 加起来，得到 ",
+   "want": "1400",
+   "got": "1400",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 1 1 5 和 3 7 6 加起来，得到 ",
+   "want": "491",
+   "got": "501",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 2 2 和 3 2 7 加起来，得到 ",
+   "want": "849",
+   "got": "848",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 6 0 和 7 8 7 加起来，得到 ",
+   "want": "1647",
+   "got": "1647",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 3 0 7 和 8 7 5 加起来，得到 ",
+   "want": "1182",
+   "got": "1182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 3 0 9 和 1 6 7 加起来，得到 ",
+   "want": "476",
+   "got": "476",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 8 1 和 5 4 9 加起来，得到 ",
+   "want": "830",
+   "got": "830",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 8 7 和 7 3 1 加起来，得到 ",
+   "want": "1718",
+   "got": "1718",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 0 1 和 8 0 4 加起来，得到 ",
+   "want": "1405",
+   "got": "1405",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 4 3 2 和 9 8 7 加起来，得到 ",
+   "want": "1419",
+   "got": "1419",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 6 8 和 3 5 2 加起来，得到 ",
+   "want": "920",
+   "got": "921",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 3 7 和 5 1 4 加起来，得到 ",
+   "want": "1051",
+   "got": "1051",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 9 4 和 1 4 2 加起来，得到 ",
+   "want": "1036",
+   "got": "1036",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 2 2 和 8 5 2 加起来，得到 ",
+   "want": "1574",
+   "got": "1574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 4 4 和 4 8 9 加起来，得到 ",
+   "want": "1433",
+   "got": "1433",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 3 7 和 4 2 0 加起来，得到 ",
+   "want": "1257",
+   "got": "1257",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 0 3 和 7 2 6 加起来，得到 ",
+   "want": "1229",
+   "got": "1229",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 6 0 和 6 8 5 加起来，得到 ",
+   "want": "1545",
+   "got": "1545",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 0 8 和 6 4 9 加起来，得到 ",
+   "want": "1357",
+   "got": "1357",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 3 7 和 7 5 6 加起来，得到 ",
+   "want": "1393",
+   "got": "1393",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 9 6 和 8 2 1 加起来，得到 ",
+   "want": "1817",
+   "got": "1817",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 0 5 和 1 3 9 加起来，得到 ",
+   "want": "1044",
+   "got": "1044",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 3 3 和 2 1 1 加起来，得到 ",
+   "want": "844",
+   "got": "844",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 6 2 和 5 6 7 加起来，得到 ",
+   "want": "1129",
+   "got": "1129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 4 6 和 9 9 8 加起来，得到 ",
+   "want": "1944",
+   "got": "1944",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 1 4 3 和 9 9 8 加起来，得到 ",
+   "want": "1141",
+   "got": "1141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 3 5 1 和 6 3 1 加起来，得到 ",
+   "want": "982",
+   "got": "982",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 5 0 和 5 0 5 加起来，得到 ",
+   "want": "1155",
+   "got": "1155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 5 2 和 1 4 0 加起来，得到 ",
+   "want": "992",
+   "got": "992",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 7 1 和 4 9 6 加起来，得到 ",
+   "want": "1167",
+   "got": "1167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 6 2 8 和 8 8 3 加起来，得到 ",
+   "want": "1511",
+   "got": "1501",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 4 5 和 1 5 0 加起来，得到 ",
+   "want": "895",
+   "got": "895",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 9 4 和 3 9 8 加起来，得到 ",
+   "want": "692",
+   "got": "692",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 5 0 和 5 0 7 加起来，得到 ",
+   "want": "1057",
+   "got": "1057",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 4 1 1 和 8 9 2 加起来，得到 ",
+   "want": "1303",
+   "got": "1303",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 4 7 和 3 9 2 加起来，得到 ",
+   "want": "1339",
+   "got": "1339",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 7 2 和 2 7 0 加起来，得到 ",
+   "want": "842",
+   "got": "842",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 3 2 和 4 0 1 加起来，得到 ",
+   "want": "933",
+   "got": "933",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 7 2 7 和 1 5 5 加起来，得到 ",
+   "want": "882",
+   "got": "882",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 0 6 和 6 2 9 加起来，得到 ",
+   "want": "1435",
+   "got": "1435",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 4 5 和 5 7 4 加起来，得到 ",
+   "want": "819",
+   "got": "819",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 9 4 9 和 7 6 1 加起来，得到 ",
+   "want": "1710",
+   "got": "1710",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 6 2 和 1 9 2 加起来，得到 ",
+   "want": "754",
+   "got": "754",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 3 9 和 6 1 2 加起来，得到 ",
+   "want": "1451",
+   "got": "1451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 1 5 和 2 8 4 加起来，得到 ",
+   "want": "499",
+   "got": "509",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 9 7 和 6 9 9 加起来，得到 ",
+   "want": "1596",
+   "got": "1596",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 8 1 2 和 6 5 9 加起来，得到 ",
+   "want": "1471",
+   "got": "1471",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 2 3 8 和 5 0 2 加起来，得到 ",
+   "want": "740",
+   "got": "740",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "把 5 2 3 和 4 3 1 加起来，得到 ",
+   "want": "954",
+   "got": "954",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 8 3 8 7 和 1 4 0 8 加起来，得到 ",
+   "want": "9795",
+   "got": "9795",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 9 3 0 和 8 4 3 3 加起来，得到 ",
+   "want": "12363",
+   "got": "12363",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 4 3 0 8 和 8 4 4 9 加起来，得到 ",
+   "want": "12757",
+   "got": "12757",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 4 7 7 和 5 0 9 7 加起来，得到 ",
+   "want": "7574",
+   "got": "7574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 3 0 9 和 3 6 8 6 加起来，得到 ",
+   "want": "9995",
+   "got": "9995",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 0 2 4 和 2 4 9 4 加起来，得到 ",
+   "want": "5518",
+   "got": "5518",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 8 7 0 和 8 3 6 2 加起来，得到 ",
+   "want": "11232",
+   "got": "11232",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 9 4 6 和 2 3 9 7 加起来，得到 ",
+   "want": "9343",
+   "got": "9343",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 5 8 2 和 7 2 9 2 加起来，得到 ",
+   "want": "16874",
+   "got": "16874",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 3 8 3 和 3 6 1 9 加起来，得到 ",
+   "want": "13002",
+   "got": "13002",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 2 0 4 和 7 2 3 5 加起来，得到 ",
+   "want": "14439",
+   "got": "14439",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 7 1 9 和 3 7 9 9 加起来，得到 ",
+   "want": "5518",
+   "got": "5518",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 4 9 1 和 3 4 5 9 加起来，得到 ",
+   "want": "9950",
+   "got": "9951",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 6 5 6 和 3 3 6 9 加起来，得到 ",
+   "want": "7025",
+   "got": "7027",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 9 3 0 和 1 8 4 0 加起来，得到 ",
+   "want": "5770",
+   "got": "5770",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 8 7 4 和 6 0 4 7 加起来，得到 ",
+   "want": "13921",
+   "got": "13922",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 0 7 1 和 8 3 1 1 加起来，得到 ",
+   "want": "14382",
+   "got": "14382",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 7 3 1 和 3 9 6 0 加起来，得到 ",
+   "want": "9691",
+   "got": "9691",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 9 2 6 和 3 1 5 5 加起来，得到 ",
+   "want": "6081",
+   "got": "6181",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 4 3 2 3 和 1 0 5 7 加起来，得到 ",
+   "want": "5380",
+   "got": "5380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 1 4 6 和 1 2 0 0 加起来，得到 ",
+   "want": "6346",
+   "got": "6356",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 8 5 1 4 和 9 1 5 3 加起来，得到 ",
+   "want": "17667",
+   "got": "17667",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 1 6 9 和 9 9 0 4 加起来，得到 ",
+   "want": "19073",
+   "got": "19073",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 0 9 4 和 9 0 8 4 加起来，得到 ",
+   "want": "10178",
+   "got": "10188",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 4 8 9 7 和 4 5 5 3 加起来，得到 ",
+   "want": "9450",
+   "got": "9450",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 8 7 9 4 和 8 4 3 4 加起来，得到 ",
+   "want": "17228",
+   "got": "17228",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 7 1 9 和 8 2 3 9 加起来，得到 ",
+   "want": "15958",
+   "got": "16958",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 3 0 0 和 1 1 0 7 加起来，得到 ",
+   "want": "3407",
+   "got": "3410",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 0 0 9 和 9 9 6 7 加起来，得到 ",
+   "want": "14976",
+   "got": "15076",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 5 5 6 和 4 4 0 1 加起来，得到 ",
+   "want": "9957",
+   "got": "9957",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 8 0 1 和 4 0 2 8 加起来，得到 ",
+   "want": "5829",
+   "got": "5829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 4 2 9 和 1 9 0 2 加起来，得到 ",
+   "want": "5331",
+   "got": "5331",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 7 1 8 和 1 6 0 1 加起来，得到 ",
+   "want": "8319",
+   "got": "8319",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 3 8 1 和 1 5 3 1 加起来，得到 ",
+   "want": "4912",
+   "got": "4912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 8 8 9 和 6 4 2 4 加起来，得到 ",
+   "want": "12313",
+   "got": "12313",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 4 3 6 和 1 8 0 3 加起来，得到 ",
+   "want": "4239",
+   "got": "4239",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 7 8 4 和 7 8 3 1 加起来，得到 ",
+   "want": "10615",
+   "got": "10616",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 9 2 0 和 3 6 4 3 加起来，得到 ",
+   "want": "7563",
+   "got": "7563",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 6 5 9 和 3 9 0 6 加起来，得到 ",
+   "want": "9565",
+   "got": "9565",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 8 4 6 0 和 6 9 0 1 加起来，得到 ",
+   "want": "15361",
+   "got": "15361",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 5 8 7 和 2 5 2 5 加起来，得到 ",
+   "want": "4112",
+   "got": "4142",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 9 0 3 和 6 2 8 9 加起来，得到 ",
+   "want": "12192",
+   "got": "12182",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 0 3 8 和 7 2 0 8 加起来，得到 ",
+   "want": "14246",
+   "got": "14226",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 1 0 8 和 8 0 0 1 加起来，得到 ",
+   "want": "10109",
+   "got": "10109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 0 6 3 和 5 7 9 7 加起来，得到 ",
+   "want": "7860",
+   "got": "7860",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 8 7 1 3 和 3 2 0 4 加起来，得到 ",
+   "want": "11917",
+   "got": "11918",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 9 9 9 和 5 4 9 6 加起来，得到 ",
+   "want": "8495",
+   "got": "8495",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 3 9 3 和 9 6 3 5 加起来，得到 ",
+   "want": "16028",
+   "got": "16027",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 7 7 9 和 9 5 9 5 加起来，得到 ",
+   "want": "17374",
+   "got": "17364",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 4 4 3 8 和 4 4 2 5 加起来，得到 ",
+   "want": "8863",
+   "got": "8863",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 9 5 3 和 2 7 9 0 加起来，得到 ",
+   "want": "4743",
+   "got": "4743",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 6 6 6 和 2 4 3 6 加起来，得到 ",
+   "want": "12102",
+   "got": "12102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 8 9 2 4 和 5 7 0 5 加起来，得到 ",
+   "want": "14629",
+   "got": "14629",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 9 9 6 和 6 1 8 5 加起来，得到 ",
+   "want": "14181",
+   "got": "14171",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 2 5 4 和 9 6 0 8 加起来，得到 ",
+   "want": "14862",
+   "got": "14862",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 7 9 7 和 3 1 2 5 加起来，得到 ",
+   "want": "9922",
+   "got": "9922",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 1 3 2 和 9 5 1 4 加起来，得到 ",
+   "want": "18646",
+   "got": "18646",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 1 5 4 和 9 0 6 9 加起来，得到 ",
+   "want": "18223",
+   "got": "18224",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 9 4 7 和 4 8 1 2 加起来，得到 ",
+   "want": "8759",
+   "got": "8760",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 7 5 9 和 4 1 7 1 加起来，得到 ",
+   "want": "9930",
+   "got": "9930",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 0 2 5 和 2 9 3 6 加起来，得到 ",
+   "want": "3961",
+   "got": "4060",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 3 9 2 和 8 6 1 6 加起来，得到 ",
+   "want": "10008",
+   "got": "10018",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 9 3 2 和 4 3 9 6 加起来，得到 ",
+   "want": "7328",
+   "got": "7328",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 7 9 3 和 7 7 8 3 加起来，得到 ",
+   "want": "15576",
+   "got": "15676",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 7 4 5 和 6 4 6 8 加起来，得到 ",
+   "want": "8213",
+   "got": "8214",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 7 2 8 和 4 4 7 8 加起来，得到 ",
+   "want": "11206",
+   "got": "11206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 1 8 5 和 4 2 9 6 加起来，得到 ",
+   "want": "5481",
+   "got": "5480",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 6 1 4 和 5 1 6 8 加起来，得到 ",
+   "want": "10782",
+   "got": "10782",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 1 1 1 和 6 0 4 2 加起来，得到 ",
+   "want": "8153",
+   "got": "8153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 9 1 9 和 9 3 0 1 加起来，得到 ",
+   "want": "15220",
+   "got": "15220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 3 0 7 和 1 1 0 0 加起来，得到 ",
+   "want": "7407",
+   "got": "7410",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 2 8 6 5 和 6 4 6 0 加起来，得到 ",
+   "want": "9325",
+   "got": "9325",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 5 9 2 和 7 4 8 8 加起来，得到 ",
+   "want": "14080",
+   "got": "14080",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 4 7 7 和 3 8 7 7 加起来，得到 ",
+   "want": "5354",
+   "got": "5364",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 4 1 7 8 和 6 4 1 5 加起来，得到 ",
+   "want": "10593",
+   "got": "10593",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 5 3 6 和 8 8 4 9 加起来，得到 ",
+   "want": "15385",
+   "got": "15385",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 8 7 7 4 和 1 5 8 2 加起来，得到 ",
+   "want": "10356",
+   "got": "10356",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 2 2 4 和 8 8 8 8 加起来，得到 ",
+   "want": "12112",
+   "got": "12012",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 5 4 5 和 8 5 4 6 加起来，得到 ",
+   "want": "12091",
+   "got": "12091",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 7 9 7 和 6 4 9 0 加起来，得到 ",
+   "want": "16287",
+   "got": "16287",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 8 5 7 7 和 7 7 8 2 加起来，得到 ",
+   "want": "16359",
+   "got": "16360",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 9 1 7 和 9 5 3 7 加起来，得到 ",
+   "want": "11454",
+   "got": "11454",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 9 0 4 和 6 1 6 9 加起来，得到 ",
+   "want": "12073",
+   "got": "12073",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 7 7 9 和 1 3 0 6 加起来，得到 ",
+   "want": "11085",
+   "got": "11085",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 4 4 1 2 和 6 4 3 4 加起来，得到 ",
+   "want": "10846",
+   "got": "10846",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 7 9 3 和 2 0 8 4 加起来，得到 ",
+   "want": "8877",
+   "got": "8877",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 4 4 6 和 5 5 9 5 加起来，得到 ",
+   "want": "9041",
+   "got": "8041",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 5 1 0 和 6 5 5 6 加起来，得到 ",
+   "want": "8066",
+   "got": "8066",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 1 4 7 和 9 7 5 3 加起来，得到 ",
+   "want": "16900",
+   "got": "16800",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 7 1 9 和 7 3 8 2 加起来，得到 ",
+   "want": "11101",
+   "got": "11010",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 4 0 7 0 和 2 9 1 4 加起来，得到 ",
+   "want": "6984",
+   "got": "6984",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 6 0 5 0 和 6 1 5 2 加起来，得到 ",
+   "want": "12202",
+   "got": "12202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 1 5 1 8 和 5 4 4 8 加起来，得到 ",
+   "want": "6966",
+   "got": "6966",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 7 8 0 和 2 4 2 2 加起来，得到 ",
+   "want": "10202",
+   "got": "10202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 1 4 3 和 4 8 9 3 加起来，得到 ",
+   "want": "14036",
+   "got": "14036",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 0 8 8 和 8 4 0 4 加起来，得到 ",
+   "want": "15492",
+   "got": "15492",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 5 9 5 8 和 4 5 4 1 加起来，得到 ",
+   "want": "10499",
+   "got": "10509",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 9 6 0 3 和 5 9 5 3 加起来，得到 ",
+   "want": "15556",
+   "got": "15556",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 3 8 6 7 和 2 8 3 8 加起来，得到 ",
+   "want": "6705",
+   "got": "6705",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "把 7 1 3 1 和 1 6 1 2 加起来，得到 ",
+   "want": "8743",
+   "got": "8743",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 6 4 8 9 和 2 2 1 3 7 加起来，得到 ",
+   "want": "58626",
+   "got": "58625",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 8 1 6 6 和 7 6 3 2 1 加起来，得到 ",
+   "want": "144487",
+   "got": "144487",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 1 3 2 6 8 和 7 3 2 6 3 加起来，得到 ",
+   "want": "86531",
+   "got": "86531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 5 5 4 3 和 3 0 1 9 5 加起来，得到 ",
+   "want": "105738",
+   "got": "105738",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 4 9 3 1 和 5 4 5 7 9 加起来，得到 ",
+   "want": "89510",
+   "got": "89511",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 3 3 6 9 和 7 8 6 3 2 加起来，得到 ",
+   "want": "152001",
+   "got": "152091",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 0 6 7 9 和 5 2 9 0 4 加起来，得到 ",
+   "want": "103583",
+   "got": "103583",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 8 7 8 1 和 2 2 8 7 8 加起来，得到 ",
+   "want": "51659",
+   "got": "51559",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 7 6 5 2 和 9 8 6 9 8 加起来，得到 ",
+   "want": "176350",
+   "got": "177350",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 7 3 9 5 和 3 6 8 9 4 加起来，得到 ",
+   "want": "64289",
+   "got": "64279",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 1 4 7 9 1 和 7 0 2 1 0 加起来，得到 ",
+   "want": "85001",
+   "got": "84001",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 0 8 0 1 和 7 8 4 6 4 加起来，得到 ",
+   "want": "139265",
+   "got": "139275",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 5 1 8 2 和 1 0 5 3 8 加起来，得到 ",
+   "want": "35720",
+   "got": "35720",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 0 7 6 0 和 1 5 7 7 1 加起来，得到 ",
+   "want": "66531",
+   "got": "66531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 7 8 9 4 和 2 1 4 1 3 加起来，得到 ",
+   "want": "109307",
+   "got": "119307",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 3 6 8 4 和 7 1 1 9 4 加起来，得到 ",
+   "want": "124878",
+   "got": "124878",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 1 6 0 4 7 和 2 3 5 1 3 加起来，得到 ",
+   "want": "39560",
+   "got": "49560",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 8 2 3 3 和 9 6 3 7 4 加起来，得到 ",
+   "want": "174607",
+   "got": "174607",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 0 9 5 7 和 1 2 9 4 6 加起来，得到 ",
+   "want": "63903",
+   "got": "63903",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 5 7 0 1 和 5 0 9 1 3 加起来，得到 ",
+   "want": "136614",
+   "got": "136614",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 3 7 3 5 和 3 7 5 0 4 加起来，得到 ",
+   "want": "131239",
+   "got": "131239",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 2 0 5 8 和 3 6 2 8 7 加起来，得到 ",
+   "want": "88345",
+   "got": "88345",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 5 2 3 7 和 4 7 5 6 0 加起来，得到 ",
+   "want": "82797",
+   "got": "82897",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 4 6 2 6 1 和 7 9 7 6 6 加起来，得到 ",
+   "want": "126027",
+   "got": "126027",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 1 8 3 1 和 6 7 8 1 7 加起来，得到 ",
+   "want": "119648",
+   "got": "119648",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 7 9 6 5 和 2 5 4 2 0 加起来，得到 ",
+   "want": "123385",
+   "got": "123385",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 4 5 7 3 7 和 2 9 5 7 1 加起来，得到 ",
+   "want": "75308",
+   "got": "75310",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 0 6 4 3 和 4 5 8 6 6 加起来，得到 ",
+   "want": "76509",
+   "got": "76509",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 5 0 0 2 和 1 1 9 9 9 加起来，得到 ",
+   "want": "37001",
+   "got": "40900",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 1 6 5 0 和 8 3 3 5 1 加起来，得到 ",
+   "want": "175001",
+   "got": "174991",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 7 3 7 8 和 2 3 4 1 8 加起来，得到 ",
+   "want": "100796",
+   "got": "101096",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 7 0 7 6 和 8 1 1 1 0 加起来，得到 ",
+   "want": "118186",
+   "got": "118186",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 5 9 1 6 和 8 2 0 0 6 加起来，得到 ",
+   "want": "137922",
+   "got": "137924",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 1 7 4 4 和 4 5 5 2 7 加起来，得到 ",
+   "want": "97271",
+   "got": "97251",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 8 5 5 4 和 4 7 1 2 8 加起来，得到 ",
+   "want": "75682",
+   "got": "75682",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 5 2 4 6 和 4 2 0 8 9 加起来，得到 ",
+   "want": "127335",
+   "got": "127336",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 2 4 4 9 和 1 9 3 3 7 加起来，得到 ",
+   "want": "51786",
+   "got": "51886",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 0 8 1 2 和 9 0 3 8 1 加起来，得到 ",
+   "want": "141193",
+   "got": "141193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 4 3 9 9 和 8 0 8 5 4 加起来，得到 ",
+   "want": "135253",
+   "got": "135233",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 8 1 4 9 和 1 6 6 4 8 加起来，得到 ",
+   "want": "84797",
+   "got": "84807",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 7 0 4 9 和 1 3 8 0 0 加起来，得到 ",
+   "want": "40849",
+   "got": "41049",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 1 7 0 0 和 9 8 5 3 8 加起来，得到 ",
+   "want": "170238",
+   "got": "170238",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 1 6 6 1 3 和 2 3 8 8 4 加起来，得到 ",
+   "want": "40497",
+   "got": "40507",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 0 2 7 9 和 1 7 0 5 1 加起来，得到 ",
+   "want": "77330",
+   "got": "77330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 1 2 8 7 和 6 5 8 9 7 加起来，得到 ",
+   "want": "87184",
+   "got": "87174",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 1 3 6 9 和 3 3 4 5 9 加起来，得到 ",
+   "want": "94828",
+   "got": "94827",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 8 1 3 4 和 8 7 6 9 3 加起来，得到 ",
+   "want": "175827",
+   "got": "175828",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 2 5 0 5 和 6 8 4 3 6 加起来，得到 ",
+   "want": "160941",
+   "got": "160941",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 0 7 8 1 和 5 6 6 1 2 加起来，得到 ",
+   "want": "147393",
+   "got": "147403",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 0 9 5 2 和 5 3 5 5 9 加起来，得到 ",
+   "want": "104511",
+   "got": "104514",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 5 9 7 1 和 9 7 9 3 2 加起来，得到 ",
+   "want": "133903",
+   "got": "133903",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 9 9 2 4 和 2 0 2 9 5 加起来，得到 ",
+   "want": "100219",
+   "got": "100229",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 1 0 3 9 和 8 4 4 2 1 加起来，得到 ",
+   "want": "155460",
+   "got": "155460",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 7 2 7 4 和 2 2 1 7 8 加起来，得到 ",
+   "want": "49452",
+   "got": "50462",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 1 3 7 7 和 2 2 7 4 8 加起来，得到 ",
+   "want": "94125",
+   "got": "94125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 9 7 1 4 和 5 0 6 8 3 加起来，得到 ",
+   "want": "120397",
+   "got": "120277",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 9 7 1 5 和 9 4 4 6 5 加起来，得到 ",
+   "want": "194180",
+   "got": "194190",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 1 0 0 0 和 7 1 6 7 5 加起来，得到 ",
+   "want": "142675",
+   "got": "142675",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 4 0 3 6 8 和 3 9 3 3 3 加起来，得到 ",
+   "want": "79701",
+   "got": "80701",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 8 8 3 7 和 9 0 8 6 3 加起来，得到 ",
+   "want": "119700",
+   "got": "119600",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 4 3 8 2 3 和 5 7 6 3 8 加起来，得到 ",
+   "want": "101461",
+   "got": "101561",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 1 3 9 0 和 3 4 0 3 2 加起来，得到 ",
+   "want": "95422",
+   "got": "95422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 7 1 8 6 和 5 3 2 9 6 加起来，得到 ",
+   "want": "150482",
+   "got": "150482",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 2 5 6 7 和 6 9 4 1 2 加起来，得到 ",
+   "want": "121979",
+   "got": "121979",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 3 8 9 8 和 1 3 9 6 6 加起来，得到 ",
+   "want": "87864",
+   "got": "87864",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 1 8 5 6 7 和 7 2 3 0 3 加起来，得到 ",
+   "want": "90870",
+   "got": "91070",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 4 7 9 6 和 5 6 0 6 4 加起来，得到 ",
+   "want": "80860",
+   "got": "80860",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 2 7 3 7 和 7 0 4 5 5 加起来，得到 ",
+   "want": "143192",
+   "got": "143192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 2 3 8 7 和 4 6 9 9 6 加起来，得到 ",
+   "want": "79383",
+   "got": "79383",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 5 6 9 3 和 8 9 2 2 5 加起来，得到 ",
+   "want": "144918",
+   "got": "144918",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 5 3 2 4 和 2 6 6 9 7 加起来，得到 ",
+   "want": "112021",
+   "got": "112022",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 6 5 7 7 和 2 3 4 9 1 加起来，得到 ",
+   "want": "100068",
+   "got": "100178",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 3 1 7 4 和 2 4 0 2 2 加起来，得到 ",
+   "want": "87196",
+   "got": "87196",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 2 7 1 2 和 8 2 8 9 5 加起来，得到 ",
+   "want": "135607",
+   "got": "135616",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 5 1 2 4 和 1 9 2 9 6 加起来，得到 ",
+   "want": "114420",
+   "got": "114420",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 4 9 5 9 9 和 7 9 8 2 8 加起来，得到 ",
+   "want": "129427",
+   "got": "129427",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 0 4 2 0 和 6 2 5 3 5 加起来，得到 ",
+   "want": "132955",
+   "got": "132955",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 7 4 0 2 和 6 4 1 9 0 加起来，得到 ",
+   "want": "151592",
+   "got": "150602",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 4 1 2 7 0 和 9 1 3 7 9 加起来，得到 ",
+   "want": "132649",
+   "got": "132559",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 4 1 9 4 1 和 8 1 8 2 0 加起来，得到 ",
+   "want": "123761",
+   "got": "123761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 3 0 8 4 3 和 7 3 2 2 5 加起来，得到 ",
+   "want": "104068",
+   "got": "104168",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 0 3 0 7 和 1 8 6 5 8 加起来，得到 ",
+   "want": "78965",
+   "got": "78965",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 4 6 5 8 和 3 7 2 9 4 加起来，得到 ",
+   "want": "91952",
+   "got": "91952",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 7 4 5 9 和 6 6 5 1 1 加起来，得到 ",
+   "want": "153970",
+   "got": "154070",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 7 0 6 2 和 8 4 3 4 5 加起来，得到 ",
+   "want": "151407",
+   "got": "151316",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 4 8 5 2 和 8 1 3 7 2 加起来，得到 ",
+   "want": "136224",
+   "got": "136224",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 4 0 9 5 3 和 3 2 6 8 6 加起来，得到 ",
+   "want": "73639",
+   "got": "73639",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 6 8 4 9 和 9 7 7 6 6 加起来，得到 ",
+   "want": "194615",
+   "got": "195617",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 0 2 0 9 和 8 5 2 6 0 加起来，得到 ",
+   "want": "105469",
+   "got": "105469",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 3 7 8 3 和 2 4 9 8 4 加起来，得到 ",
+   "want": "98767",
+   "got": "98767",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 7 6 1 6 和 8 8 1 2 8 加起来，得到 ",
+   "want": "175744",
+   "got": "175744",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 7 0 6 7 4 和 5 2 6 4 7 加起来，得到 ",
+   "want": "123321",
+   "got": "123322",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 2 7 5 6 和 2 2 7 9 9 加起来，得到 ",
+   "want": "105555",
+   "got": "105555",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 6 8 3 5 5 和 3 3 0 9 1 加起来，得到 ",
+   "want": "101446",
+   "got": "101446",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 0 3 7 4 和 6 3 1 8 8 加起来，得到 ",
+   "want": "113562",
+   "got": "113562",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 1 9 1 2 3 和 8 8 4 1 5 加起来，得到 ",
+   "want": "107538",
+   "got": "107538",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 2 4 2 5 3 和 9 9 8 5 0 加起来，得到 ",
+   "want": "124103",
+   "got": "124103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 8 8 1 7 2 和 5 9 6 6 4 加起来，得到 ",
+   "want": "147836",
+   "got": "147836",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 5 2 9 1 4 和 7 4 7 8 8 加起来，得到 ",
+   "want": "127702",
+   "got": "127702",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "把 9 4 5 4 0 和 9 6 5 2 9 加起来，得到 ",
+   "want": "191069",
+   "got": "191069",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

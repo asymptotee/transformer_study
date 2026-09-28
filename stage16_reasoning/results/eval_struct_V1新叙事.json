@@ -1,0 +1,6431 @@
+{
+ "label": "struct_V1新叙事",
+ "by_rung": {
+  "2": [
+   1,
+   110,
+   0,
+   200
+  ],
+  "3": [
+   3,
+   95,
+   0,
+   200
+  ],
+  "4": [
+   3,
+   77,
+   0,
+   200
+  ],
+  "5": [
+   1,
+   80,
+   0,
+   200
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "甲乙两地相距 24 米，又延长 77 米，现在多长？",
+   "want": "101",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 68 米，又延长 65 米，现在多长？",
+   "want": "133",
+   "got": "43米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 66 米，又延长 11 米，现在多长？",
+   "want": "77",
+   "got": "77米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 48 米，又延长 90 米，现在多长？",
+   "want": "138",
+   "got": "88米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 75 米，又延长 71 米，现在多长？",
+   "want": "146",
+   "got": "66米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 42 米，又延长 33 米，现在多长？",
+   "want": "75",
+   "got": "65米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 29 米，又延长 24 米，现在多长？",
+   "want": "53",
+   "got": "44米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 98 米，又延长 78 米，现在多长？",
+   "want": "176",
+   "got": "66米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 64 米，又延长 12 米，现在多长？",
+   "want": "76",
+   "got": "76米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 99 米，又延长 80 米，现在多长？",
+   "want": "179",
+   "got": "99米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 95 米，又延长 42 米，现在多长？",
+   "want": "137",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 62 米，又延长 58 米，现在多长？",
+   "want": "120",
+   "got": "79",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 51 米，又延长 77 米，现在多长？",
+   "want": "128",
+   "got": "78米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 93 米，又延长 76 米，现在多长？",
+   "want": "169",
+   "got": "59米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 51 米，又延长 24 米，现在多长？",
+   "want": "75",
+   "got": "66米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 72 米，又延长 76 米，现在多长？",
+   "want": "148",
+   "got": "88米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 68 米，又延长 32 米，现在多长？",
+   "want": "100",
+   "got": "90米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 91 米，又延长 99 米，现在多长？",
+   "want": "190",
+   "got": "99米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 26 米，又延长 16 米，现在多长？",
+   "want": "42",
+   "got": "82米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 39 米，又延长 39 米，现在多长？",
+   "want": "78",
+   "got": "88米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 84 米，又延长 53 米，现在多长？",
+   "want": "137",
+   "got": "97米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 29 米，又延长 19 米，现在多长？",
+   "want": "48",
+   "got": "97米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 19 米，又延长 60 米，现在多长？",
+   "want": "79",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 55 米，又延长 92 米，现在多长？",
+   "want": "147",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 85 米，又延长 43 米，现在多长？",
+   "want": "128",
+   "got": "98米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 34 米，又延长 67 米，现在多长？",
+   "want": "101",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 18 米，又延长 46 米，现在多长？",
+   "want": "64",
+   "got": "54米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 43 米，又延长 65 米，现在多长？",
+   "want": "108",
+   "got": "98米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 20 米，又延长 55 米，现在多长？",
+   "want": "75",
+   "got": "65",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 50 米，又延长 10 米，现在多长？",
+   "want": "60",
+   "got": "10米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 66 米，又延长 92 米，现在多长？",
+   "want": "158",
+   "got": "58米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 54 米，又延长 63 米，现在多长？",
+   "want": "117",
+   "got": "87米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 87 米，又延长 21 米，现在多长？",
+   "want": "108",
+   "got": "98米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 63 米，又延长 14 米，现在多长？",
+   "want": "77",
+   "got": "87米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 84 米，又延长 31 米，现在多长？",
+   "want": "115",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 12 米，又延长 38 米，现在多长？",
+   "want": "50",
+   "got": "59米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 32 米，又延长 48 米，现在多长？",
+   "want": "80",
+   "got": "79米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 81 米，又延长 18 米，现在多长？",
+   "want": "99",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 88 米，又延长 80 米，现在多长？",
+   "want": "168",
+   "got": "88米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 31 米，又延长 68 米，现在多长？",
+   "want": "99",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 21 米，又延长 19 米，现在多长？",
+   "want": "40",
+   "got": "96米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 77 米，又延长 51 米，现在多长？",
+   "want": "128",
+   "got": "88米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 42 米，又延长 71 米，现在多长？",
+   "want": "113",
+   "got": "93米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 86 米，又延长 51 米，现在多长？",
+   "want": "137",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 74 米，又延长 20 米，现在多长？",
+   "want": "94",
+   "got": "44米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 20 米，又延长 71 米，现在多长？",
+   "want": "91",
+   "got": "61",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 57 米，又延长 45 米，现在多长？",
+   "want": "102",
+   "got": "92",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 80 米，又延长 60 米，现在多长？",
+   "want": "140",
+   "got": "66米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 67 米，又延长 77 米，现在多长？",
+   "want": "144",
+   "got": "44米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 83 米，又延长 93 米，现在多长？",
+   "want": "176",
+   "got": "76米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 91 米，又延长 40 米，现在多长？",
+   "want": "131",
+   "got": "130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 77 米，又延长 73 米，现在多长？",
+   "want": "150",
+   "got": "49米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 90 米，又延长 37 米，现在多长？",
+   "want": "127",
+   "got": "87米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 67 米，又延长 99 米，现在多长？",
+   "want": "166",
+   "got": "56米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 61 米，又延长 23 米，现在多长？",
+   "want": "84",
+   "got": "44米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 85 米，又延长 61 米，现在多长？",
+   "want": "146",
+   "got": "76米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 18 米，又延长 92 米，现在多长？",
+   "want": "110",
+   "got": "90米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 47 米，又延长 48 米，现在多长？",
+   "want": "95",
+   "got": "65米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 42 米，又延长 99 米，现在多长？",
+   "want": "141",
+   "got": "71",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 47 米，又延长 88 米，现在多长？",
+   "want": "135",
+   "got": "34米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 41 米，又延长 30 米，现在多长？",
+   "want": "71",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 68 米，又延长 33 米，现在多长？",
+   "want": "101",
+   "got": "51",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 65 米，又延长 80 米，现在多长？",
+   "want": "145",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 94 米，又延长 62 米，现在多长？",
+   "want": "156",
+   "got": "56米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 45 米，又延长 33 米，现在多长？",
+   "want": "78",
+   "got": "98米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 18 米，又延长 76 米，现在多长？",
+   "want": "94",
+   "got": "54米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 53 米，又延长 89 米，现在多长？",
+   "want": "142",
+   "got": "42",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 14 米，又延长 68 米，现在多长？",
+   "want": "82",
+   "got": "92",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 57 米，又延长 24 米，现在多长？",
+   "want": "81",
+   "got": "91",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 35 米，又延长 80 米，现在多长？",
+   "want": "115",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 12 米，又延长 67 米，现在多长？",
+   "want": "79",
+   "got": "89米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 65 米，又延长 35 米，现在多长？",
+   "want": "100",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 32 米，又延长 75 米，现在多长？",
+   "want": "107",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 56 米，又延长 43 米，现在多长？",
+   "want": "99",
+   "got": "89米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 33 米，又延长 49 米，现在多长？",
+   "want": "82",
+   "got": "72",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 19 米，又延长 78 米，现在多长？",
+   "want": "97",
+   "got": "87米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 16 米，又延长 77 米，现在多长？",
+   "want": "93",
+   "got": "43米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 25 米，又延长 11 米，现在多长？",
+   "want": "36",
+   "got": "67米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 26 米，又延长 71 米，现在多长？",
+   "want": "97",
+   "got": "77米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 57 米，又延长 72 米，现在多长？",
+   "want": "129",
+   "got": "89",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 26 米，又延长 81 米，现在多长？",
+   "want": "107",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 28 米，又延长 51 米，现在多长？",
+   "want": "79",
+   "got": "79米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 66 米，又延长 34 米，现在多长？",
+   "want": "100",
+   "got": "99米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 90 米，又延长 46 米，现在多长？",
+   "want": "136",
+   "got": "66米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 62 米，又延长 50 米，现在多长？",
+   "want": "112",
+   "got": "62",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 18 米，又延长 23 米，现在多长？",
+   "want": "41",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 98 米，又延长 48 米，现在多长？",
+   "want": "146",
+   "got": "76米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 65 米，又延长 52 米，现在多长？",
+   "want": "117",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 14 米，又延长 34 米，现在多长？",
+   "want": "48",
+   "got": "78米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 73 米，又延长 44 米，现在多长？",
+   "want": "117",
+   "got": "116",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 45 米，又延长 35 米，现在多长？",
+   "want": "80",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 25 米，又延长 82 米，现在多长？",
+   "want": "107",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 46 米，又延长 39 米，现在多长？",
+   "want": "85",
+   "got": "55米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 36 米，又延长 28 米，现在多长？",
+   "want": "64",
+   "got": "54米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 93 米，又延长 44 米，现在多长？",
+   "want": "137",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 10 米，又延长 77 米，现在多长？",
+   "want": "87",
+   "got": "77米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 59 米，又延长 96 米，现在多长？",
+   "want": "155",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 17 米，又延长 80 米，现在多长？",
+   "want": "97",
+   "got": "87米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 34 米，又延长 31 米，现在多长？",
+   "want": "65",
+   "got": "55米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 75 米，又延长 27 米，现在多长？",
+   "want": "102",
+   "got": "32米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 10 米，又延长 25 米，现在多长？",
+   "want": "35",
+   "got": "66米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 21 米，又延长 81 米，现在多长？",
+   "want": "102",
+   "got": "93米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 50 米，又延长 65 米，现在多长？",
+   "want": "115",
+   "got": "65",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 48 米，又延长 79 米，现在多长？",
+   "want": "127",
+   "got": "67米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 51 米，又延长 14 米，现在多长？",
+   "want": "65",
+   "got": "65米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 85 米，又延长 17 米，现在多长？",
+   "want": "102",
+   "got": "32米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 58 米，又延长 82 米，现在多长？",
+   "want": "140",
+   "got": "39米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 54 米，又延长 71 米，现在多长？",
+   "want": "125",
+   "got": "65米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 51 米，又延长 31 米，现在多长？",
+   "want": "82",
+   "got": "73米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 39 米，又延长 72 米，现在多长？",
+   "want": "111",
+   "got": "51",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 24 米，又延长 17 米，现在多长？",
+   "want": "41",
+   "got": "61",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 43 米，又延长 62 米，现在多长？",
+   "want": "105",
+   "got": "76米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 97 米，又延长 98 米，现在多长？",
+   "want": "195",
+   "got": "65米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 16 米，又延长 88 米，现在多长？",
+   "want": "104",
+   "got": "54米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 22 米，又延长 37 米，现在多长？",
+   "want": "59",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 44 米，又延长 67 米，现在多长？",
+   "want": "111",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 79 米，又延长 49 米，现在多长？",
+   "want": "128",
+   "got": "58米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 73 米，又延长 47 米，现在多长？",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 55 米，又延长 97 米，现在多长？",
+   "want": "152",
+   "got": "43米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 73 米，又延长 28 米，现在多长？",
+   "want": "101",
+   "got": "51",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 26 米，又延长 39 米，现在多长？",
+   "want": "65",
+   "got": "55米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 39 米，又延长 67 米，现在多长？",
+   "want": "106",
+   "got": "56米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 90 米，又延长 57 米，现在多长？",
+   "want": "147",
+   "got": "67米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 35 米，又延长 20 米，现在多长？",
+   "want": "55",
+   "got": "65米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 18 米，又延长 81 米，现在多长？",
+   "want": "99",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 61 米，又延长 41 米，现在多长？",
+   "want": "102",
+   "got": "73米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 68 米，又延长 91 米，现在多长？",
+   "want": "159",
+   "got": "59米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 63 米，又延长 54 米，现在多长？",
+   "want": "117",
+   "got": "97米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 52 米，又延长 90 米，现在多长？",
+   "want": "142",
+   "got": "62",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 10 米，又延长 13 米，现在多长？",
+   "want": "23",
+   "got": "14米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 31 米，又延长 61 米，现在多长？",
+   "want": "92",
+   "got": "73米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 85 米，又延长 25 米，现在多长？",
+   "want": "110",
+   "got": "99米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 57 米，又延长 89 米，现在多长？",
+   "want": "146",
+   "got": "46米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 63 米，又延长 15 米，现在多长？",
+   "want": "78",
+   "got": "88米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 47 米，又延长 35 米，现在多长？",
+   "want": "82",
+   "got": "225",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 35 米，又延长 55 米，现在多长？",
+   "want": "90",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 20 米，又延长 27 米，现在多长？",
+   "want": "47",
+   "got": "77米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 83 米，又延长 93 米，现在多长？",
+   "want": "176",
+   "got": "76米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 19 米，又延长 13 米，现在多长？",
+   "want": "32",
+   "got": "33米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 87 米，又延长 49 米，现在多长？",
+   "want": "136",
+   "got": "66米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 87 米，又延长 58 米，现在多长？",
+   "want": "145",
+   "got": "46米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 40 米，又延长 25 米，现在多长？",
+   "want": "65",
+   "got": "56米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 32 米，又延长 84 米，现在多长？",
+   "want": "116",
+   "got": "66米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 59 米，又延长 91 米，现在多长？",
+   "want": "150",
+   "got": "49米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 65 米，又延长 34 米，现在多长？",
+   "want": "99",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 70 米，又延长 65 米，现在多长？",
+   "want": "135",
+   "got": "65",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 45 米，又延长 14 米，现在多长？",
+   "want": "59",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 80 米，又延长 60 米，现在多长？",
+   "want": "140",
+   "got": "66米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 17 米，又延长 20 米，现在多长？",
+   "want": "37",
+   "got": "77米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 58 米，又延长 43 米，现在多长？",
+   "want": "101",
+   "got": "31",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 93 米，又延长 44 米，现在多长？",
+   "want": "137",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 41 米，又延长 60 米，现在多长？",
+   "want": "101",
+   "got": "61",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 94 米，又延长 14 米，现在多长？",
+   "want": "108",
+   "got": "98米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 96 米，又延长 37 米，现在多长？",
+   "want": "133",
+   "got": "53米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 46 米，又延长 62 米，现在多长？",
+   "want": "108",
+   "got": "88米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 53 米，又延长 50 米，现在多长？",
+   "want": "103",
+   "got": "63米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 66 米，又延长 43 米，现在多长？",
+   "want": "109",
+   "got": "99米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 31 米，又延长 49 米，现在多长？",
+   "want": "80",
+   "got": "59米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 32 米，又延长 64 米，现在多长？",
+   "want": "96",
+   "got": "76米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 84 米，又延长 21 米，现在多长？",
+   "want": "105",
+   "got": "65米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 42 米，又延长 42 米，现在多长？",
+   "want": "84",
+   "got": "64米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 42 米，又延长 89 米，现在多长？",
+   "want": "131",
+   "got": "71",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 66 米，又延长 64 米，现在多长？",
+   "want": "130",
+   "got": "39米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 93 米，又延长 92 米，现在多长？",
+   "want": "185",
+   "got": "65米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 11 米，又延长 56 米，现在多长？",
+   "want": "67",
+   "got": "77米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 32 米，又延长 76 米，现在多长？",
+   "want": "108",
+   "got": "98米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 64 米，又延长 98 米，现在多长？",
+   "want": "162",
+   "got": "52米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 61 米，又延长 52 米，现在多长？",
+   "want": "113",
+   "got": "73米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 54 米，又延长 19 米，现在多长？",
+   "want": "73",
+   "got": "43米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 66 米，又延长 94 米，现在多长？",
+   "want": "160",
+   "got": "51米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 85 米，又延长 60 米，现在多长？",
+   "want": "145",
+   "got": "65",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 45 米，又延长 28 米，现在多长？",
+   "want": "73",
+   "got": "43米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 83 米，又延长 45 米，现在多长？",
+   "want": "128",
+   "got": "98米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 44 米，又延长 84 米，现在多长？",
+   "want": "128",
+   "got": "98米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 59 米，又延长 70 米，现在多长？",
+   "want": "129",
+   "got": "59米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 25 米，又延长 82 米，现在多长？",
+   "want": "107",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 17 米，又延长 75 米，现在多长？",
+   "want": "92",
+   "got": "32米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 89 米，又延长 92 米，现在多长？",
+   "want": "181",
+   "got": "71",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 58 米，又延长 61 米，现在多长？",
+   "want": "119",
+   "got": "79米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 20 米，又延长 79 米，现在多长？",
+   "want": "99",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 48 米，又延长 48 米，现在多长？",
+   "want": "96",
+   "got": "66米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 53 米，又延长 70 米，现在多长？",
+   "want": "123",
+   "got": "63米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 78 米，又延长 33 米，现在多长？",
+   "want": "111",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 58 米，又延长 60 米，现在多长？",
+   "want": "118",
+   "got": "58米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 34 米，又延长 60 米，现在多长？",
+   "want": "94",
+   "got": "44米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 29 米，又延长 73 米，现在多长？",
+   "want": "102",
+   "got": "82米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 86 米，又延长 87 米，现在多长？",
+   "want": "173",
+   "got": "53米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 47 米，又延长 80 米，现在多长？",
+   "want": "127",
+   "got": "87米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 46 米，又延长 16 米，现在多长？",
+   "want": "62",
+   "got": "72",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 96 米，又延长 63 米，现在多长？",
+   "want": "159",
+   "got": "59米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 33 米，又延长 11 米，现在多长？",
+   "want": "44",
+   "got": "44米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 10 米，又延长 34 米，现在多长？",
+   "want": "44",
+   "got": "140",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 63 米，又延长 20 米，现在多长？",
+   "want": "83",
+   "got": "33米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 69 米，又延长 59 米，现在多长？",
+   "want": "128",
+   "got": "58米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 14 米，又延长 25 米，现在多长？",
+   "want": "39",
+   "got": "79米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 72 米，又延长 27 米，现在多长？",
+   "want": "99",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 82 米，又延长 98 米，现在多长？",
+   "want": "180",
+   "got": "79米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 30 米，又延长 99 米，现在多长？",
+   "want": "129",
+   "got": "99米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 77 米，又延长 13 米，现在多长？",
+   "want": "90",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "甲乙两地相距 69 米，又延长 97 米，现在多长？",
+   "want": "166",
+   "got": "56米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 424 米，又延长 206 米，现在多长？",
+   "want": "630",
+   "got": "339米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 708 米，又延长 872 米，现在多长？",
+   "want": "1580",
+   "got": "880",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 577 米，又延长 712 米，现在多长？",
+   "want": "1289",
+   "got": "789",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 780 米，又延长 621 米，现在多长？",
+   "want": "1401",
+   "got": "491",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 781 米，又延长 870 米，现在多长？",
+   "want": "1651",
+   "got": "552米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 370 米，又延长 343 米，现在多长？",
+   "want": "713",
+   "got": "7236",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 163 米，又延长 106 米，现在多长？",
+   "want": "269",
+   "got": "679",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 218 米，又延长 481 米，现在多长？",
+   "want": "699",
+   "got": "699米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 525 米，又延长 253 米，现在多长？",
+   "want": "778",
+   "got": "778米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 314 米，又延长 677 米，现在多长？",
+   "want": "991",
+   "got": "891",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 295 米，又延长 948 米，现在多长？",
+   "want": "1243",
+   "got": "843米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 195 米，又延长 558 米，现在多长？",
+   "want": "753",
+   "got": "553米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 682 米，又延长 410 米，现在多长？",
+   "want": "1092",
+   "got": "993",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 534 米，又延长 589 米，现在多长？",
+   "want": "1123",
+   "got": "923",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 229 米，又延长 646 米，现在多长？",
+   "want": "875",
+   "got": "775米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 657 米，又延长 573 米，现在多长？",
+   "want": "1230",
+   "got": "230米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 369 米，又延长 857 米，现在多长？",
+   "want": "1226",
+   "got": "525",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 643 米，又延长 993 米，现在多长？",
+   "want": "1636",
+   "got": "537米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 699 米，又延长 399 米，现在多长？",
+   "want": "1098",
+   "got": "698",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 532 米，又延长 147 米，现在多长？",
+   "want": "679",
+   "got": "779米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 176 米，又延长 369 米，现在多长？",
+   "want": "545",
+   "got": "835",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 557 米，又延长 980 米，现在多长？",
+   "want": "1537",
+   "got": "436米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 722 米，又延长 308 米，现在多长？",
+   "want": "1030",
+   "got": "230米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 322 米，又延长 258 米，现在多长？",
+   "want": "580",
+   "got": "780米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 885 米，又延长 819 米，现在多长？",
+   "want": "1704",
+   "got": "9144",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 585 米，又延长 228 米，现在多长？",
+   "want": "813",
+   "got": "713米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 593 米，又延长 500 米，现在多长？",
+   "want": "1093",
+   "got": "593米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 723 米，又延长 693 米，现在多长？",
+   "want": "1416",
+   "got": "917",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 524 米，又延长 511 米，现在多长？",
+   "want": "1035",
+   "got": "639米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 756 米，又延长 614 米，现在多长？",
+   "want": "1370",
+   "got": "669",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 950 米，又延长 396 米，现在多长？",
+   "want": "1346",
+   "got": "446米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 158 米，又延长 610 米，现在多长？",
+   "want": "768",
+   "got": "768米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 621 米，又延长 754 米，现在多长？",
+   "want": "1375",
+   "got": "326",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 661 米，又延长 852 米，现在多长？",
+   "want": "1513",
+   "got": "4134",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 349 米，又延长 268 米，现在多长？",
+   "want": "617",
+   "got": "777",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 818 米，又延长 127 米，现在多长？",
+   "want": "945",
+   "got": "955米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 968 米，又延长 629 米，现在多长？",
+   "want": "1597",
+   "got": "897",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 386 米，又延长 130 米，现在多长？",
+   "want": "516",
+   "got": "516米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 607 米，又延长 542 米，现在多长？",
+   "want": "1149",
+   "got": "549",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 644 米，又延长 253 米，现在多长？",
+   "want": "897",
+   "got": "797",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 872 米，又延长 449 米，现在多长？",
+   "want": "1321",
+   "got": "3216",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 645 米，又延长 147 米，现在多长？",
+   "want": "792",
+   "got": "793米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 974 米，又延长 499 米，现在多长？",
+   "want": "1473",
+   "got": "773",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 840 米，又延长 849 米，现在多长？",
+   "want": "1689",
+   "got": "399",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 621 米，又延长 830 米，现在多长？",
+   "want": "1451",
+   "got": "951米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 375 米，又延长 446 米，现在多长？",
+   "want": "821",
+   "got": "721",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 662 米，又延长 195 米，现在多长？",
+   "want": "857",
+   "got": "557米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 867 米，又延长 534 米，现在多长？",
+   "want": "1401",
+   "got": "491",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 454 米，又延长 444 米，现在多长？",
+   "want": "898",
+   "got": "998米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 572 米，又延长 231 米，现在多长？",
+   "want": "803",
+   "got": "893米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 770 米，又延长 264 米，现在多长？",
+   "want": "1034",
+   "got": "434米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 598 米，又延长 888 米，现在多长？",
+   "want": "1486",
+   "got": "476米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 960 米，又延长 727 米，现在多长？",
+   "want": "1687",
+   "got": "887米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 322 米，又延长 661 米，现在多长？",
+   "want": "983",
+   "got": "883米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 401 米，又延长 211 米，现在多长？",
+   "want": "612",
+   "got": "1423",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 895 米，又延长 674 米，现在多长？",
+   "want": "1569",
+   "got": "569米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 689 米，又延长 324 米，现在多长？",
+   "want": "1013",
+   "got": "513米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 614 米，又延长 121 米，现在多长？",
+   "want": "735",
+   "got": "346米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 826 米，又延长 275 米，现在多长？",
+   "want": "1101",
+   "got": "991",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 513 米，又延长 490 米，现在多长？",
+   "want": "1003",
+   "got": "713米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 912 米，又延长 678 米，现在多长？",
+   "want": "1590",
+   "got": "891",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 672 米，又延长 328 米，现在多长？",
+   "want": "1000",
+   "got": "900米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 524 米，又延长 355 米，现在多长？",
+   "want": "879",
+   "got": "780米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 964 米，又延长 924 米，现在多长？",
+   "want": "1888",
+   "got": "588米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 785 米，又延长 740 米，现在多长？",
+   "want": "1525",
+   "got": "426米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 760 米，又延长 317 米，现在多长？",
+   "want": "1077",
+   "got": "877",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 182 米，又延长 437 米，现在多长？",
+   "want": "619",
+   "got": "619米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 793 米，又延长 971 米，现在多长？",
+   "want": "1764",
+   "got": "664米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 357 米，又延长 570 米，现在多长？",
+   "want": "927",
+   "got": "325",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 581 米，又延长 701 米，现在多长？",
+   "want": "1282",
+   "got": "583米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 292 米，又延长 517 米，现在多长？",
+   "want": "809",
+   "got": "910米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 230 米，又延长 137 米，现在多长？",
+   "want": "367",
+   "got": "567米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 460 米，又延长 954 米，现在多长？",
+   "want": "1414",
+   "got": "464米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 327 米，又延长 331 米，现在多长？",
+   "want": "658",
+   "got": "658米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 174 米，又延长 975 米，现在多长？",
+   "want": "1149",
+   "got": "539米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 858 米，又延长 526 米，现在多长？",
+   "want": "1384",
+   "got": "784",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 400 米，又延长 181 米，现在多长？",
+   "want": "581",
+   "got": "881",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 689 米，又延长 732 米，现在多长？",
+   "want": "1421",
+   "got": "521",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 664 米，又延长 347 米，现在多长？",
+   "want": "1011",
+   "got": "9112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 683 米，又延长 650 米，现在多长？",
+   "want": "1333",
+   "got": "433米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 800 米，又延长 686 米，现在多长？",
+   "want": "1486",
+   "got": "886米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 961 米，又延长 484 米，现在多长？",
+   "want": "1445",
+   "got": "545米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 218 米，又延长 894 米，现在多长？",
+   "want": "1112",
+   "got": "1013",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 252 米，又延长 130 米，现在多长？",
+   "want": "382",
+   "got": "782米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 383 米，又延长 145 米，现在多长？",
+   "want": "528",
+   "got": "727米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 499 米，又延长 767 米，现在多长？",
+   "want": "1266",
+   "got": "566米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 379 米，又延长 244 米，现在多长？",
+   "want": "623",
+   "got": "723",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 275 米，又延长 392 米，现在多长？",
+   "want": "667",
+   "got": "567米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 177 米，又延长 769 米，现在多长？",
+   "want": "946",
+   "got": "545米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 918 米，又延长 234 米，现在多长？",
+   "want": "1152",
+   "got": "562米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 452 米，又延长 108 米，现在多长？",
+   "want": "560",
+   "got": "669",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 363 米，又延长 961 米，现在多长？",
+   "want": "1324",
+   "got": "5244",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 782 米，又延长 425 米，现在多长？",
+   "want": "1207",
+   "got": "916米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 529 米，又延长 112 米，现在多长？",
+   "want": "641",
+   "got": "3414米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 120 米，又延长 333 米，现在多长？",
+   "want": "453",
+   "got": "463米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 869 米，又延长 705 米，现在多长？",
+   "want": "1574",
+   "got": "874",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 595 米，又延长 984 米，现在多长？",
+   "want": "1579",
+   "got": "579米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 622 米，又延长 717 米，现在多长？",
+   "want": "1339",
+   "got": "839米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 589 米，又延长 730 米，现在多长？",
+   "want": "1319",
+   "got": "320米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 530 米，又延长 271 米，现在多长？",
+   "want": "801",
+   "got": "891",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 651 米，又延长 836 米，现在多长？",
+   "want": "1487",
+   "got": "3174",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 386 米，又延长 137 米，现在多长？",
+   "want": "523",
+   "got": "521",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 829 米，又延长 992 米，现在多长？",
+   "want": "1821",
+   "got": "722米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 354 米，又延长 389 米，现在多长？",
+   "want": "743",
+   "got": "443米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 616 米，又延长 299 米，现在多长？",
+   "want": "915",
+   "got": "815米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 264 米，又延长 575 米，现在多长？",
+   "want": "839",
+   "got": "339",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 883 米，又延长 423 米，现在多长？",
+   "want": "1306",
+   "got": "615",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 130 米，又延长 832 米，现在多长？",
+   "want": "962",
+   "got": "562米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 701 米，又延长 132 米，现在多长？",
+   "want": "833",
+   "got": "733米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 881 米，又延长 347 米，现在多长？",
+   "want": "1228",
+   "got": "228米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 144 米，又延长 130 米，现在多长？",
+   "want": "274",
+   "got": "674米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 886 米，又延长 121 米，现在多长？",
+   "want": "1007",
+   "got": "997米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 896 米，又延长 184 米，现在多长？",
+   "want": "1080",
+   "got": "779米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 541 米，又延长 667 米，现在多长？",
+   "want": "1208",
+   "got": "180米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 877 米，又延长 764 米，现在多长？",
+   "want": "1641",
+   "got": "541",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 287 米，又延长 658 米，现在多长？",
+   "want": "945",
+   "got": "445",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 229 米，又延长 424 米，现在多长？",
+   "want": "653",
+   "got": "653米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 288 米，又延长 577 米，现在多长？",
+   "want": "865",
+   "got": "465",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 974 米，又延长 123 米，现在多长？",
+   "want": "1097",
+   "got": "997米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 276 米，又延长 211 米，现在多长？",
+   "want": "487",
+   "got": "877米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 347 米，又延长 153 米，现在多长？",
+   "want": "500",
+   "got": "799米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 886 米，又延长 131 米，现在多长？",
+   "want": "1017",
+   "got": "917",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 425 米，又延长 393 米，现在多长？",
+   "want": "818",
+   "got": "719米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 300 米，又延长 580 米，现在多长？",
+   "want": "880",
+   "got": "496米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 220 米，又延长 675 米，现在多长？",
+   "want": "895",
+   "got": "895",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 525 米，又延长 955 米，现在多长？",
+   "want": "1480",
+   "got": "779米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 414 米，又延长 444 米，现在多长？",
+   "want": "858",
+   "got": "558米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 227 米，又延长 546 米，现在多长？",
+   "want": "773",
+   "got": "773米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 938 米，又延长 359 米，现在多长？",
+   "want": "1297",
+   "got": "497",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 987 米，又延长 207 米，现在多长？",
+   "want": "1194",
+   "got": "994",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 155 米，又延长 669 米，现在多长？",
+   "want": "824",
+   "got": "825米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 761 米，又延长 986 米，现在多长？",
+   "want": "1747",
+   "got": "548米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 483 米，又延长 639 米，现在多长？",
+   "want": "1122",
+   "got": "523",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 642 米，又延长 637 米，现在多长？",
+   "want": "1279",
+   "got": "979",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 179 米，又延长 881 米，现在多长？",
+   "want": "1060",
+   "got": "559米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 415 米，又延长 806 米，现在多长？",
+   "want": "1221",
+   "got": "820米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 470 米，又延长 846 米，现在多长？",
+   "want": "1316",
+   "got": "314米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 594 米，又延长 583 米，现在多长？",
+   "want": "1177",
+   "got": "467",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 320 米，又延长 247 米，现在多长？",
+   "want": "567",
+   "got": "667米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 100 米，又延长 362 米，现在多长？",
+   "want": "462",
+   "got": "662米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 994 米，又延长 898 米，现在多长？",
+   "want": "1892",
+   "got": "992",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 302 米，又延长 620 米，现在多长？",
+   "want": "922",
+   "got": "622",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 857 米，又延长 279 米，现在多长？",
+   "want": "1136",
+   "got": "425",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 176 米，又延长 107 米，现在多长？",
+   "want": "283",
+   "got": "783米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 662 米，又延长 127 米，现在多长？",
+   "want": "789",
+   "got": "889米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 144 米，又延长 616 米，现在多长？",
+   "want": "760",
+   "got": "669米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 311 米，又延长 590 米，现在多长？",
+   "want": "901",
+   "got": "791",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 522 米，又延长 963 米，现在多长？",
+   "want": "1485",
+   "got": "785米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 611 米，又延长 908 米，现在多长？",
+   "want": "1519",
+   "got": "919米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 337 米，又延长 766 米，现在多长？",
+   "want": "1103",
+   "got": "993",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 184 米，又延长 793 米，现在多长？",
+   "want": "977",
+   "got": "677",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 472 米，又延长 935 米，现在多长？",
+   "want": "1407",
+   "got": "717米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 557 米，又延长 655 米，现在多长？",
+   "want": "1212",
+   "got": "220米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 828 米，又延长 188 米，现在多长？",
+   "want": "1016",
+   "got": "617米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 852 米，又延长 750 米，现在多长？",
+   "want": "1602",
+   "got": "392米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 827 米，又延长 565 米，现在多长？",
+   "want": "1392",
+   "got": "892",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 251 米，又延长 938 米，现在多长？",
+   "want": "1189",
+   "got": "999米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 208 米，又延长 607 米，现在多长？",
+   "want": "815",
+   "got": "6154",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 218 米，又延长 696 米，现在多长？",
+   "want": "914",
+   "got": "814米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 927 米，又延长 284 米，现在多长？",
+   "want": "1211",
+   "got": "7118",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 573 米，又延长 271 米，现在多长？",
+   "want": "844",
+   "got": "344米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 202 米，又延长 683 米，现在多长？",
+   "want": "885",
+   "got": "995",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 609 米，又延长 107 米，现在多长？",
+   "want": "716",
+   "got": "615米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 832 米，又延长 754 米，现在多长？",
+   "want": "1586",
+   "got": "326米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 580 米，又延长 309 米，现在多长？",
+   "want": "889",
+   "got": "889",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 183 米，又延长 172 米，现在多长？",
+   "want": "355",
+   "got": "945米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 355 米，又延长 699 米，现在多长？",
+   "want": "1054",
+   "got": "464米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 807 米，又延长 943 米，现在多长？",
+   "want": "1750",
+   "got": "959",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 999 米，又延长 208 米，现在多长？",
+   "want": "1207",
+   "got": "997",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 994 米，又延长 215 米，现在多长？",
+   "want": "1209",
+   "got": "1096",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 457 米，又延长 632 米，现在多长？",
+   "want": "1089",
+   "got": "999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 633 米，又延长 714 米，现在多长？",
+   "want": "1347",
+   "got": "847米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 537 米，又延长 664 米，现在多长？",
+   "want": "1201",
+   "got": "900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 632 米，又延长 971 米，现在多长？",
+   "want": "1603",
+   "got": "593米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 254 米，又延长 523 米，现在多长？",
+   "want": "777",
+   "got": "777米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 902 米，又延长 269 米，现在多长？",
+   "want": "1171",
+   "got": "670米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 391 米，又延长 245 米，现在多长？",
+   "want": "636",
+   "got": "736米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 378 米，又延长 226 米，现在多长？",
+   "want": "604",
+   "got": "594米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 428 米，又延长 989 米，现在多长？",
+   "want": "1417",
+   "got": "717米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 269 米，又延长 682 米，现在多长？",
+   "want": "951",
+   "got": "5514",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 277 米，又延长 455 米，现在多长？",
+   "want": "732",
+   "got": "290米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 431 米，又延长 955 米，现在多长？",
+   "want": "1386",
+   "got": "386米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 952 米，又延长 635 米，现在多长？",
+   "want": "1587",
+   "got": "497米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 614 米，又延长 971 米，现在多长？",
+   "want": "1585",
+   "got": "885",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 673 米，又延长 344 米，现在多长？",
+   "want": "1017",
+   "got": "916",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 128 米，又延长 130 米，现在多长？",
+   "want": "258",
+   "got": "468米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 983 米，又延长 725 米，现在多长？",
+   "want": "1708",
+   "got": "910米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 504 米，又延长 339 米，现在多长？",
+   "want": "843",
+   "got": "443",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 690 米，又延长 175 米，现在多长？",
+   "want": "865",
+   "got": "565米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 315 米，又延长 320 米，现在多长？",
+   "want": "635",
+   "got": "434米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 159 米，又延长 636 米，现在多长？",
+   "want": "795",
+   "got": "885米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 257 米，又延长 195 米，现在多长？",
+   "want": "452",
+   "got": "553米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 186 米，又延长 339 米，现在多长？",
+   "want": "525",
+   "got": "525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 425 米，又延长 676 米，现在多长？",
+   "want": "1101",
+   "got": "900米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 356 米，又延长 605 米，现在多长？",
+   "want": "961",
+   "got": "661",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 539 米，又延长 750 米，现在多长？",
+   "want": "1289",
+   "got": "999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 602 米，又延长 674 米，现在多长？",
+   "want": "1276",
+   "got": "776",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 336 米，又延长 293 米，现在多长？",
+   "want": "629",
+   "got": "639米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 949 米，又延长 913 米，现在多长？",
+   "want": "1862",
+   "got": "662米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "甲乙两地相距 501 米，又延长 813 米，现在多长？",
+   "want": "1314",
+   "got": "516米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6126 米，又延长 7216 米，现在多长？",
+   "want": "13342",
+   "got": "8332米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8622 米，又延长 8230 米，现在多长？",
+   "want": "16852",
+   "got": "5852米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4716 米，又延长 3580 米，现在多长？",
+   "want": "8296",
+   "got": "4396",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8936 米，又延长 1436 米，现在多长？",
+   "want": "10372",
+   "got": "7391米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7516 米，又延长 5013 米，现在多长？",
+   "want": "12529",
+   "got": "5526",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5853 米，又延长 4711 米，现在多长？",
+   "want": "10564",
+   "got": "3364",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8090 米，又延长 8263 米，现在多长？",
+   "want": "16353",
+   "got": "9343",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3832 米，又延长 8153 米，现在多长？",
+   "want": "11985",
+   "got": "9985",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6006 米，又延长 5914 米，现在多长？",
+   "want": "11920",
+   "got": "5919米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2186 米，又延长 9768 米，现在多长？",
+   "want": "11954",
+   "got": "9954",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3666 米，又延长 9702 米，现在多长？",
+   "want": "13368",
+   "got": "5378",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4516 米，又延长 7766 米，现在多长？",
+   "want": "12282",
+   "got": "2302",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1924 米，又延长 9841 米，现在多长？",
+   "want": "11765",
+   "got": "8765",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6734 米，又延长 1602 米，现在多长？",
+   "want": "8336",
+   "got": "3837",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5437 米，又延长 6489 米，现在多长？",
+   "want": "11926",
+   "got": "9926",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7337 米，又延长 2998 米，现在多长？",
+   "want": "10335",
+   "got": "3334",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3235 米，又延长 4527 米，现在多长？",
+   "want": "7762",
+   "got": "7762",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3619 米，又延长 5383 米，现在多长？",
+   "want": "9002",
+   "got": "9902",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6932 米，又延长 3481 米，现在多长？",
+   "want": "10413",
+   "got": "5414",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9606 米，又延长 6515 米，现在多长？",
+   "want": "16121",
+   "got": "5171",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6854 米，又延长 9948 米，现在多长？",
+   "want": "16802",
+   "got": "5792米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6979 米，又延长 1480 米，现在多长？",
+   "want": "8459",
+   "got": "5459米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1932 米，又延长 3810 米，现在多长？",
+   "want": "5742",
+   "got": "7742米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9632 米，又延长 1598 米，现在多长？",
+   "want": "11230",
+   "got": "5321",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9215 米，又延长 4559 米，现在多长？",
+   "want": "13774",
+   "got": "7774",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2875 米，又延长 1990 米，现在多长？",
+   "want": "4865",
+   "got": "8865",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6549 米，又延长 8153 米，现在多长？",
+   "want": "14702",
+   "got": "7692米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2631 米，又延长 2340 米，现在多长？",
+   "want": "4971",
+   "got": "8971",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4893 米，又延长 3545 米，现在多长？",
+   "want": "8438",
+   "got": "4449米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9126 米，又延长 3689 米，现在多长？",
+   "want": "12815",
+   "got": "7815",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1537 米，又延长 5022 米，现在多长？",
+   "want": "6559",
+   "got": "6659",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4136 米，又延长 4432 米，现在多长？",
+   "want": "8568",
+   "got": "5568米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9320 米，又延长 6313 米，现在多长？",
+   "want": "15633",
+   "got": "4633米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4789 米，又延长 8158 米，现在多长？",
+   "want": "12947",
+   "got": "6947",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7622 米，又延长 8914 米，现在多长？",
+   "want": "16536",
+   "got": "5537米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8334 米，又延长 7181 米，现在多长？",
+   "want": "15515",
+   "got": "5516",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4987 米，又延长 8294 米，现在多长？",
+   "want": "13281",
+   "got": "7261",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6785 米，又延长 2897 米，现在多长？",
+   "want": "9682",
+   "got": "5682",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3964 米，又延长 3524 米，现在多长？",
+   "want": "7488",
+   "got": "4498米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9731 米，又延长 1001 米，现在多长？",
+   "want": "10732",
+   "got": "8732米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4392 米，又延长 5142 米，现在多长？",
+   "want": "9534",
+   "got": "6534",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6692 米，又延长 7781 米，现在多长？",
+   "want": "14473",
+   "got": "4463",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8910 米，又延长 1270 米，现在多长？",
+   "want": "10180",
+   "got": "9170米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1741 米，又延长 4370 米，现在多长？",
+   "want": "6111",
+   "got": "9117米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8233 米，又延长 5040 米，现在多长？",
+   "want": "13273",
+   "got": "6263米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7261 米，又延长 8356 米，现在多长？",
+   "want": "15617",
+   "got": "9617",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3415 米，又延长 6489 米，现在多长？",
+   "want": "9904",
+   "got": "7954",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5539 米，又延长 6177 米，现在多长？",
+   "want": "11716",
+   "got": "7715",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2755 米，又延长 2183 米，现在多长？",
+   "want": "4938",
+   "got": "8938",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9253 米，又延长 8794 米，现在多长？",
+   "want": "18047",
+   "got": "8947",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1876 米，又延长 8123 米，现在多长？",
+   "want": "9999",
+   "got": "9999米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7517 米，又延长 2600 米，现在多长？",
+   "want": "10117",
+   "got": "7717",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4416 米，又延长 4674 米，现在多长？",
+   "want": "9090",
+   "got": "9109",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7604 米，又延长 7762 米，现在多长？",
+   "want": "15366",
+   "got": "4376",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5822 米，又延长 3702 米，现在多长？",
+   "want": "9524",
+   "got": "4423",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1820 米，又延长 8354 米，现在多长？",
+   "want": "10174",
+   "got": "5164",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9139 米，又延长 6411 米，现在多长？",
+   "want": "15550",
+   "got": "65510",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2714 米，又延长 6050 米，现在多长？",
+   "want": "8764",
+   "got": "7764",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9698 米，又延长 2530 米，现在多长？",
+   "want": "12228",
+   "got": "5327",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8947 米，又延长 2180 米，现在多长？",
+   "want": "11127",
+   "got": "10647",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8662 米，又延长 7625 米，现在多长？",
+   "want": "16287",
+   "got": "5307",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7179 米，又延长 5670 米，现在多长？",
+   "want": "12849",
+   "got": "7859",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9827 米，又延长 1376 米，现在多长？",
+   "want": "11203",
+   "got": "7210米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1536 米，又延长 8004 米，现在多长？",
+   "want": "9540",
+   "got": "6639米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7226 米，又延长 1308 米，现在多长？",
+   "want": "8534",
+   "got": "3604",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2060 米，又延长 5212 米，现在多长？",
+   "want": "7272",
+   "got": "62626",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9590 米，又延长 3401 米，现在多长？",
+   "want": "12991",
+   "got": "4991",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4878 米，又延长 4496 米，现在多长？",
+   "want": "9374",
+   "got": "9364",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3932 米，又延长 2416 米，现在多长？",
+   "want": "6348",
+   "got": "7347米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3985 米，又延长 3074 米，现在多长？",
+   "want": "7059",
+   "got": "9959",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3505 米，又延长 6728 米，现在多长？",
+   "want": "10233",
+   "got": "9228",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6556 米，又延长 3033 米，现在多长？",
+   "want": "9589",
+   "got": "5589米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6699 米，又延长 8811 米，现在多长？",
+   "want": "15510",
+   "got": "5510米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1507 米，又延长 4817 米，现在多长？",
+   "want": "6324",
+   "got": "93260",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1549 米，又延长 9982 米，现在多长？",
+   "want": "11531",
+   "got": "5531米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7725 米，又延长 8908 米，现在多长？",
+   "want": "16633",
+   "got": "6634",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5659 米，又延长 6064 米，现在多长？",
+   "want": "11723",
+   "got": "6723",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6510 米，又延长 2963 米，现在多长？",
+   "want": "9473",
+   "got": "5473米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6871 米，又延长 2682 米，现在多长？",
+   "want": "9553",
+   "got": "5553米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8458 米，又延长 7508 米，现在多长？",
+   "want": "15966",
+   "got": "4667",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7444 米，又延长 3879 米，现在多长？",
+   "want": "11323",
+   "got": "2133",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2086 米，又延长 3108 米，现在多长？",
+   "want": "5194",
+   "got": "2094",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3575 米，又延长 3014 米，现在多长？",
+   "want": "6589",
+   "got": "6699米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6598 米，又延长 3190 米，现在多长？",
+   "want": "9788",
+   "got": "7768",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2815 米，又延长 1897 米，现在多长？",
+   "want": "4712",
+   "got": "7610米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1011 米，又延长 4014 米，现在多长？",
+   "want": "5025",
+   "got": "1014米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9723 米，又延长 2164 米，现在多长？",
+   "want": "11887",
+   "got": "9887",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9540 米，又延长 4338 米，现在多长？",
+   "want": "13878",
+   "got": "7878",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1683 米，又延长 3439 米，现在多长？",
+   "want": "5122",
+   "got": "9723",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2548 米，又延长 1625 米，现在多长？",
+   "want": "4173",
+   "got": "7174",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3514 米，又延长 9521 米，现在多长？",
+   "want": "13035",
+   "got": "4165",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3721 米，又延长 1713 米，现在多长？",
+   "want": "5434",
+   "got": "9454米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8516 米，又延长 7672 米，现在多长？",
+   "want": "16188",
+   "got": "3208",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8431 米，又延长 5565 米，现在多长？",
+   "want": "13996",
+   "got": "4006",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6846 米，又延长 7461 米，现在多长？",
+   "want": "14307",
+   "got": "5397",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7815 米，又延长 7402 米，现在多长？",
+   "want": "15217",
+   "got": "5237",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5074 米，又延长 6741 米，现在多长？",
+   "want": "11815",
+   "got": "6815",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6156 米，又延长 2702 米，现在多长？",
+   "want": "8858",
+   "got": "8868",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1670 米，又延长 7372 米，现在多长？",
+   "want": "9042",
+   "got": "4952米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9963 米，又延长 7366 米，现在多长？",
+   "want": "17329",
+   "got": "8340",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2584 米，又延长 9342 米，现在多长？",
+   "want": "11926",
+   "got": "9927",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5492 米，又延长 1896 米，现在多长？",
+   "want": "7388",
+   "got": "4378",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1900 米，又延长 1337 米，现在多长？",
+   "want": "3237",
+   "got": "3237",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6319 米，又延长 9422 米，现在多长？",
+   "want": "15741",
+   "got": "5741",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5353 米，又延长 5592 米，现在多长？",
+   "want": "10945",
+   "got": "8955",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8692 米，又延长 2039 米，现在多长？",
+   "want": "10731",
+   "got": "7731米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2618 米，又延长 7097 米，现在多长？",
+   "want": "9715",
+   "got": "7716米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6938 米，又延长 5495 米，现在多长？",
+   "want": "12433",
+   "got": "5433",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1094 米，又延长 9561 米，现在多长？",
+   "want": "10655",
+   "got": "6655",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7942 米，又延长 7690 米，现在多长？",
+   "want": "15632",
+   "got": "5532米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1339 米，又延长 5858 米，现在多长？",
+   "want": "7197",
+   "got": "9197",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9025 米，又延长 8879 米，现在多长？",
+   "want": "17904",
+   "got": "9994",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9382 米，又延长 5055 米，现在多长？",
+   "want": "14437",
+   "got": "6436",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2549 米，又延长 3456 米，现在多长？",
+   "want": "6005",
+   "got": "8995",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2498 米，又延长 9972 米，现在多长？",
+   "want": "12470",
+   "got": "4451",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2716 米，又延长 6435 米，现在多长？",
+   "want": "9151",
+   "got": "3161",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6541 米，又延长 2932 米，现在多长？",
+   "want": "9473",
+   "got": "5473米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9899 米，又延长 7476 米，现在多长？",
+   "want": "17375",
+   "got": "7355",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5149 米，又延长 7630 米，现在多长？",
+   "want": "12779",
+   "got": "7779",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4195 米，又延长 9688 米，现在多长？",
+   "want": "13883",
+   "got": "6883",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7871 米，又延长 1195 米，现在多长？",
+   "want": "9066",
+   "got": "9966",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3360 米，又延长 7777 米，现在多长？",
+   "want": "11137",
+   "got": "1127",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7271 米，又延长 6109 米，现在多长？",
+   "want": "13380",
+   "got": "8380元？14489",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3520 米，又延长 8680 米，现在多长？",
+   "want": "12200",
+   "got": "4259米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9211 米，又延长 5332 米，现在多长？",
+   "want": "14543",
+   "got": "7643",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7265 米，又延长 1644 米，现在多长？",
+   "want": "8909",
+   "got": "8899米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9712 米，又延长 8029 米，现在多长？",
+   "want": "17741",
+   "got": "87412",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3751 米，又延长 6339 米，现在多长？",
+   "want": "10090",
+   "got": "9991",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8591 米，又延长 1023 米，现在多长？",
+   "want": "9614",
+   "got": "6614米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5193 米，又延长 3359 米，现在多长？",
+   "want": "8552",
+   "got": "7652米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8649 米，又延长 6656 米，现在多长？",
+   "want": "15305",
+   "got": "5305",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7259 米，又延长 3155 米，现在多长？",
+   "want": "10414",
+   "got": "4415",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3392 米，又延长 8520 米，现在多长？",
+   "want": "11912",
+   "got": "9912",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8755 米，又延长 1923 米，现在多长？",
+   "want": "10678",
+   "got": "6578米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7058 米，又延长 2465 米，现在多长？",
+   "want": "9523",
+   "got": "4423",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1017 米，又延长 8743 米，现在多长？",
+   "want": "9760",
+   "got": "8769米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5019 米，又延长 3872 米，现在多长？",
+   "want": "8891",
+   "got": "8991",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8688 米，又延长 4418 米，现在多长？",
+   "want": "13106",
+   "got": "5207",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7328 米，又延长 1264 米，现在多长？",
+   "want": "8592",
+   "got": "5693米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2734 米，又延长 5799 米，现在多长？",
+   "want": "8533",
+   "got": "4433",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7023 米，又延长 6812 米，现在多长？",
+   "want": "13835",
+   "got": "8834",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6169 米，又延长 9333 米，现在多长？",
+   "want": "15502",
+   "got": "5492米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2067 米，又延长 5840 米，现在多长？",
+   "want": "7907",
+   "got": "9997",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6990 米，又延长 3671 米，现在多长？",
+   "want": "10661",
+   "got": "5651",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2059 米，又延长 7948 米，现在多长？",
+   "want": "10007",
+   "got": "9997",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8665 米，又延长 4111 米，现在多长？",
+   "want": "12776",
+   "got": "7776",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1367 米，又延长 7647 米，现在多长？",
+   "want": "9014",
+   "got": "9004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8313 米，又延长 6027 米，现在多长？",
+   "want": "14340",
+   "got": "6339",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8175 米，又延长 9665 米，现在多长？",
+   "want": "17840",
+   "got": "5849米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1628 米，又延长 8284 米，现在多长？",
+   "want": "9912",
+   "got": "8514米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7902 米，又延长 9518 米，现在多长？",
+   "want": "17420",
+   "got": "5418米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4958 米，又延长 4179 米，现在多长？",
+   "want": "9137",
+   "got": "6137",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3308 米，又延长 6165 米，现在多长？",
+   "want": "9473",
+   "got": "4473",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1850 米，又延长 4216 米，现在多长？",
+   "want": "6066",
+   "got": "9066",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3448 米，又延长 3390 米，现在多长？",
+   "want": "6838",
+   "got": "7838",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3700 米，又延长 1273 米，现在多长？",
+   "want": "4973",
+   "got": "9973米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2096 米，又延长 6166 米，现在多长？",
+   "want": "8262",
+   "got": "2062",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4875 米，又延长 4988 米，现在多长？",
+   "want": "9863",
+   "got": "7863",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6922 米，又延长 4650 米，现在多长？",
+   "want": "11572",
+   "got": "5572米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5218 米，又延长 6981 米，现在多长？",
+   "want": "12199",
+   "got": "7190",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3164 米，又延长 8774 米，现在多长？",
+   "want": "11938",
+   "got": "5938",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5426 米，又延长 6142 米，现在多长？",
+   "want": "11568",
+   "got": "6568米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2465 米，又延长 1790 米，现在多长？",
+   "want": "4255",
+   "got": "6254米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1035 米，又延长 5999 米，现在多长？",
+   "want": "7034",
+   "got": "9934",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1784 米，又延长 8603 米，现在多长？",
+   "want": "10387",
+   "got": "5387",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1700 米，又延长 1700 米，现在多长？",
+   "want": "3400",
+   "got": "8521",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8696 米，又延长 5244 米，现在多长？",
+   "want": "13940",
+   "got": "8939",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8346 米，又延长 4674 米，现在多长？",
+   "want": "13020",
+   "got": "2309",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8054 米，又延长 3741 米，现在多长？",
+   "want": "11795",
+   "got": "8795",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3296 米，又延长 4891 米，现在多长？",
+   "want": "8187",
+   "got": "7147",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 4168 米，又延长 8871 米，现在多长？",
+   "want": "13039",
+   "got": "6940",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9824 米，又延长 7138 米，现在多长？",
+   "want": "16962",
+   "got": "9962米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6111 米，又延长 6635 米，现在多长？",
+   "want": "12746",
+   "got": "7746",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6714 米，又延长 6261 米，现在多长？",
+   "want": "12975",
+   "got": "8876",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3179 米，又延长 1367 米，现在多长？",
+   "want": "4546",
+   "got": "5546米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8419 米，又延长 2074 米，现在多长？",
+   "want": "10493",
+   "got": "4493米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5351 米，又延长 3044 米，现在多长？",
+   "want": "8395",
+   "got": "5395",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5501 米，又延长 6743 米，现在多长？",
+   "want": "12244",
+   "got": "3274",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8463 米，又延长 1042 米，现在多长？",
+   "want": "9505",
+   "got": "5595",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7873 米，又延长 6760 米，现在多长？",
+   "want": "14633",
+   "got": "5633",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8706 米，又延长 4899 米，现在多长？",
+   "want": "13605",
+   "got": "6515元，一共多少米？13404",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 1440 米，又延长 5522 米，现在多长？",
+   "want": "6962",
+   "got": "9962米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9440 米，又延长 3672 米，现在多长？",
+   "want": "13112",
+   "got": "5214",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7274 米，又延长 6439 米，现在多长？",
+   "want": "13713",
+   "got": "8713",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5010 米，又延长 8181 米，现在多长？",
+   "want": "13191",
+   "got": "6180",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 7226 米，又延长 8958 米，现在多长？",
+   "want": "16184",
+   "got": "9174",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9079 米，又延长 8668 米，现在多长？",
+   "want": "17747",
+   "got": "6747",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9368 米，又延长 3963 米，现在多长？",
+   "want": "13331",
+   "got": "3331",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2551 米，又延长 8155 米，现在多长？",
+   "want": "10706",
+   "got": "7706米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8231 米，又延长 7445 米，现在多长？",
+   "want": "15676",
+   "got": "9686米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6469 米，又延长 7485 米，现在多长？",
+   "want": "13954",
+   "got": "8954",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9688 米，又延长 3379 米，现在多长？",
+   "want": "13067",
+   "got": "6967",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 6819 米，又延长 9237 米，现在多长？",
+   "want": "16056",
+   "got": "5146",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9830 米，又延长 2708 米，现在多长？",
+   "want": "12538",
+   "got": "6538",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 9810 米，又延长 6521 米，现在多长？",
+   "want": "16331",
+   "got": "4331",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2992 米，又延长 8817 米，现在多长？",
+   "want": "11809",
+   "got": "8717米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 2041 米，又延长 9020 米，现在多长？",
+   "want": "11061",
+   "got": "91601",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 3740 米，又延长 7495 米，现在多长？",
+   "want": "11235",
+   "got": "2125",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 5301 米，又延长 1064 米，现在多长？",
+   "want": "6365",
+   "got": "6365",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "甲乙两地相距 8334 米，又延长 5561 米，现在多长？",
+   "want": "13895",
+   "got": "3905",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 23858 米，又延长 84432 米，现在多长？",
+   "want": "108290",
+   "got": "77270",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 75467 米，又延长 83582 米，现在多长？",
+   "want": "159049",
+   "got": "39948",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 69134 米，又延长 71535 米，现在多长？",
+   "want": "140669",
+   "got": "79679",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 11263 米，又延长 12631 米，现在多长？",
+   "want": "23894",
+   "got": "34894",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 87363 米，又延长 16269 米，现在多长？",
+   "want": "103632",
+   "got": "53932",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 53279 米，又延长 73236 米，现在多长？",
+   "want": "126515",
+   "got": "96544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 81449 米，又延长 17615 米，现在多长？",
+   "want": "99064",
+   "got": "98964",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 56865 米，又延长 12486 米，现在多长？",
+   "want": "69351",
+   "got": "79341",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 92751 米，又延长 99580 米，现在多长？",
+   "want": "192331",
+   "got": "82241",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 78700 米，又延长 93394 米，现在多长？",
+   "want": "172094",
+   "got": "72104",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 27369 米，又延长 93032 米，现在多长？",
+   "want": "120401",
+   "got": "59391",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 98907 米，又延长 82067 米，现在多长？",
+   "want": "180974",
+   "got": "69964",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 24176 米，又延长 40796 米，现在多长？",
+   "want": "64972",
+   "got": "44971",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 27583 米，又延长 83501 米，现在多长？",
+   "want": "111084",
+   "got": "59984",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 66159 米，又延长 15151 米，现在多长？",
+   "want": "81310",
+   "got": "71709",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 22906 米，又延长 58918 米，现在多长？",
+   "want": "81824",
+   "got": "81716",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 55103 米，又延长 62588 米，现在多长？",
+   "want": "117691",
+   "got": "77791",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 99871 米，又延长 37684 米，现在多长？",
+   "want": "137555",
+   "got": "77555",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 23789 米，又延长 80743 米，现在多长？",
+   "want": "104532",
+   "got": "34632",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 68526 米，又延长 91028 米，现在多长？",
+   "want": "159554",
+   "got": "99644",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 51501 米，又延长 69990 米，现在多长？",
+   "want": "121491",
+   "got": "71591",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 96357 米，又延长 56599 米，现在多长？",
+   "want": "152956",
+   "got": "53956",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 99811 米，又延长 88829 米，现在多长？",
+   "want": "188640",
+   "got": "78640",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 18000 米，又延长 50309 米，现在多长？",
+   "want": "68309",
+   "got": "88399",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 84069 米，又延长 97708 米，现在多长？",
+   "want": "181777",
+   "got": "61977",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 98362 米，又延长 43047 米，现在多长？",
+   "want": "141409",
+   "got": "71599",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 65872 米，又延长 96477 米，现在多长？",
+   "want": "162349",
+   "got": "52359",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 73031 米，又延长 88663 米，现在多长？",
+   "want": "161694",
+   "got": "51794",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 35855 米，又延长 63725 米，现在多长？",
+   "want": "99580",
+   "got": "99571",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 81521 米，又延长 70856 米，现在多长？",
+   "want": "152377",
+   "got": "82367",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 41570 米，又延长 92698 米，现在多长？",
+   "want": "134268",
+   "got": "64278",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 27189 米，又延长 13652 米，现在多长？",
+   "want": "40841",
+   "got": "89841",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 38249 米，又延长 57681 米，现在多长？",
+   "want": "95930",
+   "got": "46929",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 35430 米，又延长 58303 米，现在多长？",
+   "want": "93733",
+   "got": "43633",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 65382 米，又延长 63175 米，现在多长？",
+   "want": "128557",
+   "got": "88547",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 29518 米，又延长 15104 米，现在多长？",
+   "want": "44622",
+   "got": "54623",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 92793 米，又延长 39138 米，现在多长？",
+   "want": "131931",
+   "got": "21823",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 58997 米，又延长 43342 米，现在多长？",
+   "want": "102339",
+   "got": "92359",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 19067 米，又延长 15829 米，现在多长？",
+   "want": "34896",
+   "got": "54996",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 92695 米，又延长 62404 米，现在多长？",
+   "want": "155099",
+   "got": "54999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 54906 米，又延长 16047 米，现在多长？",
+   "want": "70953",
+   "got": "63943",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 16807 米，又延长 19054 米，现在多长？",
+   "want": "35861",
+   "got": "55861",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 22199 米，又延长 25856 米，现在多长？",
+   "want": "48055",
+   "got": "78145",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 52868 米，又延长 32739 米，现在多长？",
+   "want": "85607",
+   "got": "76597",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 29272 米，又延长 36939 米，现在多长？",
+   "want": "66211",
+   "got": "66213",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 27773 米，又延长 39014 米，现在多长？",
+   "want": "66787",
+   "got": "56797",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 52676 米，又延长 56707 米，现在多长？",
+   "want": "109383",
+   "got": "89383",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 52246 米，又延长 33822 米，现在多长？",
+   "want": "86068",
+   "got": "86168",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 80610 米，又延长 98109 米，现在多长？",
+   "want": "178719",
+   "got": "98720",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 81122 米，又延长 43832 米，现在多长？",
+   "want": "124954",
+   "got": "55954",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 36498 米，又延长 22277 米，现在多长？",
+   "want": "58775",
+   "got": "88765",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 95453 米，又延长 56246 米，现在多长？",
+   "want": "151699",
+   "got": "51799",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 26370 米，又延长 82700 米，现在多长？",
+   "want": "109070",
+   "got": "8996",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 19194 米，又延长 36093 米，现在多长？",
+   "want": "55287",
+   "got": "55797",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 29983 米，又延长 36517 米，现在多长？",
+   "want": "66500",
+   "got": "56591",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 60466 米，又延长 88563 米，现在多长？",
+   "want": "149029",
+   "got": "69927",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 39404 米，又延长 33632 米，现在多长？",
+   "want": "73036",
+   "got": "73146",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 78142 米，又延长 27940 米，现在多长？",
+   "want": "106082",
+   "got": "56982",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 20381 米，又延长 32731 米，现在多长？",
+   "want": "53112",
+   "got": "33912",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 65536 米，又延长 70764 米，现在多长？",
+   "want": "136300",
+   "got": "66391",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 87579 米，又延长 62735 米，现在多长？",
+   "want": "150314",
+   "got": "59313",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 90297 米，又延长 59545 米，现在多长？",
+   "want": "149842",
+   "got": "99841",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 83131 米，又延长 89312 米，现在多长？",
+   "want": "172443",
+   "got": "52643",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 85093 米，又延长 97845 米，现在多长？",
+   "want": "182938",
+   "got": "63938",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 49943 米，又延长 86745 米，现在多长？",
+   "want": "136688",
+   "got": "56688",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 29400 米，又延长 76547 米，现在多长？",
+   "want": "105947",
+   "got": "55947",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 25129 米，又延长 64512 米，现在多长？",
+   "want": "89641",
+   "got": "79651",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 83398 米，又延长 18360 米，现在多长？",
+   "want": "101758",
+   "got": "51758",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 85512 米，又延长 24370 米，现在多长？",
+   "want": "109882",
+   "got": "99872",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 47088 米，又延长 67959 米，现在多长？",
+   "want": "115047",
+   "got": "16467",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 22858 米，又延长 90476 米，现在多长？",
+   "want": "113334",
+   "got": "23004",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 54782 米，又延长 97235 米，现在多长？",
+   "want": "152017",
+   "got": "42017",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 41761 米，又延长 96979 米，现在多长？",
+   "want": "138740",
+   "got": "78640",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 45398 米，又延长 60480 米，现在多长？",
+   "want": "105878",
+   "got": "65788",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 92141 米，又延长 74744 米，现在多长？",
+   "want": "166885",
+   "got": "67985",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 29365 米，又延长 45574 米，现在多长？",
+   "want": "74939",
+   "got": "44939",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 20553 米，又延长 23871 米，现在多长？",
+   "want": "44424",
+   "got": "44425",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 18325 米，又延长 43841 米，现在多长？",
+   "want": "62166",
+   "got": "21266",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 32669 米，又延长 28268 米，现在多长？",
+   "want": "60937",
+   "got": "55937",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 18379 米，又延长 50192 米，现在多长？",
+   "want": "68571",
+   "got": "88571",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 55938 米，又延长 71522 米，现在多长？",
+   "want": "127460",
+   "got": "77469",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 16472 米，又延长 21816 米，现在多长？",
+   "want": "38288",
+   "got": "89298",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 84015 米，又延长 27265 米，现在多长？",
+   "want": "111280",
+   "got": "51671",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 43216 米，又延长 14130 米，现在多长？",
+   "want": "57346",
+   "got": "68331",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 30415 米，又延长 95860 米，现在多长？",
+   "want": "126275",
+   "got": "66275",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 47458 米，又延长 81288 米，现在多长？",
+   "want": "128746",
+   "got": "98746",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 86345 米，又延长 83675 米，现在多长？",
+   "want": "170020",
+   "got": "59920",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 13559 米，又延长 58606 米，现在多长？",
+   "want": "72165",
+   "got": "92175",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 17668 米，又延长 41957 米，现在多长？",
+   "want": "59625",
+   "got": "69622",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 35934 米，又延长 99973 米，现在多长？",
+   "want": "135907",
+   "got": "55697",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 41142 米，又延长 42203 米，现在多长？",
+   "want": "83345",
+   "got": "63344",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 60481 米，又延长 12828 米，现在多长？",
+   "want": "73309",
+   "got": "73779",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 11329 米，又延长 57054 米，现在多长？",
+   "want": "68383",
+   "got": "78373",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 41846 米，又延长 91612 米，现在多长？",
+   "want": "133458",
+   "got": "63368",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 91183 米，又延长 51689 米，现在多长？",
+   "want": "142872",
+   "got": "63972",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 30825 米，又延长 35998 米，现在多长？",
+   "want": "66823",
+   "got": "66822",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 59747 米，又延长 53272 米，现在多长？",
+   "want": "113019",
+   "got": "93017",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 69465 米，又延长 44910 米，现在多长？",
+   "want": "114375",
+   "got": "54365",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 67169 米，又延长 93529 米，现在多长？",
+   "want": "160698",
+   "got": "59788",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 11008 米，又延长 79936 米，现在多长？",
+   "want": "90944",
+   "got": "91834",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 83180 米，又延长 49968 米，现在多长？",
+   "want": "133148",
+   "got": "73168",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 58007 米，又延长 59513 米，现在多长？",
+   "want": "117520",
+   "got": "46520",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 73364 米，又延长 28076 米，现在多长？",
+   "want": "101440",
+   "got": "51439",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 20129 米，又延长 15788 米，现在多长？",
+   "want": "35917",
+   "got": "66912",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 57621 米，又延长 98204 米，现在多长？",
+   "want": "155825",
+   "got": "44825",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 42025 米，又延长 81564 米，现在多长？",
+   "want": "123589",
+   "got": "63589",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 36985 米，又延长 98072 米，现在多长？",
+   "want": "135057",
+   "got": "54657",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 59775 米，又延长 66512 米，现在多长？",
+   "want": "126287",
+   "got": "86196",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 17066 米，又延长 79575 米，现在多长？",
+   "want": "96641",
+   "got": "56631",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 68983 米，又延长 35561 米，现在多长？",
+   "want": "104544",
+   "got": "44545",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 47617 米，又延长 92457 米，现在多长？",
+   "want": "140074",
+   "got": "60074",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 34745 米，又延长 87376 米，现在多长？",
+   "want": "122121",
+   "got": "22031",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 73931 米，又延长 90860 米，现在多长？",
+   "want": "164791",
+   "got": "44691",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 36836 米，又延长 12328 米，现在多长？",
+   "want": "49164",
+   "got": "89174",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 50097 米，又延长 61634 米，现在多长？",
+   "want": "111731",
+   "got": "66731",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 69864 米，又延长 65613 米，现在多长？",
+   "want": "135477",
+   "got": "55477",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 49844 米，又延长 76420 米，现在多长？",
+   "want": "126264",
+   "got": "56264",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 19571 米，又延长 98057 米，现在多长？",
+   "want": "117628",
+   "got": "87627",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 19380 米，又延长 18088 米，现在多长？",
+   "want": "37468",
+   "got": "77468",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 28346 米，又延长 63086 米，现在多长？",
+   "want": "91432",
+   "got": "51431",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 88441 米，又延长 79560 米，现在多长？",
+   "want": "168001",
+   "got": "67991",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 75698 米，又延长 47379 米，现在多长？",
+   "want": "123077",
+   "got": "33977",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 49420 米，又延长 19578 米，现在多长？",
+   "want": "68998",
+   "got": "46998",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 86173 米，又延长 91165 米，现在多长？",
+   "want": "177338",
+   "got": "77349",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 21033 米，又延长 89774 米，现在多长？",
+   "want": "110807",
+   "got": "109777",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 97349 米，又延长 79592 米，现在多长？",
+   "want": "176941",
+   "got": "66931",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 22277 米，又延长 51370 米，现在多长？",
+   "want": "73647",
+   "got": "73637",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 95588 米，又延长 41664 米，现在多长？",
+   "want": "137252",
+   "got": "67232",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 27964 米，又延长 59633 米，现在多长？",
+   "want": "87597",
+   "got": "86597",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 10432 米，又延长 48452 米，现在多长？",
+   "want": "58884",
+   "got": "99784",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 12422 米，又延长 45765 米，现在多长？",
+   "want": "58187",
+   "got": "78197",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 21548 米，又延长 23086 米，现在多长？",
+   "want": "44634",
+   "got": "46634",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 37865 米，又延长 72078 米，现在多长？",
+   "want": "109943",
+   "got": "99943",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 22997 米，又延长 66519 米，现在多长？",
+   "want": "89516",
+   "got": "99517",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 50359 米，又延长 79284 米，现在多长？",
+   "want": "129643",
+   "got": "99543",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 36678 米，又延长 60953 米，现在多长？",
+   "want": "97631",
+   "got": "77631",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 45841 米，又延长 86566 米，现在多长？",
+   "want": "132407",
+   "got": "42597",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 99806 米，又延长 57861 米，现在多长？",
+   "want": "157667",
+   "got": "57667",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 81318 米，又延长 26462 米，现在多长？",
+   "want": "107780",
+   "got": "77780",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 95673 米，又延长 52621 米，现在多长？",
+   "want": "148294",
+   "got": "78094",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 61186 米，又延长 89399 米，现在多长？",
+   "want": "150585",
+   "got": "59585",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 45284 米，又延长 74504 米，现在多长？",
+   "want": "119788",
+   "got": "99798",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 82631 米，又延长 82108 米，现在多长？",
+   "want": "164739",
+   "got": "94739",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 76213 米，又延长 36895 米，现在多长？",
+   "want": "113108",
+   "got": "53128",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 44683 米，又延长 96313 米，现在多长？",
+   "want": "140996",
+   "got": "51014",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 85377 米，又延长 59003 米，现在多长？",
+   "want": "144380",
+   "got": "44371",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 31182 米，又延长 71370 米，现在多长？",
+   "want": "102552",
+   "got": "43762",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 50263 米，又延长 78764 米，现在多长？",
+   "want": "129027",
+   "got": "99927",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 12424 米，又延长 25331 米，现在多长？",
+   "want": "37755",
+   "got": "77664",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 35063 米，又延长 56139 米，现在多长？",
+   "want": "91202",
+   "got": "81392",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 78503 米，又延长 10309 米，现在多长？",
+   "want": "88812",
+   "got": "98712",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 23102 米，又延长 34480 米，现在多长？",
+   "want": "57582",
+   "got": "67692",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 41720 米，又延长 52501 米，现在多长？",
+   "want": "94221",
+   "got": "63920",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 19190 米，又延长 47949 米，现在多长？",
+   "want": "67139",
+   "got": "87149",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 89748 米，又延长 21895 米，现在多长？",
+   "want": "111643",
+   "got": "10783",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 48819 米，又延长 62204 米，现在多长？",
+   "want": "111023",
+   "got": "51023",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 78875 米，又延长 56060 米，现在多长？",
+   "want": "134935",
+   "got": "44931",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 57731 米，又延长 35412 米，现在多长？",
+   "want": "93143",
+   "got": "33143",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 54111 米，又延长 19330 米，现在多长？",
+   "want": "73441",
+   "got": "43441",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 68998 米，又延长 50085 米，现在多长？",
+   "want": "119083",
+   "got": "69983",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 63727 米，又延长 45351 米，现在多长？",
+   "want": "109078",
+   "got": "99978",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 79426 米，又延长 30487 米，现在多长？",
+   "want": "109913",
+   "got": "99951",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 56163 米，又延长 25123 米，现在多长？",
+   "want": "81286",
+   "got": "71376",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 71544 米，又延长 98235 米，现在多长？",
+   "want": "169779",
+   "got": "99779",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 82461 米，又延长 80559 米，现在多长？",
+   "want": "163020",
+   "got": "83919",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 42845 米，又延长 39271 米，现在多长？",
+   "want": "82116",
+   "got": "72166",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 35868 米，又延长 54912 米，现在多长？",
+   "want": "90780",
+   "got": "99780",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 30401 米，又延长 89919 米，现在多长？",
+   "want": "120320",
+   "got": "99320",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 53667 米，又延长 76575 米，现在多长？",
+   "want": "130242",
+   "got": "39221",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 69275 米，又延长 71330 米，现在多长？",
+   "want": "140605",
+   "got": "79695",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 11756 米，又延长 34266 米，现在多长？",
+   "want": "46022",
+   "got": "56922",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 74835 米，又延长 45930 米，现在多长？",
+   "want": "120765",
+   "got": "99765",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 20830 米，又延长 21821 米，现在多长？",
+   "want": "42651",
+   "got": "20641",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 18312 米，又延长 86706 米，现在多长？",
+   "want": "105018",
+   "got": "55919",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 23396 米，又延长 72595 米，现在多长？",
+   "want": "95991",
+   "got": "56991",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 65399 米，又延长 14033 米，现在多长？",
+   "want": "79432",
+   "got": "99432",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 18768 米，又延长 58941 米，现在多长？",
+   "want": "77709",
+   "got": "56699",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 60474 米，又延长 22224 米，现在多长？",
+   "want": "82698",
+   "got": "72798",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 66224 米，又延长 40196 米，现在多长？",
+   "want": "106420",
+   "got": "66420",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 13132 米，又延长 92930 米，现在多长？",
+   "want": "106062",
+   "got": "56142",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 53021 米，又延长 70488 米，现在多长？",
+   "want": "123509",
+   "got": "53499",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 56010 米，又延长 96561 米，现在多长？",
+   "want": "152571",
+   "got": "52571",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 35490 米，又延长 50646 米，现在多长？",
+   "want": "86136",
+   "got": "66136",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 34595 米，又延长 56494 米，现在多长？",
+   "want": "91089",
+   "got": "91089",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 19581 米，又延长 22892 米，现在多长？",
+   "want": "42473",
+   "got": "14473",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 95794 米，又延长 11114 米，现在多长？",
+   "want": "106908",
+   "got": "66914",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 56018 米，又延长 70103 米，现在多长？",
+   "want": "126121",
+   "got": "66201",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 31598 米，又延长 41982 米，现在多长？",
+   "want": "73580",
+   "got": "53459",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 36311 米，又延长 61686 米，现在多长？",
+   "want": "97997",
+   "got": "77997",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 70323 米，又延长 93517 米，现在多长？",
+   "want": "163840",
+   "got": "73939",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 81478 米，又延长 77360 米，现在多长？",
+   "want": "158838",
+   "got": "98838",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 82938 米，又延长 50884 米，现在多长？",
+   "want": "133822",
+   "got": "63723",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 21240 米，又延长 60891 米，现在多长？",
+   "want": "82131",
+   "got": "20731",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 73137 米，又延长 45764 米，现在多长？",
+   "want": "118901",
+   "got": "99900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 68242 米，又延长 88798 米，现在多长？",
+   "want": "157040",
+   "got": "56120",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 80417 米，又延长 87847 米，现在多长？",
+   "want": "168264",
+   "got": "98274",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 27824 米，又延长 23081 米，现在多长？",
+   "want": "50905",
+   "got": "99813",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 55021 米，又延长 17958 米，现在多长？",
+   "want": "72979",
+   "got": "73979",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 62715 米，又延长 84408 米，现在多长？",
+   "want": "147123",
+   "got": "57115",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "甲乙两地相距 20434 米，又延长 23572 米，现在多长？",
+   "want": "44006",
+   "got": "34106",
+   "exact": false,
+   "samelen": true
+  }
+ ]
+}

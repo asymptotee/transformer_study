@@ -1,0 +1,3231 @@
+{
+ "label": "n30_T18带标签",
+ "by_rung": {
+  "2": [
+   9,
+   36,
+   0,
+   100
+  ],
+  "3": [
+   11,
+   68,
+   0,
+   100
+  ],
+  "4": [
+   7,
+   60,
+   0,
+   100
+  ],
+  "5": [
+   4,
+   70,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "总数 = 9 4 + 3 3 = ",
+   "want": "127",
+   "got": "7",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 3 + 7 4 = ",
+   "want": "157",
+   "got": "117",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 4 + 7 7 = ",
+   "want": "171",
+   "got": "1。",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 3 + 2 6 = ",
+   "want": "69",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 9 + 5 1 = ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 5 + 8 4 = ",
+   "want": "169",
+   "got": "39",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 4 + 8 4 = ",
+   "want": "138",
+   "got": "118",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 9 + 6 1 = ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 8 + 1 5 = ",
+   "want": "33",
+   "got": "7",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 3 + 3 0 = ",
+   "want": "43",
+   "got": "3",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 9 + 2 2 = ",
+   "want": "61",
+   "got": "110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 5 + 2 3 = ",
+   "want": "118",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 3 + 9 6 = ",
+   "want": "169",
+   "got": "119",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 0 + 5 1 = ",
+   "want": "121",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 9 + 4 0 = ",
+   "want": "79",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 3 + 3 2 = ",
+   "want": "55",
+   "got": "55",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 9 + 6 3 = ",
+   "want": "122",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 8 + 1 7 = ",
+   "want": "35",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 8 + 4 2 = ",
+   "want": "130",
+   "got": "0",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 4 + 1 4 = ",
+   "want": "38",
+   "got": "68",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 9 + 6 6 = ",
+   "want": "85",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 7 + 8 7 = ",
+   "want": "144",
+   "got": "3",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 0 + 1 3 = ",
+   "want": "103",
+   "got": "3",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 2 + 5 1 = ",
+   "want": "83",
+   "got": "73",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 3 + 9 9 = ",
+   "want": "122",
+   "got": "12",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 6 7 + 5 8 = ",
+   "want": "125",
+   "got": "114",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 7 + 9 1 = ",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 3 + 8 1 = ",
+   "want": "164",
+   "got": "104",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 5 + 3 5 = ",
+   "want": "70",
+   "got": "89",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 2 + 7 2 = ",
+   "want": "114",
+   "got": "94",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 6 6 + 9 6 = ",
+   "want": "162",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 6 + 3 8 = ",
+   "want": "84",
+   "got": "114",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 5 + 3 0 = ",
+   "want": "65",
+   "got": "55",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 6 5 + 7 7 = ",
+   "want": "142",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 4 + 2 1 = ",
+   "want": "55",
+   "got": "55",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 4 + 1 3 = ",
+   "want": "97",
+   "got": "7",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 0 + 9 5 = ",
+   "want": "185",
+   "got": "45",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 2 + 3 6 = ",
+   "want": "58",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 4 + 2 7 = ",
+   "want": "41",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 0 + 5 6 = ",
+   "want": "66",
+   "got": "6",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 6 2 + 8 2 = ",
+   "want": "144",
+   "got": "94",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 9 + 1 9 = ",
+   "want": "98",
+   "got": "16",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 3 + 3 3 = ",
+   "want": "86",
+   "got": "6",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 7 + 9 2 = ",
+   "want": "189",
+   "got": "119",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 7 + 7 3 = ",
+   "want": "150",
+   "got": "0",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 4 + 3 6 = ",
+   "want": "70",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 3 + 7 0 = ",
+   "want": "153",
+   "got": "0",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 4 + 5 5 = ",
+   "want": "129",
+   "got": "119",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 5 + 8 9 = ",
+   "want": "144",
+   "got": "14",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 1 + 2 7 = ",
+   "want": "108",
+   "got": "98",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 8 + 6 6 = ",
+   "want": "84",
+   "got": "4",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 6 4 + 9 0 = ",
+   "want": "154",
+   "got": "4",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 8 + 1 9 = ",
+   "want": "77",
+   "got": "117",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 2 + 2 0 = ",
+   "want": "102",
+   "got": "2",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 6 + 7 6 = ",
+   "want": "102",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 8 + 2 2 = ",
+   "want": "70",
+   "got": "0",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 5 + 7 3 = ",
+   "want": "98",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 9 + 1 6 = ",
+   "want": "55",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 6 + 7 9 = ",
+   "want": "165",
+   "got": "15",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 2 + 1 2 = ",
+   "want": "64",
+   "got": "7",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 8 + 4 7 = ",
+   "want": "85",
+   "got": "114",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 2 + 5 9 = ",
+   "want": "101",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 5 + 1 8 = ",
+   "want": "73",
+   "got": "113",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 0 + 4 6 = ",
+   "want": "76",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 9 + 7 8 = ",
+   "want": "97",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 3 + 4 0 = ",
+   "want": "123",
+   "got": "43",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 6 + 8 8 = ",
+   "want": "164",
+   "got": "114",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 4 + 4 9 = ",
+   "want": "123",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 6 1 + 8 9 = ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 7 + 7 9 = ",
+   "want": "96",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 9 + 2 4 = ",
+   "want": "123",
+   "got": "13",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 4 + 7 0 = ",
+   "want": "154",
+   "got": "4",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 3 + 9 3 = ",
+   "want": "136",
+   "got": "6",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 3 + 1 4 = ",
+   "want": "27",
+   "got": "57",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 3 + 6 3 = ",
+   "want": "116",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 3 + 3 5 = ",
+   "want": "78",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 2 + 1 7 = ",
+   "want": "69",
+   "got": "7",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 7 + 3 6 = ",
+   "want": "63",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 0 + 5 2 = ",
+   "want": "132",
+   "got": "2",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 4 + 1 7 = ",
+   "want": "111",
+   "got": "11",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 0 + 7 3 = ",
+   "want": "113",
+   "got": "3",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 9 + 8 2 = ",
+   "want": "101",
+   "got": "110",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 8 + 9 9 = ",
+   "want": "187",
+   "got": "18",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 4 + 5 4 = ",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 9 + 6 3 = ",
+   "want": "82",
+   "got": "2",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 6 + 8 8 = ",
+   "want": "174",
+   "got": "114",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 0 + 8 0 = ",
+   "want": "100",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 1 + 2 6 = ",
+   "want": "97",
+   "got": "87",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 4 4 + 1 5 = ",
+   "want": "59",
+   "got": "69",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 2 3 + 1 4 = ",
+   "want": "37",
+   "got": "67",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 3 + 7 4 = ",
+   "want": "147",
+   "got": "117",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 8 + 9 3 = ",
+   "want": "131",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 5 4 + 6 5 = ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 7 1 + 4 8 = ",
+   "want": "119",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 9 + 1 2 = ",
+   "want": "51",
+   "got": "110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 7 + 1 3 = ",
+   "want": "30",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 3 5 + 7 8 = ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "总数 = 8 7 + 5 8 = ",
+   "want": "145",
+   "got": "4",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 9 7 + 9 7 = ",
+   "want": "194",
+   "got": "17",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "总数 = 1 2 + 8 0 = ",
+   "want": "92",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 9 3 + 1 5 3 = ",
+   "want": "746",
+   "got": "1146",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 9 6 + 8 8 4 = ",
+   "want": "1380",
+   "got": "1430",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 8 6 + 8 1 2 = ",
+   "want": "1298",
+   "got": "988",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 2 2 8 + 5 4 0 = ",
+   "want": "768",
+   "got": "788",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 1 8 + 5 3 7 = ",
+   "want": "1355",
+   "got": "755",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 6 2 + 2 4 1 = ",
+   "want": "903",
+   "got": "893",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 2 1 8 + 5 4 8 = ",
+   "want": "766",
+   "got": "666",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 2 2 0 + 7 3 0 = ",
+   "want": "950",
+   "got": "920",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 7 6 + 4 6 0 = ",
+   "want": "936",
+   "got": "1136",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 2 9 8 + 4 5 1 = ",
+   "want": "749",
+   "got": "849",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 4 7 + 1 5 9 = ",
+   "want": "706",
+   "got": "736",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 4 3 + 3 3 7 = ",
+   "want": "680",
+   "got": "770",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 9 4 + 7 0 2 = ",
+   "want": "896",
+   "got": "946",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 1 0 + 3 3 2 = ",
+   "want": "442",
+   "got": "442",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 2 2 + 8 6 5 = ",
+   "want": "1387",
+   "got": "387",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 7 0 + 9 2 7 = ",
+   "want": "1797",
+   "got": "1197",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 1 2 + 6 4 9 = ",
+   "want": "1561",
+   "got": "661",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 8 1 + 1 4 6 = ",
+   "want": "827",
+   "got": "997",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 2 1 + 1 1 5 = ",
+   "want": "1036",
+   "got": "1036",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 9 4 + 8 3 7 = ",
+   "want": "1831",
+   "got": "931",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 5 5 + 9 3 2 = ",
+   "want": "1287",
+   "got": "887",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 5 8 + 1 7 8 = ",
+   "want": "336",
+   "got": "746",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 5 8 + 2 2 9 = ",
+   "want": "387",
+   "got": "787",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 4 9 + 2 8 4 = ",
+   "want": "833",
+   "got": "1333",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 8 9 + 1 4 4 = ",
+   "want": "533",
+   "got": "633",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 2 1 + 4 5 8 = ",
+   "want": "879",
+   "got": "779",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 7 1 6 + 7 7 0 = ",
+   "want": "1486",
+   "got": "876",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 5 0 + 3 9 9 = ",
+   "want": "749",
+   "got": "949",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 2 3 2 + 7 2 0 = ",
+   "want": "952",
+   "got": "924",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 0 7 + 5 9 0 = ",
+   "want": "1097",
+   "got": "1097",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 7 7 3 + 2 2 5 = ",
+   "want": "998",
+   "got": "988",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 7 7 2 + 1 7 8 = ",
+   "want": "950",
+   "got": "909",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 7 8 + 3 5 6 = ",
+   "want": "534",
+   "got": "834",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 5 6 + 3 1 0 = ",
+   "want": "966",
+   "got": "766",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 0 6 + 8 2 2 = ",
+   "want": "1428",
+   "got": "228",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 5 2 + 9 3 2 = ",
+   "want": "1784",
+   "got": "384",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 6 5 + 9 7 9 = ",
+   "want": "1444",
+   "got": "1644",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 2 5 + 5 5 4 = ",
+   "want": "879",
+   "got": "779",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 3 0 + 4 0 9 = ",
+   "want": "1239",
+   "got": "909",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 7 5 + 8 9 8 = ",
+   "want": "1373",
+   "got": "1353",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 6 4 + 3 9 9 = ",
+   "want": "1063",
+   "got": "943",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 8 9 + 7 6 9 = ",
+   "want": "1758",
+   "got": "1668",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 5 0 + 6 3 9 = ",
+   "want": "989",
+   "got": "989",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 7 3 + 4 2 6 = ",
+   "want": "799",
+   "got": "699",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 1 4 + 6 5 4 = ",
+   "want": "1468",
+   "got": "768",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 1 5 + 2 0 6 = ",
+   "want": "821",
+   "got": "761",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 5 5 + 4 5 4 = ",
+   "want": "609",
+   "got": "709",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 2 0 + 8 2 2 = ",
+   "want": "1342",
+   "got": "723",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 7 3 6 + 5 9 7 = ",
+   "want": "1333",
+   "got": "1333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 8 6 + 1 8 0 = ",
+   "want": "566",
+   "got": "1046",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 0 8 + 2 4 0 = ",
+   "want": "548",
+   "got": "448",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 6 1 + 6 3 3 = ",
+   "want": "1594",
+   "got": "944",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 3 6 + 4 1 2 = ",
+   "want": "748",
+   "got": "548",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 5 9 + 6 6 6 = ",
+   "want": "1525",
+   "got": "1425",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 1 5 + 2 2 5 = ",
+   "want": "540",
+   "got": "440",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 8 1 + 8 4 2 = ",
+   "want": "1323",
+   "got": "1212",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 3 5 + 9 0 6 = ",
+   "want": "1841",
+   "got": "1841",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 2 4 5 + 1 3 6 = ",
+   "want": "381",
+   "got": "681",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 4 0 + 8 1 5 = ",
+   "want": "1155",
+   "got": "655",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 5 0 + 7 6 5 = ",
+   "want": "1315",
+   "got": "1216",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 8 2 + 5 6 4 = ",
+   "want": "1446",
+   "got": "436",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 2 1 6 + 1 2 1 = ",
+   "want": "337",
+   "got": "337",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 1 0 + 9 5 6 = ",
+   "want": "1566",
+   "got": "766",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 3 4 + 3 7 6 = ",
+   "want": "510",
+   "got": "1000",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 8 4 + 7 0 2 = ",
+   "want": "1086",
+   "got": "946",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 9 3 + 4 0 7 = ",
+   "want": "900",
+   "got": "939",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 4 7 + 1 8 6 = ",
+   "want": "1133",
+   "got": "1333",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 6 1 + 3 8 5 = ",
+   "want": "546",
+   "got": "936",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 7 5 + 7 2 4 = ",
+   "want": "1699",
+   "got": "1099",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 9 3 + 6 0 7 = ",
+   "want": "1100",
+   "got": "1099",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 1 9 + 9 8 3 = ",
+   "want": "1102",
+   "got": "922",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 9 1 + 4 9 3 = ",
+   "want": "984",
+   "got": "494",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 5 4 + 1 4 5 = ",
+   "want": "699",
+   "got": "699",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 2 9 + 3 1 0 = ",
+   "want": "639",
+   "got": "439",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 8 8 + 2 8 8 = ",
+   "want": "776",
+   "got": "1376",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 7 7 5 + 5 4 1 = ",
+   "want": "1316",
+   "got": "1216",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 4 5 + 1 5 3 = ",
+   "want": "798",
+   "got": "698",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 7 7 6 + 4 1 2 = ",
+   "want": "1188",
+   "got": "988",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 3 2 + 6 5 4 = ",
+   "want": "786",
+   "got": "786",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 8 1 + 4 5 6 = ",
+   "want": "1337",
+   "got": "337",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 1 2 6 + 7 2 3 = ",
+   "want": "849",
+   "got": "989",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 7 2 + 4 4 4 = ",
+   "want": "1316",
+   "got": "1806",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 4 8 + 3 6 8 = ",
+   "want": "1316",
+   "got": "1426",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 2 9 + 8 7 1 = ",
+   "want": "1800",
+   "got": "1300",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 7 0 5 + 3 2 1 = ",
+   "want": "1026",
+   "got": "826",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 7 5 + 1 2 8 = ",
+   "want": "1003",
+   "got": "993",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 4 4 9 + 8 4 3 = ",
+   "want": "1292",
+   "got": "1332",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 4 9 + 7 3 6 = ",
+   "want": "1685",
+   "got": "1495",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 4 4 + 9 8 6 = ",
+   "want": "1530",
+   "got": "1429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 3 7 + 9 0 1 = ",
+   "want": "1438",
+   "got": "1438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 4 6 + 8 5 3 = ",
+   "want": "1699",
+   "got": "399",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 7 0 + 1 5 8 = ",
+   "want": "1028",
+   "got": "628",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 9 2 6 + 2 1 1 = ",
+   "want": "1137",
+   "got": "1137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 6 6 + 4 9 7 = ",
+   "want": "1163",
+   "got": "1653",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 3 8 + 7 9 4 = ",
+   "want": "1632",
+   "got": "1732",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 3 9 4 + 9 7 9 = ",
+   "want": "1373",
+   "got": "1343",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 6 4 7 + 5 7 4 = ",
+   "want": "1221",
+   "got": "1121",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 5 3 4 + 6 8 6 = ",
+   "want": "1220",
+   "got": "120",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 3 6 + 6 8 1 = ",
+   "want": "1517",
+   "got": "1507",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "总数 = 8 8 7 + 6 3 1 = ",
+   "want": "1518",
+   "got": "1417",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 2 6 1 + 3 6 6 3 = ",
+   "want": "8924",
+   "got": "8824",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 2 4 7 + 8 6 5 6 = ",
+   "want": "15903",
+   "got": "9903",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 4 9 0 3 + 3 1 6 0 = ",
+   "want": "8063",
+   "got": "10563",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 2 4 8 + 5 5 9 8 = ",
+   "want": "6846",
+   "got": "7846",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 4 9 5 + 2 4 0 1 = ",
+   "want": "7896",
+   "got": "7096",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 0 9 4 + 9 8 9 3 = ",
+   "want": "14987",
+   "got": "9987",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 8 4 6 + 6 5 3 0 = ",
+   "want": "12376",
+   "got": "11376",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 4 6 5 + 1 6 3 2 = ",
+   "want": "9097",
+   "got": "9997",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 4 9 3 + 6 9 2 6 = ",
+   "want": "12419",
+   "got": "14418",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 4 0 3 + 5 1 0 4 = ",
+   "want": "10507",
+   "got": "5597",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 2 0 2 + 3 0 3 6 = ",
+   "want": "4238",
+   "got": "3248",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 0 2 8 + 6 2 5 9 = ",
+   "want": "12287",
+   "got": "7307",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 3 3 3 + 3 9 2 9 = ",
+   "want": "9262",
+   "got": "9262",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 2 7 1 + 8 5 8 1 = ",
+   "want": "16852",
+   "got": "1844",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 2 8 2 + 8 2 0 7 = ",
+   "want": "9489",
+   "got": "9289",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 1 4 5 + 8 6 4 2 = ",
+   "want": "9787",
+   "got": "7787",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 6 0 6 + 6 8 7 7 = ",
+   "want": "8483",
+   "got": "8483",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 8 6 7 + 4 5 6 9 = ",
+   "want": "13436",
+   "got": "14436",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 6 9 4 + 1 9 5 9 = ",
+   "want": "9653",
+   "got": "8653",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 3 0 3 + 5 5 2 9 = ",
+   "want": "7832",
+   "got": "7832",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 1 4 5 + 2 0 4 9 = ",
+   "want": "8194",
+   "got": "7294",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 2 1 6 + 3 9 4 5 = ",
+   "want": "12161",
+   "got": "11261",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 2 2 7 + 5 5 2 4 = ",
+   "want": "10751",
+   "got": "7750",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 2 5 2 + 9 1 0 8 = ",
+   "want": "14360",
+   "got": "7660",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 3 0 8 4 + 4 7 2 6 = ",
+   "want": "7810",
+   "got": "8800",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 3 8 5 8 + 3 4 0 6 = ",
+   "want": "7264",
+   "got": "11264",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 8 1 2 + 4 8 1 2 = ",
+   "want": "6624",
+   "got": "6624",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 8 7 5 + 1 6 3 0 = ",
+   "want": "4505",
+   "got": "9395",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 4 0 1 8 + 9 3 0 2 = ",
+   "want": "13320",
+   "got": "3319",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 2 1 4 + 6 1 9 9 = ",
+   "want": "14413",
+   "got": "8403",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 6 8 7 + 4 7 3 4 = ",
+   "want": "6421",
+   "got": "11420",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 9 9 6 + 5 2 4 4 = ",
+   "want": "7240",
+   "got": "14330",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 2 1 7 + 1 2 6 4 = ",
+   "want": "6481",
+   "got": "7880",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 7 8 9 + 9 8 5 4 = ",
+   "want": "16643",
+   "got": "16443",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 7 3 2 + 4 8 4 5 = ",
+   "want": "6577",
+   "got": "12167",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 7 2 9 + 2 7 8 8 = ",
+   "want": "9517",
+   "got": "9007",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 2 6 9 + 9 3 0 5 = ",
+   "want": "11574",
+   "got": "11574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 2 7 1 + 2 8 5 4 = ",
+   "want": "11125",
+   "got": "1134",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 9 3 7 2 + 2 2 6 8 = ",
+   "want": "11640",
+   "got": "5640",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 4 8 8 2 + 4 3 4 3 = ",
+   "want": "9225",
+   "got": "12225",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 3 3 7 + 7 0 8 4 = ",
+   "want": "13421",
+   "got": "9420",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 8 1 5 + 2 1 6 9 = ",
+   "want": "9984",
+   "got": "9884",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 9 8 7 + 5 6 3 8 = ",
+   "want": "13625",
+   "got": "15625",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 3 3 4 4 + 1 4 0 4 = ",
+   "want": "4748",
+   "got": "4448",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 3 5 0 + 6 9 0 2 = ",
+   "want": "13252",
+   "got": "12452",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 4 8 8 + 7 6 8 6 = ",
+   "want": "14174",
+   "got": "13254",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 1 3 9 + 8 7 1 1 = ",
+   "want": "15850",
+   "got": "9850",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 8 1 7 + 1 5 1 0 = ",
+   "want": "7327",
+   "got": "6328",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 3 6 2 6 + 7 0 3 4 = ",
+   "want": "10660",
+   "got": "7660",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 7 3 0 + 5 7 6 5 = ",
+   "want": "7495",
+   "got": "7995",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 3 4 5 8 + 1 4 1 8 = ",
+   "want": "4876",
+   "got": "5876",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 7 4 0 + 4 4 6 4 = ",
+   "want": "7204",
+   "got": "11044",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 1 2 9 + 9 3 6 8 = ",
+   "want": "15497",
+   "got": "4497",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 9 3 2 6 + 6 6 3 6 = ",
+   "want": "15962",
+   "got": "8962",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 4 5 2 0 + 7 2 0 6 = ",
+   "want": "11726",
+   "got": "7626",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 5 3 4 + 3 4 5 8 = ",
+   "want": "4992",
+   "got": "6992",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 2 4 3 + 2 2 8 5 = ",
+   "want": "9528",
+   "got": "9728",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 2 6 6 + 4 6 7 9 = ",
+   "want": "6945",
+   "got": "7944",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 9 2 4 9 + 9 9 8 2 = ",
+   "want": "19231",
+   "got": "12230",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 8 4 9 + 9 8 3 0 = ",
+   "want": "17679",
+   "got": "17259",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 9 8 6 + 9 6 4 6 = ",
+   "want": "12632",
+   "got": "16632",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 8 4 2 + 8 7 3 8 = ",
+   "want": "10580",
+   "got": "10580",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 9 5 9 2 + 9 5 2 5 = ",
+   "want": "19117",
+   "got": "15117",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 2 2 5 + 6 1 9 2 = ",
+   "want": "14417",
+   "got": "8417",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 4 1 0 + 4 1 9 5 = ",
+   "want": "9605",
+   "got": "6605",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 8 0 1 + 4 9 9 8 = ",
+   "want": "10799",
+   "got": "15899",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 3 8 5 + 4 9 8 2 = ",
+   "want": "11367",
+   "got": "13367",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 9 3 0 + 4 7 8 2 = ",
+   "want": "11712",
+   "got": "14702",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 4 6 8 + 6 1 5 7 = ",
+   "want": "14625",
+   "got": "6625",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 8 9 0 + 4 9 4 9 = ",
+   "want": "7839",
+   "got": "13439",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 2 9 1 + 7 7 1 6 = ",
+   "want": "16007",
+   "got": "9997",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 9 2 9 + 2 3 0 5 = ",
+   "want": "9234",
+   "got": "11234",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 7 6 6 + 9 2 8 4 = ",
+   "want": "16050",
+   "got": "15041",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 2 5 2 + 6 9 3 5 = ",
+   "want": "9187",
+   "got": "11287",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 9 3 2 + 4 7 7 4 = ",
+   "want": "13706",
+   "got": "14706",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 8 3 5 5 + 7 8 6 2 = ",
+   "want": "16217",
+   "got": "12207",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 4 7 6 4 + 3 0 5 2 = ",
+   "want": "7816",
+   "got": "4716",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 9 8 0 8 + 5 0 1 3 = ",
+   "want": "14821",
+   "got": "8181",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 6 7 8 + 3 2 6 3 = ",
+   "want": "10941",
+   "got": "9931",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 2 6 4 + 5 7 0 0 = ",
+   "want": "10964",
+   "got": "8864",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 5 9 6 + 6 1 4 2 = ",
+   "want": "12738",
+   "got": "7738",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 9 3 2 + 2 3 3 5 = ",
+   "want": "5267",
+   "got": "12257",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 6 9 2 + 7 8 9 8 = ",
+   "want": "15590",
+   "got": "5590",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 9 2 7 4 + 3 4 3 1 = ",
+   "want": "12705",
+   "got": "7705",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 9 0 9 6 + 4 2 4 5 = ",
+   "want": "13341",
+   "got": "6341",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 3 9 4 7 + 8 4 3 9 = ",
+   "want": "12386",
+   "got": "13386",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 2 5 4 + 3 7 3 2 = ",
+   "want": "4986",
+   "got": "9886",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 9 7 9 + 7 8 5 8 = ",
+   "want": "10837",
+   "got": "11837",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 3 1 5 + 8 6 9 8 = ",
+   "want": "14013",
+   "got": "1012",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 6 5 4 + 3 0 7 0 = ",
+   "want": "5724",
+   "got": "7624",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 5 5 8 + 8 0 6 8 = ",
+   "want": "9626",
+   "got": "6625",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 1 3 9 2 + 3 7 3 5 = ",
+   "want": "5127",
+   "got": "5127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 1 9 6 + 3 1 6 8 = ",
+   "want": "5364",
+   "got": "4754",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 9 4 3 6 + 9 6 7 2 = ",
+   "want": "19108",
+   "got": "13098",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 3 5 8 + 7 9 1 9 = ",
+   "want": "15277",
+   "got": "11277",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 8 0 5 + 3 0 8 8 = ",
+   "want": "9893",
+   "got": "8893",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 7 5 9 1 + 4 9 5 5 = ",
+   "want": "12546",
+   "got": "14546",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 5 8 0 6 + 2 9 5 0 = ",
+   "want": "8756",
+   "got": "11756",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "总数 = 6 5 1 8 + 6 5 1 5 = ",
+   "want": "13033",
+   "got": "11773",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "总数 = 2 7 6 5 + 1 7 4 1 = ",
+   "want": "4506",
+   "got": "9456",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 1 9 6 6 6 + 5 6 5 2 5 = ",
+   "want": "76191",
+   "got": "76091",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 8 8 3 7 + 6 3 5 9 2 = ",
+   "want": "132429",
+   "got": "112429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 2 6 8 4 + 6 8 9 5 0 = ",
+   "want": "161634",
+   "got": "151534",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 7 1 0 6 + 4 7 9 1 7 = ",
+   "want": "115023",
+   "got": "10904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 2 5 3 5 + 2 7 6 4 3 = ",
+   "want": "100178",
+   "got": "93078",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 4 0 4 5 + 8 7 2 7 4 = ",
+   "want": "121319",
+   "got": "120318",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 6 7 6 4 + 2 0 9 8 2 = ",
+   "want": "97746",
+   "got": "87746",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 9 9 5 6 + 1 1 0 2 0 = ",
+   "want": "40976",
+   "got": "41076",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 8 7 7 9 8 + 8 7 7 3 2 = ",
+   "want": "175530",
+   "got": "165529",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 8 4 8 0 + 9 8 3 3 0 = ",
+   "want": "156810",
+   "got": "152711",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 5 1 1 8 + 6 9 4 4 4 = ",
+   "want": "164562",
+   "got": "154562",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 9 7 2 5 + 5 2 0 0 0 = ",
+   "want": "111725",
+   "got": "81726",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 7 4 8 6 + 3 3 1 6 3 = ",
+   "want": "100649",
+   "got": "96648",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 6 6 7 2 + 8 7 0 8 0 = ",
+   "want": "163752",
+   "got": "43742",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 6 6 0 8 + 2 2 7 0 0 = ",
+   "want": "69308",
+   "got": "88398",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 0 4 4 3 + 4 8 9 7 4 = ",
+   "want": "89417",
+   "got": "94416",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 4 6 5 6 + 5 4 7 1 0 = ",
+   "want": "129366",
+   "got": "119366",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 1 6 3 2 9 + 8 3 9 4 1 = ",
+   "want": "100270",
+   "got": "100260",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 7 8 5 3 + 7 8 8 3 8 = ",
+   "want": "156691",
+   "got": "156691",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 8 5 9 9 9 + 7 6 6 1 4 = ",
+   "want": "162613",
+   "got": "32513",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 5 9 2 7 + 4 7 3 8 9 = ",
+   "want": "113316",
+   "got": "133306",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 2 3 1 0 + 6 0 3 4 0 = ",
+   "want": "112650",
+   "got": "62650",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 1 7 5 6 + 3 3 3 8 5 = ",
+   "want": "85141",
+   "got": "85040",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 8 7 6 9 + 1 5 4 9 6 = ",
+   "want": "44265",
+   "got": "84255",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 7 6 1 4 + 6 6 4 3 1 = ",
+   "want": "104045",
+   "got": "103945",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 8 0 4 4 + 4 6 4 7 1 = ",
+   "want": "124515",
+   "got": "114515",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 8 5 3 8 4 + 9 0 6 7 1 = ",
+   "want": "176055",
+   "got": "146055",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 1 2 0 4 + 2 3 0 3 7 = ",
+   "want": "74241",
+   "got": "74241",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 5 5 2 7 + 4 7 3 2 8 = ",
+   "want": "102855",
+   "got": "12855",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 1 7 0 4 + 2 5 5 3 8 = ",
+   "want": "57242",
+   "got": "77242",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 7 7 2 8 + 4 5 8 9 3 = ",
+   "want": "93621",
+   "got": "133620",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 3 7 8 4 + 6 7 5 2 9 = ",
+   "want": "141313",
+   "got": "130303",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 9 3 1 2 + 3 2 1 9 3 = ",
+   "want": "71505",
+   "got": "112505",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 7 8 1 1 + 4 4 0 0 3 = ",
+   "want": "91814",
+   "got": "110814",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 8 9 4 5 1 + 2 3 9 0 9 = ",
+   "want": "113360",
+   "got": "123360",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 0 3 6 6 + 9 7 3 5 0 = ",
+   "want": "137716",
+   "got": "87716",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 6 5 2 0 + 2 8 4 8 1 = ",
+   "want": "75001",
+   "got": "114001",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 2 5 7 9 + 3 7 1 1 1 = ",
+   "want": "59690",
+   "got": "99690",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 8 2 3 7 3 + 7 6 6 7 6 = ",
+   "want": "159049",
+   "got": "99048",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 2 1 3 1 + 1 3 5 8 4 = ",
+   "want": "45715",
+   "got": "45715",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 8 8 4 3 2 + 1 5 2 0 9 = ",
+   "want": "103641",
+   "got": "73541",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 8 0 7 5 6 + 8 0 5 0 5 = ",
+   "want": "161261",
+   "got": "86060",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 5 5 7 6 + 1 0 8 7 3 = ",
+   "want": "46449",
+   "got": "66448",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 4 0 1 1 + 1 3 3 7 8 = ",
+   "want": "87389",
+   "got": "57389",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 8 4 3 6 + 3 6 6 2 6 = ",
+   "want": "95062",
+   "got": "105062",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 6 9 4 1 + 8 4 8 6 3 = ",
+   "want": "131804",
+   "got": "134794",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 5 9 0 2 + 6 8 3 0 4 = ",
+   "want": "134206",
+   "got": "144210",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 8 2 7 4 + 2 6 5 3 8 = ",
+   "want": "104812",
+   "got": "93802",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 9 4 8 6 + 4 8 6 5 8 = ",
+   "want": "118144",
+   "got": "144134",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 4 3 6 7 + 2 5 7 2 0 = ",
+   "want": "50087",
+   "got": "70087",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 8 2 4 9 + 6 6 6 5 7 = ",
+   "want": "134906",
+   "got": "44806",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 4 6 5 1 + 4 4 4 7 9 = ",
+   "want": "119130",
+   "got": "118130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 1 3 8 5 + 2 7 9 3 3 = ",
+   "want": "49318",
+   "got": "91217",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 6 4 9 7 + 9 7 6 4 9 = ",
+   "want": "144146",
+   "got": "162136",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 5 2 6 4 + 5 6 3 6 2 = ",
+   "want": "81626",
+   "got": "78606",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 0 3 6 3 + 3 9 1 5 5 = ",
+   "want": "59518",
+   "got": "59517",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 1 9 7 4 5 + 5 2 8 7 5 = ",
+   "want": "72620",
+   "got": "72520",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 0 5 4 2 + 7 6 4 6 1 = ",
+   "want": "107003",
+   "got": "96993",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 3 9 5 3 + 4 6 1 9 0 = ",
+   "want": "100143",
+   "got": "90043",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 9 4 3 6 + 9 2 6 5 7 = ",
+   "want": "162093",
+   "got": "152093",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 7 2 1 9 + 9 8 0 9 1 = ",
+   "want": "175310",
+   "got": "168299",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 1 9 7 1 0 + 5 1 2 6 2 = ",
+   "want": "70972",
+   "got": "79972",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 1 5 0 2 7 + 6 6 8 0 3 = ",
+   "want": "81830",
+   "got": "74829",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 3 1 6 4 + 7 8 3 2 7 = ",
+   "want": "101491",
+   "got": "101591",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 1 6 1 8 + 3 4 9 5 5 = ",
+   "want": "86573",
+   "got": "76573",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 8 3 1 6 0 + 9 6 6 5 5 = ",
+   "want": "179815",
+   "got": "178805",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 2 0 6 1 + 1 4 6 7 0 = ",
+   "want": "106731",
+   "got": "56731",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 3 1 6 4 + 9 2 2 1 9 = ",
+   "want": "185383",
+   "got": "125383",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 1 1 0 4 4 + 4 2 2 3 2 = ",
+   "want": "53276",
+   "got": "53266",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 7 9 4 0 + 8 6 8 5 3 = ",
+   "want": "114793",
+   "got": "155793",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 9 3 1 0 + 3 8 8 6 3 = ",
+   "want": "98173",
+   "got": "92973",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 8 2 5 7 + 3 5 6 4 7 = ",
+   "want": "133904",
+   "got": "93894",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 4 7 7 1 + 7 1 6 1 8 = ",
+   "want": "116389",
+   "got": "56389",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 9 8 4 8 + 7 3 5 0 5 = ",
+   "want": "103353",
+   "got": "113353",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 4 5 2 4 + 7 5 1 0 6 = ",
+   "want": "109630",
+   "got": "109629",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 7 0 4 0 + 2 7 2 7 4 = ",
+   "want": "74314",
+   "got": "98314",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 6 0 2 7 + 9 3 2 0 0 = ",
+   "want": "129227",
+   "got": "128227",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 1 6 2 7 + 7 7 6 7 3 = ",
+   "want": "99300",
+   "got": "94099",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 8 0 7 4 + 1 0 4 1 9 = ",
+   "want": "48493",
+   "got": "88483",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 6 9 2 7 + 1 8 8 1 6 = ",
+   "want": "85743",
+   "got": "85743",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 4 3 1 5 + 8 3 1 0 3 = ",
+   "want": "157418",
+   "got": "127518",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 0 1 1 3 + 3 7 3 3 4 = ",
+   "want": "127447",
+   "got": "77547",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 3 3 4 5 + 1 5 0 8 7 = ",
+   "want": "48432",
+   "got": "68432",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 4 8 0 8 + 4 4 4 8 1 = ",
+   "want": "109289",
+   "got": "110299",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 0 3 9 6 + 5 9 8 4 5 = ",
+   "want": "150241",
+   "got": "159231",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 2 7 0 9 + 8 6 5 3 2 = ",
+   "want": "179241",
+   "got": "119221",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 0 7 6 4 + 9 3 5 8 6 = ",
+   "want": "134350",
+   "got": "134340",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 5 7 0 5 + 7 3 4 6 9 = ",
+   "want": "129174",
+   "got": "119174",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 9 5 2 8 + 9 6 1 0 6 = ",
+   "want": "175634",
+   "got": "165634",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 3 3 6 0 1 + 4 9 3 3 4 = ",
+   "want": "82935",
+   "got": "82635",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 4 0 3 9 4 + 4 8 2 8 8 = ",
+   "want": "88682",
+   "got": "90082",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 9 7 5 5 2 + 7 3 5 7 7 = ",
+   "want": "171129",
+   "got": "150129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 4 2 5 4 + 9 2 5 7 8 = ",
+   "want": "166832",
+   "got": "76832",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 1 4 0 7 + 8 8 3 6 0 = ",
+   "want": "149767",
+   "got": "92567",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 6 8 0 9 + 8 1 2 2 6 = ",
+   "want": "138035",
+   "got": "78034",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 7 3 0 4 0 + 4 8 7 2 0 = ",
+   "want": "121760",
+   "got": "112760",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 2 6 5 2 + 3 8 6 9 5 = ",
+   "want": "61347",
+   "got": "112347",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 2 4 7 2 8 + 4 7 6 5 3 = ",
+   "want": "72381",
+   "got": "112380",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "总数 = 6 4 9 9 7 + 6 8 6 1 1 = ",
+   "want": "133608",
+   "got": "133698",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "总数 = 5 2 6 5 0 + 4 2 4 2 6 = ",
+   "want": "95076",
+   "got": "74976",
+   "exact": false,
+   "samelen": true
+  }
+ ]
+}

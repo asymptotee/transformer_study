@@ -1,0 +1,6431 @@
+{
+ "label": "mixed_U1加上",
+ "by_rung": {
+  "2": [
+   181,
+   197,
+   0,
+   200
+  ],
+  "3": [
+   172,
+   198,
+   0,
+   200
+  ],
+  "4": [
+   164,
+   197,
+   0,
+   200
+  ],
+  "5": [
+   157,
+   200,
+   0,
+   200
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "6 2 加上 1 4 等于几？",
+   "want": "76",
+   "got": "76",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 加上 7 1 等于几？",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 加上 4 1 等于几？",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 6 加上 9 9 等于几？",
+   "want": "165",
+   "got": "165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 5 4 等于几？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 加上 2 2 等于几？",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 8 加上 2 1 等于几？",
+   "want": "99",
+   "got": "109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 2 加上 5 6 等于几？",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 加上 7 3 等于几？",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 加上 3 9 等于几？",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 加上 4 7 等于几？",
+   "want": "65",
+   "got": "65",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 加上 4 9 等于几？",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5 加上 5 2 等于几？",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 加上 7 4 等于几？",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 加上 4 2 等于几？",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 加上 7 4 等于几？",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 加上 2 0 等于几？",
+   "want": "34",
+   "got": "34",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 加上 9 4 等于几？",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6 加上 8 4 等于几？",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 加上 3 5 等于几？",
+   "want": "53",
+   "got": "53",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 加上 1 5 等于几？",
+   "want": "28",
+   "got": "28",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 加上 5 6 等于几？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4 加上 8 6 等于几？",
+   "want": "160",
+   "got": "160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 加上 9 4 等于几？",
+   "want": "162",
+   "got": "162",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 加上 8 3 等于几？",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 加上 4 4 等于几？",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 加上 4 1 等于几？",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 加上 2 2 等于几？",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 加上 2 9 等于几？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 加上 3 6 等于几？",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 加上 1 5 等于几？",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 加上 2 5 等于几？",
+   "want": "119",
+   "got": "129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 加上 8 9 等于几？",
+   "want": "186",
+   "got": "186",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 加上 8 3 等于几？",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 加上 9 1 等于几？",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 3 0 等于几？",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 加上 7 9 等于几？",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 加上 8 9 等于几？",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 加上 4 7 等于几？",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 加上 1 0 等于几？",
+   "want": "23",
+   "got": "23",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 加上 1 5 等于几？",
+   "want": "67",
+   "got": "67",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 加上 4 3 等于几？",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 加上 7 7 等于几？",
+   "want": "172",
+   "got": "172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 加上 6 5 等于几？",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 加上 1 6 等于几？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 加上 5 6 等于几？",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 加上 5 7 等于几？",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 加上 1 0 等于几？",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 加上 2 6 等于几？",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 加上 1 1 等于几？",
+   "want": "41",
+   "got": "21",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 加上 7 2 等于几？",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 加上 9 3 等于几？",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4 加上 2 8 等于几？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 加上 2 9 等于几？",
+   "want": "76",
+   "got": "76",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 加上 8 7 等于几？",
+   "want": "167",
+   "got": "167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 加上 6 5 等于几？",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 加上 3 7 等于几？",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 加上 6 2 等于几？",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 加上 8 3 等于几？",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 加上 3 9 等于几？",
+   "want": "137",
+   "got": "137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 加上 6 8 等于几？",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 加上 4 4 等于几？",
+   "want": "58",
+   "got": "58",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 1 加上 3 9 等于几？",
+   "want": "130",
+   "got": "130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 加上 4 5 等于几？",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 加上 7 6 等于几？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 加上 3 0 等于几？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 加上 6 7 等于几？",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 加上 7 0 等于几？",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 4 加上 6 0 等于几？",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 加上 6 6 等于几？",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 加上 4 7 等于几？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7 加上 8 2 等于几？",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 加上 9 3 等于几？",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 加上 7 1 等于几？",
+   "want": "155",
+   "got": "155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 加上 3 7 等于几？",
+   "want": "50",
+   "got": "40",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5 加上 3 8 等于几？",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 加上 2 0 等于几？",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 加上 4 8 等于几？",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 加上 2 3 等于几？",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 加上 9 1 等于几？",
+   "want": "180",
+   "got": "180",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 加上 6 2 等于几？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 加上 5 7 等于几？",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 加上 7 1 等于几？",
+   "want": "129",
+   "got": "139",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 加上 6 0 等于几？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 加上 8 7 等于几？",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 2 2 等于几？",
+   "want": "38",
+   "got": "38",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 加上 9 4 等于几？",
+   "want": "115",
+   "got": "105",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 加上 9 6 等于几？",
+   "want": "157",
+   "got": "157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 加上 6 7 等于几？",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 加上 2 7 等于几？",
+   "want": "57",
+   "got": "57",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 加上 5 5 等于几？",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 加上 5 0 等于几？",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 加上 9 7 等于几？",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 加上 3 6 等于几？",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 加上 2 5 等于几？",
+   "want": "40",
+   "got": "30",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 加上 2 0 等于几？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 加上 2 6 等于几？",
+   "want": "69",
+   "got": "69",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 加上 1 7 等于几？",
+   "want": "36",
+   "got": "36",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 加上 6 2 等于几？",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 加上 4 2 等于几？",
+   "want": "65",
+   "got": "65",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 加上 4 0 等于几？",
+   "want": "111",
+   "got": "111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 加上 2 7 等于几？",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 加上 5 8 等于几？",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 6 加上 9 8 等于几？",
+   "want": "164",
+   "got": "164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 加上 1 1 等于几？",
+   "want": "32",
+   "got": "22",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 加上 6 4 等于几？",
+   "want": "87",
+   "got": "77",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 加上 3 6 等于几？",
+   "want": "91",
+   "got": "81",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 加上 2 5 等于几？",
+   "want": "111",
+   "got": "111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 加上 2 9 等于几？",
+   "want": "49",
+   "got": "49",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 加上 4 3 等于几？",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 加上 8 3 等于几？",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 加上 2 0 等于几？",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 加上 9 5 等于几？",
+   "want": "189",
+   "got": "199",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 加上 5 9 等于几？",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 加上 7 3 等于几？",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 加上 1 5 等于几？",
+   "want": "49",
+   "got": "49",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 加上 8 3 等于几？",
+   "want": "167",
+   "got": "167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 加上 1 8 等于几？",
+   "want": "39",
+   "got": "29",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 加上 4 3 等于几？",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 9 加上 5 6 等于几？",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 加上 7 5 等于几？",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 加上 1 8 等于几？",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 加上 8 6 等于几？",
+   "want": "171",
+   "got": "171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 加上 2 7 等于几？",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 加上 5 5 等于几？",
+   "want": "130",
+   "got": "130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 加上 1 2 等于几？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 1 1 等于几？",
+   "want": "27",
+   "got": "27",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 加上 8 2 等于几？",
+   "want": "143",
+   "got": "143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 加上 1 3 等于几？",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 4 6 等于几？",
+   "want": "62",
+   "got": "62",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4 加上 2 2 等于几？",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 加上 2 8 等于几？",
+   "want": "58",
+   "got": "58",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 加上 8 0 等于几？",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 加上 6 5 等于几？",
+   "want": "80",
+   "got": "70",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7 加上 1 7 等于几？",
+   "want": "34",
+   "got": "34",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 加上 7 5 等于几？",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 6 加上 5 7 等于几？",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 加上 2 7 等于几？",
+   "want": "55",
+   "got": "55",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 加上 5 5 等于几？",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 加上 2 7 等于几？",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 4 加上 6 5 等于几？",
+   "want": "129",
+   "got": "139",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2 加上 2 2 等于几？",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 加上 2 1 等于几？",
+   "want": "31",
+   "got": "31",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 加上 2 7 等于几？",
+   "want": "47",
+   "got": "47",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 加上 8 2 等于几？",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6 加上 2 2 等于几？",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 4 7 等于几？",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 加上 8 3 等于几？",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 加上 1 2 等于几？",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 加上 9 8 等于几？",
+   "want": "161",
+   "got": "161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 加上 8 8 等于几？",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 加上 1 9 等于几？",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 加上 4 4 等于几？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 加上 4 9 等于几？",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 8 加上 1 0 等于几？",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 加上 1 2 等于几？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 加上 3 7 等于几？",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 加上 7 7 等于几？",
+   "want": "144",
+   "got": "154",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 加上 9 2 等于几？",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 加上 2 9 等于几？",
+   "want": "73",
+   "got": "73",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 9 加上 2 5 等于几？",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 加上 7 8 等于几？",
+   "want": "174",
+   "got": "174",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 加上 6 5 等于几？",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 加上 5 8 等于几？",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 加上 5 2 等于几？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 加上 9 9 等于几？",
+   "want": "157",
+   "got": "158",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 加上 5 0 等于几？",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 加上 9 1 等于几？",
+   "want": "144",
+   "got": "144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 加上 6 1 等于几？",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 加上 7 1 等于几？",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 加上 3 6 等于几？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4 加上 5 3 等于几？",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 加上 6 9 等于几？",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 加上 3 9 等于几？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 加上 3 1 等于几？",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 加上 6 4 等于几？",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 加上 3 6 等于几？",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 加上 2 5 等于几？",
+   "want": "45",
+   "got": "45",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 加上 7 6 等于几？",
+   "want": "87",
+   "got": "872",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 2 加上 1 3 等于几？",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 2 加上 3 7 等于几？",
+   "want": "49",
+   "got": "49",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 加上 1 0 等于几？",
+   "want": "58",
+   "got": "58",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 加上 5 0 等于几？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 加上 8 0 等于几？",
+   "want": "152",
+   "got": "152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 加上 1 8 等于几？",
+   "want": "45",
+   "got": "45",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 加上 3 5 等于几？",
+   "want": "49",
+   "got": "49",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 7 4 等于几？",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 加上 6 1 等于几？",
+   "want": "109",
+   "got": "119",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 加上 5 4 等于几？",
+   "want": "99",
+   "got": "109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 1 加上 8 6 等于几？",
+   "want": "167",
+   "got": "167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 加上 7 3 等于几？",
+   "want": "166",
+   "got": "166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 加上 5 3 等于几？",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 加上 2 2 等于几？",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 加上 4 3 等于几？",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 加上 8 3 等于几？",
+   "want": "172",
+   "got": "172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 加上 1 8 等于几？",
+   "want": "45",
+   "got": "45",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 加上 2 6 等于几？",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 加上 4 3 等于几？",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 加上 5 7 等于几？",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 1 加上 8 0 等于几？",
+   "want": "171",
+   "got": "171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 8 加上 9 3 3 等于几？",
+   "want": "1211",
+   "got": "1211",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 5 加上 7 2 2 等于几？",
+   "want": "917",
+   "got": "917",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 2 加上 9 3 3 等于几？",
+   "want": "1325",
+   "got": "1325",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 5 加上 2 5 8 等于几？",
+   "want": "1193",
+   "got": "1193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 9 加上 3 9 5 等于几？",
+   "want": "1094",
+   "got": "1094",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 7 加上 7 9 7 等于几？",
+   "want": "1094",
+   "got": "1094",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 2 加上 7 7 0 等于几？",
+   "want": "1422",
+   "got": "1422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 1 加上 1 8 4 等于几？",
+   "want": "1105",
+   "got": "1105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 0 加上 7 8 0 等于几？",
+   "want": "1430",
+   "got": "1430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 4 加上 8 3 6 等于几？",
+   "want": "1610",
+   "got": "1610",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 9 加上 7 2 2 等于几？",
+   "want": "1141",
+   "got": "1141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 4 加上 7 1 7 等于几？",
+   "want": "1061",
+   "got": "1061",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 0 加上 5 7 8 等于几？",
+   "want": "1318",
+   "got": "1318",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 0 5 加上 4 8 5 等于几？",
+   "want": "1090",
+   "got": "1090",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 0 加上 3 8 2 等于几？",
+   "want": "782",
+   "got": "782",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 9 加上 8 5 2 等于几？",
+   "want": "1551",
+   "got": "1551",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 8 加上 4 6 9 等于几？",
+   "want": "777",
+   "got": "777",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 6 加上 2 3 0 等于几？",
+   "want": "456",
+   "got": "366",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 8 加上 1 8 4 等于几？",
+   "want": "382",
+   "got": "382",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 8 9 加上 9 1 4 等于几？",
+   "want": "1903",
+   "got": "1913",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 3 加上 6 2 4 等于几？",
+   "want": "1287",
+   "got": "1287",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 2 加上 8 4 3 等于几？",
+   "want": "1275",
+   "got": "1275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 7 加上 8 9 0 等于几？",
+   "want": "1507",
+   "got": "1507",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 6 加上 5 8 7 等于几？",
+   "want": "953",
+   "got": "953",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 8 加上 7 4 8 等于几？",
+   "want": "1176",
+   "got": "1176",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 5 加上 3 5 4 等于几？",
+   "want": "819",
+   "got": "819",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 6 加上 9 6 4 等于几？",
+   "want": "1240",
+   "got": "1240",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 2 加上 1 6 0 等于几？",
+   "want": "1042",
+   "got": "1042",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 5 加上 3 9 1 等于几？",
+   "want": "916",
+   "got": "916",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 5 加上 5 4 0 等于几？",
+   "want": "775",
+   "got": "675",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 8 加上 7 5 1 等于几？",
+   "want": "1559",
+   "got": "1569",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 5 加上 7 8 7 等于几？",
+   "want": "1692",
+   "got": "1692",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 5 加上 1 6 1 等于几？",
+   "want": "916",
+   "got": "916",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 3 加上 5 1 6 等于几？",
+   "want": "859",
+   "got": "859",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 2 加上 3 5 1 等于几？",
+   "want": "623",
+   "got": "623",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 4 加上 7 0 1 等于几？",
+   "want": "835",
+   "got": "835",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 9 加上 6 1 1 等于几？",
+   "want": "970",
+   "got": "970",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 2 加上 3 9 1 等于几？",
+   "want": "803",
+   "got": "803",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 4 3 加上 5 2 5 等于几？",
+   "want": "668",
+   "got": "668",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 5 7 加上 5 4 5 等于几？",
+   "want": "1402",
+   "got": "1402",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 3 加上 1 2 2 等于几？",
+   "want": "745",
+   "got": "745",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 2 加上 1 7 4 等于几？",
+   "want": "1106",
+   "got": "1106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 7 加上 6 0 0 等于几？",
+   "want": "1187",
+   "got": "1287",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 6 加上 7 0 7 等于几？",
+   "want": "1543",
+   "got": "1543",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 4 加上 8 8 4 等于几？",
+   "want": "1048",
+   "got": "1048",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 9 加上 9 1 1 等于几？",
+   "want": "1610",
+   "got": "1610",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 0 加上 9 0 0 等于几？",
+   "want": "1680",
+   "got": "1680",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 3 6 加上 5 7 0 等于几？",
+   "want": "1306",
+   "got": "1306",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 6 加上 5 4 6 等于几？",
+   "want": "872",
+   "got": "872",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 2 加上 1 8 8 等于几？",
+   "want": "930",
+   "got": "930",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 1 加上 9 3 8 等于几？",
+   "want": "1219",
+   "got": "1219",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 6 加上 9 2 5 等于几？",
+   "want": "1161",
+   "got": "1061",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 7 加上 8 0 0 等于几？",
+   "want": "1167",
+   "got": "1167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 7 加上 7 2 9 等于几？",
+   "want": "1236",
+   "got": "1236",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 5 加上 5 5 0 等于几？",
+   "want": "1015",
+   "got": "1015",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 1 加上 6 7 9 等于几？",
+   "want": "1040",
+   "got": "1040",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 7 加上 9 5 6 等于几？",
+   "want": "1603",
+   "got": "1603",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 8 加上 8 9 8 等于几？",
+   "want": "1746",
+   "got": "1746",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 8 加上 2 1 8 等于几？",
+   "want": "326",
+   "got": "326",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 9 加上 1 0 1 等于几？",
+   "want": "660",
+   "got": "690",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 9 加上 9 6 4 等于几？",
+   "want": "1793",
+   "got": "1793",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 2 加上 6 7 5 等于几？",
+   "want": "1627",
+   "got": "1627",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 9 加上 3 5 7 等于几？",
+   "want": "726",
+   "got": "726",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 6 加上 5 5 2 等于几？",
+   "want": "1518",
+   "got": "1518",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 9 加上 4 8 5 等于几？",
+   "want": "824",
+   "got": "824",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 7 加上 1 4 1 等于几？",
+   "want": "278",
+   "got": "278",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 0 2 加上 2 7 1 等于几？",
+   "want": "873",
+   "got": "873",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 2 加上 7 9 6 等于几？",
+   "want": "1618",
+   "got": "1618",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 4 加上 9 1 9 等于几？",
+   "want": "1353",
+   "got": "1353",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 2 加上 7 1 8 等于几？",
+   "want": "1580",
+   "got": "1580",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 8 加上 2 3 3 等于几？",
+   "want": "481",
+   "got": "481",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 1 加上 6 6 0 等于几？",
+   "want": "881",
+   "got": "870",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 6 加上 7 7 8 等于几？",
+   "want": "1364",
+   "got": "1464",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 1 加上 8 5 0 等于几？",
+   "want": "1801",
+   "got": "1801",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 4 加上 4 1 6 等于几？",
+   "want": "1090",
+   "got": "1090",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 2 加上 5 6 9 等于几？",
+   "want": "1311",
+   "got": "1311",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 6 加上 3 5 1 等于几？",
+   "want": "657",
+   "got": "657",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 9 加上 7 4 6 等于几？",
+   "want": "1405",
+   "got": "1405",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 4 加上 8 7 5 等于几？",
+   "want": "1739",
+   "got": "1749",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 9 4 加上 6 8 1 等于几？",
+   "want": "1275",
+   "got": "1275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 2 加上 7 3 4 等于几？",
+   "want": "1486",
+   "got": "1486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 0 加上 6 6 5 等于几？",
+   "want": "1525",
+   "got": "1525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 9 加上 1 6 7 等于几？",
+   "want": "886",
+   "got": "886",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 0 3 加上 5 7 8 等于几？",
+   "want": "1181",
+   "got": "1181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 6 加上 8 5 0 等于几？",
+   "want": "1226",
+   "got": "1226",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 1 加上 4 5 2 等于几？",
+   "want": "1263",
+   "got": "1263",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 0 加上 7 7 5 等于几？",
+   "want": "1385",
+   "got": "1385",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 6 加上 8 6 7 等于几？",
+   "want": "1303",
+   "got": "1203",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 8 加上 9 0 9 等于几？",
+   "want": "1127",
+   "got": "1127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 1 加上 2 1 5 等于几？",
+   "want": "1056",
+   "got": "1056",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 2 加上 6 2 0 等于几？",
+   "want": "872",
+   "got": "872",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 9 加上 8 4 0 等于几？",
+   "want": "1499",
+   "got": "1599",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 9 加上 3 6 7 等于几？",
+   "want": "1046",
+   "got": "1046",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 7 加上 9 8 9 等于几？",
+   "want": "1096",
+   "got": "1096",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 4 加上 3 8 7 等于几？",
+   "want": "641",
+   "got": "641",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 7 加上 7 8 2 等于几？",
+   "want": "1179",
+   "got": "1189",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 5 加上 2 5 1 等于几？",
+   "want": "806",
+   "got": "7066",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "9 3 6 加上 4 1 0 等于几？",
+   "want": "1346",
+   "got": "1346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 9 加上 5 2 5 等于几？",
+   "want": "1044",
+   "got": "1044",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 7 加上 2 5 9 等于几？",
+   "want": "766",
+   "got": "766",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 2 加上 8 5 3 等于几？",
+   "want": "975",
+   "got": "975",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 4 加上 7 9 2 等于几？",
+   "want": "1456",
+   "got": "1456",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 4 加上 3 4 4 等于几？",
+   "want": "548",
+   "got": "548",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 1 加上 7 6 2 等于几？",
+   "want": "1443",
+   "got": "1443",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 5 0 加上 5 2 1 等于几？",
+   "want": "1371",
+   "got": "1371",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 2 加上 1 9 4 等于几？",
+   "want": "346",
+   "got": "346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 1 加上 1 2 1 等于几？",
+   "want": "632",
+   "got": "632",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 7 加上 7 8 3 等于几？",
+   "want": "1610",
+   "got": "1610",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 4 加上 4 0 0 等于几？",
+   "want": "1124",
+   "got": "1124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 9 加上 8 8 9 等于几？",
+   "want": "1698",
+   "got": "1698",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 8 加上 3 1 2 等于几？",
+   "want": "720",
+   "got": "720",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 5 加上 1 7 4 等于几？",
+   "want": "1069",
+   "got": "1079",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 0 加上 8 7 3 等于几？",
+   "want": "1593",
+   "got": "1593",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 8 加上 8 7 9 等于几？",
+   "want": "1577",
+   "got": "1577",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 7 加上 1 9 4 等于几？",
+   "want": "1091",
+   "got": "1091",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 8 加上 8 1 8 等于几？",
+   "want": "1086",
+   "got": "1086",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 8 加上 3 0 1 等于几？",
+   "want": "1169",
+   "got": "1179",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 5 加上 4 2 2 等于几？",
+   "want": "687",
+   "got": "687",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 8 加上 4 2 2 等于几？",
+   "want": "680",
+   "got": "680",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 1 加上 7 6 2 等于几？",
+   "want": "1413",
+   "got": "1413",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 0 加上 9 4 4 等于几？",
+   "want": "1894",
+   "got": "1894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 1 加上 6 2 8 等于几？",
+   "want": "1439",
+   "got": "1449",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 0 加上 1 1 4 等于几？",
+   "want": "884",
+   "got": "884",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 6 加上 5 3 5 等于几？",
+   "want": "711",
+   "got": "711",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 9 加上 8 3 9 等于几？",
+   "want": "1468",
+   "got": "1468",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 5 加上 4 8 0 等于几？",
+   "want": "1045",
+   "got": "1045",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 7 加上 2 3 6 等于几？",
+   "want": "1073",
+   "got": "1073",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 4 加上 5 0 7 等于几？",
+   "want": "761",
+   "got": "761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 6 加上 4 4 7 等于几？",
+   "want": "693",
+   "got": "693",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 7 加上 6 4 9 等于几？",
+   "want": "1546",
+   "got": "1546",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 1 加上 7 9 5 等于几？",
+   "want": "1576",
+   "got": "1576",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 6 加上 9 1 1 等于几？",
+   "want": "1477",
+   "got": "1477",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 6 加上 3 2 8 等于几？",
+   "want": "1174",
+   "got": "1174",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 5 加上 6 1 3 等于几？",
+   "want": "1148",
+   "got": "1148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 8 加上 7 3 5 等于几？",
+   "want": "1463",
+   "got": "1563",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 5 加上 2 3 4 等于几？",
+   "want": "589",
+   "got": "589",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 6 加上 1 8 6 等于几？",
+   "want": "672",
+   "got": "672",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 3 加上 5 2 4 等于几？",
+   "want": "787",
+   "got": "787",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 4 加上 2 6 2 等于几？",
+   "want": "846",
+   "got": "846",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 2 加上 1 0 0 等于几？",
+   "want": "232",
+   "got": "232",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 9 加上 4 8 1 等于几？",
+   "want": "1390",
+   "got": "1390",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 0 加上 8 6 0 等于几？",
+   "want": "1480",
+   "got": "1480",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 0 5 加上 9 9 9 等于几？",
+   "want": "1604",
+   "got": "1504",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 5 加上 3 8 5 等于几？",
+   "want": "1280",
+   "got": "1280",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 0 加上 8 3 4 等于几？",
+   "want": "1714",
+   "got": "1714",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 9 加上 3 2 2 等于几？",
+   "want": "1171",
+   "got": "1171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 4 加上 3 2 0 等于几？",
+   "want": "644",
+   "got": "644",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 0 加上 1 9 0 等于几？",
+   "want": "980",
+   "got": "980",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 8 加上 5 0 5 等于几？",
+   "want": "803",
+   "got": "703",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 6 加上 6 1 0 等于几？",
+   "want": "1526",
+   "got": "1526",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 0 加上 9 7 5 等于几？",
+   "want": "1515",
+   "got": "1515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 7 加上 1 9 0 等于几？",
+   "want": "817",
+   "got": "817",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 1 加上 3 2 5 等于几？",
+   "want": "596",
+   "got": "596",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 8 加上 7 3 3 等于几？",
+   "want": "1661",
+   "got": "1661",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 4 4 加上 5 8 6 等于几？",
+   "want": "1030",
+   "got": "1030",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 6 加上 1 6 7 等于几？",
+   "want": "523",
+   "got": "523",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 5 加上 7 5 0 等于几？",
+   "want": "1645",
+   "got": "1645",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 7 加上 2 5 6 等于几？",
+   "want": "833",
+   "got": "833",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 9 加上 4 4 8 等于几？",
+   "want": "837",
+   "got": "837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 9 3 加上 7 2 6 等于几？",
+   "want": "1319",
+   "got": "1329",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 2 加上 6 6 5 等于几？",
+   "want": "987",
+   "got": "987",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 1 加上 5 1 6 等于几？",
+   "want": "1267",
+   "got": "1267",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 4 加上 2 6 8 等于几？",
+   "want": "1032",
+   "got": "1032",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 5 加上 7 2 2 等于几？",
+   "want": "947",
+   "got": "977",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 1 加上 9 8 5 等于几？",
+   "want": "1676",
+   "got": "1676",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 9 9 加上 5 5 8 等于几？",
+   "want": "1157",
+   "got": "1157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 4 加上 8 9 0 等于几？",
+   "want": "1584",
+   "got": "1584",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 8 加上 2 5 1 等于几？",
+   "want": "939",
+   "got": "949",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 4 加上 2 9 4 等于几？",
+   "want": "938",
+   "got": "938",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 6 加上 8 3 7 等于几？",
+   "want": "1203",
+   "got": "1103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 4 加上 1 8 6 等于几？",
+   "want": "1100",
+   "got": "1100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 8 加上 1 4 9 等于几？",
+   "want": "777",
+   "got": "777",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 9 加上 3 1 9 等于几？",
+   "want": "828",
+   "got": "828",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 9 加上 5 9 9 等于几？",
+   "want": "1248",
+   "got": "1248",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 9 加上 3 8 8 等于几？",
+   "want": "677",
+   "got": "677",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 8 加上 5 0 1 等于几？",
+   "want": "1199",
+   "got": "1209",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 2 加上 1 4 1 等于几？",
+   "want": "613",
+   "got": "613",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 6 加上 5 8 9 等于几？",
+   "want": "785",
+   "got": "785",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 5 加上 4 8 5 等于几？",
+   "want": "1010",
+   "got": "1010",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 6 加上 2 2 1 等于几？",
+   "want": "537",
+   "got": "537",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 2 加上 9 2 9 等于几？",
+   "want": "1421",
+   "got": "1421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 3 加上 2 6 3 等于几？",
+   "want": "1056",
+   "got": "1056",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 5 加上 6 5 9 等于几？",
+   "want": "1214",
+   "got": "12144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 7 1 加上 4 0 7 等于几？",
+   "want": "878",
+   "got": "878",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 8 加上 1 6 0 等于几？",
+   "want": "778",
+   "got": "778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 2 加上 9 4 5 等于几？",
+   "want": "1267",
+   "got": "1267",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 5 加上 4 8 1 等于几？",
+   "want": "1316",
+   "got": "1316",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 8 加上 3 6 0 等于几？",
+   "want": "518",
+   "got": "518",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 0 加上 8 8 3 等于几？",
+   "want": "1443",
+   "got": "1443",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 9 加上 1 6 8 等于几？",
+   "want": "697",
+   "got": "697",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 9 加上 4 7 7 等于几？",
+   "want": "636",
+   "got": "636",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 9 加上 6 5 0 等于几？",
+   "want": "1279",
+   "got": "1279",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 3 加上 7 3 2 等于几？",
+   "want": "905",
+   "got": "905",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 6 加上 7 9 4 等于几？",
+   "want": "960",
+   "got": "960",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 6 加上 3 0 6 等于几？",
+   "want": "842",
+   "got": "842",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 9 加上 1 2 9 等于几？",
+   "want": "508",
+   "got": "408",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 3 加上 9 2 7 等于几？",
+   "want": "1880",
+   "got": "1880",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 2 加上 7 3 2 等于几？",
+   "want": "1204",
+   "got": "1204",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 5 加上 6 4 8 等于几？",
+   "want": "873",
+   "got": "893",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 6 加上 2 0 6 等于几？",
+   "want": "332",
+   "got": "332",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 6 9 加上 2 9 0 2 等于几？",
+   "want": "11271",
+   "got": "11271",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 7 1 加上 8 1 5 0 等于几？",
+   "want": "13621",
+   "got": "13621",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 4 6 加上 6 5 9 6 等于几？",
+   "want": "7942",
+   "got": "7942",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 8 5 加上 8 8 2 6 等于几？",
+   "want": "12311",
+   "got": "12311",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 2 0 加上 6 4 7 6 等于几？",
+   "want": "14296",
+   "got": "14296",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 5 0 加上 1 7 1 8 等于几？",
+   "want": "7268",
+   "got": "6238",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 8 7 加上 3 5 0 7 等于几？",
+   "want": "6794",
+   "got": "6794",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 4 5 加上 7 6 3 3 等于几？",
+   "want": "16678",
+   "got": "16678",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 8 9 加上 2 3 1 9 等于几？",
+   "want": "11808",
+   "got": "11808",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 5 7 加上 3 8 5 6 等于几？",
+   "want": "12213",
+   "got": "12213",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 2 8 加上 7 5 1 4 等于几？",
+   "want": "10942",
+   "got": "10942",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 1 9 加上 2 2 2 2 等于几？",
+   "want": "8841",
+   "got": "8841",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 8 2 加上 3 7 5 2 等于几？",
+   "want": "11434",
+   "got": "11434",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 8 1 加上 9 6 8 3 等于几？",
+   "want": "15264",
+   "got": "15394",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 4 3 加上 8 2 1 2 等于几？",
+   "want": "17255",
+   "got": "17255",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 5 9 4 加上 2 8 9 7 等于几？",
+   "want": "5491",
+   "got": "5491",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 6 8 加上 3 1 3 0 等于几？",
+   "want": "6998",
+   "got": "7098",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 0 0 加上 8 9 8 5 等于几？",
+   "want": "14885",
+   "got": "14885",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 5 2 加上 3 7 3 0 等于几？",
+   "want": "13082",
+   "got": "13082",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 8 5 加上 4 2 3 6 等于几？",
+   "want": "7921",
+   "got": "7921",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 1 5 加上 6 8 1 5 等于几？",
+   "want": "12830",
+   "got": "12830",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 9 4 加上 7 2 9 6 等于几？",
+   "want": "10890",
+   "got": "10890",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 2 1 加上 8 8 1 1 等于几？",
+   "want": "9832",
+   "got": "9832",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 5 8 加上 8 0 3 1 等于几？",
+   "want": "13889",
+   "got": "13989",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 0 5 加上 2 6 6 7 等于几？",
+   "want": "5072",
+   "got": "4072",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 3 1 加上 5 6 9 2 等于几？",
+   "want": "14923",
+   "got": "14923",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 2 5 加上 3 2 7 4 等于几？",
+   "want": "12499",
+   "got": "12509",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 0 4 加上 8 3 4 1 等于几？",
+   "want": "9645",
+   "got": "9645",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 5 7 加上 6 7 0 4 等于几？",
+   "want": "14861",
+   "got": "14861",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 4 8 加上 5 7 5 3 等于几？",
+   "want": "8201",
+   "got": "8201",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 3 0 加上 6 7 9 3 等于几？",
+   "want": "9823",
+   "got": "9823",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 7 2 加上 2 0 7 1 等于几？",
+   "want": "8043",
+   "got": "7043",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 3 5 加上 7 6 7 1 等于几？",
+   "want": "12506",
+   "got": "12506",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 1 2 加上 1 4 0 8 等于几？",
+   "want": "6520",
+   "got": "6520",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 8 5 加上 5 4 3 3 等于几？",
+   "want": "7818",
+   "got": "7818",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 0 4 加上 2 1 2 2 等于几？",
+   "want": "11726",
+   "got": "11726",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 5 7 加上 1 9 9 3 等于几？",
+   "want": "6750",
+   "got": "6750",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 3 4 加上 3 7 3 4 等于几？",
+   "want": "9068",
+   "got": "8068",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 3 2 加上 2 3 1 2 等于几？",
+   "want": "11544",
+   "got": "11544",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 7 6 加上 3 3 4 3 等于几？",
+   "want": "11319",
+   "got": "11329",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 8 7 加上 4 6 6 1 等于几？",
+   "want": "13148",
+   "got": "13148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 8 0 加上 6 7 5 4 等于几？",
+   "want": "9934",
+   "got": "9934",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 5 5 加上 5 7 9 1 等于几？",
+   "want": "10846",
+   "got": "10846",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 1 1 加上 5 2 1 5 等于几？",
+   "want": "10726",
+   "got": "10726",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 2 0 加上 5 6 8 7 等于几？",
+   "want": "10207",
+   "got": "10207",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 0 8 加上 1 9 7 2 等于几？",
+   "want": "11380",
+   "got": "11380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 9 5 4 加上 5 2 2 2 等于几？",
+   "want": "12176",
+   "got": "12176",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 1 8 加上 6 6 2 6 等于几？",
+   "want": "9544",
+   "got": "9544",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 3 9 加上 6 1 7 0 等于几？",
+   "want": "14809",
+   "got": "14819",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 7 3 加上 9 0 2 1 等于几？",
+   "want": "18194",
+   "got": "18294",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 9 4 3 加上 1 1 8 8 等于几？",
+   "want": "5131",
+   "got": "5131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 5 7 加上 3 0 7 3 等于几？",
+   "want": "8030",
+   "got": "8030",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 9 6 2 加上 2 0 9 8 等于几？",
+   "want": "4060",
+   "got": "3060",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 3 0 加上 4 9 1 7 等于几？",
+   "want": "12647",
+   "got": "12647",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 9 3 加上 6 9 2 0 等于几？",
+   "want": "12613",
+   "got": "12613",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 2 5 1 加上 9 9 6 6 等于几？",
+   "want": "15217",
+   "got": "15217",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 7 5 加上 9 7 3 9 等于几？",
+   "want": "13014",
+   "got": "12014",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 0 3 加上 3 4 0 9 等于几？",
+   "want": "8912",
+   "got": "8812",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 9 2 加上 3 9 7 9 等于几？",
+   "want": "5471",
+   "got": "5471",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 1 9 加上 9 8 8 0 等于几？",
+   "want": "13599",
+   "got": "13599",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 1 7 加上 6 5 8 4 等于几？",
+   "want": "10601",
+   "got": "10501",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 1 2 加上 2 1 8 6 等于几？",
+   "want": "8298",
+   "got": "8398",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 3 7 加上 8 2 0 3 等于几？",
+   "want": "15440",
+   "got": "15440",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 2 1 加上 5 8 8 6 等于几？",
+   "want": "14207",
+   "got": "14207",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 8 8 加上 7 7 4 4 等于几？",
+   "want": "11832",
+   "got": "11832",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 3 0 加上 2 5 4 6 等于几？",
+   "want": "8176",
+   "got": "8176",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 5 3 加上 5 4 6 9 等于几？",
+   "want": "10222",
+   "got": "10222",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 2 1 加上 8 1 8 6 等于几？",
+   "want": "16407",
+   "got": "16407",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 3 4 加上 9 3 6 0 等于几？",
+   "want": "12894",
+   "got": "12894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 5 2 加上 4 2 2 3 等于几？",
+   "want": "5475",
+   "got": "5475",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 0 1 加上 4 2 9 1 等于几？",
+   "want": "9092",
+   "got": "9092",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 5 0 加上 2 9 9 6 等于几？",
+   "want": "10046",
+   "got": "9046",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 8 4 6 加上 5 3 6 2 等于几？",
+   "want": "9208",
+   "got": "9208",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 5 7 加上 7 1 9 8 等于几？",
+   "want": "12155",
+   "got": "12155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 8 6 1 加上 2 6 0 8 等于几？",
+   "want": "4469",
+   "got": "4469",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 8 4 加上 8 4 0 5 等于几？",
+   "want": "11489",
+   "got": "11499",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 8 8 加上 4 7 9 9 等于几？",
+   "want": "10287",
+   "got": "10287",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 7 3 加上 5 3 6 5 等于几？",
+   "want": "6638",
+   "got": "6638",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 4 4 加上 1 7 1 6 等于几？",
+   "want": "10160",
+   "got": "10160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 7 5 加上 6 3 3 6 等于几？",
+   "want": "11111",
+   "got": "11111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 0 8 加上 6 9 7 5 等于几？",
+   "want": "12383",
+   "got": "12383",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 1 7 加上 7 1 6 0 等于几？",
+   "want": "15577",
+   "got": "15577",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 1 2 加上 3 9 3 0 等于几？",
+   "want": "7742",
+   "got": "7742",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 2 9 加上 6 2 3 8 等于几？",
+   "want": "12767",
+   "got": "12767",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 3 3 加上 2 2 3 7 等于几？",
+   "want": "6870",
+   "got": "6870",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 9 8 加上 9 9 9 5 等于几？",
+   "want": "11793",
+   "got": "11793",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 8 9 加上 1 5 8 3 等于几？",
+   "want": "7872",
+   "got": "7872",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 5 0 加上 4 9 4 6 等于几？",
+   "want": "8996",
+   "got": "8996",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 8 3 0 加上 6 4 3 3 等于几？",
+   "want": "8263",
+   "got": "8263",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 7 8 加上 8 6 8 1 等于几？",
+   "want": "15759",
+   "got": "15759",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 0 6 加上 2 8 3 0 等于几？",
+   "want": "12436",
+   "got": "12436",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 8 7 加上 1 6 3 1 等于几？",
+   "want": "9318",
+   "got": "9318",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 0 2 加上 6 1 9 1 等于几？",
+   "want": "9993",
+   "got": "10993",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "2 7 2 2 加上 7 8 4 3 等于几？",
+   "want": "10565",
+   "got": "10565",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 1 7 加上 3 6 3 7 等于几？",
+   "want": "11954",
+   "got": "11954",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 7 9 加上 5 2 9 5 等于几？",
+   "want": "14974",
+   "got": "14974",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 1 3 加上 9 3 5 9 等于几？",
+   "want": "13872",
+   "got": "13872",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 9 3 加上 9 1 9 0 等于几？",
+   "want": "15183",
+   "got": "15183",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 9 4 7 加上 2 6 8 9 等于几？",
+   "want": "6636",
+   "got": "6636",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 5 6 加上 2 3 6 4 等于几？",
+   "want": "5920",
+   "got": "5920",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 5 7 加上 3 8 8 7 等于几？",
+   "want": "5944",
+   "got": "5944",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 2 1 加上 7 9 0 5 等于几？",
+   "want": "14026",
+   "got": "14026",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 3 8 加上 1 4 2 6 等于几？",
+   "want": "4964",
+   "got": "3964",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 8 0 加上 2 4 4 8 等于几？",
+   "want": "6928",
+   "got": "6928",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 8 0 加上 2 9 6 7 等于几？",
+   "want": "11647",
+   "got": "11647",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 0 9 加上 9 0 4 2 等于几？",
+   "want": "15451",
+   "got": "15451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 6 3 加上 7 7 6 7 等于几？",
+   "want": "9130",
+   "got": "8130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 9 1 加上 7 3 6 0 等于几？",
+   "want": "11751",
+   "got": "11751",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 5 6 加上 9 0 7 0 等于几？",
+   "want": "14726",
+   "got": "14726",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 8 5 加上 1 4 2 7 等于几？",
+   "want": "7412",
+   "got": "7412",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 9 7 2 加上 3 0 1 9 等于几？",
+   "want": "9991",
+   "got": "10991",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "5 2 3 7 加上 9 9 6 4 等于几？",
+   "want": "15201",
+   "got": "15201",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 6 1 加上 6 4 2 9 等于几？",
+   "want": "11490",
+   "got": "11490",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 4 8 加上 4 4 3 2 等于几？",
+   "want": "8080",
+   "got": "8080",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 9 2 加上 9 5 2 2 等于几？",
+   "want": "13014",
+   "got": "13014",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 8 3 加上 9 7 2 8 等于几？",
+   "want": "13411",
+   "got": "13411",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 0 2 加上 8 7 8 5 等于几？",
+   "want": "15887",
+   "got": "15887",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 8 1 加上 6 7 5 2 等于几？",
+   "want": "10233",
+   "got": "10233",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 8 6 加上 7 8 6 7 等于几？",
+   "want": "16953",
+   "got": "16953",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 8 4 加上 6 5 4 7 等于几？",
+   "want": "15531",
+   "got": "15531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 6 8 加上 6 4 3 1 等于几？",
+   "want": "11299",
+   "got": "11399",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 5 6 加上 1 0 1 6 等于几？",
+   "want": "4172",
+   "got": "2172",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 2 8 加上 5 8 3 3 等于几？",
+   "want": "12961",
+   "got": "12961",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 9 2 7 加上 9 2 5 0 等于几？",
+   "want": "11177",
+   "got": "11177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 5 1 加上 7 6 9 7 等于几？",
+   "want": "12648",
+   "got": "12648",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 3 8 加上 1 6 2 9 等于几？",
+   "want": "8867",
+   "got": "8867",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 8 5 加上 4 4 4 7 等于几？",
+   "want": "7732",
+   "got": "7732",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 1 7 加上 3 5 6 9 等于几？",
+   "want": "6286",
+   "got": "6286",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 6 7 加上 3 7 2 4 等于几？",
+   "want": "8291",
+   "got": "8291",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 5 7 加上 4 3 2 1 等于几？",
+   "want": "6778",
+   "got": "6778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 8 5 加上 3 3 8 9 等于几？",
+   "want": "10574",
+   "got": "10574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 8 1 加上 7 8 3 9 等于几？",
+   "want": "16520",
+   "got": "16520",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 2 1 加上 4 8 6 2 等于几？",
+   "want": "9283",
+   "got": "9283",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 0 3 加上 1 1 8 0 等于几？",
+   "want": "3383",
+   "got": "2293",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 0 9 加上 5 5 9 4 等于几？",
+   "want": "7203",
+   "got": "7103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 3 7 加上 6 1 3 3 等于几？",
+   "want": "8170",
+   "got": "8170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 3 4 加上 2 3 8 6 等于几？",
+   "want": "8220",
+   "got": "8220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 3 6 加上 7 8 8 0 等于几？",
+   "want": "15116",
+   "got": "15116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 6 4 加上 3 0 3 2 等于几？",
+   "want": "11896",
+   "got": "11996",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 7 0 加上 6 7 7 8 等于几？",
+   "want": "8548",
+   "got": "8548",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 2 1 加上 5 9 4 8 等于几？",
+   "want": "9969",
+   "got": "9969",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 3 0 加上 2 0 9 1 等于几？",
+   "want": "10721",
+   "got": "10721",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 0 2 加上 1 8 0 7 等于几？",
+   "want": "3309",
+   "got": "3309",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 9 9 加上 7 6 1 7 等于几？",
+   "want": "9216",
+   "got": "9216",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 4 2 加上 5 1 1 0 等于几？",
+   "want": "7152",
+   "got": "6152",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 7 0 加上 3 1 6 9 等于几？",
+   "want": "12739",
+   "got": "12739",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 1 3 加上 1 6 9 7 等于几？",
+   "want": "11110",
+   "got": "11110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 4 7 加上 2 3 7 1 等于几？",
+   "want": "5118",
+   "got": "5118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 3 8 加上 2 8 2 5 等于几？",
+   "want": "4863",
+   "got": "4863",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 3 9 加上 4 3 5 2 等于几？",
+   "want": "5891",
+   "got": "5991",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 9 0 加上 2 5 6 6 等于几？",
+   "want": "10456",
+   "got": "10456",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 9 1 加上 3 7 1 3 等于几？",
+   "want": "10504",
+   "got": "10504",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 4 0 加上 6 0 4 2 等于几？",
+   "want": "7682",
+   "got": "7682",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 2 3 加上 8 5 8 0 等于几？",
+   "want": "12703",
+   "got": "12703",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 1 1 加上 1 0 5 1 等于几？",
+   "want": "2362",
+   "got": "2362",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 1 9 加上 5 0 5 0 等于几？",
+   "want": "13569",
+   "got": "13569",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 5 3 加上 2 4 9 1 等于几？",
+   "want": "11944",
+   "got": "12944",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 2 5 加上 5 7 4 2 等于几？",
+   "want": "10067",
+   "got": "10067",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 9 2 加上 8 5 8 4 等于几？",
+   "want": "11676",
+   "got": "11676",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 8 5 加上 4 3 7 4 等于几？",
+   "want": "5959",
+   "got": "5959",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 2 0 加上 1 5 0 6 等于几？",
+   "want": "7526",
+   "got": "7526",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 1 2 加上 1 2 1 2 等于几？",
+   "want": "3424",
+   "got": "2334",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 3 8 加上 4 7 4 7 等于几？",
+   "want": "7885",
+   "got": "7885",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 5 3 加上 8 1 8 3 等于几？",
+   "want": "12536",
+   "got": "12536",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 7 2 加上 2 4 3 4 等于几？",
+   "want": "11506",
+   "got": "11506",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 3 5 加上 6 7 0 6 等于几？",
+   "want": "9441",
+   "got": "9441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 2 5 加上 2 2 6 4 等于几？",
+   "want": "5789",
+   "got": "5789",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 1 5 加上 6 7 6 9 等于几？",
+   "want": "8084",
+   "got": "7084",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 8 1 加上 3 7 8 6 等于几？",
+   "want": "10167",
+   "got": "10167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 0 3 加上 8 5 4 0 等于几？",
+   "want": "13843",
+   "got": "13843",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 0 1 加上 2 7 3 2 等于几？",
+   "want": "8033",
+   "got": "7033",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 1 6 加上 1 1 1 4 等于几？",
+   "want": "9430",
+   "got": "9430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 8 4 加上 1 3 2 8 等于几？",
+   "want": "7712",
+   "got": "7712",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 6 2 加上 3 5 9 5 等于几？",
+   "want": "5357",
+   "got": "5357",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 8 3 加上 1 4 3 0 等于几？",
+   "want": "6913",
+   "got": "6913",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 8 4 加上 2 9 2 9 等于几？",
+   "want": "12613",
+   "got": "12613",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 9 5 加上 5 0 4 2 等于几？",
+   "want": "10237",
+   "got": "10237",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 3 3 加上 8 1 3 9 等于几？",
+   "want": "11572",
+   "got": "11572",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 3 2 加上 7 2 6 0 等于几？",
+   "want": "14592",
+   "got": "14592",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 2 3 加上 3 4 2 9 等于几？",
+   "want": "6552",
+   "got": "6552",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 9 7 加上 6 8 3 8 等于几？",
+   "want": "9935",
+   "got": "9935",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 5 0 加上 1 7 0 0 等于几？",
+   "want": "11150",
+   "got": "11150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 7 6 加上 5 7 9 5 等于几？",
+   "want": "15571",
+   "got": "15571",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 6 8 加上 7 2 5 2 等于几？",
+   "want": "10120",
+   "got": "10120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 9 2 加上 7 8 9 0 等于几？",
+   "want": "17382",
+   "got": "17382",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 9 4 加上 7 9 3 2 等于几？",
+   "want": "9226",
+   "got": "9226",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 5 7 加上 1 3 4 7 等于几？",
+   "want": "10204",
+   "got": "10204",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 9 1 加上 3 5 8 2 等于几？",
+   "want": "5873",
+   "got": "6793",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 7 2 加上 6 6 4 3 等于几？",
+   "want": "9915",
+   "got": "9915",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 5 8 加上 5 4 6 3 等于几？",
+   "want": "15021",
+   "got": "15021",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 0 2 加上 1 5 2 2 等于几？",
+   "want": "5724",
+   "got": "5724",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 1 9 加上 5 6 5 7 等于几？",
+   "want": "7676",
+   "got": "7676",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 3 3 加上 9 4 9 3 等于几？",
+   "want": "11526",
+   "got": "11526",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 5 3 加上 2 5 9 5 等于几？",
+   "want": "9448",
+   "got": "9448",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 6 1 加上 2 8 7 6 等于几？",
+   "want": "6937",
+   "got": "6937",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 7 1 加上 9 0 7 7 等于几？",
+   "want": "10548",
+   "got": "10548",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 0 1 加上 3 3 2 2 等于几？",
+   "want": "8223",
+   "got": "8223",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 1 4 加上 6 6 1 8 等于几？",
+   "want": "8832",
+   "got": "8762",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 4 1 加上 9 2 7 9 等于几？",
+   "want": "17820",
+   "got": "17820",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 7 8 加上 1 4 6 6 等于几？",
+   "want": "7044",
+   "got": "7944",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 4 8 3 加上 6 5 1 0 4 等于几？",
+   "want": "114587",
+   "got": "114587",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 7 0 5 加上 9 4 0 5 8 等于几？",
+   "want": "182763",
+   "got": "182763",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 1 7 8 9 加上 5 7 1 4 9 等于几？",
+   "want": "108938",
+   "got": "108938",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 2 4 1 加上 6 7 8 1 3 等于几？",
+   "want": "159054",
+   "got": "159054",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 8 6 7 2 加上 1 7 4 0 0 等于几？",
+   "want": "56072",
+   "got": "56072",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 1 9 4 加上 1 5 7 9 8 等于几？",
+   "want": "71992",
+   "got": "71992",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 0 9 4 加上 9 1 4 7 3 等于几？",
+   "want": "153567",
+   "got": "153567",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 7 5 6 加上 1 9 7 5 2 等于几？",
+   "want": "42508",
+   "got": "47414",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 1 4 4 加上 2 6 5 7 0 等于几？",
+   "want": "62714",
+   "got": "62714",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 8 5 6 加上 8 0 5 6 6 等于几？",
+   "want": "105422",
+   "got": "105422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 1 3 9 加上 1 0 9 7 6 等于几？",
+   "want": "65115",
+   "got": "65115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 7 0 3 加上 5 7 0 2 9 等于几？",
+   "want": "147732",
+   "got": "147732",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 6 6 5 加上 1 9 2 9 6 等于几？",
+   "want": "116961",
+   "got": "116961",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 4 8 5 加上 7 1 1 7 7 等于几？",
+   "want": "100662",
+   "got": "100662",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 6 4 0 加上 1 7 1 9 6 等于几？",
+   "want": "47836",
+   "got": "27836",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 9 3 9 加上 3 6 9 3 4 等于几？",
+   "want": "49873",
+   "got": "49873",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 7 3 5 加上 3 3 7 6 8 等于几？",
+   "want": "113503",
+   "got": "113503",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 0 2 9 加上 5 6 4 1 6 等于几？",
+   "want": "96445",
+   "got": "96445",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 0 8 3 6 加上 4 2 0 3 1 等于几？",
+   "want": "122867",
+   "got": "122867",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 8 4 3 加上 5 7 8 7 8 等于几？",
+   "want": "68721",
+   "got": "68721",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 0 7 4 3 加上 6 3 7 8 3 等于几？",
+   "want": "134526",
+   "got": "134526",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 8 3 0 加上 5 3 9 7 3 等于几？",
+   "want": "80803",
+   "got": "70803",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 3 8 8 加上 7 8 2 5 1 等于几？",
+   "want": "149639",
+   "got": "159649",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 2 7 3 加上 6 9 8 6 9 等于几？",
+   "want": "130142",
+   "got": "120142",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 6 0 0 加上 1 5 9 3 1 等于几？",
+   "want": "110531",
+   "got": "110531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 5 3 4 加上 8 4 3 3 2 等于几？",
+   "want": "133866",
+   "got": "133866",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 7 9 2 加上 2 0 2 6 3 等于几？",
+   "want": "119055",
+   "got": "119055",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 2 3 6 加上 5 6 2 3 5 等于几？",
+   "want": "98471",
+   "got": "98471",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 3 1 0 加上 5 0 9 5 8 等于几？",
+   "want": "128268",
+   "got": "128268",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 3 7 5 加上 1 8 7 5 2 等于几？",
+   "want": "48127",
+   "got": "48127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 8 5 4 加上 6 9 3 3 9 等于几？",
+   "want": "114193",
+   "got": "114193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 4 7 0 加上 4 2 4 1 8 等于几？",
+   "want": "68888",
+   "got": "68988",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 6 5 1 加上 4 3 4 7 8 等于几？",
+   "want": "106129",
+   "got": "106129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 0 6 8 加上 8 2 8 8 2 等于几？",
+   "want": "109950",
+   "got": "109950",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 2 6 0 加上 5 4 5 4 9 等于几？",
+   "want": "127809",
+   "got": "127809",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 9 1 8 加上 3 0 0 3 3 等于几？",
+   "want": "84951",
+   "got": "84951",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 8 7 0 加上 8 5 3 0 5 等于几？",
+   "want": "147175",
+   "got": "147175",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 0 3 8 加上 1 5 7 4 3 等于几？",
+   "want": "89781",
+   "got": "99781",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 4 2 7 加上 8 4 8 0 5 等于几？",
+   "want": "178232",
+   "got": "178232",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 5 7 6 加上 4 5 8 5 9 等于几？",
+   "want": "119435",
+   "got": "119435",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 1 7 5 9 加上 3 3 9 6 6 等于几？",
+   "want": "85725",
+   "got": "85725",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 9 5 4 加上 4 1 3 9 4 等于几？",
+   "want": "85348",
+   "got": "85348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 8 3 9 加上 8 3 2 1 4 等于几？",
+   "want": "167053",
+   "got": "167153",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 7 7 0 加上 1 7 0 4 5 等于几？",
+   "want": "73815",
+   "got": "73815",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 8 6 6 加上 6 5 5 9 4 等于几？",
+   "want": "109460",
+   "got": "109460",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 5 5 5 加上 8 4 5 8 5 等于几？",
+   "want": "164140",
+   "got": "164140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 4 4 0 加上 2 0 4 5 4 等于几？",
+   "want": "112894",
+   "got": "112894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 5 9 4 加上 7 0 3 3 2 等于几？",
+   "want": "141926",
+   "got": "141926",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 4 8 3 加上 8 4 2 0 6 等于几？",
+   "want": "167689",
+   "got": "167689",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 7 3 7 加上 7 2 9 1 1 等于几？",
+   "want": "101648",
+   "got": "101658",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 9 9 7 加上 2 8 3 6 0 等于几？",
+   "want": "92357",
+   "got": "92357",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 0 4 2 加上 8 3 9 6 3 等于几？",
+   "want": "125005",
+   "got": "125005",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 8 4 2 加上 5 3 5 4 0 等于几？",
+   "want": "76382",
+   "got": "77362",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 3 1 4 加上 3 8 7 4 5 等于几？",
+   "want": "65059",
+   "got": "65059",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 0 3 3 加上 5 4 7 0 3 等于几？",
+   "want": "78736",
+   "got": "78736",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 3 2 2 加上 5 1 2 4 2 等于几？",
+   "want": "135564",
+   "got": "135564",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 9 4 5 加上 9 4 2 6 1 等于几？",
+   "want": "147206",
+   "got": "147206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 0 2 9 加上 7 3 9 4 0 等于几？",
+   "want": "83969",
+   "got": "83969",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 5 9 4 加上 9 5 3 9 4 等于几？",
+   "want": "158988",
+   "got": "159989",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 0 4 3 加上 3 1 3 9 2 等于几？",
+   "want": "74435",
+   "got": "74435",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 1 0 5 加上 5 9 7 3 9 等于几？",
+   "want": "138844",
+   "got": "138844",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 5 6 8 加上 1 3 3 8 3 等于几？",
+   "want": "29951",
+   "got": "29951",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 0 4 4 6 加上 7 3 9 0 3 等于几？",
+   "want": "144349",
+   "got": "144349",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 7 8 4 加上 5 8 3 5 2 等于几？",
+   "want": "113136",
+   "got": "113136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 0 0 9 加上 2 3 5 8 1 等于几？",
+   "want": "65590",
+   "got": "65590",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 8 0 9 加上 6 8 1 8 3 等于几？",
+   "want": "86992",
+   "got": "87992",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 0 7 4 加上 1 8 4 6 5 等于几？",
+   "want": "76539",
+   "got": "76549",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 3 0 3 加上 1 7 2 2 5 等于几？",
+   "want": "66528",
+   "got": "66528",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 9 8 4 加上 9 0 1 6 4 等于几？",
+   "want": "106148",
+   "got": "106148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 2 9 7 加上 6 5 9 3 5 等于几？",
+   "want": "101232",
+   "got": "101232",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 9 6 3 加上 8 9 0 7 8 等于几？",
+   "want": "145041",
+   "got": "148111",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 9 3 9 加上 3 4 2 9 6 等于几？",
+   "want": "130235",
+   "got": "130235",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 0 2 2 加上 6 8 5 3 7 等于几？",
+   "want": "124559",
+   "got": "124559",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 3 5 4 加上 9 9 3 5 0 等于几？",
+   "want": "176704",
+   "got": "176704",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 4 2 1 加上 6 4 7 1 0 等于几？",
+   "want": "152131",
+   "got": "152131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 0 3 4 加上 9 3 6 7 7 等于几？",
+   "want": "170711",
+   "got": "170711",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 1 3 6 5 加上 8 4 0 4 8 等于几？",
+   "want": "135413",
+   "got": "135413",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 6 2 7 加上 1 3 5 4 5 等于几？",
+   "want": "99172",
+   "got": "99172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 1 4 0 加上 2 6 0 3 7 等于几？",
+   "want": "100177",
+   "got": "100177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 1 9 2 加上 1 9 0 8 9 等于几？",
+   "want": "55281",
+   "got": "55281",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 2 9 1 加上 4 6 5 8 6 等于几？",
+   "want": "103877",
+   "got": "103877",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 0 8 0 加上 6 8 7 9 9 等于几？",
+   "want": "133879",
+   "got": "133879",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 5 8 8 加上 2 5 5 7 0 等于几？",
+   "want": "68158",
+   "got": "68158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 3 9 8 8 加上 5 7 6 6 2 等于几？",
+   "want": "111650",
+   "got": "101650",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 1 0 1 加上 7 3 3 2 7 等于几？",
+   "want": "104428",
+   "got": "104428",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 1 0 2 加上 2 6 3 1 7 等于几？",
+   "want": "117419",
+   "got": "117429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 2 1 9 加上 3 9 7 3 9 等于几？",
+   "want": "93958",
+   "got": "94958",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 7 8 8 加上 6 1 2 0 9 等于几？",
+   "want": "154997",
+   "got": "155097",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 2 9 0 加上 8 1 1 0 2 等于几？",
+   "want": "107392",
+   "got": "107392",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 2 6 6 加上 2 6 3 2 1 等于几？",
+   "want": "58587",
+   "got": "58587",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 2 7 6 加上 1 2 9 7 7 等于几？",
+   "want": "79253",
+   "got": "79253",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 8 8 9 加上 6 3 3 5 3 等于几？",
+   "want": "114242",
+   "got": "114242",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 3 8 7 5 加上 8 6 1 1 5 等于几？",
+   "want": "99990",
+   "got": "90980",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 7 1 8 3 加上 9 9 5 5 4 等于几？",
+   "want": "146737",
+   "got": "146737",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 9 8 3 加上 4 3 4 6 1 等于几？",
+   "want": "81444",
+   "got": "81444",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 7 0 3 加上 3 4 1 5 4 等于几？",
+   "want": "48857",
+   "got": "48857",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 4 7 7 加上 5 2 7 1 0 等于几？",
+   "want": "90187",
+   "got": "80187",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 2 6 4 加上 6 5 1 7 2 等于几？",
+   "want": "92436",
+   "got": "92436",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 9 9 2 加上 4 3 9 0 2 等于几？",
+   "want": "106894",
+   "got": "106894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 7 6 1 加上 1 9 8 0 5 等于几？",
+   "want": "70566",
+   "got": "60566",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 1 6 4 加上 3 3 7 9 2 等于几？",
+   "want": "95956",
+   "got": "96956",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 4 3 6 加上 5 6 6 9 0 等于几？",
+   "want": "120126",
+   "got": "110226",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 2 0 1 加上 8 4 5 3 7 等于几？",
+   "want": "175738",
+   "got": "175738",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 8 2 2 加上 6 0 4 5 3 等于几？",
+   "want": "101275",
+   "got": "101275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 2 1 0 加上 7 6 0 5 0 等于几？",
+   "want": "106260",
+   "got": "106260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 4 1 3 加上 4 7 3 1 2 等于几？",
+   "want": "95725",
+   "got": "95725",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 2 1 0 加上 8 5 3 6 5 等于几？",
+   "want": "174575",
+   "got": "174575",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 9 4 3 加上 7 1 0 7 8 等于几？",
+   "want": "162021",
+   "got": "162021",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 4 2 2 加上 7 0 9 9 1 等于几？",
+   "want": "130413",
+   "got": "130413",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 0 5 3 加上 7 0 2 7 7 等于几？",
+   "want": "124330",
+   "got": "124330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 5 4 1 加上 7 2 0 0 3 等于几？",
+   "want": "113544",
+   "got": "113544",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 5 7 4 加上 8 9 7 2 2 等于几？",
+   "want": "171296",
+   "got": "171396",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 7 0 5 加上 1 7 3 1 5 等于几？",
+   "want": "66020",
+   "got": "66010",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 7 0 0 加上 6 3 4 1 6 等于几？",
+   "want": "99116",
+   "got": "99116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 7 9 6 加上 2 6 5 0 6 等于几？",
+   "want": "93302",
+   "got": "93302",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 6 5 3 加上 7 6 7 6 8 等于几？",
+   "want": "139421",
+   "got": "139421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 1 8 7 加上 5 4 3 2 7 等于几？",
+   "want": "138514",
+   "got": "138514",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 9 6 7 加上 4 8 1 9 0 等于几？",
+   "want": "77157",
+   "got": "77157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 0 0 4 加上 5 8 4 1 8 等于几？",
+   "want": "87422",
+   "got": "87422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 1 0 6 加上 6 2 2 7 7 等于几？",
+   "want": "136383",
+   "got": "136383",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 3 9 9 加上 8 1 0 3 0 等于几？",
+   "want": "107429",
+   "got": "107429",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 0 6 5 加上 9 6 0 7 3 等于几？",
+   "want": "192138",
+   "got": "192138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 7 0 0 加上 7 3 6 6 8 等于几？",
+   "want": "162368",
+   "got": "162368",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 7 1 8 加上 3 7 8 8 5 等于几？",
+   "want": "105603",
+   "got": "105503",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 7 0 5 加上 5 5 1 8 3 等于几？",
+   "want": "77888",
+   "got": "70338",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 8 3 2 加上 1 2 4 0 2 等于几？",
+   "want": "101234",
+   "got": "101234",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 5 1 6 加上 4 3 8 9 8 等于几？",
+   "want": "109414",
+   "got": "109414",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 5 9 3 加上 4 3 4 6 1 等于几？",
+   "want": "116054",
+   "got": "116054",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 0 0 8 加上 3 0 3 8 0 等于几？",
+   "want": "70388",
+   "got": "70388",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 2 7 6 加上 7 9 5 2 3 等于几？",
+   "want": "112799",
+   "got": "112899",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 0 2 7 加上 7 3 5 6 6 等于几？",
+   "want": "90593",
+   "got": "90593",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 2 4 3 加上 7 4 4 0 9 等于几？",
+   "want": "133652",
+   "got": "133652",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 3 0 7 0 加上 8 6 4 8 7 等于几？",
+   "want": "99557",
+   "got": "99557",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 1 0 6 加上 6 6 6 3 7 等于几？",
+   "want": "92743",
+   "got": "92743",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 8 0 6 加上 2 9 9 7 1 等于几？",
+   "want": "114777",
+   "got": "114777",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 7 3 4 加上 5 4 6 0 6 等于几？",
+   "want": "98340",
+   "got": "98330",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 2 4 1 加上 8 1 0 7 3 等于几？",
+   "want": "123314",
+   "got": "123314",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 6 0 0 加上 5 5 3 2 8 等于几？",
+   "want": "96928",
+   "got": "97928",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 9 9 8 加上 2 5 2 9 2 等于几？",
+   "want": "40290",
+   "got": "30290",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 7 6 4 加上 9 2 7 1 3 等于几？",
+   "want": "149477",
+   "got": "149477",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 9 6 0 加上 6 6 8 6 4 等于几？",
+   "want": "116824",
+   "got": "116824",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 2 6 3 加上 8 8 0 5 2 等于几？",
+   "want": "128315",
+   "got": "128315",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 1 8 3 加上 3 5 0 4 0 等于几？",
+   "want": "129223",
+   "got": "129223",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 8 4 5 加上 4 4 4 9 4 等于几？",
+   "want": "60339",
+   "got": "60339",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 8 8 5 加上 9 3 4 1 9 等于几？",
+   "want": "128304",
+   "got": "128304",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 8 6 8 加上 2 1 2 8 8 等于几？",
+   "want": "84156",
+   "got": "84156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 8 6 4 加上 1 5 5 7 7 等于几？",
+   "want": "87441",
+   "got": "87441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 6 3 3 加上 3 5 9 8 4 等于几？",
+   "want": "56617",
+   "got": "56617",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 6 5 8 加上 4 3 9 2 4 等于几？",
+   "want": "137582",
+   "got": "137582",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 7 8 7 加上 3 7 2 2 6 等于几？",
+   "want": "49013",
+   "got": "55102",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 8 6 5 加上 3 2 4 4 2 等于几？",
+   "want": "64307",
+   "got": "64307",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 8 2 5 加上 7 1 9 3 3 等于几？",
+   "want": "104758",
+   "got": "104758",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 4 0 4 加上 5 9 7 4 9 等于几？",
+   "want": "134153",
+   "got": "134153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 8 7 2 加上 5 1 0 1 7 等于几？",
+   "want": "150889",
+   "got": "151999",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 6 7 0 加上 9 2 8 6 6 等于几？",
+   "want": "166536",
+   "got": "166536",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 4 5 7 加上 2 7 5 6 6 等于几？",
+   "want": "49023",
+   "got": "49023",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 3 2 6 加上 7 5 0 1 9 等于几？",
+   "want": "86345",
+   "got": "88384",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 3 7 3 加上 8 3 7 1 9 等于几？",
+   "want": "105092",
+   "got": "105192",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 2 9 9 加上 7 5 9 8 7 等于几？",
+   "want": "86286",
+   "got": "86286",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 7 3 0 加上 3 3 3 7 5 等于几？",
+   "want": "128105",
+   "got": "128105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 0 3 2 加上 1 7 1 1 1 等于几？",
+   "want": "39143",
+   "got": "27242",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 1 9 9 加上 3 3 1 9 0 等于几？",
+   "want": "132389",
+   "got": "132389",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 5 6 9 加上 6 2 8 4 9 等于几？",
+   "want": "134418",
+   "got": "134418",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 5 3 2 2 加上 6 7 6 8 2 等于几？",
+   "want": "143004",
+   "got": "143004",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 9 6 9 加上 9 6 2 7 7 等于几？",
+   "want": "113246",
+   "got": "113246",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 2 4 6 加上 7 7 0 9 3 等于几？",
+   "want": "111339",
+   "got": "111339",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 0 9 8 加上 9 3 3 0 6 等于几？",
+   "want": "187404",
+   "got": "187404",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 4 2 1 加上 9 1 6 2 2 等于几？",
+   "want": "125043",
+   "got": "125043",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 3 9 1 加上 6 9 2 6 5 等于几？",
+   "want": "136656",
+   "got": "136656",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 1 8 2 加上 8 2 2 7 8 等于几？",
+   "want": "128460",
+   "got": "128460",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 1 1 7 7 加上 8 1 9 2 6 等于几？",
+   "want": "133103",
+   "got": "133103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 6 5 4 加上 7 4 5 8 6 等于几？",
+   "want": "95240",
+   "got": "95240",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 2 1 3 加上 9 2 2 0 9 等于几？",
+   "want": "144422",
+   "got": "144422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 6 7 2 加上 2 2 4 6 0 等于几？",
+   "want": "56132",
+   "got": "56132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 0 6 1 加上 4 0 5 2 5 等于几？",
+   "want": "100586",
+   "got": "100586",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 2 9 3 加上 2 6 4 6 3 等于几？",
+   "want": "124756",
+   "got": "124756",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 7 6 4 加上 1 4 7 0 3 等于几？",
+   "want": "42467",
+   "got": "42467",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 5 2 1 加上 2 3 2 7 5 等于几？",
+   "want": "81796",
+   "got": "81896",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 8 4 8 加上 1 4 3 7 2 等于几？",
+   "want": "52220",
+   "got": "52220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 6 1 8 加上 5 4 8 6 4 等于几？",
+   "want": "105482",
+   "got": "105482",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 7 0 7 加上 5 0 0 3 8 等于几？",
+   "want": "135745",
+   "got": "135745",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 6 2 2 加上 9 0 7 2 0 等于几？",
+   "want": "165342",
+   "got": "165342",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 4 0 7 加上 8 7 8 2 4 等于几？",
+   "want": "102231",
+   "got": "102231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 2 5 1 加上 6 8 2 0 7 等于几？",
+   "want": "87458",
+   "got": "87458",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 5 7 0 加上 1 8 4 2 9 等于几？",
+   "want": "54999",
+   "got": "55099",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 1 2 2 加上 5 7 3 0 1 等于几？",
+   "want": "146423",
+   "got": "146423",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 2 3 2 加上 2 8 8 4 9 等于几？",
+   "want": "127081",
+   "got": "127181",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 3 9 8 8 加上 6 6 9 8 7 等于几？",
+   "want": "80975",
+   "got": "70975",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 9 3 8 加上 3 6 5 2 0 等于几？",
+   "want": "53458",
+   "got": "53458",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 7 6 9 加上 6 1 3 8 5 等于几？",
+   "want": "143154",
+   "got": "143154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 0 2 1 加上 8 7 6 6 4 等于几？",
+   "want": "126685",
+   "got": "126685",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 2 5 6 加上 6 1 0 6 3 等于几？",
+   "want": "80319",
+   "got": "80329",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 9 0 0 加上 2 7 9 7 4 等于几？",
+   "want": "89874",
+   "got": "89874",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 8 3 9 加上 8 8 0 8 8 等于几？",
+   "want": "182927",
+   "got": "182927",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 7 4 8 加上 8 9 9 3 1 等于几？",
+   "want": "136679",
+   "got": "136789",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 4 6 8 加上 4 1 9 2 0 等于几？",
+   "want": "84388",
+   "got": "84388",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 9 8 1 加上 9 3 2 0 2 等于几？",
+   "want": "137183",
+   "got": "137183",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 0 6 1 加上 8 2 1 5 1 等于几？",
+   "want": "103212",
+   "got": "103212",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 2 0 3 加上 9 9 8 4 5 等于几？",
+   "want": "199048",
+   "got": "199048",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 4 4 4 加上 9 5 7 7 4 等于几？",
+   "want": "123218",
+   "got": "123229",
+   "exact": false,
+   "samelen": true
+  }
+ ]
+}

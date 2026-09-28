@@ -1,0 +1,6431 @@
+{
+ "label": "struct_T6应用题",
+ "by_rung": {
+  "2": [
+   7,
+   83,
+   0,
+   200
+  ],
+  "3": [
+   3,
+   90,
+   0,
+   200
+  ],
+  "4": [
+   10,
+   92,
+   0,
+   200
+  ],
+  "5": [
+   5,
+   74,
+   0,
+   200
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "小明有 24 元，又得到 90 元，一共多少元？",
+   "want": "114",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 85 元，又得到 74 元，一共多少元？",
+   "want": "159",
+   "got": "39",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 60 元，又得到 31 元，一共多少元？",
+   "want": "91",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 71 元，又得到 79 元，一共多少元？",
+   "want": "150",
+   "got": "50",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 67 元，又得到 41 元，一共多少元？",
+   "want": "108",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 66 元，又得到 81 元，一共多少元？",
+   "want": "147",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 27 元，又得到 71 元，一共多少元？",
+   "want": "98",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 50 元，又得到 92 元，一共多少元？",
+   "want": "142",
+   "got": "22",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 44 元，又得到 35 元，一共多少元？",
+   "want": "79",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 97 元，又得到 21 元，一共多少元？",
+   "want": "118",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 75 元，又得到 69 元，一共多少元？",
+   "want": "144",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 95 元，又得到 94 元，一共多少元？",
+   "want": "189",
+   "got": "49",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 84 元，又得到 10 元，一共多少元？",
+   "want": "94",
+   "got": "44",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 38 元，又得到 10 元，一共多少元？",
+   "want": "48",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 17 元，又得到 86 元，一共多少元？",
+   "want": "103",
+   "got": "43",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 87 元，又得到 41 元，一共多少元？",
+   "want": "128",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 32 元，又得到 46 元，一共多少元？",
+   "want": "78",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 90 元，又得到 97 元，一共多少元？",
+   "want": "187",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 44 元，又得到 19 元，一共多少元？",
+   "want": "63",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 99 元，又得到 53 元，一共多少元？",
+   "want": "152",
+   "got": "32",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 96 元，又得到 94 元，一共多少元？",
+   "want": "190",
+   "got": "51",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 35 元，又得到 86 元，一共多少元？",
+   "want": "121",
+   "got": "31",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 72 元，又得到 11 元，一共多少元？",
+   "want": "83",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 46 元，又得到 65 元，一共多少元？",
+   "want": "111",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 99 元，又得到 96 元，一共多少元？",
+   "want": "195",
+   "got": "55",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 73 元，又得到 78 元，一共多少元？",
+   "want": "151",
+   "got": "150",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 79 元，又得到 72 元，一共多少元？",
+   "want": "151",
+   "got": "150",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 70 元，又得到 46 元，一共多少元？",
+   "want": "116",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 80 元，又得到 12 元，一共多少元？",
+   "want": "92",
+   "got": "22",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 34 元，又得到 64 元，一共多少元？",
+   "want": "98",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 46 元，又得到 27 元，一共多少元？",
+   "want": "73",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 55 元，又得到 24 元，一共多少元？",
+   "want": "79",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 15 元，又得到 50 元，一共多少元？",
+   "want": "65",
+   "got": "65",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 87 元，又得到 15 元，一共多少元？",
+   "want": "102",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 44 元，又得到 57 元，一共多少元？",
+   "want": "101",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 74 元，又得到 18 元，一共多少元？",
+   "want": "92",
+   "got": "21",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 52 元，又得到 55 元，一共多少元？",
+   "want": "107",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 26 元，又得到 54 元，一共多少元？",
+   "want": "80",
+   "got": "15",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 90 元，又得到 49 元，一共多少元？",
+   "want": "139",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 88 元，又得到 27 元，一共多少元？",
+   "want": "115",
+   "got": "54",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 40 元，又得到 14 元，一共多少元？",
+   "want": "54",
+   "got": "44",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 34 元，又得到 59 元，一共多少元？",
+   "want": "93",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 90 元，又得到 10 元，一共多少元？",
+   "want": "100",
+   "got": "10",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 78 元，又得到 17 元，一共多少元？",
+   "want": "95",
+   "got": "55",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 28 元，又得到 63 元，一共多少元？",
+   "want": "91",
+   "got": "51",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 45 元，又得到 12 元，一共多少元？",
+   "want": "57",
+   "got": "77",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 84 元，又得到 76 元，一共多少元？",
+   "want": "160",
+   "got": "31",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 32 元，又得到 68 元，一共多少元？",
+   "want": "100",
+   "got": "90",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 62 元，又得到 96 元，一共多少元？",
+   "want": "158",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 16 元，又得到 50 元，一共多少元？",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 80 元，又得到 69 元，一共多少元？",
+   "want": "149",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 83 元，又得到 29 元，一共多少元？",
+   "want": "112",
+   "got": "12",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 65 元，又得到 73 元，一共多少元？",
+   "want": "138",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 14 元，又得到 79 元，一共多少元？",
+   "want": "93",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 27 元，又得到 83 元，一共多少元？",
+   "want": "110",
+   "got": "49",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 44 元，又得到 24 元，一共多少元？",
+   "want": "68",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 35 元，又得到 55 元，一共多少元？",
+   "want": "90",
+   "got": "80",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 83 元，又得到 25 元，一共多少元？",
+   "want": "108",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 15 元，又得到 88 元，一共多少元？",
+   "want": "103",
+   "got": "33",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 87 元，又得到 32 元，一共多少元？",
+   "want": "119",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 64 元，又得到 43 元，一共多少元？",
+   "want": "107",
+   "got": "87",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 65 元，又得到 53 元，一共多少元？",
+   "want": "118",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 64 元，又得到 68 元，一共多少元？",
+   "want": "132",
+   "got": "32",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 14 元，又得到 57 元，一共多少元？",
+   "want": "71",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 30 元，又得到 99 元，一共多少元？",
+   "want": "129",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 37 元，又得到 41 元，一共多少元？",
+   "want": "78",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 15 元，又得到 72 元，一共多少元？",
+   "want": "87",
+   "got": "77",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 57 元，又得到 82 元，一共多少元？",
+   "want": "139",
+   "got": "39",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 70 元，又得到 94 元，一共多少元？",
+   "want": "164",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 51 元，又得到 99 元，一共多少元？",
+   "want": "150",
+   "got": "50",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 19 元，又得到 90 元，一共多少元？",
+   "want": "109",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 84 元，又得到 80 元，一共多少元？",
+   "want": "164",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 36 元，又得到 39 元，一共多少元？",
+   "want": "75",
+   "got": "55",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 17 元，又得到 56 元，一共多少元？",
+   "want": "73",
+   "got": "21",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 32 元，又得到 61 元，一共多少元？",
+   "want": "93",
+   "got": "43",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 71 元，又得到 73 元，一共多少元？",
+   "want": "144",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 95 元，又得到 92 元，一共多少元？",
+   "want": "187",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 99 元，又得到 50 元，一共多少元？",
+   "want": "149",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 99 元，又得到 88 元，一共多少元？",
+   "want": "187",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 93 元，又得到 75 元，一共多少元？",
+   "want": "168",
+   "got": "38",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 77 元，又得到 42 元，一共多少元？",
+   "want": "119",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 40 元，又得到 17 元，一共多少元？",
+   "want": "57",
+   "got": "17",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 80 元，又得到 20 元，一共多少元？",
+   "want": "100",
+   "got": "10",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 18 元，又得到 97 元，一共多少元？",
+   "want": "115",
+   "got": "55",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 38 元，又得到 38 元，一共多少元？",
+   "want": "76",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 41 元，又得到 15 元，一共多少元？",
+   "want": "56",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 13 元，又得到 68 元，一共多少元？",
+   "want": "81",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 46 元，又得到 55 元，一共多少元？",
+   "want": "101",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 54 元，又得到 50 元，一共多少元？",
+   "want": "104",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 30 元，又得到 21 元，一共多少元？",
+   "want": "51",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 31 元，又得到 71 元，一共多少元？",
+   "want": "102",
+   "got": "42",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 44 元，又得到 67 元，一共多少元？",
+   "want": "111",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 59 元，又得到 35 元，一共多少元？",
+   "want": "94",
+   "got": "44",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 74 元，又得到 54 元，一共多少元？",
+   "want": "128",
+   "got": "12",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 57 元，又得到 73 元，一共多少元？",
+   "want": "130",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 15 元，又得到 69 元，一共多少元？",
+   "want": "84",
+   "got": "44",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 28 元，又得到 83 元，一共多少元？",
+   "want": "111",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 50 元，又得到 23 元，一共多少元？",
+   "want": "73",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 99 元，又得到 22 元，一共多少元？",
+   "want": "121",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 55 元，又得到 22 元，一共多少元？",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 52 元，又得到 77 元，一共多少元？",
+   "want": "129",
+   "got": "39",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 76 元，又得到 55 元，一共多少元？",
+   "want": "131",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 19 元，又得到 53 元，一共多少元？",
+   "want": "72",
+   "got": "32",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 49 元，又得到 70 元，一共多少元？",
+   "want": "119",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 40 元，又得到 25 元，一共多少元？",
+   "want": "65",
+   "got": "55",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 91 元，又得到 48 元，一共多少元？",
+   "want": "139",
+   "got": "69",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 63 元，又得到 48 元，一共多少元？",
+   "want": "111",
+   "got": "10",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 17 元，又得到 46 元，一共多少元？",
+   "want": "63",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 46 元，又得到 20 元，一共多少元？",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 12 元，又得到 21 元，一共多少元？",
+   "want": "33",
+   "got": "34",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 23 元，又得到 94 元，一共多少元？",
+   "want": "117",
+   "got": "67",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 87 元，又得到 42 元，一共多少元？",
+   "want": "129",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 57 元，又得到 42 元，一共多少元？",
+   "want": "99",
+   "got": "89",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 49 元，又得到 16 元，一共多少元？",
+   "want": "65",
+   "got": "55",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 35 元，又得到 51 元，一共多少元？",
+   "want": "86",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 19 元，又得到 88 元，一共多少元？",
+   "want": "107",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 58 元，又得到 75 元，一共多少元？",
+   "want": "133",
+   "got": "33",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 99 元，又得到 83 元，一共多少元？",
+   "want": "182",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 69 元，又得到 88 元，一共多少元？",
+   "want": "157",
+   "got": "57",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 19 元，又得到 14 元，一共多少元？",
+   "want": "33",
+   "got": "33",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 55 元，又得到 54 元，一共多少元？",
+   "want": "109",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 24 元，又得到 98 元，一共多少元？",
+   "want": "122",
+   "got": "32",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 84 元，又得到 84 元，一共多少元？",
+   "want": "168",
+   "got": "12",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 27 元，又得到 78 元，一共多少元？",
+   "want": "105",
+   "got": "54",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 36 元，又得到 33 元，一共多少元？",
+   "want": "69",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 69 元，又得到 54 元，一共多少元？",
+   "want": "123",
+   "got": "43",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 18 元，又得到 14 元，一共多少元？",
+   "want": "32",
+   "got": "21",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 38 元，又得到 54 元，一共多少元？",
+   "want": "92",
+   "got": "32",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 23 元，又得到 80 元，一共多少元？",
+   "want": "103",
+   "got": "33",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 90 元，又得到 85 元，一共多少元？",
+   "want": "175",
+   "got": "55",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 23 元，又得到 18 元，一共多少元？",
+   "want": "41",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 36 元，又得到 44 元，一共多少元？",
+   "want": "80",
+   "got": "10",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 61 元，又得到 70 元，一共多少元？",
+   "want": "131",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 16 元，又得到 83 元，一共多少元？",
+   "want": "99",
+   "got": "39",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 33 元，又得到 89 元，一共多少元？",
+   "want": "122",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 47 元，又得到 64 元，一共多少元？",
+   "want": "111",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 13 元，又得到 10 元，一共多少元？",
+   "want": "23",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 47 元，又得到 83 元，一共多少元？",
+   "want": "130",
+   "got": "12",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 87 元，又得到 42 元，一共多少元？",
+   "want": "129",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 58 元，又得到 75 元，一共多少元？",
+   "want": "133",
+   "got": "33",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 37 元，又得到 60 元，一共多少元？",
+   "want": "97",
+   "got": "77",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 15 元，又得到 43 元，一共多少元？",
+   "want": "58",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 44 元，又得到 48 元，一共多少元？",
+   "want": "92",
+   "got": "32",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 10 元，又得到 10 元，一共多少元？",
+   "want": "20",
+   "got": "10",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 80 元，又得到 98 元，一共多少元？",
+   "want": "178",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 49 元，又得到 77 元，一共多少元？",
+   "want": "126",
+   "got": "36",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 35 元，又得到 13 元，一共多少元？",
+   "want": "48",
+   "got": "78",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 12 元，又得到 96 元，一共多少元？",
+   "want": "108",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 58 元，又得到 16 元，一共多少元？",
+   "want": "74",
+   "got": "44",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 45 元，又得到 40 元，一共多少元？",
+   "want": "85",
+   "got": "55",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 51 元，又得到 85 元，一共多少元？",
+   "want": "136",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 77 元，又得到 33 元，一共多少元？",
+   "want": "110",
+   "got": "10",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 65 元，又得到 13 元，一共多少元？",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 87 元，又得到 78 元，一共多少元？",
+   "want": "165",
+   "got": "55",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 56 元，又得到 78 元，一共多少元？",
+   "want": "134",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 65 元，又得到 47 元，一共多少元？",
+   "want": "112",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 54 元，又得到 47 元，一共多少元？",
+   "want": "101",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 31 元，又得到 75 元，一共多少元？",
+   "want": "106",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 34 元，又得到 68 元，一共多少元？",
+   "want": "102",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 71 元，又得到 36 元，一共多少元？",
+   "want": "107",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 13 元，又得到 76 元，一共多少元？",
+   "want": "89",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 37 元，又得到 63 元，一共多少元？",
+   "want": "100",
+   "got": "90",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 26 元，又得到 80 元，一共多少元？",
+   "want": "106",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 27 元，又得到 89 元，一共多少元？",
+   "want": "116",
+   "got": "56",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 20 元，又得到 99 元，一共多少元？",
+   "want": "119",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 40 元，又得到 11 元，一共多少元？",
+   "want": "51",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 61 元，又得到 49 元，一共多少元？",
+   "want": "110",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 48 元，又得到 88 元，一共多少元？",
+   "want": "136",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 62 元，又得到 89 元，一共多少元？",
+   "want": "151",
+   "got": "51",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 63 元，又得到 84 元，一共多少元？",
+   "want": "147",
+   "got": "97",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 77 元，又得到 24 元，一共多少元？",
+   "want": "101",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 80 元，又得到 61 元，一共多少元？",
+   "want": "141",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 77 元，又得到 53 元，一共多少元？",
+   "want": "130",
+   "got": "39",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 41 元，又得到 34 元，一共多少元？",
+   "want": "75",
+   "got": "55",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 20 元，又得到 25 元，一共多少元？",
+   "want": "45",
+   "got": "65",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 86 元，又得到 67 元，一共多少元？",
+   "want": "153",
+   "got": "43",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 15 元，又得到 49 元，一共多少元？",
+   "want": "64",
+   "got": "44",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 20 元，又得到 88 元，一共多少元？",
+   "want": "108",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 39 元，又得到 32 元，一共多少元？",
+   "want": "71",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 56 元，又得到 24 元，一共多少元？",
+   "want": "80",
+   "got": "10",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 96 元，又得到 64 元，一共多少元？",
+   "want": "160",
+   "got": "51",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 40 元，又得到 11 元，一共多少元？",
+   "want": "51",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 31 元，又得到 91 元，一共多少元？",
+   "want": "122",
+   "got": "42",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 98 元，又得到 50 元，一共多少元？",
+   "want": "148",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 65 元，又得到 56 元，一共多少元？",
+   "want": "121",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 10 元，又得到 34 元，一共多少元？",
+   "want": "44",
+   "got": "14",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 73 元，又得到 89 元，一共多少元？",
+   "want": "162",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 51 元，又得到 21 元，一共多少元？",
+   "want": "72",
+   "got": "32",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 41 元，又得到 74 元，一共多少元？",
+   "want": "115",
+   "got": "55",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 82 元，又得到 78 元，一共多少元？",
+   "want": "160",
+   "got": "90",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 96 元，又得到 46 元，一共多少元？",
+   "want": "142",
+   "got": "52",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 37 元，又得到 94 元，一共多少元？",
+   "want": "131",
+   "got": "21",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 27 元，又得到 43 元，一共多少元？",
+   "want": "70",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 86 元，又得到 92 元，一共多少元？",
+   "want": "178",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 37 元，又得到 29 元，一共多少元？",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 59 元，又得到 58 元，一共多少元？",
+   "want": "117",
+   "got": "47",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 37 元，又得到 82 元，一共多少元？",
+   "want": "119",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 59 元，又得到 26 元，一共多少元？",
+   "want": "85",
+   "got": "55",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "小明有 20 元，又得到 70 元，一共多少元？",
+   "want": "90",
+   "got": "110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "小明有 68 元，又得到 13 元，一共多少元？",
+   "want": "81",
+   "got": "91",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 218 元，又得到 649 元，一共多少元？",
+   "want": "867",
+   "got": "667",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 826 元，又得到 759 元，一共多少元？",
+   "want": "1585",
+   "got": "385",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 187 元，又得到 463 元，一共多少元？",
+   "want": "650",
+   "got": "550",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 427 元，又得到 169 元，一共多少元？",
+   "want": "596",
+   "got": "896",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 941 元，又得到 267 元，一共多少元？",
+   "want": "1208",
+   "got": "170",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 860 元，又得到 802 元，一共多少元？",
+   "want": "1662",
+   "got": "662",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 635 元，又得到 170 元，一共多少元？",
+   "want": "805",
+   "got": "895",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 492 元，又得到 300 元，一共多少元？",
+   "want": "792",
+   "got": "892",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 854 元，又得到 712 元，一共多少元？",
+   "want": "1566",
+   "got": "666",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 923 元，又得到 939 元，一共多少元？",
+   "want": "1862",
+   "got": "270",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 945 元，又得到 252 元，一共多少元？",
+   "want": "1197",
+   "got": "177",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 752 元，又得到 432 元，一共多少元？",
+   "want": "1184",
+   "got": "158",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 327 元，又得到 776 元，一共多少元？",
+   "want": "1103",
+   "got": "1093",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 728 元，又得到 226 元，一共多少元？",
+   "want": "954",
+   "got": "454",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 852 元，又得到 348 元，一共多少元？",
+   "want": "1200",
+   "got": "999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 838 元，又得到 691 元，一共多少元？",
+   "want": "1529",
+   "got": "329",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 188 元，又得到 582 元，一共多少元？",
+   "want": "770",
+   "got": "460",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 480 元，又得到 328 元，一共多少元？",
+   "want": "808",
+   "got": "698",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 671 元，又得到 959 元，一共多少元？",
+   "want": "1630",
+   "got": "439",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 290 元，又得到 303 元，一共多少元？",
+   "want": "593",
+   "got": "993",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 668 元，又得到 773 元，一共多少元？",
+   "want": "1441",
+   "got": "441",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 727 元，又得到 400 元，一共多少元？",
+   "want": "1127",
+   "got": "137",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 468 元，又得到 183 元，一共多少元？",
+   "want": "651",
+   "got": "551",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 196 元，又得到 673 元，一共多少元？",
+   "want": "869",
+   "got": "669",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 794 元，又得到 959 元，一共多少元？",
+   "want": "1753",
+   "got": "553",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 661 元，又得到 305 元，一共多少元？",
+   "want": "966",
+   "got": "666",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 947 元，又得到 214 元，一共多少元？",
+   "want": "1161",
+   "got": "1661",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 877 元，又得到 457 元，一共多少元？",
+   "want": "1334",
+   "got": "436",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 824 元，又得到 763 元，一共多少元？",
+   "want": "1587",
+   "got": "887",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 349 元，又得到 365 元，一共多少元？",
+   "want": "714",
+   "got": "814",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 940 元，又得到 622 元，一共多少元？",
+   "want": "1562",
+   "got": "662",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 210 元，又得到 912 元，一共多少元？",
+   "want": "1122",
+   "got": "323",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 303 元，又得到 455 元，一共多少元？",
+   "want": "758",
+   "got": "558",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 713 元，又得到 233 元，一共多少元？",
+   "want": "946",
+   "got": "446",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 128 元，又得到 632 元，一共多少元？",
+   "want": "760",
+   "got": "560",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 521 元，又得到 737 元，一共多少元？",
+   "want": "1258",
+   "got": "958",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 135 元，又得到 252 元，一共多少元？",
+   "want": "387",
+   "got": "787",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 543 元，又得到 319 元，一共多少元？",
+   "want": "862",
+   "got": "662",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 754 元，又得到 154 元，一共多少元？",
+   "want": "908",
+   "got": "109",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 614 元，又得到 313 元，一共多少元？",
+   "want": "927",
+   "got": "726",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 371 元，又得到 580 元，一共多少元？",
+   "want": "951",
+   "got": "341",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 968 元，又得到 560 元，一共多少元？",
+   "want": "1528",
+   "got": "527",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 805 元，又得到 351 元，一共多少元？",
+   "want": "1156",
+   "got": "556",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 187 元，又得到 510 元，一共多少元？",
+   "want": "697",
+   "got": "997",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 356 元，又得到 626 元，一共多少元？",
+   "want": "982",
+   "got": "881",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 891 元，又得到 635 元，一共多少元？",
+   "want": "1526",
+   "got": "456",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 462 元，又得到 553 元，一共多少元？",
+   "want": "1015",
+   "got": "168",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 429 元，又得到 840 元，一共多少元？",
+   "want": "1269",
+   "got": "769",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 311 元，又得到 741 元，一共多少元？",
+   "want": "1052",
+   "got": "552",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 950 元，又得到 763 元，一共多少元？",
+   "want": "1713",
+   "got": "416",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 796 元，又得到 349 元，一共多少元？",
+   "want": "1145",
+   "got": "1445",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 394 元，又得到 331 元，一共多少元？",
+   "want": "725",
+   "got": "235",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 534 元，又得到 875 元，一共多少元？",
+   "want": "1409",
+   "got": "319",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 807 元，又得到 759 元，一共多少元？",
+   "want": "1566",
+   "got": "666",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 799 元，又得到 352 元，一共多少元？",
+   "want": "1151",
+   "got": "551",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 809 元，又得到 966 元，一共多少元？",
+   "want": "1775",
+   "got": "775",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 530 元，又得到 874 元，一共多少元？",
+   "want": "1404",
+   "got": "394",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 339 元，又得到 629 元，一共多少元？",
+   "want": "968",
+   "got": "668",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 619 元，又得到 392 元，一共多少元？",
+   "want": "1011",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 606 元，又得到 261 元，一共多少元？",
+   "want": "867",
+   "got": "667",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 883 元，又得到 164 元，一共多少元？",
+   "want": "1047",
+   "got": "448",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 474 元，又得到 118 元，一共多少元？",
+   "want": "592",
+   "got": "992",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 570 元，又得到 348 元，一共多少元？",
+   "want": "918",
+   "got": "912",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 316 元，又得到 733 元，一共多少元？",
+   "want": "1049",
+   "got": "448",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 893 元，又得到 108 元，一共多少元？",
+   "want": "1001",
+   "got": "1041",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 987 元，又得到 589 元，一共多少元？",
+   "want": "1576",
+   "got": "876",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 246 元，又得到 651 元，一共多少元？",
+   "want": "897",
+   "got": "997",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 874 元，又得到 207 元，一共多少元？",
+   "want": "1081",
+   "got": "881",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 456 元，又得到 941 元，一共多少元？",
+   "want": "1397",
+   "got": "997",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 947 元，又得到 210 元，一共多少元？",
+   "want": "1157",
+   "got": "557",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 209 元，又得到 778 元，一共多少元？",
+   "want": "987",
+   "got": "887",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 809 元，又得到 449 元，一共多少元？",
+   "want": "1258",
+   "got": "558",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 693 元，又得到 336 元，一共多少元？",
+   "want": "1029",
+   "got": "839",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 701 元，又得到 360 元，一共多少元？",
+   "want": "1061",
+   "got": "661",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 914 元，又得到 856 元，一共多少元？",
+   "want": "1770",
+   "got": "670",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 221 元，又得到 946 元，一共多少元？",
+   "want": "1167",
+   "got": "1667",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 656 元，又得到 962 元，一共多少元？",
+   "want": "1618",
+   "got": "418",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 265 元，又得到 684 元，一共多少元？",
+   "want": "949",
+   "got": "448",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 923 元，又得到 765 元，一共多少元？",
+   "want": "1688",
+   "got": "888",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 780 元，又得到 994 元，一共多少元？",
+   "want": "1774",
+   "got": "774",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 445 元，又得到 738 元，一共多少元？",
+   "want": "1183",
+   "got": "893",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 973 元，又得到 344 元，一共多少元？",
+   "want": "1317",
+   "got": "218",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 408 元，又得到 382 元，一共多少元？",
+   "want": "790",
+   "got": "890",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 710 元，又得到 220 元，一共多少元？",
+   "want": "930",
+   "got": "331",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 450 元，又得到 209 元，一共多少元？",
+   "want": "659",
+   "got": "669",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 628 元，又得到 174 元，一共多少元？",
+   "want": "802",
+   "got": "802",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 106 元，又得到 234 元，一共多少元？",
+   "want": "340",
+   "got": "339",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 448 元，又得到 823 元，一共多少元？",
+   "want": "1271",
+   "got": "671",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 282 元，又得到 319 元，一共多少元？",
+   "want": "601",
+   "got": "1010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 458 元，又得到 524 元，一共多少元？",
+   "want": "982",
+   "got": "982",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 184 元，又得到 345 元，一共多少元？",
+   "want": "529",
+   "got": "339",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 277 元，又得到 691 元，一共多少元？",
+   "want": "968",
+   "got": "568",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 954 元，又得到 737 元，一共多少元？",
+   "want": "1691",
+   "got": "491",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 207 元，又得到 261 元，一共多少元？",
+   "want": "468",
+   "got": "668",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 491 元，又得到 347 元，一共多少元？",
+   "want": "838",
+   "got": "338",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 716 元，又得到 565 元，一共多少元？",
+   "want": "1281",
+   "got": "177",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 323 元，又得到 504 元，一共多少元？",
+   "want": "827",
+   "got": "1626",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 928 元，又得到 263 元，一共多少元？",
+   "want": "1191",
+   "got": "891",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 494 元，又得到 834 元，一共多少元？",
+   "want": "1328",
+   "got": "328",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 390 元，又得到 938 元，一共多少元？",
+   "want": "1328",
+   "got": "327",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 507 元，又得到 515 元，一共多少元？",
+   "want": "1022",
+   "got": "1620",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 297 元，又得到 423 元，一共多少元？",
+   "want": "720",
+   "got": "1220",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 213 元，又得到 219 元，一共多少元？",
+   "want": "432",
+   "got": "332",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 336 元，又得到 921 元，一共多少元？",
+   "want": "1257",
+   "got": "557",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 317 元，又得到 656 元，一共多少元？",
+   "want": "973",
+   "got": "773",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 362 元，又得到 331 元，一共多少元？",
+   "want": "693",
+   "got": "993",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 694 元，又得到 710 元，一共多少元？",
+   "want": "1404",
+   "got": "904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 685 元，又得到 624 元，一共多少元？",
+   "want": "1309",
+   "got": "918",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 610 元，又得到 364 元，一共多少元？",
+   "want": "974",
+   "got": "774",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 890 元，又得到 597 元，一共多少元？",
+   "want": "1487",
+   "got": "457",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 765 元，又得到 626 元，一共多少元？",
+   "want": "1391",
+   "got": "391",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 326 元，又得到 733 元，一共多少元？",
+   "want": "1059",
+   "got": "569",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 187 元，又得到 364 元，一共多少元？",
+   "want": "551",
+   "got": "551",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 748 元，又得到 618 元，一共多少元？",
+   "want": "1366",
+   "got": "966",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 390 元，又得到 109 元，一共多少元？",
+   "want": "499",
+   "got": "999",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 781 元，又得到 299 元，一共多少元？",
+   "want": "1080",
+   "got": "880",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 277 元，又得到 174 元，一共多少元？",
+   "want": "451",
+   "got": "441",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 612 元，又得到 627 元，一共多少元？",
+   "want": "1239",
+   "got": "749",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 952 元，又得到 187 元，一共多少元？",
+   "want": "1139",
+   "got": "439",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 915 元，又得到 305 元，一共多少元？",
+   "want": "1220",
+   "got": "1616",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 831 元，又得到 367 元，一共多少元？",
+   "want": "1198",
+   "got": "278",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 594 元，又得到 651 元，一共多少元？",
+   "want": "1245",
+   "got": "445",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 991 元，又得到 250 元，一共多少元？",
+   "want": "1241",
+   "got": "441",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 407 元，又得到 975 元，一共多少元？",
+   "want": "1382",
+   "got": "882",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 411 元，又得到 910 元，一共多少元？",
+   "want": "1321",
+   "got": "212",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 675 元，又得到 972 元，一共多少元？",
+   "want": "1647",
+   "got": "548",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 898 元，又得到 271 元，一共多少元？",
+   "want": "1169",
+   "got": "669",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 658 元，又得到 408 元，一共多少元？",
+   "want": "1066",
+   "got": "666",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 510 元，又得到 651 元，一共多少元？",
+   "want": "1161",
+   "got": "662",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 772 元，又得到 580 元，一共多少元？",
+   "want": "1352",
+   "got": "442",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 996 元，又得到 618 元，一共多少元？",
+   "want": "1614",
+   "got": "1515",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 786 元，又得到 641 元，一共多少元？",
+   "want": "1427",
+   "got": "327",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 408 元，又得到 206 元，一共多少元？",
+   "want": "614",
+   "got": "160",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 251 元，又得到 501 元，一共多少元？",
+   "want": "752",
+   "got": "553",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 534 元，又得到 965 元，一共多少元？",
+   "want": "1499",
+   "got": "499",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 947 元，又得到 329 元，一共多少元？",
+   "want": "1276",
+   "got": "776",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 549 元，又得到 201 元，一共多少元？",
+   "want": "750",
+   "got": "550",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 608 元，又得到 735 元，一共多少元？",
+   "want": "1343",
+   "got": "443",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 881 元，又得到 190 元，一共多少元？",
+   "want": "1071",
+   "got": "771",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 420 元，又得到 819 元，一共多少元？",
+   "want": "1239",
+   "got": "349",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 417 元，又得到 486 元，一共多少元？",
+   "want": "903",
+   "got": "693",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 728 元，又得到 749 元，一共多少元？",
+   "want": "1477",
+   "got": "777",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 195 元，又得到 789 元，一共多少元？",
+   "want": "984",
+   "got": "884",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 191 元，又得到 190 元，一共多少元？",
+   "want": "381",
+   "got": "881",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 691 元，又得到 980 元，一共多少元？",
+   "want": "1671",
+   "got": "661",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 197 元，又得到 918 元，一共多少元？",
+   "want": "1115",
+   "got": "1616",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 640 元，又得到 804 元，一共多少元？",
+   "want": "1444",
+   "got": "444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 211 元，又得到 946 元，一共多少元？",
+   "want": "1157",
+   "got": "557",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 309 元，又得到 992 元，一共多少元？",
+   "want": "1301",
+   "got": "1000",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 487 元，又得到 691 元，一共多少元？",
+   "want": "1178",
+   "got": "768",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 598 元，又得到 134 元，一共多少元？",
+   "want": "732",
+   "got": "432",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 100 元，又得到 173 元，一共多少元？",
+   "want": "273",
+   "got": "173",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 741 元，又得到 516 元，一共多少元？",
+   "want": "1257",
+   "got": "1657",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 733 元，又得到 728 元，一共多少元？",
+   "want": "1461",
+   "got": "561",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 175 元，又得到 888 元，一共多少元？",
+   "want": "1063",
+   "got": "1543",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 759 元，又得到 554 元，一共多少元？",
+   "want": "1313",
+   "got": "393",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 693 元，又得到 754 元，一共多少元？",
+   "want": "1447",
+   "got": "347",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 944 元，又得到 297 元，一共多少元？",
+   "want": "1241",
+   "got": "441",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 322 元，又得到 362 元，一共多少元？",
+   "want": "684",
+   "got": "884",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 146 元，又得到 400 元，一共多少元？",
+   "want": "546",
+   "got": "446",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 876 元，又得到 459 元，一共多少元？",
+   "want": "1335",
+   "got": "455",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 778 元，又得到 793 元，一共多少元？",
+   "want": "1571",
+   "got": "671",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 659 元，又得到 544 元，一共多少元？",
+   "want": "1203",
+   "got": "124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 832 元，又得到 658 元，一共多少元？",
+   "want": "1490",
+   "got": "390",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 145 元，又得到 674 元，一共多少元？",
+   "want": "819",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 148 元，又得到 581 元，一共多少元？",
+   "want": "729",
+   "got": "299",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 551 元，又得到 397 元，一共多少元？",
+   "want": "948",
+   "got": "448",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 624 元，又得到 752 元，一共多少元？",
+   "want": "1376",
+   "got": "166",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 571 元，又得到 118 元，一共多少元？",
+   "want": "689",
+   "got": "890",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 333 元，又得到 422 元，一共多少元？",
+   "want": "755",
+   "got": "555",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 692 元，又得到 676 元，一共多少元？",
+   "want": "1368",
+   "got": "568",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 750 元，又得到 900 元，一共多少元？",
+   "want": "1650",
+   "got": "551",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 883 元，又得到 804 元，一共多少元？",
+   "want": "1687",
+   "got": "887",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 123 元，又得到 119 元，一共多少元？",
+   "want": "242",
+   "got": "342",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 114 元，又得到 261 元，一共多少元？",
+   "want": "375",
+   "got": "775",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 776 元，又得到 744 元，一共多少元？",
+   "want": "1520",
+   "got": "220",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 688 元，又得到 314 元，一共多少元？",
+   "want": "1002",
+   "got": "992",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 891 元，又得到 522 元，一共多少元？",
+   "want": "1413",
+   "got": "714",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 933 元，又得到 924 元，一共多少元？",
+   "want": "1857",
+   "got": "1657",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 395 元，又得到 545 元，一共多少元？",
+   "want": "940",
+   "got": "841",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 911 元，又得到 722 元，一共多少元？",
+   "want": "1633",
+   "got": "333",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 131 元，又得到 605 元，一共多少元？",
+   "want": "736",
+   "got": "166",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 797 元，又得到 461 元，一共多少元？",
+   "want": "1258",
+   "got": "558",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 158 元，又得到 211 元，一共多少元？",
+   "want": "369",
+   "got": "669",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 829 元，又得到 107 元，一共多少元？",
+   "want": "936",
+   "got": "296",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 810 元，又得到 575 元，一共多少元？",
+   "want": "1385",
+   "got": "885",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 693 元，又得到 269 元，一共多少元？",
+   "want": "962",
+   "got": "662",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 339 元，又得到 139 元，一共多少元？",
+   "want": "478",
+   "got": "678",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 606 元，又得到 232 元，一共多少元？",
+   "want": "838",
+   "got": "338",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 547 元，又得到 851 元，一共多少元？",
+   "want": "1398",
+   "got": "368",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 297 元，又得到 940 元，一共多少元？",
+   "want": "1237",
+   "got": "837",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 643 元，又得到 201 元，一共多少元？",
+   "want": "844",
+   "got": "444",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 540 元，又得到 588 元，一共多少元？",
+   "want": "1128",
+   "got": "329",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 726 元，又得到 722 元，一共多少元？",
+   "want": "1448",
+   "got": "948",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 195 元，又得到 596 元，一共多少元？",
+   "want": "791",
+   "got": "1591",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 588 元，又得到 170 元，一共多少元？",
+   "want": "758",
+   "got": "348",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 175 元，又得到 450 元，一共多少元？",
+   "want": "625",
+   "got": "916",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 676 元，又得到 525 元，一共多少元？",
+   "want": "1201",
+   "got": "800",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "小明有 647 元，又得到 678 元，一共多少元？",
+   "want": "1325",
+   "got": "1625",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "小明有 190 元，又得到 181 元，一共多少元？",
+   "want": "371",
+   "got": "771",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5289 元，又得到 2612 元，一共多少元？",
+   "want": "7901",
+   "got": "8810",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 4541 元，又得到 6500 元，一共多少元？",
+   "want": "11041",
+   "got": "10941",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 7544 元，又得到 8755 元，一共多少元？",
+   "want": "16299",
+   "got": "4309",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3224 元，又得到 2317 元，一共多少元？",
+   "want": "5541",
+   "got": "5531",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5919 元，又得到 5570 元，一共多少元？",
+   "want": "11489",
+   "got": "4490",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8735 元，又得到 2979 元，一共多少元？",
+   "want": "11714",
+   "got": "6714",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4092 元，又得到 4690 元，一共多少元？",
+   "want": "8782",
+   "got": "7792",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 6314 元，又得到 3219 元，一共多少元？",
+   "want": "9533",
+   "got": "5533",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3107 元，又得到 9045 元，一共多少元？",
+   "want": "12152",
+   "got": "1416",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9090 元，又得到 6228 元，一共多少元？",
+   "want": "15318",
+   "got": "2308",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8277 元，又得到 5542 元，一共多少元？",
+   "want": "13819",
+   "got": "7819",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3687 元，又得到 3873 元，一共多少元？",
+   "want": "7560",
+   "got": "5551",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 1119 元，又得到 6813 元，一共多少元？",
+   "want": "7932",
+   "got": "9932",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5938 元，又得到 2337 元，一共多少元？",
+   "want": "8275",
+   "got": "2195",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8156 元，又得到 1915 元，一共多少元？",
+   "want": "10071",
+   "got": "10161",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5274 元，又得到 6051 元，一共多少元？",
+   "want": "11325",
+   "got": "7325",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 7678 元，又得到 7325 元，一共多少元？",
+   "want": "15003",
+   "got": "9003",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5742 元，又得到 6589 元，一共多少元？",
+   "want": "12331",
+   "got": "3331",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9343 元，又得到 8823 元，一共多少元？",
+   "want": "18166",
+   "got": "2166",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4387 元，又得到 4568 元，一共多少元？",
+   "want": "8955",
+   "got": "9955",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 7150 元，又得到 1470 元，一共多少元？",
+   "want": "8620",
+   "got": "5620",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 4401 元，又得到 7574 元，一共多少元？",
+   "want": "11975",
+   "got": "9975",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9690 元，又得到 7012 元，一共多少元？",
+   "want": "16702",
+   "got": "6711",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2241 元，又得到 1126 元，一共多少元？",
+   "want": "3367",
+   "got": "3367",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9447 元，又得到 1261 元，一共多少元？",
+   "want": "10708",
+   "got": "6710",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5570 元，又得到 1361 元，一共多少元？",
+   "want": "6931",
+   "got": "7931",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8055 元，又得到 8529 元，一共多少元？",
+   "want": "16584",
+   "got": "5684",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8073 元，又得到 8500 元，一共多少元？",
+   "want": "16573",
+   "got": "5573",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2053 元，又得到 9222 元，一共多少元？",
+   "want": "11275",
+   "got": "2775",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6196 元，又得到 2970 元，一共多少元？",
+   "want": "9166",
+   "got": "15166",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5679 元，又得到 6514 元，一共多少元？",
+   "want": "12193",
+   "got": "2093",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6313 元，又得到 7241 元，一共多少元？",
+   "want": "13554",
+   "got": "8564",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5566 元，又得到 9582 元，一共多少元？",
+   "want": "15148",
+   "got": "5158",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3453 元，又得到 1521 元，一共多少元？",
+   "want": "4974",
+   "got": "7974",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 4541 元，又得到 8134 元，一共多少元？",
+   "want": "12675",
+   "got": "6675",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3062 元，又得到 2254 元，一共多少元？",
+   "want": "5316",
+   "got": "3316",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 7604 元，又得到 1819 元，一共多少元？",
+   "want": "9423",
+   "got": "4423",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5688 元，又得到 3360 元，一共多少元？",
+   "want": "9048",
+   "got": "9948",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2800 元，又得到 7986 元，一共多少元？",
+   "want": "10786",
+   "got": "7786",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8683 元，又得到 1166 元，一共多少元？",
+   "want": "9849",
+   "got": "8849",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3330 元，又得到 2817 元，一共多少元？",
+   "want": "6147",
+   "got": "1152",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2270 元，又得到 5176 元，一共多少元？",
+   "want": "7446",
+   "got": "4446",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8449 元，又得到 8740 元，一共多少元？",
+   "want": "17189",
+   "got": "3279",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6024 元，又得到 4151 元，一共多少元？",
+   "want": "10175",
+   "got": "1616",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8760 元，又得到 2239 元，一共多少元？",
+   "want": "10999",
+   "got": "9999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6919 元，又得到 2129 元，一共多少元？",
+   "want": "9048",
+   "got": "10108",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9268 元，又得到 1010 元，一共多少元？",
+   "want": "10278",
+   "got": "2678",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 7247 元，又得到 9588 元，一共多少元？",
+   "want": "16835",
+   "got": "7835",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3862 元，又得到 6934 元，一共多少元？",
+   "want": "10796",
+   "got": "8796",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3377 元，又得到 2725 元，一共多少元？",
+   "want": "6102",
+   "got": "10101",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6501 元，又得到 2594 元，一共多少元？",
+   "want": "9095",
+   "got": "8105",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 4629 元，又得到 2824 元，一共多少元？",
+   "want": "7453",
+   "got": "4483",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2653 元，又得到 4012 元，一共多少元？",
+   "want": "6665",
+   "got": "6665",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3072 元，又得到 3503 元，一共多少元？",
+   "want": "6575",
+   "got": "5575",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 6767 元，又得到 1239 元，一共多少元？",
+   "want": "8006",
+   "got": "8006",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 1157 元，又得到 1044 元，一共多少元？",
+   "want": "2201",
+   "got": "1620",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 7135 元，又得到 7340 元，一共多少元？",
+   "want": "14475",
+   "got": "8475",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9085 元，又得到 6814 元，一共多少元？",
+   "want": "15899",
+   "got": "9909",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9222 元，又得到 9466 元，一共多少元？",
+   "want": "18688",
+   "got": "6688",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5327 元，又得到 1983 元，一共多少元？",
+   "want": "7310",
+   "got": "3310",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2412 元，又得到 7660 元，一共多少元？",
+   "want": "10072",
+   "got": "9162",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1453 元，又得到 5556 元，一共多少元？",
+   "want": "7009",
+   "got": "9009",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5019 元，又得到 2275 元，一共多少元？",
+   "want": "7294",
+   "got": "2794",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5615 元，又得到 7863 元，一共多少元？",
+   "want": "13478",
+   "got": "4488",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8061 元，又得到 1498 元，一共多少元？",
+   "want": "9559",
+   "got": "5559",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9470 元，又得到 3682 元，一共多少元？",
+   "want": "13152",
+   "got": "6202",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8393 元，又得到 7769 元，一共多少元？",
+   "want": "16162",
+   "got": "15152",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3794 元，又得到 6320 元，一共多少元？",
+   "want": "10114",
+   "got": "1104",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8269 元，又得到 8925 元，一共多少元？",
+   "want": "17194",
+   "got": "1122",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5156 元，又得到 7977 元，一共多少元？",
+   "want": "13133",
+   "got": "1303",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5742 元，又得到 3729 元，一共多少元？",
+   "want": "9471",
+   "got": "3470",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8102 元，又得到 1804 元，一共多少元？",
+   "want": "9906",
+   "got": "9906",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3966 元，又得到 4095 元，一共多少元？",
+   "want": "8061",
+   "got": "9961",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3532 元，又得到 2710 元，一共多少元？",
+   "want": "6242",
+   "got": "2342",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 1877 元，又得到 8569 元，一共多少元？",
+   "want": "10446",
+   "got": "4545",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6899 元，又得到 8660 元，一共多少元？",
+   "want": "15559",
+   "got": "5559",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5192 元，又得到 2439 元，一共多少元？",
+   "want": "7631",
+   "got": "6631",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3882 元，又得到 3312 元，一共多少元？",
+   "want": "7194",
+   "got": "1124",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5836 元，又得到 5272 元，一共多少元？",
+   "want": "11108",
+   "got": "8114",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6338 元，又得到 1291 元，一共多少元？",
+   "want": "7629",
+   "got": "5629",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 6827 元，又得到 3129 元，一共多少元？",
+   "want": "9956",
+   "got": "9956",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 6886 元，又得到 3551 元，一共多少元？",
+   "want": "10437",
+   "got": "4457",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4567 元，又得到 5469 元，一共多少元？",
+   "want": "10036",
+   "got": "10116",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5160 元，又得到 8010 元，一共多少元？",
+   "want": "13170",
+   "got": "16160",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 6344 元，又得到 1349 元，一共多少元？",
+   "want": "7693",
+   "got": "8793",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9100 元，又得到 3741 元，一共多少元？",
+   "want": "12841",
+   "got": "8841",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5903 元，又得到 3551 元，一共多少元？",
+   "want": "9454",
+   "got": "4554",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2691 元，又得到 6172 元，一共多少元？",
+   "want": "8863",
+   "got": "8863",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8359 元，又得到 3758 元，一共多少元？",
+   "want": "12117",
+   "got": "1214",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1527 元，又得到 2280 元，一共多少元？",
+   "want": "3807",
+   "got": "7896",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 1434 元，又得到 1890 元，一共多少元？",
+   "want": "3324",
+   "got": "3323",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5777 元，又得到 4695 元，一共多少元？",
+   "want": "10472",
+   "got": "2572",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 7391 元，又得到 4327 元，一共多少元？",
+   "want": "11718",
+   "got": "7717",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5097 元，又得到 1327 元，一共多少元？",
+   "want": "6424",
+   "got": "6421",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8946 元，又得到 4883 元，一共多少元？",
+   "want": "13829",
+   "got": "7828",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8750 元，又得到 9031 元，一共多少元？",
+   "want": "17781",
+   "got": "7781",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9139 元，又得到 5058 元，一共多少元？",
+   "want": "14197",
+   "got": "10236",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 6985 元，又得到 3899 元，一共多少元？",
+   "want": "10884",
+   "got": "8884",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5050 元，又得到 9714 元，一共多少元？",
+   "want": "14764",
+   "got": "6764",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6609 元，又得到 2369 元，一共多少元？",
+   "want": "8978",
+   "got": "9978",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3111 元，又得到 1532 元，一共多少元？",
+   "want": "4643",
+   "got": "6643",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8568 元，又得到 1359 元，一共多少元？",
+   "want": "9927",
+   "got": "9927",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8959 元，又得到 9045 元，一共多少元？",
+   "want": "18004",
+   "got": "9004",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6435 元，又得到 8685 元，一共多少元？",
+   "want": "15120",
+   "got": "4120",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4208 元，又得到 7373 元，一共多少元？",
+   "want": "11581",
+   "got": "5581",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2895 元，又得到 6909 元，一共多少元？",
+   "want": "9804",
+   "got": "8794",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5741 元，又得到 2859 元，一共多少元？",
+   "want": "8600",
+   "got": "4691",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3765 元，又得到 9913 元，一共多少元？",
+   "want": "13678",
+   "got": "6678",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1033 元，又得到 2097 元，一共多少元？",
+   "want": "3130",
+   "got": "2030",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9736 元，又得到 2086 元，一共多少元？",
+   "want": "11822",
+   "got": "8821",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3447 元，又得到 9893 元，一共多少元？",
+   "want": "13340",
+   "got": "4340",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5994 元，又得到 3645 元，一共多少元？",
+   "want": "9639",
+   "got": "8649",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9189 元，又得到 2216 元，一共多少元？",
+   "want": "11405",
+   "got": "4414",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6375 元，又得到 5307 元，一共多少元？",
+   "want": "11682",
+   "got": "9682",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4657 元，又得到 7505 元，一共多少元？",
+   "want": "12162",
+   "got": "2462",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9012 元，又得到 5169 元，一共多少元？",
+   "want": "14181",
+   "got": "10161",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9507 元，又得到 2868 元，一共多少元？",
+   "want": "12375",
+   "got": "4475",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6619 元，又得到 9297 元，一共多少元？",
+   "want": "15916",
+   "got": "8916",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5234 元，又得到 6196 元，一共多少元？",
+   "want": "11430",
+   "got": "7431",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4326 元，又得到 6831 元，一共多少元？",
+   "want": "11157",
+   "got": "1127",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4774 元，又得到 6714 元，一共多少元？",
+   "want": "11488",
+   "got": "3488",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1026 元，又得到 4425 元，一共多少元？",
+   "want": "5451",
+   "got": "1461",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5734 元，又得到 6561 元，一共多少元？",
+   "want": "12295",
+   "got": "2305",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2894 元，又得到 9212 元，一共多少元？",
+   "want": "12106",
+   "got": "10106",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3347 元，又得到 3047 元，一共多少元？",
+   "want": "6394",
+   "got": "3394",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 6491 元，又得到 1046 元，一共多少元？",
+   "want": "7537",
+   "got": "5536",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3952 元，又得到 5211 元，一共多少元？",
+   "want": "9163",
+   "got": "7163",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5181 元，又得到 8924 元，一共多少元？",
+   "want": "14105",
+   "got": "1406",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4540 元，又得到 9044 元，一共多少元？",
+   "want": "13584",
+   "got": "5584",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1033 元，又得到 2345 元，一共多少元？",
+   "want": "3378",
+   "got": "3378",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3097 元，又得到 3243 元，一共多少元？",
+   "want": "6340",
+   "got": "4440",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3003 元，又得到 6695 元，一共多少元？",
+   "want": "9698",
+   "got": "9698",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 4364 元，又得到 2612 元，一共多少元？",
+   "want": "6976",
+   "got": "8876",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 1759 元，又得到 1742 元，一共多少元？",
+   "want": "3501",
+   "got": "4491",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2561 元，又得到 3294 元，一共多少元？",
+   "want": "5855",
+   "got": "8855",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 4981 元，又得到 8918 元，一共多少元？",
+   "want": "13899",
+   "got": "8899",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9828 元，又得到 4977 元，一共多少元？",
+   "want": "14805",
+   "got": "8805",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5147 元，又得到 2362 元，一共多少元？",
+   "want": "7509",
+   "got": "7610",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2495 元，又得到 8434 元，一共多少元？",
+   "want": "10929",
+   "got": "9929",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3887 元，又得到 6456 元，一共多少元？",
+   "want": "10343",
+   "got": "1244",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1746 元，又得到 3722 元，一共多少元？",
+   "want": "5468",
+   "got": "4368",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8662 元，又得到 8751 元，一共多少元？",
+   "want": "17413",
+   "got": "5323",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8150 元，又得到 8504 元，一共多少元？",
+   "want": "16654",
+   "got": "6654",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 3248 元，又得到 9942 元，一共多少元？",
+   "want": "13190",
+   "got": "2190",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9328 元，又得到 5465 元，一共多少元？",
+   "want": "14793",
+   "got": "7893",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2268 元，又得到 2891 元，一共多少元？",
+   "want": "5159",
+   "got": "15159",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 7885 元，又得到 6591 元，一共多少元？",
+   "want": "14476",
+   "got": "4545",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4836 元，又得到 2969 元，一共多少元？",
+   "want": "7805",
+   "got": "8895",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5346 元，又得到 8325 元，一共多少元？",
+   "want": "13671",
+   "got": "8661",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2047 元，又得到 7544 元，一共多少元？",
+   "want": "9591",
+   "got": "6591",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2887 元，又得到 3077 元，一共多少元？",
+   "want": "5964",
+   "got": "9964",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5452 元，又得到 1957 元，一共多少元？",
+   "want": "7409",
+   "got": "4418",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 4959 元，又得到 7469 元，一共多少元？",
+   "want": "12428",
+   "got": "3427",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 7873 元，又得到 6020 元，一共多少元？",
+   "want": "13893",
+   "got": "8893",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2398 元，又得到 2186 元，一共多少元？",
+   "want": "4584",
+   "got": "5584",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5355 元，又得到 4321 元，一共多少元？",
+   "want": "9676",
+   "got": "8676",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8306 元，又得到 9624 元，一共多少元？",
+   "want": "17930",
+   "got": "5931",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9061 元，又得到 7492 元，一共多少元？",
+   "want": "16553",
+   "got": "5553",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9464 元，又得到 9974 元，一共多少元？",
+   "want": "19438",
+   "got": "4438",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1109 元，又得到 3378 元，一共多少元？",
+   "want": "4487",
+   "got": "4487",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2446 元，又得到 7286 元，一共多少元？",
+   "want": "9732",
+   "got": "7731",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5672 元，又得到 8322 元，一共多少元？",
+   "want": "13994",
+   "got": "3994",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8962 元，又得到 6461 元，一共多少元？",
+   "want": "15423",
+   "got": "4423",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2436 元，又得到 1535 元，一共多少元？",
+   "want": "3971",
+   "got": "7861",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9632 元，又得到 8354 元，一共多少元？",
+   "want": "17986",
+   "got": "5986",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2970 元，又得到 7930 元，一共多少元？",
+   "want": "10900",
+   "got": "8893",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4903 元，又得到 6660 元，一共多少元？",
+   "want": "11563",
+   "got": "4563",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8346 元，又得到 2426 元，一共多少元？",
+   "want": "10772",
+   "got": "7761",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4862 元，又得到 5605 元，一共多少元？",
+   "want": "10467",
+   "got": "4467",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2379 元，又得到 3552 元，一共多少元？",
+   "want": "5931",
+   "got": "9931",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8022 元，又得到 7990 元，一共多少元？",
+   "want": "16012",
+   "got": "9911",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5193 元，又得到 2451 元，一共多少元？",
+   "want": "7644",
+   "got": "6644",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9376 元，又得到 7955 元，一共多少元？",
+   "want": "17331",
+   "got": "3331",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6028 元，又得到 6908 元，一共多少元？",
+   "want": "12936",
+   "got": "9929",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9395 元，又得到 8705 元，一共多少元？",
+   "want": "18100",
+   "got": "3999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9926 元，又得到 7925 元，一共多少元？",
+   "want": "17851",
+   "got": "8851",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 2785 元，又得到 2530 元，一共多少元？",
+   "want": "5315",
+   "got": "8305",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5472 元，又得到 7608 元，一共多少元？",
+   "want": "13080",
+   "got": "3160",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 7145 元，又得到 7666 元，一共多少元？",
+   "want": "14811",
+   "got": "8801",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1526 元，又得到 2202 元，一共多少元？",
+   "want": "3728",
+   "got": "7738",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2909 元，又得到 7713 元，一共多少元？",
+   "want": "10622",
+   "got": "6621",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5882 元，又得到 3081 元，一共多少元？",
+   "want": "8963",
+   "got": "9963",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 1157 元，又得到 9688 元，一共多少元？",
+   "want": "10845",
+   "got": "8845",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 5446 元，又得到 3027 元，一共多少元？",
+   "want": "8473",
+   "got": "5463",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8203 元，又得到 4615 元，一共多少元？",
+   "want": "12818",
+   "got": "8816",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 1821 元，又得到 2617 元，一共多少元？",
+   "want": "4438",
+   "got": "4459",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2324 元，又得到 3965 元，一共多少元？",
+   "want": "6289",
+   "got": "2209",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 9430 元，又得到 6938 元，一共多少元？",
+   "want": "16368",
+   "got": "4368",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8139 元，又得到 1632 元，一共多少元？",
+   "want": "9771",
+   "got": "7771",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 8509 元，又得到 1308 元，一共多少元？",
+   "want": "9817",
+   "got": "6807",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 2720 元，又得到 7001 元，一共多少元？",
+   "want": "9721",
+   "got": "7720",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 1780 元，又得到 5201 元，一共多少元？",
+   "want": "6981",
+   "got": "7981",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 5032 元，又得到 3436 元，一共多少元？",
+   "want": "8468",
+   "got": "5468",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "小明有 3869 元，又得到 7117 元，一共多少元？",
+   "want": "10986",
+   "got": "9986",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 8003 元，又得到 7566 元，一共多少元？",
+   "want": "15569",
+   "got": "5569",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6442 元，又得到 5084 元，一共多少元？",
+   "want": "11526",
+   "got": "5527",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6298 元，又得到 7047 元，一共多少元？",
+   "want": "13345",
+   "got": "8345",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 6129 元，又得到 2980 元，一共多少元？",
+   "want": "9109",
+   "got": "1013元",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 9557 元，又得到 1693 元，一共多少元？",
+   "want": "11250",
+   "got": "7551",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "小明有 4359 元，又得到 2359 元，一共多少元？",
+   "want": "6718",
+   "got": "7817",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 96196 元，又得到 98273 元，一共多少元？",
+   "want": "194469",
+   "got": "54569",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 33957 元，又得到 13105 元，一共多少元？",
+   "want": "47062",
+   "got": "66162",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 54022 元，又得到 79882 元，一共多少元？",
+   "want": "133904",
+   "got": "33904",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 65777 元，又得到 57142 元，一共多少元？",
+   "want": "122919",
+   "got": "22817",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 58045 元，又得到 56281 元，一共多少元？",
+   "want": "114326",
+   "got": "44336",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 34481 元，又得到 35420 元，一共多少元？",
+   "want": "69901",
+   "got": "99691",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 68104 元，又得到 78361 元，一共多少元？",
+   "want": "146465",
+   "got": "44465",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 83148 元，又得到 29418 元，一共多少元？",
+   "want": "112566",
+   "got": "12267",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 38540 元，又得到 45444 元，一共多少元？",
+   "want": "83984",
+   "got": "43984",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 47821 元，又得到 21564 元，一共多少元？",
+   "want": "69385",
+   "got": "99365",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 79622 元，又得到 52608 元，一共多少元？",
+   "want": "132230",
+   "got": "82190",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 14059 元，又得到 99335 元，一共多少元？",
+   "want": "113394",
+   "got": "33394",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 83920 元，又得到 39218 元，一共多少元？",
+   "want": "123138",
+   "got": "33149",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 55321 元，又得到 23939 元，一共多少元？",
+   "want": "79260",
+   "got": "99260",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 86866 元，又得到 85119 元，一共多少元？",
+   "want": "171985",
+   "got": "42985",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 86090 元，又得到 21855 元，一共多少元？",
+   "want": "107945",
+   "got": "77645",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 91314 元，又得到 32630 元，一共多少元？",
+   "want": "123944",
+   "got": "44944",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 91093 元，又得到 28601 元，一共多少元？",
+   "want": "119694",
+   "got": "99694",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 30363 元，又得到 22922 元，一共多少元？",
+   "want": "53285",
+   "got": "33265",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 87143 元，又得到 52307 元，一共多少元？",
+   "want": "139450",
+   "got": "99449",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 75569 元，又得到 15043 元，一共多少元？",
+   "want": "90612",
+   "got": "71013",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 42515 元，又得到 88456 元，一共多少元？",
+   "want": "130971",
+   "got": "61061",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 13281 元，又得到 85537 元，一共多少元？",
+   "want": "98818",
+   "got": "78817",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 69109 元，又得到 25980 元，一共多少元？",
+   "want": "95089",
+   "got": "65999",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 45097 元，又得到 52798 元，一共多少元？",
+   "want": "97895",
+   "got": "78895",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 53094 元，又得到 41089 元，一共多少元？",
+   "want": "94183",
+   "got": "34173",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 50977 元，又得到 76290 元，一共多少元？",
+   "want": "127267",
+   "got": "77267",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 21983 元，又得到 72582 元，一共多少元？",
+   "want": "94565",
+   "got": "44665",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 95071 元，又得到 57351 元，一共多少元？",
+   "want": "152422",
+   "got": "42723",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 73967 元，又得到 25897 元，一共多少元？",
+   "want": "99864",
+   "got": "99864",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 70186 元，又得到 74897 元，一共多少元？",
+   "want": "145083",
+   "got": "85163",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 56463 元，又得到 74324 元，一共多少元？",
+   "want": "130787",
+   "got": "31687",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 46499 元，又得到 62957 元，一共多少元？",
+   "want": "109456",
+   "got": "99456",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 98438 元，又得到 83774 元，一共多少元？",
+   "want": "182212",
+   "got": "32212",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 44536 元，又得到 64458 元，一共多少元？",
+   "want": "108994",
+   "got": "99104",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 38151 元，又得到 61935 元，一共多少元？",
+   "want": "100086",
+   "got": "90086",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 50146 元，又得到 10151 元，一共多少元？",
+   "want": "60297",
+   "got": "10160",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 98147 元，又得到 57418 元，一共多少元？",
+   "want": "155565",
+   "got": "44665",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 11691 元，又得到 76033 元，一共多少元？",
+   "want": "87724",
+   "got": "77723",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 49986 元，又得到 79058 元，一共多少元？",
+   "want": "129044",
+   "got": "27945",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 27033 元，又得到 26596 元，一共多少元？",
+   "want": "53629",
+   "got": "33129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 81841 元，又得到 43251 元，一共多少元？",
+   "want": "125092",
+   "got": "55172",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 20807 元，又得到 37849 元，一共多少元？",
+   "want": "58656",
+   "got": "88656",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 70957 元，又得到 55304 元，一共多少元？",
+   "want": "126261",
+   "got": "66261",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 95356 元，又得到 53241 元，一共多少元？",
+   "want": "148597",
+   "got": "88597",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 33313 元，又得到 27529 元，一共多少元？",
+   "want": "60842",
+   "got": "99813",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 21596 元，又得到 46934 元，一共多少元？",
+   "want": "68530",
+   "got": "88530",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 29351 元，又得到 64736 元，一共多少元？",
+   "want": "94087",
+   "got": "44107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 34917 元，又得到 83022 元，一共多少元？",
+   "want": "117939",
+   "got": "77939",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 61910 元，又得到 27273 元，一共多少元？",
+   "want": "89183",
+   "got": "89683",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 73274 元，又得到 78131 元，一共多少元？",
+   "want": "151405",
+   "got": "51405",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 13660 元，又得到 55588 元，一共多少元？",
+   "want": "69248",
+   "got": "89258",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 88201 元，又得到 72374 元，一共多少元？",
+   "want": "160575",
+   "got": "90575",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 91124 元，又得到 31126 元，一共多少元？",
+   "want": "122250",
+   "got": "42350",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 95393 元，又得到 24280 元，一共多少元？",
+   "want": "119673",
+   "got": "99673",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 43755 元，又得到 52934 元，一共多少元？",
+   "want": "96689",
+   "got": "76589",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 28408 元，又得到 98968 元，一共多少元？",
+   "want": "127376",
+   "got": "87366",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 22700 元，又得到 90827 元，一共多少元？",
+   "want": "113527",
+   "got": "23527",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 46222 元，又得到 82803 元，一共多少元？",
+   "want": "129025",
+   "got": "99105",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 93634 元，又得到 61580 元，一共多少元？",
+   "want": "155214",
+   "got": "65234",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 60787 元，又得到 79442 元，一共多少元？",
+   "want": "140229",
+   "got": "90029",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 80603 元，又得到 14810 元，一共多少元？",
+   "want": "95413",
+   "got": "55414",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 42802 元，又得到 31379 元，一共多少元？",
+   "want": "74181",
+   "got": "54261",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 40054 元，又得到 49765 元，一共多少元？",
+   "want": "89819",
+   "got": "99819",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 19612 元，又得到 72842 元，一共多少元？",
+   "want": "92454",
+   "got": "16254",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 71925 元，又得到 56276 元，一共多少元？",
+   "want": "128201",
+   "got": "88290",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 30039 元，又得到 54478 元，一共多少元？",
+   "want": "84517",
+   "got": "84417",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 36891 元，又得到 20290 元，一共多少元？",
+   "want": "57181",
+   "got": "88171",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 68874 元，又得到 18915 元，一共多少元？",
+   "want": "87789",
+   "got": "57789",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 97965 元，又得到 26007 元，一共多少元？",
+   "want": "123972",
+   "got": "43972",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 29643 元，又得到 47843 元，一共多少元？",
+   "want": "77486",
+   "got": "77486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 28615 元，又得到 46004 元，一共多少元？",
+   "want": "74619",
+   "got": "44616",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 32767 元，又得到 22350 元，一共多少元？",
+   "want": "55117",
+   "got": "55107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 93407 元，又得到 29540 元，一共多少元？",
+   "want": "122947",
+   "got": "32947",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 61037 元，又得到 93490 元，一共多少元？",
+   "want": "154527",
+   "got": "44626",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 28061 元，又得到 48700 元，一共多少元？",
+   "want": "76761",
+   "got": "66761",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 56537 元，又得到 68046 元，一共多少元？",
+   "want": "124583",
+   "got": "44583",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 73073 元，又得到 58120 元，一共多少元？",
+   "want": "131193",
+   "got": "31283",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 14219 元，又得到 88477 元，一共多少元？",
+   "want": "102696",
+   "got": "32796",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 31944 元，又得到 67357 元，一共多少元？",
+   "want": "99301",
+   "got": "99310",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 53066 元，又得到 40246 元，一共多少元？",
+   "want": "93312",
+   "got": "53311",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 97717 元，又得到 42648 元，一共多少元？",
+   "want": "140365",
+   "got": "71364",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 98645 元，又得到 94442 元，一共多少元？",
+   "want": "193087",
+   "got": "43087",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 21930 元，又得到 16575 元，一共多少元？",
+   "want": "38505",
+   "got": "78495",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 81947 元，又得到 75944 元，一共多少元？",
+   "want": "157891",
+   "got": "67391",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 75840 元，又得到 19910 元，一共多少元？",
+   "want": "95750",
+   "got": "65740",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 82954 元，又得到 65013 元，一共多少元？",
+   "want": "147967",
+   "got": "88967",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 96868 元，又得到 42904 元，一共多少元？",
+   "want": "139772",
+   "got": "89662",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 81493 元，又得到 17095 元，一共多少元？",
+   "want": "98588",
+   "got": "98588",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 59113 元，又得到 76807 元，一共多少元？",
+   "want": "135920",
+   "got": "45919",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 94410 元，又得到 39726 元，一共多少元？",
+   "want": "134136",
+   "got": "44166",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 50645 元，又得到 54624 元，一共多少元？",
+   "want": "105269",
+   "got": "55278",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 18312 元，又得到 44189 元，一共多少元？",
+   "want": "62501",
+   "got": "62312",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 40671 元，又得到 59928 元，一共多少元？",
+   "want": "100599",
+   "got": "99599",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 91131 元，又得到 48663 元，一共多少元？",
+   "want": "139794",
+   "got": "69894",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 65633 元，又得到 79154 元，一共多少元？",
+   "want": "144787",
+   "got": "44787",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 11122 元，又得到 59914 元，一共多少元？",
+   "want": "71036",
+   "got": "71036",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 53502 元，又得到 35227 元，一共多少元？",
+   "want": "88729",
+   "got": "88729",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 90954 元，又得到 49755 元，一共多少元？",
+   "want": "140709",
+   "got": "99699",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 93513 元，又得到 76278 元，一共多少元？",
+   "want": "169791",
+   "got": "59891",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 93829 元，又得到 58015 元，一共多少元？",
+   "want": "151844",
+   "got": "31944",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 70507 元，又得到 52004 元，一共多少元？",
+   "want": "122511",
+   "got": "23010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 49343 元，又得到 83410 元，一共多少元？",
+   "want": "132753",
+   "got": "32753",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 69945 元，又得到 73067 元，一共多少元？",
+   "want": "143012",
+   "got": "52913",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 95863 元，又得到 58120 元，一共多少元？",
+   "want": "153983",
+   "got": "43973",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 28671 元，又得到 63610 元，一共多少元？",
+   "want": "92281",
+   "got": "52171",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 19919 元，又得到 97288 元，一共多少元？",
+   "want": "117207",
+   "got": "17717",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 55816 元，又得到 18683 元，一共多少元？",
+   "want": "74499",
+   "got": "45599",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 20755 元，又得到 97776 元，一共多少元？",
+   "want": "118531",
+   "got": "88431",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 34530 元，又得到 61056 元，一共多少元？",
+   "want": "95586",
+   "got": "66676",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 86516 元，又得到 52990 元，一共多少元？",
+   "want": "139506",
+   "got": "89515",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 61588 元，又得到 28236 元，一共多少元？",
+   "want": "89824",
+   "got": "99854",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 33533 元，又得到 53937 元，一共多少元？",
+   "want": "87470",
+   "got": "88461",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 27913 元，又得到 75624 元，一共多少元？",
+   "want": "103537",
+   "got": "33426",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 85806 元，又得到 62215 元，一共多少元？",
+   "want": "148021",
+   "got": "78516",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 97734 元，又得到 12442 元，一共多少元？",
+   "want": "110176",
+   "got": "90076",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 53975 元，又得到 48335 元，一共多少元？",
+   "want": "102310",
+   "got": "32311",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 86403 元，又得到 66751 元，一共多少元？",
+   "want": "153154",
+   "got": "53274",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 97329 元，又得到 17730 元，一共多少元？",
+   "want": "115059",
+   "got": "94939",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 30156 元，又得到 30278 元，一共多少元？",
+   "want": "60434",
+   "got": "10104",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 60450 元，又得到 63102 元，一共多少元？",
+   "want": "123552",
+   "got": "63552",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 34834 元，又得到 33878 元，一共多少元？",
+   "want": "68712",
+   "got": "78612",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 98194 元，又得到 15456 元，一共多少元？",
+   "want": "113650",
+   "got": "43649",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 29751 元，又得到 81897 元，一共多少元？",
+   "want": "111648",
+   "got": "16166",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 31123 元，又得到 32442 元，一共多少元？",
+   "want": "63565",
+   "got": "43665",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 49755 元，又得到 33165 元，一共多少元？",
+   "want": "82920",
+   "got": "72720",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 38311 元，又得到 11766 元，一共多少元？",
+   "want": "50077",
+   "got": "49977",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 85219 元，又得到 39016 元，一共多少元？",
+   "want": "124235",
+   "got": "45231",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 25921 元，又得到 85428 元，一共多少元？",
+   "want": "111349",
+   "got": "91249",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 23036 元，又得到 89234 元，一共多少元？",
+   "want": "112270",
+   "got": "12139",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 79366 元，又得到 17454 元，一共多少元？",
+   "want": "96820",
+   "got": "86810",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 17975 元，又得到 84684 元，一共多少元？",
+   "want": "102659",
+   "got": "15663",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 83249 元，又得到 13819 元，一共多少元？",
+   "want": "97068",
+   "got": "67140",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 25746 元，又得到 86039 元，一共多少元？",
+   "want": "111785",
+   "got": "25785",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 49246 元，又得到 62938 元，一共多少元？",
+   "want": "112184",
+   "got": "82384",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 54359 元，又得到 85416 元，一共多少元？",
+   "want": "139775",
+   "got": "39671",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 19567 元，又得到 31835 元，一共多少元？",
+   "want": "51402",
+   "got": "14492",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 57451 元，又得到 58067 元，一共多少元？",
+   "want": "115518",
+   "got": "36417",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 94308 元，又得到 61522 元，一共多少元？",
+   "want": "155830",
+   "got": "65829",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 54811 元，又得到 72087 元，一共多少元？",
+   "want": "126898",
+   "got": "96898",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 65440 元，又得到 38790 元，一共多少元？",
+   "want": "104230",
+   "got": "44234",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 37836 元，又得到 56383 元，一共多少元？",
+   "want": "94219",
+   "got": "9423",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 15331 元，又得到 25620 元，一共多少元？",
+   "want": "40951",
+   "got": "101831",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 67112 元，又得到 17042 元，一共多少元？",
+   "want": "84154",
+   "got": "33144",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 95932 元，又得到 59032 元，一共多少元？",
+   "want": "154964",
+   "got": "45964",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 92587 元，又得到 89005 元，一共多少元？",
+   "want": "181592",
+   "got": "11285",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 94354 元，又得到 51519 元，一共多少元？",
+   "want": "145873",
+   "got": "65873",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 93745 元，又得到 63423 元，一共多少元？",
+   "want": "157168",
+   "got": "67167",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 48591 元，又得到 76048 元，一共多少元？",
+   "want": "124639",
+   "got": "44679",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 70533 元，又得到 57185 元，一共多少元？",
+   "want": "127718",
+   "got": "77717",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 68372 元，又得到 27415 元，一共多少元？",
+   "want": "95787",
+   "got": "44887",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 76538 元，又得到 91347 元，一共多少元？",
+   "want": "167885",
+   "got": "77985",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 58861 元，又得到 24190 元，一共多少元？",
+   "want": "83051",
+   "got": "33161",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 82660 元，又得到 63901 元，一共多少元？",
+   "want": "146561",
+   "got": "96551",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 44988 元，又得到 91547 元，一共多少元？",
+   "want": "136535",
+   "got": "66535",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 46944 元，又得到 63887 元，一共多少元？",
+   "want": "110831",
+   "got": "90831",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 87528 元，又得到 56161 元，一共多少元？",
+   "want": "143689",
+   "got": "42799",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 57777 元，又得到 21587 元，一共多少元？",
+   "want": "79364",
+   "got": "79354",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 43211 元，又得到 74533 元，一共多少元？",
+   "want": "117744",
+   "got": "16744",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 73895 元，又得到 93430 元，一共多少元？",
+   "want": "167325",
+   "got": "77326",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 92915 元，又得到 64542 元，一共多少元？",
+   "want": "157457",
+   "got": "87457",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 39580 元，又得到 35412 元，一共多少元？",
+   "want": "74992",
+   "got": "44992",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 39789 元，又得到 73275 元，一共多少元？",
+   "want": "113064",
+   "got": "23064",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 30703 元，又得到 53812 元，一共多少元？",
+   "want": "84515",
+   "got": "44423",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 76486 元，又得到 98423 元，一共多少元？",
+   "want": "174909",
+   "got": "54819",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 65900 元，又得到 53840 元，一共多少元？",
+   "want": "119740",
+   "got": "99740",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 53453 元，又得到 13347 元，一共多少元？",
+   "want": "66800",
+   "got": "66799",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 53565 元，又得到 36535 元，一共多少元？",
+   "want": "90100",
+   "got": "91091",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 72776 元，又得到 79288 元，一共多少元？",
+   "want": "152064",
+   "got": "16215",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 52849 元，又得到 87546 元，一共多少元？",
+   "want": "140395",
+   "got": "49395",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 32739 元，又得到 71997 元，一共多少元？",
+   "want": "104736",
+   "got": "44536",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 50523 元，又得到 24067 元，一共多少元？",
+   "want": "74590",
+   "got": "54691",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 30542 元，又得到 42661 元，一共多少元？",
+   "want": "73203",
+   "got": "33203",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 51503 元，又得到 92167 元，一共多少元？",
+   "want": "143670",
+   "got": "33669",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 68895 元，又得到 33490 元，一共多少元？",
+   "want": "102385",
+   "got": "12345",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 32608 元，又得到 65039 元，一共多少元？",
+   "want": "97647",
+   "got": "87647",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 48080 元，又得到 77268 元，一共多少元？",
+   "want": "125348",
+   "got": "25348",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 66384 元，又得到 43959 元，一共多少元？",
+   "want": "110343",
+   "got": "90343",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 80765 元，又得到 14859 元，一共多少元？",
+   "want": "95624",
+   "got": "55623",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 43289 元，又得到 64813 元，一共多少元？",
+   "want": "108102",
+   "got": "88102",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 43311 元，又得到 79877 元，一共多少元？",
+   "want": "123188",
+   "got": "23088",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 10087 元，又得到 76239 元，一共多少元？",
+   "want": "86326",
+   "got": "66326",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 14598 元，又得到 37897 元，一共多少元？",
+   "want": "52495",
+   "got": "72595",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 35755 元，又得到 34935 元，一共多少元？",
+   "want": "70690",
+   "got": "91591",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 35339 元，又得到 75926 元，一共多少元？",
+   "want": "111265",
+   "got": "21265",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 85389 元，又得到 46043 元，一共多少元？",
+   "want": "131432",
+   "got": "32332",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 80522 元，又得到 24234 元，一共多少元？",
+   "want": "104756",
+   "got": "44756",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 96638 元，又得到 55414 元，一共多少元？",
+   "want": "152052",
+   "got": "42062",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 48846 元，又得到 43999 元，一共多少元？",
+   "want": "92845",
+   "got": "82745",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 64031 元，又得到 65762 元，一共多少元？",
+   "want": "129793",
+   "got": "19793",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 22274 元，又得到 41452 元，一共多少元？",
+   "want": "63726",
+   "got": "33626",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 63232 元，又得到 57409 元，一共多少元？",
+   "want": "120641",
+   "got": "19041",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 85282 元，又得到 81725 元，一共多少元？",
+   "want": "167007",
+   "got": "67107",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 77758 元，又得到 70778 元，一共多少元？",
+   "want": "148536",
+   "got": "88446",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 51935 元，又得到 73099 元，一共多少元？",
+   "want": "125034",
+   "got": "85934",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 52736 元，又得到 96470 元，一共多少元？",
+   "want": "149206",
+   "got": "89206",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 86836 元，又得到 65056 元，一共多少元？",
+   "want": "151892",
+   "got": "31911",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 50375 元，又得到 69537 元，一共多少元？",
+   "want": "119912",
+   "got": "109911",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "小明有 30028 元，又得到 79247 元，一共多少元？",
+   "want": "109275",
+   "got": "99375",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "小明有 12506 元，又得到 85412 元，一共多少元？",
+   "want": "97918",
+   "got": "77920",
+   "exact": false,
+   "samelen": true
+  }
+ ]
+}

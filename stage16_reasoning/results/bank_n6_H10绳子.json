@@ -1,0 +1,3231 @@
+{
+ "label": "n6_H10绳子",
+ "by_rung": {
+  "2": [
+   1,
+   44,
+   0,
+   100
+  ],
+  "3": [
+   2,
+   62,
+   0,
+   100
+  ],
+  "4": [
+   2,
+   38,
+   0,
+   100
+  ],
+  "5": [
+   2,
+   40,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "2 7 米长的绳子接上 7 8 米，全长多少米？",
+   "want": "105",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 米长的绳子接上 1 0 米，全长多少米？",
+   "want": "38",
+   "got": "88米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 0 米长的绳子接上 6 2 米，全长多少米？",
+   "want": "132",
+   "got": "62米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 米长的绳子接上 3 4 米，全长多少米？",
+   "want": "65",
+   "got": "55米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 4 米长的绳子接上 2 4 米，全长多少米？",
+   "want": "98",
+   "got": "698",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 5 米长的绳子接上 5 4 米，全长多少米？",
+   "want": "79",
+   "got": "7988",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "9 4 米长的绳子接上 3 0 米，全长多少米？",
+   "want": "124",
+   "got": "34米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 米长的绳子接上 3 9 米，全长多少米？",
+   "want": "66",
+   "got": "662",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 8 米长的绳子接上 8 0 米，全长多少米？",
+   "want": "108",
+   "got": "88米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 米长的绳子接上 3 3 米，全长多少米？",
+   "want": "61",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 2 米长的绳子接上 8 1 米，全长多少米？",
+   "want": "113",
+   "got": "43880加上20000等于几？53888",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 9 米长的绳子接上 4 6 米，全长多少米？",
+   "want": "75",
+   "got": "55米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 1 米长的绳子接上 7 8 米，全长多少米？",
+   "want": "89",
+   "got": "30308加上10000等于几？38408",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "4 5 米长的绳子接上 7 0 米，全长多少米？",
+   "want": "115",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 米长的绳子接上 2 9 米，全长多少米？",
+   "want": "80",
+   "got": "798",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 7 米长的绳子接上 3 4 米，全长多少米？",
+   "want": "111",
+   "got": "110",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 米长的绳子接上 8 7 米，全长多少米？",
+   "want": "142",
+   "got": "3305",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 5 米长的绳子接上 8 6 米，全长多少米？",
+   "want": "171",
+   "got": "31米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 米长的绳子接上 1 4 米，全长多少米？",
+   "want": "62",
+   "got": "32米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 0 米长的绳子接上 4 4 米，全长多少米？",
+   "want": "54",
+   "got": "4405",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 1 米长的绳子接上 1 4 米，全长多少米？",
+   "want": "35",
+   "got": "36382",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 0 米长的绳子接上 4 4 米，全长多少米？",
+   "want": "124",
+   "got": "44米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 米长的绳子接上 8 7 米，全长多少米？",
+   "want": "154",
+   "got": "54米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 米长的绳子接上 3 9 米，全长多少米？",
+   "want": "63",
+   "got": "338",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 7 米长的绳子接上 2 3 米，全长多少米？",
+   "want": "80",
+   "got": "91米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 4 米长的绳子接上 4 1 米，全长多少米？",
+   "want": "65",
+   "got": "65米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 4 米长的绳子接上 9 5 米，全长多少米？",
+   "want": "149",
+   "got": "495",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 米长的绳子接上 5 0 米，全长多少米？",
+   "want": "63",
+   "got": "6385",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 4 米长的绳子接上 5 0 米，全长多少米？",
+   "want": "84",
+   "got": "44833",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 6 米长的绳子接上 2 8 米，全长多少米？",
+   "want": "94",
+   "got": "94米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 1 米长的绳子接上 9 2 米，全长多少米？",
+   "want": "123",
+   "got": "4382",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 7 米长的绳子接上 8 5 米，全长多少米？",
+   "want": "162",
+   "got": "32米的绳子？118米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 6 米长的绳子接上 1 0 米，全长多少米？",
+   "want": "36",
+   "got": "668",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 5 米长的绳子接上 4 7 米，全长多少米？",
+   "want": "112",
+   "got": "32米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5 米长的绳子接上 9 1 米，全长多少米？",
+   "want": "116",
+   "got": "7688",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "9 9 米长的绳子接上 9 5 米，全长多少米？",
+   "want": "194",
+   "got": "54米的绳子？154米的绳子？154米的绳子接上去，结果是154米的绳子接上去，结果是154米的绳子接上去，结果是114米的绳子接上去，结果是114",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 6 米长的绳子接上 7 2 米，全长多少米？",
+   "want": "128",
+   "got": "888",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 米长的绳子接上 1 5 米，全长多少米？",
+   "want": "96",
+   "got": "665",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 6 米长的绳子接上 6 9 米，全长多少米？",
+   "want": "155",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 米长的绳子接上 4 0 米，全长多少米？",
+   "want": "117",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 米长的绳子接上 2 6 米，全长多少米？",
+   "want": "39",
+   "got": "499",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 9 米长的绳子接上 1 2 米，全长多少米？",
+   "want": "91",
+   "got": "71米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 9 米长的绳子接上 1 3 米，全长多少米？",
+   "want": "32",
+   "got": "92米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "4 8 米长的绳子接上 2 3 米，全长多少米？",
+   "want": "71",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 9 米长的绳子接上 4 6 米，全长多少米？",
+   "want": "135",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 米长的绳子接上 4 1 米，全长多少米？",
+   "want": "93",
+   "got": "6385",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "4 8 米长的绳子接上 1 9 米，全长多少米？",
+   "want": "67",
+   "got": "77米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 8 米长的绳子接上 5 2 米，全长多少米？",
+   "want": "140",
+   "got": "39米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 米长的绳子接上 7 5 米，全长多少米？",
+   "want": "101",
+   "got": "3170",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 2 米长的绳子接上 9 3 米，全长多少米？",
+   "want": "115",
+   "got": "6332+2000=113322",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "4 3 米长的绳子接上 4 6 米，全长多少米？",
+   "want": "89",
+   "got": "99米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 0 米长的绳子接上 8 1 米，全长多少米？",
+   "want": "151",
+   "got": "81米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 米长的绳子接上 6 8 米，全长多少米？",
+   "want": "130",
+   "got": "49米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 米长的绳子接上 9 0 米，全长多少米？",
+   "want": "136",
+   "got": "66米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 米长的绳子接上 8 0 米，全长多少米？",
+   "want": "106",
+   "got": "668",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 米长的绳子接上 3 2 米，全长多少米？",
+   "want": "46",
+   "got": "6688",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 0 米长的绳子接上 9 2 米，全长多少米？",
+   "want": "112",
+   "got": "2128",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 5 米长的绳子接上 9 6 米，全长多少米？",
+   "want": "171",
+   "got": "31米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 米长的绳子接上 8 8 米，全长多少米？",
+   "want": "169",
+   "got": "99881",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 8 米长的绳子接上 1 2 米，全长多少米？",
+   "want": "50",
+   "got": "9083",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 9 米长的绳子接上 3 8 米，全长多少米？",
+   "want": "97",
+   "got": "5785",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 4 米长的绳子接上 7 3 米，全长多少米？",
+   "want": "127",
+   "got": "97米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 米长的绳子接上 9 2 米，全长多少米？",
+   "want": "173",
+   "got": "33881",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 3 米长的绳子接上 9 6 米，全长多少米？",
+   "want": "109",
+   "got": "898",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 米长的绳子接上 6 9 米，全长多少米？",
+   "want": "108",
+   "got": "58米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 米长的绳子接上 8 4 米，全长多少米？",
+   "want": "165",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 米长的绳子接上 9 5 米，全长多少米？",
+   "want": "119",
+   "got": "3988",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 8 米长的绳子接上 2 2 米，全长多少米？",
+   "want": "50",
+   "got": "910",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 8 米长的绳子接上 9 4 米，全长多少米？",
+   "want": "132",
+   "got": "32米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 米长的绳子接上 6 6 米，全长多少米？",
+   "want": "155",
+   "got": "55米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 米长的绳子接上 4 0 米，全长多少米？",
+   "want": "82",
+   "got": "42米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 1 米长的绳子接上 8 6 米，全长多少米？",
+   "want": "147",
+   "got": "77米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 米长的绳子接上 1 1 米，全长多少米？",
+   "want": "94",
+   "got": "44880加上10000等于几？54908",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 0 米长的绳子接上 5 2 米，全长多少米？",
+   "want": "102",
+   "got": "52米的绳子？102米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 0 米长的绳子接上 5 1 米，全长多少米？",
+   "want": "131",
+   "got": "51米的绳子？131米的绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 4 米长的绳子接上 7 3 米，全长多少米？",
+   "want": "127",
+   "got": "97米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 米长的绳子接上 8 5 米，全长多少米？",
+   "want": "142",
+   "got": "32米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 米长的绳子接上 4 9 米，全长多少米？",
+   "want": "132",
+   "got": "32米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 米长的绳子接上 1 2 米，全长多少米？",
+   "want": "111",
+   "got": "81米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 米长的绳子接上 4 5 米，全长多少米？",
+   "want": "124",
+   "got": "44米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 米长的绳子接上 8 3 米，全长多少米？",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 米长的绳子接上 6 3 米，全长多少米？",
+   "want": "73",
+   "got": "6385",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 7 米长的绳子接上 6 5 米，全长多少米？",
+   "want": "152",
+   "got": "32米的绳子？102米的绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳子接上绳",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 2 米长的绳子接上 9 1 米，全长多少米？",
+   "want": "173",
+   "got": "33米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 米长的绳子接上 9 8 米，全长多少米？",
+   "want": "114",
+   "got": "441",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 米长的绳子接上 5 5 米，全长多少米？",
+   "want": "103",
+   "got": "335+3305=9050",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 9 米长的绳子接上 7 6 米，全长多少米？",
+   "want": "105",
+   "got": "65米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 米长的绳子接上 7 9 米，全长多少米？",
+   "want": "166",
+   "got": "76米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 4 米长的绳子接上 1 1 米，全长多少米？",
+   "want": "75",
+   "got": "55米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 8 米长的绳子接上 1 8 米，全长多少米？",
+   "want": "76",
+   "got": "678",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 6 米长的绳子接上 5 9 米，全长多少米？",
+   "want": "75",
+   "got": "65",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 米长的绳子接上 6 3 米，全长多少米？",
+   "want": "115",
+   "got": "85",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 8 米长的绳子接上 4 0 米，全长多少米？",
+   "want": "108",
+   "got": "88米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 米长的绳子接上 6 7 米，全长多少米？",
+   "want": "106",
+   "got": "665",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 米长的绳子接上 5 7 米，全长多少米？",
+   "want": "101",
+   "got": "91米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 6 米长的绳子接上 1 5 米，全长多少米？",
+   "want": "81",
+   "got": "71",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 米长的绳子接上 6 1 米，全长多少米？",
+   "want": "81",
+   "got": "61米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "5 0 米长的绳子接上 2 8 米，全长多少米？",
+   "want": "78",
+   "got": "8885",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 6 米长的绳子接上 6 3 米，全长多少米？",
+   "want": "129",
+   "got": "99米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 米长的绳子接上 3 8 米，全长多少米？",
+   "want": "59",
+   "got": "49882",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "5 2 8 米长的绳子接上 7 7 9 米，全长多少米？",
+   "want": "1307",
+   "got": "957",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "6 7 3 米长的绳子接上 1 7 0 米，全长多少米？",
+   "want": "843",
+   "got": "843米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 0 6 米长的绳子接上 7 0 1 米，全长多少米？",
+   "want": "1107",
+   "got": "497米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 5 米长的绳子接上 1 5 9 米，全长多少米？",
+   "want": "824",
+   "got": "722",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 3 米长的绳子接上 4 6 6 米，全长多少米？",
+   "want": "709",
+   "got": "999",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 5 米长的绳子接上 7 5 0 米，全长多少米？",
+   "want": "1075",
+   "got": "875米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 0 米长的绳子接上 6 2 4 米，全长多少米？",
+   "want": "744",
+   "got": "335",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 7 米长的绳子接上 2 9 9 米，全长多少米？",
+   "want": "686",
+   "got": "386米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "5 9 0 米长的绳子接上 8 4 0 米，全长多少米？",
+   "want": "1430",
+   "got": "3310",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 8 米长的绳子接上 7 3 0 米，全长多少米？",
+   "want": "1238",
+   "got": "338米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 8 米长的绳子接上 2 6 4 米，全长多少米？",
+   "want": "992",
+   "got": "992米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "7 5 5 米长的绳子接上 7 2 7 米，全长多少米？",
+   "want": "1482",
+   "got": "782米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 9 米长的绳子接上 5 0 7 米，全长多少米？",
+   "want": "1476",
+   "got": "676米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 2 米长的绳子接上 3 7 5 米，全长多少米？",
+   "want": "777",
+   "got": "777米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 0 8 米长的绳子接上 5 7 0 米，全长多少米？",
+   "want": "978",
+   "got": "578米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "8 9 2 米长的绳子接上 9 5 7 米，全长多少米？",
+   "want": "1849",
+   "got": "448米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 0 米长的绳子接上 9 8 0 米，全长多少米？",
+   "want": "1590",
+   "got": "8910",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 4 米长的绳子接上 4 3 0 米，全长多少米？",
+   "want": "714",
+   "got": "112米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "9 2 1 米长的绳子接上 9 9 7 米，全长多少米？",
+   "want": "1918",
+   "got": "1801",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 1 米长的绳子接上 1 0 9 米，全长多少米？",
+   "want": "1040",
+   "got": "3398",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 4 米长的绳子接上 3 8 8 米，全长多少米？",
+   "want": "1032",
+   "got": "332米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 1 米长的绳子接上 2 8 8 米，全长多少米？",
+   "want": "1079",
+   "got": "779米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 6 米长的绳子接上 8 6 1 米，全长多少米？",
+   "want": "1207",
+   "got": "997",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 4 4 米长的绳子接上 3 5 6 米，全长多少米？",
+   "want": "600",
+   "got": "700",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 8 米长的绳子接上 3 1 7 米，全长多少米？",
+   "want": "595",
+   "got": "995米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 0 8 米长的绳子接上 6 2 4 米，全长多少米？",
+   "want": "1032",
+   "got": "292米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 4 米长的绳子接上 8 8 5 米，全长多少米？",
+   "want": "989",
+   "got": "889",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 2 米长的绳子接上 3 8 0 米，全长多少米？",
+   "want": "512",
+   "got": "511",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 1 米长的绳子接上 5 6 5 米，全长多少米？",
+   "want": "746",
+   "got": "346米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "8 2 6 米长的绳子接上 2 2 9 米，全长多少米？",
+   "want": "1055",
+   "got": "455米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 5 米长的绳子接上 2 1 3 米，全长多少米？",
+   "want": "628",
+   "got": "327",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 7 米长的绳子接上 4 3 8 米，全长多少米？",
+   "want": "1275",
+   "got": "775米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 5 0 米长的绳子接上 3 5 2 米，全长多少米？",
+   "want": "802",
+   "got": "892米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "9 9 4 米长的绳子接上 5 0 7 米，全长多少米？",
+   "want": "1501",
+   "got": "400米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 4 米长的绳子接上 2 1 0 米，全长多少米？",
+   "want": "924",
+   "got": "325",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 5 米长的绳子接上 6 4 7 米，全长多少米？",
+   "want": "1082",
+   "got": "882米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 4 6 米长的绳子接上 4 2 2 米，全长多少米？",
+   "want": "868",
+   "got": "668",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 9 米长的绳子接上 3 8 8 米，全长多少米？",
+   "want": "957",
+   "got": "557",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 6 米长的绳子接上 6 9 8 米，全长多少米？",
+   "want": "1664",
+   "got": "664米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 9 米长的绳子接上 4 9 3 米，全长多少米？",
+   "want": "622",
+   "got": "3228",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 7 8 米长的绳子接上 9 5 4 米，全长多少米？",
+   "want": "1232",
+   "got": "332米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 0 米长的绳子接上 6 7 6 米，全长多少米？",
+   "want": "1286",
+   "got": "886米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 8 米长的绳子接上 4 8 7 米，全长多少米？",
+   "want": "1415",
+   "got": "315",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "1 1 5 米长的绳子接上 2 6 6 米，全长多少米？",
+   "want": "381",
+   "got": "3601+2000=4661",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "3 8 4 米长的绳子接上 2 6 8 米，全长多少米？",
+   "want": "652",
+   "got": "552米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 7 7 米长的绳子接上 5 6 3 米，全长多少米？",
+   "want": "1040",
+   "got": "340",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "1 6 2 米长的绳子接上 3 4 4 米，全长多少米？",
+   "want": "506",
+   "got": "996",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 1 米长的绳子接上 3 1 8 米，全长多少米？",
+   "want": "1199",
+   "got": "999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "3 2 6 米长的绳子接上 7 7 2 米，全长多少米？",
+   "want": "1098",
+   "got": "998米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 7 米长的绳子接上 7 3 5 米，全长多少米？",
+   "want": "982",
+   "got": "782米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "9 1 3 米长的绳子接上 4 4 6 米，全长多少米？",
+   "want": "1359",
+   "got": "559米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 1 米长的绳子接上 7 1 4 米，全长多少米？",
+   "want": "1505",
+   "got": "895米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 8 米长的绳子接上 4 6 7 米，全长多少米？",
+   "want": "865",
+   "got": "665米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 8 5 米长的绳子接上 3 2 7 米，全长多少米？",
+   "want": "612",
+   "got": "612",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 8 米长的绳子接上 1 8 4 米，全长多少米？",
+   "want": "1152",
+   "got": "752米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 9 米长的绳子接上 7 5 5 米，全长多少米？",
+   "want": "1184",
+   "got": "884米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 0 米长的绳子接上 9 2 9 米，全长多少米？",
+   "want": "1579",
+   "got": "779米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 2 米长的绳子接上 6 3 7 米，全长多少米？",
+   "want": "879",
+   "got": "679",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 6 米长的绳子接上 3 3 1 米，全长多少米？",
+   "want": "827",
+   "got": "327米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "1 4 7 米长的绳子接上 3 8 6 米，全长多少米？",
+   "want": "533",
+   "got": "333米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "1 2 0 米长的绳子接上 9 4 8 米，全长多少米？",
+   "want": "1068",
+   "got": "6688",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 3 米长的绳子接上 7 1 9 米，全长多少米？",
+   "want": "962",
+   "got": "662米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "5 4 5 米长的绳子接上 5 0 1 米，全长多少米？",
+   "want": "1046",
+   "got": "446米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 8 米长的绳子接上 8 0 6 米，全长多少米？",
+   "want": "1094",
+   "got": "894米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 3 2 米长的绳子接上 7 1 4 米，全长多少米？",
+   "want": "1446",
+   "got": "446米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 2 米长的绳子接上 5 5 3 米，全长多少米？",
+   "want": "745",
+   "got": "4481",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 6 1 米长的绳子接上 2 0 1 米，全长多少米？",
+   "want": "462",
+   "got": "662米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "5 9 7 米长的绳子接上 4 0 2 米，全长多少米？",
+   "want": "999",
+   "got": "999",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 0 米长的绳子接上 7 1 4 米，全长多少米？",
+   "want": "974",
+   "got": "775米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 4 2 米长的绳子接上 9 4 9 米，全长多少米？",
+   "want": "1191",
+   "got": "391米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 4 米长的绳子接上 1 2 7 米，全长多少米？",
+   "want": "361",
+   "got": "460米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 0 9 米长的绳子接上 1 8 9 米，全长多少米？",
+   "want": "598",
+   "got": "9988",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "5 1 7 米长的绳子接上 5 7 5 米，全长多少米？",
+   "want": "1092",
+   "got": "792米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 4 米长的绳子接上 8 8 7 米，全长多少米？",
+   "want": "1541",
+   "got": "441米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 1 米长的绳子接上 2 2 2 米，全长多少米？",
+   "want": "503",
+   "got": "993",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 7 米长的绳子接上 8 0 0 米，全长多少米？",
+   "want": "1267",
+   "got": "667米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 6 米长的绳子接上 7 0 4 米，全长多少米？",
+   "want": "1050",
+   "got": "448米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 0 米长的绳子接上 5 1 5 米，全长多少米？",
+   "want": "795",
+   "got": "395米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 9 1 米长的绳子接上 7 1 8 米，全长多少米？",
+   "want": "1209",
+   "got": "800米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 4 米长的绳子接上 5 8 6 米，全长多少米？",
+   "want": "900",
+   "got": "7900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "9 7 9 米长的绳子接上 9 5 4 米，全长多少米？",
+   "want": "1933",
+   "got": "433米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 5 米长的绳子接上 5 0 5 米，全长多少米？",
+   "want": "610",
+   "got": "510",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 6 米长的绳子接上 2 2 9 米，全长多少米？",
+   "want": "555",
+   "got": "455米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "9 3 9 米长的绳子接上 4 6 3 米，全长多少米？",
+   "want": "1402",
+   "got": "992米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 9 米长的绳子接上 1 3 3 米，全长多少米？",
+   "want": "1002",
+   "got": "892米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 0 米长的绳子接上 2 2 4 米，全长多少米？",
+   "want": "544",
+   "got": "434米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "9 5 9 米长的绳子接上 3 3 6 米，全长多少米？",
+   "want": "1295",
+   "got": "995米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 0 米长的绳子接上 2 6 0 米，全长多少米？",
+   "want": "960",
+   "got": "6610",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "6 1 2 米长的绳子接上 1 4 6 米，全长多少米？",
+   "want": "758",
+   "got": "658",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 9 米长的绳子接上 6 4 4 米，全长多少米？",
+   "want": "1053",
+   "got": "453米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 8 米长的绳子接上 9 4 1 米，全长多少米？",
+   "want": "1839",
+   "got": "439米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 6 米长的绳子接上 1 0 7 米，全长多少米？",
+   "want": "573",
+   "got": "673米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 8 9 米长的绳子接上 2 5 4 米，全长多少米？",
+   "want": "543",
+   "got": "343米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "1 4 6 米长的绳子接上 5 2 8 米，全长多少米？",
+   "want": "674",
+   "got": "675",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 7 米长的绳子接上 7 8 7 米，全长多少米？",
+   "want": "984",
+   "got": "884米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "6 9 9 米长的绳子接上 1 4 9 米，全长多少米？",
+   "want": "848",
+   "got": "5491",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 0 8 米长的绳子接上 6 9 0 米，全长多少米？",
+   "want": "898",
+   "got": "998米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "3 4 5 米长的绳子接上 7 5 8 米，全长多少米？",
+   "want": "1103",
+   "got": "900米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 9 米长的绳子接上 3 1 6 米，全长多少米？",
+   "want": "665",
+   "got": "565米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 8 2 米长的绳子接上 7 3 3 米，全长多少米？",
+   "want": "1215",
+   "got": "120米",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 9 7 米长的绳子接上 9 0 1 8 米，全长多少米？",
+   "want": "13715",
+   "got": "6705",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "8 9 8 2 米长的绳子接上 2 3 8 8 米，全长多少米？",
+   "want": "11370",
+   "got": "33701",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 1 2 米长的绳子接上 1 0 3 3 米，全长多少米？",
+   "want": "3045",
+   "got": "2155",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 9 5 2 米长的绳子接上 1 3 5 5 米，全长多少米？",
+   "want": "3307",
+   "got": "8307",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 1 1 米长的绳子接上 6 5 9 6 米，全长多少米？",
+   "want": "10607",
+   "got": "5607",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "8 0 4 9 米长的绳子接上 2 6 2 9 米，全长多少米？",
+   "want": "10678",
+   "got": "6678",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 1 7 3 米长的绳子接上 3 3 9 5 米，全长多少米？",
+   "want": "10568",
+   "got": "4568",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 0 1 8 米长的绳子接上 6 5 7 8 米，全长多少米？",
+   "want": "10596",
+   "got": "5596",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 1 6 9 米长的绳子接上 5 6 0 0 米，全长多少米？",
+   "want": "12769",
+   "got": "6769",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "9 0 6 4 米长的绳子接上 2 0 4 8 米，全长多少米？",
+   "want": "11112",
+   "got": "25108",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 2 3 米长的绳子接上 7 0 3 6 米，全长多少米？",
+   "want": "16459",
+   "got": "4449",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "6 7 9 8 米长的绳子接上 6 0 6 4 米，全长多少米？",
+   "want": "12862",
+   "got": "7852",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1 0 4 0 米长的绳子接上 8 3 6 4 米，全长多少米？",
+   "want": "9404",
+   "got": "8394",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 3 6 米长的绳子接上 4 7 1 7 米，全长多少米？",
+   "want": "8053",
+   "got": "11093",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1 0 0 7 米长的绳子接上 5 6 8 0 米，全长多少米？",
+   "want": "6687",
+   "got": "5687",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 3 8 米长的绳子接上 4 5 5 8 米，全长多少米？",
+   "want": "11196",
+   "got": "2196",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 2 3 9 米长的绳子接上 4 8 3 9 米，全长多少米？",
+   "want": "8078",
+   "got": "12034",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "2 3 5 7 米长的绳子接上 7 3 0 8 米，全长多少米？",
+   "want": "9665",
+   "got": "5665",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 7 9 米长的绳子接上 8 6 2 6 米，全长多少米？",
+   "want": "17305",
+   "got": "4305",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "9 7 5 6 米长的绳子接上 2 2 3 6 米，全长多少米？",
+   "want": "11992",
+   "got": "99001",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 6 7 米长的绳子接上 6 4 3 1 米，全长多少米？",
+   "want": "12098",
+   "got": "10998",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 7 4 米长的绳子接上 5 7 4 5 米，全长多少米？",
+   "want": "12919",
+   "got": "79180",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 2 6 米长的绳子接上 5 7 1 7 米，全长多少米？",
+   "want": "13943",
+   "got": "3940",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "5 0 1 5 米长的绳子接上 8 2 7 3 米，全长多少米？",
+   "want": "13288",
+   "got": "5288",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1 2 1 0 米长的绳子接上 2 9 3 7 米，全长多少米？",
+   "want": "4147",
+   "got": "3147",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 4 4 米长的绳子接上 6 7 7 9 米，全长多少米？",
+   "want": "12623",
+   "got": "5622",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 2 0 8 米长的绳子接上 2 7 1 0 米，全长多少米？",
+   "want": "6918",
+   "got": "5918",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 1 5 米长的绳子接上 8 3 9 5 米，全长多少米？",
+   "want": "10710",
+   "got": "6701",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "9 1 7 4 米长的绳子接上 8 0 1 0 米，全长多少米？",
+   "want": "17184",
+   "got": "8184",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 8 9 3 米长的绳子接上 8 0 1 2 米，全长多少米？",
+   "want": "15905",
+   "got": "8905",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "6 5 7 0 米长的绳子接上 1 9 5 7 米，全长多少米？",
+   "want": "8527",
+   "got": "5528",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 4 5 米长的绳子接上 3 8 9 6 米，全长多少米？",
+   "want": "10541",
+   "got": "5531",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "8 7 1 5 米长的绳子接上 7 8 4 9 米，全长多少米？",
+   "want": "16564",
+   "got": "5564",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "2 0 9 6 米长的绳子接上 3 0 4 8 米，全长多少米？",
+   "want": "5144",
+   "got": "3124",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 3 4 米长的绳子接上 3 6 2 3 米，全长多少米？",
+   "want": "5057",
+   "got": "6957",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 1 7 米长的绳子接上 6 2 6 1 米，全长多少米？",
+   "want": "8678",
+   "got": "6678",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 1 1 米长的绳子接上 9 9 6 9 米，全长多少米？",
+   "want": "18780",
+   "got": "7780",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1 9 0 0 米长的绳子接上 7 6 6 4 米，全长多少米？",
+   "want": "9564",
+   "got": "5564",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 1 5 米长的绳子接上 1 9 8 0 米，全长多少米？",
+   "want": "4195",
+   "got": "3270加3270=5250",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 5 5 3 米长的绳子接上 3 1 6 3 米，全长多少米？",
+   "want": "6716",
+   "got": "6706",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 2 8 米长的绳子接上 2 1 3 4 米，全长多少米？",
+   "want": "7162",
+   "got": "6152",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 6 5 米长的绳子接上 7 4 0 2 米，全长多少米？",
+   "want": "10267",
+   "got": "2287",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "8 8 3 9 米长的绳子接上 9 9 6 3 米，全长多少米？",
+   "want": "18802",
+   "got": "8792",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "8 2 3 8 米长的绳子接上 1 3 9 3 米，全长多少米？",
+   "want": "9631",
+   "got": "4631",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 3 0 米长的绳子接上 8 8 2 8 米，全长多少米？",
+   "want": "16158",
+   "got": "12088",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 0 0 5 米长的绳子接上 4 3 5 0 米，全长多少米？",
+   "want": "12355",
+   "got": "4355",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "6 4 9 3 米长的绳子接上 5 0 3 1 米，全长多少米？",
+   "want": "11524",
+   "got": "5525",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 2 1 9 米长的绳子接上 3 4 7 6 米，全长多少米？",
+   "want": "6695",
+   "got": "6695",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 5 0 米长的绳子接上 8 9 6 7 米，全长多少米？",
+   "want": "13217",
+   "got": "3207",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 0 1 6 米长的绳子接上 9 8 3 3 米，全长多少米？",
+   "want": "12849",
+   "got": "8849",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "6 8 2 8 米长的绳子接上 3 5 4 4 米，全长多少米？",
+   "want": "10372",
+   "got": "3372",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "2 1 7 3 米长的绳子接上 3 2 6 1 米，全长多少米？",
+   "want": "5434",
+   "got": "4483",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 0 2 米长的绳子接上 9 4 6 7 米，全长多少米？",
+   "want": "16669",
+   "got": "6669",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "5 6 6 0 米长的绳子接上 9 3 9 8 米，全长多少米？",
+   "want": "15058",
+   "got": "9958",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 0 2 3 米长的绳子接上 7 7 8 4 米，全长多少米？",
+   "want": "14807",
+   "got": "7807",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 6 1 5 米长的绳子接上 9 1 5 8 米，全长多少米？",
+   "want": "13773",
+   "got": "7773",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "2 3 7 2 米长的绳子接上 2 3 6 1 米，全长多少米？",
+   "want": "4733",
+   "got": "5733",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 8 6 米长的绳子接上 3 4 9 4 米，全长多少米？",
+   "want": "9180",
+   "got": "12150",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "6 1 0 4 米长的绳子接上 4 1 5 4 米，全长多少米？",
+   "want": "10258",
+   "got": "6278",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1 3 5 3 米长的绳子接上 1 6 5 6 米，全长多少米？",
+   "want": "3009",
+   "got": "4910",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 7 3 米长的绳子接上 5 0 1 1 米，全长多少米？",
+   "want": "6484",
+   "got": "5484",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 3 1 米长的绳子接上 6 5 1 5 米，全长多少米？",
+   "want": "14946",
+   "got": "9946",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "5 0 2 4 米长的绳子接上 9 8 1 2 米，全长多少米？",
+   "want": "14836",
+   "got": "8837",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 4 3 3 米长的绳子接上 4 9 8 6 米，全长多少米？",
+   "want": "8419",
+   "got": "4419",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 9 8 米长的绳子接上 4 3 9 4 米，全长多少米？",
+   "want": "6592",
+   "got": "5592",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 4 6 米长的绳子接上 5 2 5 4 米，全长多少米？",
+   "want": "8600",
+   "got": "8590米",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "8 1 6 5 米长的绳子接上 6 6 4 5 米，全长多少米？",
+   "want": "14810",
+   "got": "7810",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "9 2 2 8 米长的绳子接上 7 2 2 7 米，全长多少米？",
+   "want": "16455",
+   "got": "9446",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 2 2 5 米长的绳子接上 4 4 1 9 米，全长多少米？",
+   "want": "11644",
+   "got": "6644",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 0 7 7 米长的绳子接上 8 8 4 3 米，全长多少米？",
+   "want": "11920",
+   "got": "8920",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "9 7 7 1 米长的绳子接上 5 2 2 4 米，全长多少米？",
+   "want": "14995",
+   "got": "39958",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 6 9 2 米长的绳子接上 9 0 4 2 米，全长多少米？",
+   "want": "11734",
+   "got": "6734",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 3 0 4 米长的绳子接上 9 1 4 1 米，全长多少米？",
+   "want": "13445",
+   "got": "4445",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 7 6 2 米长的绳子接上 6 6 1 1 米，全长多少米？",
+   "want": "14373",
+   "got": "3373",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "2 1 7 2 米长的绳子接上 6 5 8 4 米，全长多少米？",
+   "want": "8756",
+   "got": "7766",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 4 5 米长的绳子接上 9 5 8 1 米，全长多少米？",
+   "want": "14026",
+   "got": "9006",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 2 8 4 米长的绳子接上 1 6 7 5 米，全长多少米？",
+   "want": "4959",
+   "got": "4959",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 5 4 4 米长的绳子接上 2 6 1 1 米，全长多少米？",
+   "want": "5155",
+   "got": "7155",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 0 2 米长的绳子接上 1 4 9 6 米，全长多少米？",
+   "want": "6998",
+   "got": "5538",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 5 4 米长的绳子接上 6 7 8 5 米，全长多少米？",
+   "want": "14139",
+   "got": "15039",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 8 1 米长的绳子接上 8 0 1 1 米，全长多少米？",
+   "want": "11692",
+   "got": "6692",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 4 3 7 米长的绳子接上 5 7 9 7 米，全长多少米？",
+   "want": "13234",
+   "got": "3224",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 0 1 4 米长的绳子接上 8 0 6 2 米，全长多少米？",
+   "want": "12076",
+   "got": "4107",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "8 2 9 2 米长的绳子接上 4 6 0 9 米，全长多少米？",
+   "want": "12901",
+   "got": "8800",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 0 4 2 米长的绳子接上 2 0 4 2 米，全长多少米？",
+   "want": "9084",
+   "got": "2584",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 6 7 米长的绳子接上 8 9 9 2 米，全长多少米？",
+   "want": "12359",
+   "got": "3359",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 9 9 9 米长的绳子接上 5 5 8 1 米，全长多少米？",
+   "want": "9580",
+   "got": "55501",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "6 1 7 6 米长的绳子接上 6 6 5 9 米，全长多少米？",
+   "want": "12835",
+   "got": "7835",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 6 1 4 米长的绳子接上 5 0 7 8 米，全长多少米？",
+   "want": "9692",
+   "got": "5692",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 1 1 米长的绳子接上 6 9 8 7 米，全长多少米？",
+   "want": "15998",
+   "got": "9998",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 4 2 6 米长的绳子接上 6 1 4 4 米，全长多少米？",
+   "want": "13570",
+   "got": "5570",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 3 2 2 米长的绳子接上 8 6 8 8 米，全长多少米？",
+   "want": "16010",
+   "got": "9001",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 7 2 9 米长的绳子接上 5 2 6 2 米，全长多少米？",
+   "want": "12991",
+   "got": "3991",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "9 6 6 6 米长的绳子接上 8 2 3 0 米，全长多少米？",
+   "want": "17896",
+   "got": "8896",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "9 3 7 7 米长的绳子接上 5 8 0 8 米，全长多少米？",
+   "want": "15185",
+   "got": "3175",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 9 7 7 米长的绳子接上 3 6 1 7 米，全长多少米？",
+   "want": "11594",
+   "got": "5594",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 6 9 8 米长的绳子接上 5 5 6 5 米，全长多少米？",
+   "want": "9263",
+   "got": "3253",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 1 8 米长的绳子接上 7 0 2 2 米，全长多少米？",
+   "want": "12740",
+   "got": "7740",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "2 9 7 1 米长的绳子接上 1 3 5 5 米，全长多少米？",
+   "want": "4326",
+   "got": "3326",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 2 7 米长的绳子接上 7 6 6 4 米，全长多少米？",
+   "want": "13691",
+   "got": "6691",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 1 9 8 2 米长的绳子接上 2 8 0 9 9 米，全长多少米？",
+   "want": "120081",
+   "got": "49981",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "5 1 2 7 4 米长的绳子接上 1 0 7 6 1 米，全长多少米？",
+   "want": "62035",
+   "got": "61835",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 1 6 8 米长的绳子接上 8 5 8 3 7 米，全长多少米？",
+   "want": "150005",
+   "got": "39006",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 6 9 8 8 米长的绳子接上 8 4 3 8 1 米，全长多少米？",
+   "want": "111369",
+   "got": "12939",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 4 8 9 3 米长的绳子接上 5 2 8 5 9 米，全长多少米？",
+   "want": "117752",
+   "got": "87752",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 0 2 1 0 米长的绳子接上 7 9 9 7 0 米，全长多少米？",
+   "want": "140180",
+   "got": "90081",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "5 3 7 5 2 米长的绳子接上 2 4 3 9 9 米，全长多少米？",
+   "want": "78151",
+   "got": "68121",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 7 4 2 米长的绳子接上 9 8 1 0 2 米，全长多少米？",
+   "want": "126844",
+   "got": "76844",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 7 1 0 8 米长的绳子接上 6 5 2 7 3 米，全长多少米？",
+   "want": "82381",
+   "got": "32481",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 5 6 4 米长的绳子接上 6 8 6 2 9 米，全长多少米？",
+   "want": "95193",
+   "got": "55193",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 7 7 3 米长的绳子接上 7 4 5 1 2 米，全长多少米？",
+   "want": "139285",
+   "got": "99285",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "3 3 5 0 4 米长的绳子接上 8 8 2 8 6 米，全长多少米？",
+   "want": "121790",
+   "got": "12059",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "4 0 3 3 2 米长的绳子接上 5 1 8 8 7 米，全长多少米？",
+   "want": "92219",
+   "got": "52019",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 8 5 5 米长的绳子接上 9 0 4 6 3 米，全长多少米？",
+   "want": "103318",
+   "got": "23019",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 7 7 8 3 米长的绳子接上 8 6 5 8 6 米，全长多少米？",
+   "want": "154369",
+   "got": "44379",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "3 8 2 4 7 米长的绳子接上 4 3 7 3 8 米，全长多少米？",
+   "want": "81985",
+   "got": "21985",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 7 6 0 米长的绳子接上 4 5 2 9 6 米，全长多少米？",
+   "want": "145056",
+   "got": "54856",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 8 1 5 1 米长的绳子接上 1 9 5 6 1 米，全长多少米？",
+   "want": "47712",
+   "got": "77702",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 1 6 9 米长的绳子接上 8 5 4 3 5 米，全长多少米？",
+   "want": "112604",
+   "got": "32794",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 4 4 5 0 米长的绳子接上 4 9 4 7 3 米，全长多少米？",
+   "want": "73923",
+   "got": "43924",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 2 8 9 米长的绳子接上 9 6 0 8 0 米，全长多少米？",
+   "want": "163369",
+   "got": "43379",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "5 8 6 6 0 米长的绳子接上 1 0 5 7 2 米，全长多少米？",
+   "want": "69232",
+   "got": "89224",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 3 8 5 米长的绳子接上 2 9 3 1 2 米，全长多少米？",
+   "want": "63697",
+   "got": "33887",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 6 7 4 米长的绳子接上 4 8 3 6 5 米，全长多少米？",
+   "want": "84039",
+   "got": "33939",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 6 7 4 米长的绳子接上 7 0 4 8 5 米，全长多少米？",
+   "want": "145159",
+   "got": "45059",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 2 1 0 3 米长的绳子接上 9 7 5 7 3 米，全长多少米？",
+   "want": "179676",
+   "got": "99676",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 0 8 1 9 米长的绳子接上 4 7 6 0 1 米，全长多少米？",
+   "want": "58420",
+   "got": "88420",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 2 0 5 米长的绳子接上 7 4 5 8 5 米，全长多少米？",
+   "want": "129790",
+   "got": "86631",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 4 3 4 8 米长的绳子接上 7 0 7 7 0 米，全长多少米？",
+   "want": "155118",
+   "got": "45018",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 7 9 4 9 米长的绳子接上 5 8 9 6 5 米，全长多少米？",
+   "want": "86914",
+   "got": "37814",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 2 3 2 米长的绳子接上 7 8 1 2 4 米，全长多少米？",
+   "want": "103356",
+   "got": "33366",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "4 8 1 8 2 米长的绳子接上 9 5 9 0 9 米，全长多少米？",
+   "want": "144091",
+   "got": "34090",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 6 8 0 7 米长的绳子接上 7 0 1 5 6 米，全长多少米？",
+   "want": "86963",
+   "got": "66963",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 3 1 7 5 米长的绳子接上 3 6 6 8 7 米，全长多少米？",
+   "want": "49862",
+   "got": "99862",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 1 6 9 米长的绳子接上 9 5 1 6 1 米，全长多少米？",
+   "want": "135330",
+   "got": "55709",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 0 0 8 0 米长的绳子接上 7 9 4 2 8 米，全长多少米？",
+   "want": "169508",
+   "got": "99508",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 7 5 5 7 米长的绳子接上 2 2 2 6 9 米，全长多少米？",
+   "want": "49826",
+   "got": "99806",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 3 5 2 米长的绳子接上 6 9 3 4 7 米，全长多少米？",
+   "want": "117699",
+   "got": "47699",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 2 8 1 0 米长的绳子接上 9 9 2 1 2 米，全长多少米？",
+   "want": "182022",
+   "got": "22032",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 8 8 7 6 米长的绳子接上 4 1 8 5 2 米，全长多少米？",
+   "want": "70728",
+   "got": "99728",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 3 0 5 米长的绳子接上 6 8 2 8 8 米，全长多少米？",
+   "want": "103593",
+   "got": "33503",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 4 5 5 5 米长的绳子接上 3 0 4 5 5 米，全长多少米？",
+   "want": "125010",
+   "got": "44810",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 7 3 5 3 米长的绳子接上 8 4 3 6 8 米，全长多少米？",
+   "want": "101721",
+   "got": "91720",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "4 5 3 5 3 米长的绳子接上 5 1 5 0 4 米，全长多少米？",
+   "want": "96857",
+   "got": "66857",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 3 9 2 米长的绳子接上 6 1 7 3 5 米，全长多少米？",
+   "want": "80127",
+   "got": "90027",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 9 9 4 米长的绳子接上 6 2 4 5 5 米，全长多少米？",
+   "want": "136449",
+   "got": "96449",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 8 3 6 2 米长的绳子接上 1 1 5 4 0 米，全长多少米？",
+   "want": "79902",
+   "got": "99902",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 8 2 9 米长的绳子接上 3 5 8 3 8 米，全长多少米？",
+   "want": "97667",
+   "got": "77367",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 3 4 5 米长的绳子接上 9 2 5 9 3 米，全长多少米？",
+   "want": "155938",
+   "got": "95938",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "3 8 7 9 7 米长的绳子接上 9 7 9 3 6 米，全长多少米？",
+   "want": "136733",
+   "got": "76733",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 8 4 3 1 米长的绳子接上 7 8 1 8 6 米，全长多少米？",
+   "want": "106617",
+   "got": "66617",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 5 8 8 1 米长的绳子接上 3 6 2 7 4 米，全长多少米？",
+   "want": "102155",
+   "got": "32065",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 0 5 6 9 米长的绳子接上 2 4 7 8 8 米，全长多少米？",
+   "want": "35357",
+   "got": "25357",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 8 2 9 米长的绳子接上 2 8 1 2 9 米，全长多少米？",
+   "want": "46958",
+   "got": "77058",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 8 6 3 米长的绳子接上 1 3 5 4 7 米，全长多少米？",
+   "want": "43410",
+   "got": "33401",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 4 2 3 米长的绳子接上 9 8 5 9 0 米，全长多少米？",
+   "want": "115013",
+   "got": "54813",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "7 7 8 9 4 米长的绳子接上 4 8 2 9 6 米，全长多少米？",
+   "want": "126190",
+   "got": "37080",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "7 5 9 7 8 米长的绳子接上 4 5 1 8 2 米，全长多少米？",
+   "want": "121160",
+   "got": "31051",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 6 5 8 0 米长的绳子接上 6 0 8 1 6 米，全长多少米？",
+   "want": "87396",
+   "got": "67396",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 1 7 7 米长的绳子接上 8 1 1 9 0 米，全长多少米？",
+   "want": "124367",
+   "got": "44367",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "3 6 6 7 8 米长的绳子接上 3 6 8 1 6 米，全长多少米？",
+   "want": "73494",
+   "got": "93484",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 8 5 4 米长的绳子接上 6 5 4 2 5 米，全长多少米？",
+   "want": "103279",
+   "got": "33279",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 9 1 6 0 米长的绳子接上 9 8 5 6 4 米，全长多少米？",
+   "want": "167724",
+   "got": "87704",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 5 5 3 1 米长的绳子接上 5 9 9 4 1 米，全长多少米？",
+   "want": "145472",
+   "got": "55472",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 3 0 0 6 米长的绳子接上 7 6 7 8 2 米，全长多少米？",
+   "want": "89788",
+   "got": "89788",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 8 0 8 米长的绳子接上 8 0 8 1 2 米，全长多少米？",
+   "want": "112620",
+   "got": "32701",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 9 3 3 1 米长的绳子接上 6 3 1 4 5 米，全长多少米？",
+   "want": "152476",
+   "got": "32576",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "7 5 3 7 4 米长的绳子接上 9 3 6 4 1 米，全长多少米？",
+   "want": "169015",
+   "got": "39017",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 1 2 4 5 米长的绳子接上 3 7 1 1 1 米，全长多少米？",
+   "want": "58356",
+   "got": "48356",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 9 6 3 米长的绳子接上 1 1 1 4 3 米，全长多少米？",
+   "want": "71106",
+   "got": "61006",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 3 9 8 3 米长的绳子接上 9 3 9 0 1 米，全长多少米？",
+   "want": "147884",
+   "got": "87884",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 8 7 5 9 米长的绳子接上 4 3 1 8 6 米，全长多少米？",
+   "want": "141945",
+   "got": "29945",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 9 5 0 6 米长的绳子接上 4 7 4 9 1 米，全长多少米？",
+   "want": "136997",
+   "got": "76997",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 6 9 9 8 米长的绳子接上 8 8 5 6 3 米，全长多少米？",
+   "want": "155561",
+   "got": "55561",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 7 4 4 3 米长的绳子接上 1 3 1 4 9 米，全长多少米？",
+   "want": "40592",
+   "got": "91592",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 7 0 0 米长的绳子接上 5 8 5 5 8 米，全长多少米？",
+   "want": "142258",
+   "got": "32248",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 4 9 5 9 米长的绳子接上 4 6 6 9 1 米，全长多少米？",
+   "want": "111650",
+   "got": "13254",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 4 4 8 2 米长的绳子接上 1 6 8 1 5 米，全长多少米？",
+   "want": "101297",
+   "got": "91397",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 4 9 0 6 米长的绳子接上 3 4 6 1 4 米，全长多少米？",
+   "want": "59520",
+   "got": "89520",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 0 8 0 米长的绳子接上 4 4 2 8 2 米，全长多少米？",
+   "want": "73362",
+   "got": "33372",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 4 7 8 米长的绳子接上 5 8 4 4 3 米，全长多少米？",
+   "want": "149921",
+   "got": "79921",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 2 2 6 5 米长的绳子接上 8 3 9 1 4 米，全长多少米？",
+   "want": "106179",
+   "got": "46568",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "3 8 2 0 0 米长的绳子接上 5 9 0 4 7 米，全长多少米？",
+   "want": "97247",
+   "got": "47257",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 5 4 2 米长的绳子接上 9 5 6 0 1 米，全长多少米？",
+   "want": "112143",
+   "got": "72153",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 0 1 1 9 米长的绳子接上 2 0 1 5 0 米，全长多少米？",
+   "want": "30269",
+   "got": "21069",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 1 9 2 米长的绳子接上 5 3 4 8 9 米，全长多少米？",
+   "want": "77681",
+   "got": "77681",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 2 4 3 米长的绳子接上 6 1 3 1 5 米，全长多少米？",
+   "want": "109558",
+   "got": "99558",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "2 4 3 8 1 米长的绳子接上 7 2 2 8 4 米，全长多少米？",
+   "want": "96665",
+   "got": "66565",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 2 1 7 米长的绳子接上 7 9 5 4 6 米，全长多少米？",
+   "want": "134763",
+   "got": "42718",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 4 1 8 5 米长的绳子接上 1 7 8 6 6 米，全长多少米？",
+   "want": "112051",
+   "got": "91951",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 0 8 9 5 米长的绳子接上 1 6 3 9 4 米，全长多少米？",
+   "want": "97289",
+   "got": "67389",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 8 4 0 8 米长的绳子接上 7 8 6 7 1 米，全长多少米？",
+   "want": "117079",
+   "got": "66979",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "7 6 7 9 0 米长的绳子接上 8 5 6 3 8 米，全长多少米？",
+   "want": "162428",
+   "got": "32508",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 3 7 4 4 米长的绳子接上 1 4 6 8 2 米，全长多少米？",
+   "want": "108426",
+   "got": "49427",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "4 7 4 6 5 米长的绳子接上 4 3 4 6 0 米，全长多少米？",
+   "want": "90925",
+   "got": "110165",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 3 6 3 1 米长的绳子接上 1 8 9 3 0 米，全长多少米？",
+   "want": "112561",
+   "got": "52561",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 8 0 2 8 米长的绳子接上 4 6 9 4 2 米，全长多少米？",
+   "want": "64970",
+   "got": "35070",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 0 5 2 米长的绳子接上 4 5 6 4 3 米，全长多少米？",
+   "want": "63695",
+   "got": "33705",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 7 1 8 米长的绳子接上 1 8 3 7 2 米，全长多少米？",
+   "want": "60090",
+   "got": "90091",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 6 8 7 米长的绳子接上 6 3 1 7 1 米，全长多少米？",
+   "want": "118858",
+   "got": "89858",
+   "exact": false,
+   "samelen": false
+  }
+ ]
+}

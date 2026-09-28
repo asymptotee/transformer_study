@@ -1,0 +1,3231 @@
+{
+ "label": "n15_H09往后数",
+ "by_rung": {
+  "2": [
+   47,
+   64,
+   0,
+   100
+  ],
+  "3": [
+   32,
+   60,
+   0,
+   100
+  ],
+  "4": [
+   34,
+   93,
+   0,
+   100
+  ],
+  "5": [
+   25,
+   99,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "从 2 4 开始往后数 8 0 个，得到 ",
+   "want": "104",
+   "got": "1044",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 9 开始往后数 4 1 个，得到 ",
+   "want": "100",
+   "got": "1010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 2 开始往后数 2 6 个，得到 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 5 8 开始往后数 3 7 个，得到 ",
+   "want": "95",
+   "got": "94",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 8 开始往后数 8 2 个，得到 ",
+   "want": "100",
+   "got": "1010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 5 5 个，得到 ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 9 2 开始往后数 5 8 个，得到 ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 8 8 开始往后数 9 1 个，得到 ",
+   "want": "179",
+   "got": "1899",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 2 开始往后数 5 5 个，得到 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 3 0 个，得到 ",
+   "want": "114",
+   "got": "1144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 1 开始往后数 3 3 个，得到 ",
+   "want": "124",
+   "got": "1244",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 2 开始往后数 9 7 个，得到 ",
+   "want": "169",
+   "got": "160",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 6 开始往后数 5 8 个，得到 ",
+   "want": "124",
+   "got": "1250",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 3 开始往后数 2 1 个，得到 ",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 8 开始往后数 8 7 个，得到 ",
+   "want": "135",
+   "got": "1364",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 5 开始往后数 1 3 个，得到 ",
+   "want": "28",
+   "got": "26",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 7 开始往后数 8 0 个，得到 ",
+   "want": "117",
+   "got": "1187",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 1 开始往后数 1 0 个，得到 ",
+   "want": "61",
+   "got": "61",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 2 开始往后数 5 2 个，得到 ",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 5 3 开始往后数 1 8 个，得到 ",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 6 开始往后数 4 4 个，得到 ",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 6 开始往后数 9 7 个，得到 ",
+   "want": "143",
+   "got": "143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 2 开始往后数 8 0 个，得到 ",
+   "want": "122",
+   "got": "1221",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 1 开始往后数 7 1 个，得到 ",
+   "want": "132",
+   "got": "1321",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 8 开始往后数 3 3 个，得到 ",
+   "want": "61",
+   "got": "61",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 7 8 开始往后数 7 8 个，得到 ",
+   "want": "156",
+   "got": "157",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 9 开始往后数 8 3 个，得到 ",
+   "want": "122",
+   "got": "1221",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 0 开始往后数 4 8 个，得到 ",
+   "want": "58",
+   "got": "590",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 0 开始往后数 4 0 个，得到 ",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 9 开始往后数 1 8 个，得到 ",
+   "want": "57",
+   "got": "57",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 2 开始往后数 5 6 个，得到 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 5 开始往后数 5 8 个，得到 ",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 9 9 开始往后数 2 0 个，得到 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 5 7 开始往后数 9 7 个，得到 ",
+   "want": "154",
+   "got": "1554",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 1 开始往后数 4 7 个，得到 ",
+   "want": "118",
+   "got": "1189",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 3 5 个，得到 ",
+   "want": "119",
+   "got": "118",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 2 9 开始往后数 5 5 个，得到 ",
+   "want": "84",
+   "got": "850",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 1 开始往后数 2 4 个，得到 ",
+   "want": "45",
+   "got": "456",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 3 开始往后数 9 9 个，得到 ",
+   "want": "142",
+   "got": "143",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 8 5 开始往后数 6 8 个，得到 ",
+   "want": "153",
+   "got": "1543",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 7 开始往后数 7 6 个，得到 ",
+   "want": "153",
+   "got": "154",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 9 开始往后数 8 5 个，得到 ",
+   "want": "154",
+   "got": "1544",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 0 开始往后数 3 7 个，得到 ",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 8 开始往后数 2 7 个，得到 ",
+   "want": "45",
+   "got": "460",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 8 开始往后数 1 1 个，得到 ",
+   "want": "109",
+   "got": "110",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 7 开始往后数 1 1 个，得到 ",
+   "want": "58",
+   "got": "58",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 5 1 个，得到 ",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 6 开始往后数 4 1 个，得到 ",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 6 开始往后数 7 3 个，得到 ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 9 3 开始往后数 6 5 个，得到 ",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 4 开始往后数 2 2 个，得到 ",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 7 5 开始往后数 3 4 个，得到 ",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 6 开始往后数 9 9 个，得到 ",
+   "want": "115",
+   "got": "116",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 7 7 开始往后数 5 7 个，得到 ",
+   "want": "134",
+   "got": "135",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 7 4 开始往后数 1 6 个，得到 ",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 7 开始往后数 2 2 个，得到 ",
+   "want": "39",
+   "got": "49",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 9 9 开始往后数 7 8 个，得到 ",
+   "want": "177",
+   "got": "178",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 7 1 开始往后数 4 1 个，得到 ",
+   "want": "112",
+   "got": "1122",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 0 开始往后数 4 9 个，得到 ",
+   "want": "69",
+   "got": "600",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 6 开始往后数 8 4 个，得到 ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 2 0 开始往后数 5 1 个，得到 ",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 2 1 开始往后数 1 8 个，得到 ",
+   "want": "39",
+   "got": "40",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 2 开始往后数 3 9 个，得到 ",
+   "want": "81",
+   "got": "80",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 5 开始往后数 7 1 个，得到 ",
+   "want": "136",
+   "got": "1366",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 8 开始往后数 6 2 个，得到 ",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 1 开始往后数 9 0 个，得到 ",
+   "want": "121",
+   "got": "1212",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 3 开始往后数 1 1 个，得到 ",
+   "want": "34",
+   "got": "34",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 7 2 开始往后数 8 0 个，得到 ",
+   "want": "152",
+   "got": "1521",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 9 开始往后数 8 0 个，得到 ",
+   "want": "99",
+   "got": "100",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 8 开始往后数 2 2 个，得到 ",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 5 开始往后数 8 8 个，得到 ",
+   "want": "103",
+   "got": "1043",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 5 开始往后数 6 1 个，得到 ",
+   "want": "156",
+   "got": "1566",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 0 开始往后数 7 7 个，得到 ",
+   "want": "167",
+   "got": "167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 5 0 开始往后数 6 4 个，得到 ",
+   "want": "114",
+   "got": "1144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 8 开始往后数 2 6 个，得到 ",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 5 2 开始往后数 6 8 个，得到 ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 6 开始往后数 6 2 个，得到 ",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 9 2 开始往后数 8 0 个，得到 ",
+   "want": "172",
+   "got": "1721",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 3 开始往后数 1 0 个，得到 ",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 2 8 开始往后数 6 4 个，得到 ",
+   "want": "92",
+   "got": "921",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 9 4 个，得到 ",
+   "want": "178",
+   "got": "178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 5 开始往后数 4 1 个，得到 ",
+   "want": "76",
+   "got": "756",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 9 开始往后数 5 7 个，得到 ",
+   "want": "76",
+   "got": "770",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 3 开始往后数 3 2 个，得到 ",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 5 开始往后数 1 1 个，得到 ",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 1 开始往后数 1 4 个，得到 ",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 6 开始往后数 3 3 个，得到 ",
+   "want": "49",
+   "got": "48",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 4 开始往后数 1 6 个，得到 ",
+   "want": "50",
+   "got": "50",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 3 开始往后数 7 4 个，得到 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 5 开始往后数 5 2 个，得到 ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 9 2 开始往后数 9 8 个，得到 ",
+   "want": "190",
+   "got": "191",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 5 2 开始往后数 9 9 个，得到 ",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 2 开始往后数 9 6 个，得到 ",
+   "want": "108",
+   "got": "1088",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 1 开始往后数 2 7 个，得到 ",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 1 开始往后数 4 6 个，得到 ",
+   "want": "77",
+   "got": "757",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 2 开始往后数 2 2 个，得到 ",
+   "want": "44",
+   "got": "44",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 7 开始往后数 2 9 个，得到 ",
+   "want": "76",
+   "got": "76",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 3 开始往后数 6 1 个，得到 ",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 2 开始往后数 7 1 个，得到 ",
+   "want": "133",
+   "got": "1342",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 4 开始往后数 2 3 个，得到 ",
+   "want": "37",
+   "got": "36",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 2 2 开始往后数 1 7 7 个，得到 ",
+   "want": "599",
+   "got": "609",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 6 2 开始往后数 4 2 7 个，得到 ",
+   "want": "789",
+   "got": "7899",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 5 6 开始往后数 7 0 2 个，得到 ",
+   "want": "1558",
+   "got": "1557",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 6 7 9 开始往后数 2 4 5 个，得到 ",
+   "want": "924",
+   "got": "924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 1 1 9 开始往后数 1 9 7 个，得到 ",
+   "want": "316",
+   "got": "316",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 8 0 开始往后数 5 1 1 个，得到 ",
+   "want": "1491",
+   "got": "1501",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 3 4 开始往后数 3 5 5 个，得到 ",
+   "want": "889",
+   "got": "889",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 0 开始往后数 9 6 9 个，得到 ",
+   "want": "1279",
+   "got": "1279",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 5 7 开始往后数 6 3 1 个，得到 ",
+   "want": "1488",
+   "got": "14998",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 4 4 开始往后数 2 3 1 个，得到 ",
+   "want": "475",
+   "got": "455",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 3 8 开始往后数 9 7 3 个，得到 ",
+   "want": "1211",
+   "got": "12171",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 3 9 开始往后数 3 8 4 个，得到 ",
+   "want": "623",
+   "got": "6236",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 1 3 8 开始往后数 1 3 2 个，得到 ",
+   "want": "270",
+   "got": "2610",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 2 7 开始往后数 3 3 7 个，得到 ",
+   "want": "764",
+   "got": "765",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 8 9 开始往后数 7 0 1 个，得到 ",
+   "want": "1690",
+   "got": "16902",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 3 3 开始往后数 2 8 8 个，得到 ",
+   "want": "521",
+   "got": "522",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 8 0 开始往后数 2 8 0 个，得到 ",
+   "want": "1060",
+   "got": "10610",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 1 4 8 开始往后数 4 8 1 个，得到 ",
+   "want": "629",
+   "got": "630",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 8 6 开始往后数 2 4 3 个，得到 ",
+   "want": "729",
+   "got": "729",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 7 0 开始往后数 1 2 8 个，得到 ",
+   "want": "898",
+   "got": "9088",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 1 9 7 开始往后数 7 7 9 个，得到 ",
+   "want": "976",
+   "got": "977",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 5 6 开始往后数 7 2 8 个，得到 ",
+   "want": "1584",
+   "got": "15854",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 7 5 开始往后数 1 4 7 个，得到 ",
+   "want": "1022",
+   "got": "1023",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 7 0 开始往后数 1 7 7 个，得到 ",
+   "want": "1147",
+   "got": "1147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 1 6 开始往后数 8 7 6 个，得到 ",
+   "want": "1092",
+   "got": "1093",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 2 开始往后数 3 6 2 个，得到 ",
+   "want": "674",
+   "got": "6784",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 4 7 开始往后数 4 1 4 个，得到 ",
+   "want": "1061",
+   "got": "10619",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 4 开始往后数 3 2 8 个，得到 ",
+   "want": "642",
+   "got": "642",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 6 8 9 开始往后数 2 0 3 个，得到 ",
+   "want": "892",
+   "got": "892",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 9 7 开始往后数 3 3 3 个，得到 ",
+   "want": "630",
+   "got": "6310",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 5 7 开始往后数 2 7 8 个，得到 ",
+   "want": "1035",
+   "got": "10360",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 7 2 开始往后数 2 8 5 个，得到 ",
+   "want": "757",
+   "got": "757",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 6 2 9 开始往后数 4 8 7 个，得到 ",
+   "want": "1116",
+   "got": "1016",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 1 9 开始往后数 9 1 5 个，得到 ",
+   "want": "1134",
+   "got": "11354",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 9 开始往后数 2 6 2 个，得到 ",
+   "want": "581",
+   "got": "582",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 4 9 开始往后数 8 5 0 个，得到 ",
+   "want": "1199",
+   "got": "11989",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 1 2 开始往后数 3 6 0 个，得到 ",
+   "want": "1072",
+   "got": "10721",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 4 3 开始往后数 9 5 2 个，得到 ",
+   "want": "1395",
+   "got": "13955",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 8 0 开始往后数 5 2 1 个，得到 ",
+   "want": "1501",
+   "got": "1501",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 9 5 开始往后数 3 9 0 个，得到 ",
+   "want": "1185",
+   "got": "11855",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 4 1 开始往后数 2 2 9 个，得到 ",
+   "want": "670",
+   "got": "670",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 2 1 开始往后数 4 1 1 个，得到 ",
+   "want": "732",
+   "got": "7421",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 9 0 开始往后数 6 1 2 个，得到 ",
+   "want": "902",
+   "got": "9102",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 0 9 开始往后数 4 0 5 个，得到 ",
+   "want": "914",
+   "got": "960",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 9 1 开始往后数 9 2 3 个，得到 ",
+   "want": "1814",
+   "got": "18124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 0 5 开始往后数 7 2 4 个，得到 ",
+   "want": "1129",
+   "got": "1129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 5 3 开始往后数 5 3 8 个，得到 ",
+   "want": "1091",
+   "got": "1091",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 1 2 开始往后数 1 0 5 个，得到 ",
+   "want": "1017",
+   "got": "1016",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 7 7 开始往后数 3 7 0 个，得到 ",
+   "want": "647",
+   "got": "6477",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 9 7 开始往后数 6 2 4 个，得到 ",
+   "want": "1321",
+   "got": "1222",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 4 0 开始往后数 5 3 9 个，得到 ",
+   "want": "1079",
+   "got": "10700",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 9 7 开始往后数 3 7 4 个，得到 ",
+   "want": "671",
+   "got": "6720",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 7 8 开始往后数 8 6 3 个，得到 ",
+   "want": "1141",
+   "got": "1141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 1 5 5 开始往后数 8 4 7 个，得到 ",
+   "want": "1002",
+   "got": "1003",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 2 9 开始往后数 6 9 7 个，得到 ",
+   "want": "1626",
+   "got": "1627",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 6 5 开始往后数 3 5 3 个，得到 ",
+   "want": "818",
+   "got": "819",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 4 7 开始往后数 8 6 8 个，得到 ",
+   "want": "1415",
+   "got": "1414",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 6 4 开始往后数 7 5 1 个，得到 ",
+   "want": "1315",
+   "got": "13165",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 8 6 开始往后数 5 8 4 个，得到 ",
+   "want": "1370",
+   "got": "1370",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 4 0 开始往后数 9 8 7 个，得到 ",
+   "want": "1727",
+   "got": "17218",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 4 0 开始往后数 3 4 8 个，得到 ",
+   "want": "1288",
+   "got": "1188",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 8 3 开始往后数 7 7 7 个，得到 ",
+   "want": "1160",
+   "got": "1160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 6 8 6 开始往后数 6 6 3 个，得到 ",
+   "want": "1349",
+   "got": "1350",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 5 2 开始往后数 7 4 0 个，得到 ",
+   "want": "1492",
+   "got": "1502",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 6 9 开始往后数 2 8 1 个，得到 ",
+   "want": "750",
+   "got": "750",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 3 6 开始往后数 5 8 3 个，得到 ",
+   "want": "1319",
+   "got": "1319",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 5 0 开始往后数 3 3 7 个，得到 ",
+   "want": "1287",
+   "got": "1287",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 6 4 开始往后数 5 1 4 个，得到 ",
+   "want": "978",
+   "got": "978",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 5 4 开始往后数 8 9 2 个，得到 ",
+   "want": "1846",
+   "got": "18436",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 1 9 4 开始往后数 4 4 2 个，得到 ",
+   "want": "636",
+   "got": "637",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 0 4 开始往后数 2 8 1 个，得到 ",
+   "want": "1085",
+   "got": "10855",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 9 2 开始往后数 5 1 3 个，得到 ",
+   "want": "1005",
+   "got": "10104",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 7 9 开始往后数 9 3 3 个，得到 ",
+   "want": "1412",
+   "got": "1416",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 4 0 开始往后数 6 7 6 个，得到 ",
+   "want": "1116",
+   "got": "11176",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 6 7 开始往后数 1 6 7 个，得到 ",
+   "want": "1134",
+   "got": "1124",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 7 3 开始往后数 5 9 9 个，得到 ",
+   "want": "972",
+   "got": "972",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 8 2 开始往后数 4 9 9 个，得到 ",
+   "want": "1381",
+   "got": "13721",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 6 1 开始往后数 4 7 8 个，得到 ",
+   "want": "739",
+   "got": "7399",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 0 6 开始往后数 3 5 2 个，得到 ",
+   "want": "1258",
+   "got": "11583",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 9 3 开始往后数 7 5 4 个，得到 ",
+   "want": "1747",
+   "got": "1747",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 6 2 3 开始往后数 1 6 2 个，得到 ",
+   "want": "785",
+   "got": "785",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 3 4 开始往后数 5 2 6 个，得到 ",
+   "want": "1260",
+   "got": "1260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 2 6 开始往后数 4 0 7 个，得到 ",
+   "want": "933",
+   "got": "927",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 0 7 开始往后数 3 7 2 个，得到 ",
+   "want": "579",
+   "got": "5809",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 8 4 开始往后数 9 0 1 个，得到 ",
+   "want": "1485",
+   "got": "14745",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 7 8 开始往后数 3 2 4 个，得到 ",
+   "want": "802",
+   "got": "802",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 5 5 开始往后数 5 1 4 个，得到 ",
+   "want": "869",
+   "got": "869",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 6 9 开始往后数 6 9 5 个，得到 ",
+   "want": "1664",
+   "got": "16644",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 1 4 开始往后数 4 7 9 个，得到 ",
+   "want": "1293",
+   "got": "12943",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 6 3 开始往后数 3 9 5 个，得到 ",
+   "want": "658",
+   "got": "658",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 9 9 开始往后数 5 5 2 个，得到 ",
+   "want": "1551",
+   "got": "1551",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 9 6 开始往后数 3 7 7 个，得到 ",
+   "want": "1273",
+   "got": "1274",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 8 3 开始往后数 5 0 3 个，得到 ",
+   "want": "1386",
+   "got": "1386",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 4 4 开始往后数 8 3 6 个，得到 ",
+   "want": "1380",
+   "got": "13810",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 2 5 开始往后数 7 8 2 个，得到 ",
+   "want": "1207",
+   "got": "1207",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 3 8 开始往后数 4 4 6 个，得到 ",
+   "want": "784",
+   "got": "783",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 3 开始往后数 6 7 4 个，得到 ",
+   "want": "987",
+   "got": "987",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 6 9 4 开始往后数 8 1 5 个，得到 ",
+   "want": "1509",
+   "got": "15096",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 0 5 开始往后数 8 1 6 个，得到 ",
+   "want": "1621",
+   "got": "16161",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 1 7 开始往后数 2 3 0 个，得到 ",
+   "want": "747",
+   "got": "747",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 5 5 5 开始往后数 5 0 9 3 个，得到 ",
+   "want": "11648",
+   "got": "11649",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 5 2 4 开始往后数 5 7 4 5 个，得到 ",
+   "want": "9269",
+   "got": "9259",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 3 1 8 开始往后数 7 3 6 1 个，得到 ",
+   "want": "11679",
+   "got": "11680",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 0 9 1 开始往后数 3 4 6 9 个，得到 ",
+   "want": "12560",
+   "got": "11560",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 8 7 9 开始往后数 2 6 9 1 个，得到 ",
+   "want": "8570",
+   "got": "8570",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 5 5 0 开始往后数 8 7 7 9 个，得到 ",
+   "want": "15329",
+   "got": "15329",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 3 4 0 开始往后数 3 5 6 6 个，得到 ",
+   "want": "5906",
+   "got": "5906",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 8 4 9 8 开始往后数 7 8 5 4 个，得到 ",
+   "want": "16352",
+   "got": "16353",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 2 1 9 开始往后数 9 9 6 2 个，得到 ",
+   "want": "14181",
+   "got": "14191",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 6 7 9 开始往后数 6 3 0 8 个，得到 ",
+   "want": "10987",
+   "got": "11087",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 4 4 7 开始往后数 4 4 8 1 个，得到 ",
+   "want": "9928",
+   "got": "9929",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 6 9 5 开始往后数 7 7 3 0 个，得到 ",
+   "want": "13425",
+   "got": "13427",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 9 8 7 开始往后数 6 3 8 2 个，得到 ",
+   "want": "16369",
+   "got": "16370",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 1 9 5 开始往后数 8 0 3 1 个，得到 ",
+   "want": "17226",
+   "got": "17327",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 0 3 6 开始往后数 1 4 2 8 个，得到 ",
+   "want": "6464",
+   "got": "6444",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 7 6 5 开始往后数 2 6 5 9 个，得到 ",
+   "want": "10424",
+   "got": "10424",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 4 4 3 开始往后数 9 8 2 1 个，得到 ",
+   "want": "17264",
+   "got": "17304",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 4 1 0 开始往后数 5 8 5 0 个，得到 ",
+   "want": "9260",
+   "got": "92510",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 8 7 0 6 开始往后数 4 8 7 2 个，得到 ",
+   "want": "13578",
+   "got": "13578",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 9 5 1 开始往后数 2 2 6 4 个，得到 ",
+   "want": "12215",
+   "got": "12225",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 8 0 3 开始往后数 2 5 7 5 个，得到 ",
+   "want": "10378",
+   "got": "10378",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 8 0 7 开始往后数 4 6 7 9 个，得到 ",
+   "want": "11486",
+   "got": "11487",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 1 9 3 开始往后数 2 3 6 4 个，得到 ",
+   "want": "11557",
+   "got": "11557",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 6 6 3 开始往后数 7 4 4 9 个，得到 ",
+   "want": "10112",
+   "got": "10103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 4 4 2 开始往后数 4 2 2 3 个，得到 ",
+   "want": "13665",
+   "got": "13665",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 8 5 6 7 开始往后数 2 4 4 8 个，得到 ",
+   "want": "11015",
+   "got": "11914",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 4 7 8 开始往后数 5 0 1 1 个，得到 ",
+   "want": "6489",
+   "got": "6499",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 3 7 8 开始往后数 9 1 4 4 个，得到 ",
+   "want": "10522",
+   "got": "10602",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 4 1 1 开始往后数 8 7 6 5 个，得到 ",
+   "want": "13176",
+   "got": "13076",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 1 4 3 开始往后数 7 2 1 8 个，得到 ",
+   "want": "10361",
+   "got": "10352",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 9 6 5 开始往后数 8 7 2 5 个，得到 ",
+   "want": "10690",
+   "got": "10707",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 7 2 0 开始往后数 1 0 6 6 个，得到 ",
+   "want": "4786",
+   "got": "4786",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 5 6 3 开始往后数 5 4 8 7 个，得到 ",
+   "want": "8050",
+   "got": "7950",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 7 8 6 开始往后数 7 9 4 0 个，得到 ",
+   "want": "17726",
+   "got": "17727",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 8 8 9 6 开始往后数 1 3 1 2 个，得到 ",
+   "want": "10208",
+   "got": "10208",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 2 9 2 开始往后数 7 3 3 4 个，得到 ",
+   "want": "10626",
+   "got": "10627",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 5 0 7 开始往后数 4 4 0 7 个，得到 ",
+   "want": "9914",
+   "got": "9958",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 9 3 0 开始往后数 3 1 5 9 个，得到 ",
+   "want": "6089",
+   "got": "61059",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 3 0 0 6 开始往后数 5 6 7 7 个，得到 ",
+   "want": "8683",
+   "got": "8683",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 5 2 4 开始往后数 4 2 1 8 个，得到 ",
+   "want": "11742",
+   "got": "117430",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 5 8 7 9 开始往后数 8 2 4 2 个，得到 ",
+   "want": "14121",
+   "got": "14142",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 5 0 2 开始往后数 4 0 1 3 个，得到 ",
+   "want": "11515",
+   "got": "11515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 2 9 7 开始往后数 5 5 5 4 个，得到 ",
+   "want": "11851",
+   "got": "118517",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 3 3 6 1 开始往后数 3 6 9 4 个，得到 ",
+   "want": "7055",
+   "got": "7055",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 3 6 6 开始往后数 5 8 5 8 个，得到 ",
+   "want": "13224",
+   "got": "13224",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 6 4 3 开始往后数 7 6 4 3 个，得到 ",
+   "want": "14286",
+   "got": "14307",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 3 6 0 开始往后数 4 1 3 3 个，得到 ",
+   "want": "8493",
+   "got": "8583",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 7 8 3 开始往后数 8 5 3 6 个，得到 ",
+   "want": "11319",
+   "got": "11330",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 2 7 2 开始往后数 5 9 2 4 个，得到 ",
+   "want": "9196",
+   "got": "9196",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 1 8 5 开始往后数 4 5 2 6 个，得到 ",
+   "want": "5711",
+   "got": "57327",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 7 4 7 8 开始往后数 5 2 9 6 个，得到 ",
+   "want": "12774",
+   "got": "12774",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 2 8 4 开始往后数 2 3 0 9 个，得到 ",
+   "want": "11593",
+   "got": "11693",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 7 9 9 开始往后数 3 9 7 4 个，得到 ",
+   "want": "6773",
+   "got": "6773",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 7 7 6 开始往后数 7 2 7 9 个，得到 ",
+   "want": "15055",
+   "got": "15056",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 7 8 6 开始往后数 8 5 3 9 个，得到 ",
+   "want": "14325",
+   "got": "14345",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 4 4 8 开始往后数 7 7 1 7 个，得到 ",
+   "want": "10165",
+   "got": "10172",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 8 3 9 7 开始往后数 1 4 1 9 个，得到 ",
+   "want": "9816",
+   "got": "9806",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 7 4 5 开始往后数 4 6 7 3 个，得到 ",
+   "want": "12418",
+   "got": "12519",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 5 7 9 开始往后数 6 3 8 4 个，得到 ",
+   "want": "10963",
+   "got": "10963",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 6 1 5 开始往后数 2 8 1 7 个，得到 ",
+   "want": "7432",
+   "got": "7432",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 5 3 8 开始往后数 2 7 1 8 个，得到 ",
+   "want": "4256",
+   "got": "4256",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 3 8 3 开始往后数 2 7 6 0 个，得到 ",
+   "want": "10143",
+   "got": "10043",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 7 8 2 开始往后数 6 7 3 2 个，得到 ",
+   "want": "10514",
+   "got": "10516",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 4 5 1 开始往后数 2 8 6 1 个，得到 ",
+   "want": "4312",
+   "got": "4316",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 5 7 5 开始往后数 5 0 4 5 个，得到 ",
+   "want": "12620",
+   "got": "12620",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 4 5 8 开始往后数 1 5 5 5 个，得到 ",
+   "want": "7013",
+   "got": "6003",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 3 3 2 开始往后数 4 1 8 9 个，得到 ",
+   "want": "6521",
+   "got": "6602",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 7 0 9 开始往后数 4 7 9 4 个，得到 ",
+   "want": "9503",
+   "got": "9493",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 4 5 9 开始往后数 5 4 5 4 个，得到 ",
+   "want": "10913",
+   "got": "10911",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 5 2 9 开始往后数 8 8 0 2 个，得到 ",
+   "want": "13331",
+   "got": "13331",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 8 6 9 开始往后数 8 8 9 7 个，得到 ",
+   "want": "16766",
+   "got": "16767",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 3 6 0 开始往后数 5 4 8 3 个，得到 ",
+   "want": "9843",
+   "got": "9843",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 7 4 0 开始往后数 2 6 4 4 个，得到 ",
+   "want": "12384",
+   "got": "12384",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 6 1 1 开始往后数 1 7 4 6 个，得到 ",
+   "want": "7357",
+   "got": "7357",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 9 3 7 开始往后数 5 3 4 6 个，得到 ",
+   "want": "15283",
+   "got": "15293",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 4 5 1 开始往后数 2 0 1 7 个，得到 ",
+   "want": "4468",
+   "got": "4568",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 1 6 5 开始往后数 8 1 1 3 个，得到 ",
+   "want": "10278",
+   "got": "10287",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 0 8 7 开始往后数 4 5 4 7 个，得到 ",
+   "want": "13634",
+   "got": "136420",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 1 6 1 7 开始往后数 2 2 1 0 个，得到 ",
+   "want": "3827",
+   "got": "3828",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 1 1 3 开始往后数 9 9 1 9 个，得到 ",
+   "want": "15032",
+   "got": "15103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 4 9 3 开始往后数 2 6 9 9 个，得到 ",
+   "want": "5192",
+   "got": "5172",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 5 6 1 开始往后数 1 1 7 0 个，得到 ",
+   "want": "8731",
+   "got": "8731",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 6 3 5 开始往后数 2 3 6 0 个，得到 ",
+   "want": "7995",
+   "got": "7995",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 4 0 8 开始往后数 1 7 7 9 个，得到 ",
+   "want": "3187",
+   "got": "3177",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 1 0 4 开始往后数 3 6 4 6 个，得到 ",
+   "want": "9750",
+   "got": "9750",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 6 3 3 开始往后数 3 4 6 6 个，得到 ",
+   "want": "5099",
+   "got": "5099",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 6 7 7 开始往后数 7 8 3 5 个，得到 ",
+   "want": "17512",
+   "got": "17552",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 8 3 2 开始往后数 2 9 5 0 个，得到 ",
+   "want": "10782",
+   "got": "10782",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 6 2 2 开始往后数 9 9 1 7 个，得到 ",
+   "want": "17539",
+   "got": "17519",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 5 4 0 开始往后数 2 1 8 5 个，得到 ",
+   "want": "3725",
+   "got": "3725",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 6 4 8 开始往后数 5 0 3 7 个，得到 ",
+   "want": "6685",
+   "got": "6686",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 7 8 3 开始往后数 3 3 6 5 个，得到 ",
+   "want": "9148",
+   "got": "9158",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 9 9 8 开始往后数 4 2 8 6 个，得到 ",
+   "want": "7284",
+   "got": "7274",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 2 2 4 开始往后数 9 2 2 3 个，得到 ",
+   "want": "14447",
+   "got": "14447",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 3 9 2 开始往后数 5 9 5 3 个，得到 ",
+   "want": "12345",
+   "got": "123414",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 5 2 7 8 开始往后数 3 5 5 4 个，得到 ",
+   "want": "8832",
+   "got": "8833",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 9 8 1 开始往后数 4 4 3 2 个，得到 ",
+   "want": "6413",
+   "got": "6423",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 2 3 0 开始往后数 4 2 3 5 个，得到 ",
+   "want": "10465",
+   "got": "10465",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 2 2 3 开始往后数 7 9 7 0 个，得到 ",
+   "want": "10193",
+   "got": "10203",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 0 0 5 开始往后数 8 8 3 2 个，得到 ",
+   "want": "10837",
+   "got": "10837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 4 1 1 7 开始往后数 9 7 9 8 8 个，得到 ",
+   "want": "182105",
+   "got": "182016",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 2 6 0 4 开始往后数 7 3 6 5 6 个，得到 ",
+   "want": "96260",
+   "got": "95250",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 7 5 5 2 开始往后数 2 3 0 6 6 个，得到 ",
+   "want": "110618",
+   "got": "110619",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 6 9 2 3 开始往后数 8 1 2 4 3 个，得到 ",
+   "want": "118166",
+   "got": "118166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 0 0 9 0 开始往后数 1 7 7 0 1 个，得到 ",
+   "want": "77791",
+   "got": "77801",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 0 4 6 4 开始往后数 5 2 4 5 7 个，得到 ",
+   "want": "72921",
+   "got": "72722",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 2 9 8 6 开始往后数 2 2 9 6 0 个，得到 ",
+   "want": "95946",
+   "got": "95946",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 1 3 2 5 开始往后数 7 4 9 4 7 个，得到 ",
+   "want": "96272",
+   "got": "96322",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 5 2 0 5 开始往后数 3 6 6 4 4 个，得到 ",
+   "want": "61849",
+   "got": "60849",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 7 7 2 5 开始往后数 2 2 8 1 3 个，得到 ",
+   "want": "50538",
+   "got": "50538",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 6 4 1 0 开始往后数 9 9 3 7 0 个，得到 ",
+   "want": "185780",
+   "got": "186387",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 0 5 5 8 开始往后数 1 2 1 2 6 个，得到 ",
+   "want": "62684",
+   "got": "62584",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 7 7 4 1 开始往后数 4 9 7 7 4 个，得到 ",
+   "want": "77515",
+   "got": "77716",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 0 8 0 8 开始往后数 9 7 6 8 8 个，得到 ",
+   "want": "168496",
+   "got": "168596",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 0 5 6 4 开始往后数 3 1 1 7 7 个，得到 ",
+   "want": "41741",
+   "got": "41781",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 8 2 5 6 开始往后数 8 2 8 2 9 个，得到 ",
+   "want": "161085",
+   "got": "161045",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 5 8 7 8 开始往后数 2 1 5 6 9 个，得到 ",
+   "want": "117447",
+   "got": "117447",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 7 9 2 2 开始往后数 2 2 0 6 0 个，得到 ",
+   "want": "69982",
+   "got": "70972",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 5 6 2 7 开始往后数 2 7 3 6 9 个，得到 ",
+   "want": "52996",
+   "got": "52996",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 9 9 4 2 开始往后数 7 0 2 1 1 个，得到 ",
+   "want": "150153",
+   "got": "159053",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 2 8 3 7 开始往后数 4 9 2 0 0 个，得到 ",
+   "want": "142037",
+   "got": "141237",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 1 5 6 4 开始往后数 2 7 9 1 9 个，得到 ",
+   "want": "79483",
+   "got": "79473",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 3 5 1 4 开始往后数 1 9 8 4 1 个，得到 ",
+   "want": "93355",
+   "got": "93355",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 9 6 3 5 开始往后数 3 7 9 3 4 个，得到 ",
+   "want": "127569",
+   "got": "127609",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 7 1 6 5 开始往后数 7 2 4 4 7 个，得到 ",
+   "want": "139612",
+   "got": "149602",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 6 8 5 6 开始往后数 5 8 3 0 0 个，得到 ",
+   "want": "135156",
+   "got": "135166",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 4 3 3 7 开始往后数 5 9 8 8 1 个，得到 ",
+   "want": "134218",
+   "got": "134228",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 8 6 0 9 开始往后数 6 6 1 9 0 个，得到 ",
+   "want": "114799",
+   "got": "114799",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 4 5 7 8 开始往后数 8 9 3 2 4 个，得到 ",
+   "want": "123902",
+   "got": "124502",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 9 4 0 4 开始往后数 4 1 3 0 5 个，得到 ",
+   "want": "60709",
+   "got": "61039",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 2 6 2 8 开始往后数 2 0 4 4 5 个，得到 ",
+   "want": "103073",
+   "got": "102973",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 4 9 1 6 开始往后数 9 3 5 1 2 个，得到 ",
+   "want": "108428",
+   "got": "108468",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 5 4 4 6 开始往后数 4 9 5 3 9 个，得到 ",
+   "want": "124985",
+   "got": "125385",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 0 5 6 5 开始往后数 2 4 5 7 5 个，得到 ",
+   "want": "115140",
+   "got": "114140",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 6 1 9 5 开始往后数 5 9 6 6 9 个，得到 ",
+   "want": "155864",
+   "got": "155864",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 6 0 0 5 开始往后数 8 5 7 0 6 个，得到 ",
+   "want": "111711",
+   "got": "112571",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 7 5 2 1 开始往后数 3 2 1 9 3 个，得到 ",
+   "want": "79714",
+   "got": "80804",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 2 7 0 2 开始往后数 9 4 0 7 1 个，得到 ",
+   "want": "136773",
+   "got": "135773",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 9 8 9 0 开始往后数 2 5 5 9 3 个，得到 ",
+   "want": "55483",
+   "got": "55443",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 5 6 5 9 开始往后数 4 7 2 1 9 个，得到 ",
+   "want": "102878",
+   "got": "103078",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 6 2 7 6 开始往后数 1 9 9 7 9 个，得到 ",
+   "want": "36255",
+   "got": "36225",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 1 1 2 5 开始往后数 2 0 8 0 0 个，得到 ",
+   "want": "61925",
+   "got": "62025",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 3 9 7 6 开始往后数 3 8 5 4 6 个，得到 ",
+   "want": "92522",
+   "got": "92242",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 3 4 4 9 开始往后数 1 6 7 3 6 个，得到 ",
+   "want": "70185",
+   "got": "70185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 3 8 6 5 开始往后数 8 8 2 2 5 个，得到 ",
+   "want": "152090",
+   "got": "152287",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 6 9 6 0 开始往后数 6 6 7 9 9 个，得到 ",
+   "want": "163759",
+   "got": "163760",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 6 7 5 5 开始往后数 3 4 3 1 9 个，得到 ",
+   "want": "131074",
+   "got": "131284",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 0 9 2 6 开始往后数 1 8 7 0 7 个，得到 ",
+   "want": "79633",
+   "got": "79633",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 3 2 8 3 开始往后数 8 1 8 1 0 个，得到 ",
+   "want": "145093",
+   "got": "146093",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 3 1 9 6 开始往后数 5 5 1 4 0 个，得到 ",
+   "want": "98336",
+   "got": "98736",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 4 1 8 8 开始往后数 3 1 9 1 7 个，得到 ",
+   "want": "86105",
+   "got": "86016",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 2 3 5 9 开始往后数 3 3 0 0 3 个，得到 ",
+   "want": "85362",
+   "got": "85362",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 5 9 8 1 开始往后数 7 5 1 2 2 个，得到 ",
+   "want": "171103",
+   "got": "171593",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 0 8 7 9 开始往后数 1 9 8 3 7 个，得到 ",
+   "want": "70716",
+   "got": "69706",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 0 2 6 4 开始往后数 2 8 2 0 9 个，得到 ",
+   "want": "38473",
+   "got": "40373",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 2 9 6 8 开始往后数 5 7 6 1 6 个，得到 ",
+   "want": "150584",
+   "got": "150584",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 7 0 9 2 开始往后数 7 3 7 7 4 个，得到 ",
+   "want": "120866",
+   "got": "120866",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 8 5 2 0 开始往后数 7 1 1 5 0 个，得到 ",
+   "want": "89670",
+   "got": "90670",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 6 5 1 3 开始往后数 8 1 1 4 6 个，得到 ",
+   "want": "167659",
+   "got": "167660",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 8 2 7 7 开始往后数 9 0 4 2 3 个，得到 ",
+   "want": "178700",
+   "got": "176306",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 6 1 6 5 开始往后数 7 8 2 3 5 个，得到 ",
+   "want": "124400",
+   "got": "124390",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 8 9 0 6 开始往后数 5 7 0 4 0 个，得到 ",
+   "want": "135946",
+   "got": "135946",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 5 8 2 6 开始往后数 6 1 1 7 4 个，得到 ",
+   "want": "127000",
+   "got": "127091",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 9 2 3 4 开始往后数 4 7 0 0 5 个，得到 ",
+   "want": "136239",
+   "got": "136239",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 6 4 1 2 开始往后数 8 4 7 3 8 个，得到 ",
+   "want": "161150",
+   "got": "161150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 8 3 6 5 开始往后数 3 8 9 5 4 个，得到 ",
+   "want": "127319",
+   "got": "127350",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 7 6 4 8 开始往后数 1 4 0 1 4 个，得到 ",
+   "want": "31662",
+   "got": "31762",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 8 3 9 7 开始往后数 2 3 8 8 9 个，得到 ",
+   "want": "82286",
+   "got": "82286",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 7 4 4 3 开始往后数 9 2 4 0 0 个，得到 ",
+   "want": "179843",
+   "got": "189643",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 4 6 6 0 开始往后数 6 6 7 1 3 个，得到 ",
+   "want": "121373",
+   "got": "120373",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 9 1 6 8 开始往后数 5 5 5 9 5 个，得到 ",
+   "want": "124763",
+   "got": "124763",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 6 9 5 4 开始往后数 6 2 6 7 6 个，得到 ",
+   "want": "159630",
+   "got": "169641",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 7 2 9 0 开始往后数 5 7 9 2 2 个，得到 ",
+   "want": "95212",
+   "got": "95212",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 7 7 1 8 开始往后数 7 6 1 7 3 个，得到 ",
+   "want": "133891",
+   "got": "134091",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 8 8 2 9 开始往后数 2 9 0 8 9 个，得到 ",
+   "want": "77918",
+   "got": "77918",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 4 1 4 7 开始往后数 6 8 7 5 3 个，得到 ",
+   "want": "102900",
+   "got": "102920",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 3 6 4 3 开始往后数 2 1 3 2 7 个，得到 ",
+   "want": "114970",
+   "got": "114970",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 9 7 2 7 开始往后数 3 0 4 5 5 个，得到 ",
+   "want": "100182",
+   "got": "98782",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 6 1 0 8 0 开始往后数 6 2 9 8 0 个，得到 ",
+   "want": "124060",
+   "got": "123180",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 7 4 6 7 开始往后数 9 5 6 4 3 个，得到 ",
+   "want": "123110",
+   "got": "123010",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 7 3 9 8 开始往后数 6 3 0 9 6 个，得到 ",
+   "want": "120494",
+   "got": "120494",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 8 0 9 7 开始往后数 1 3 3 9 3 个，得到 ",
+   "want": "71490",
+   "got": "71490",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 3 9 4 6 开始往后数 6 0 1 7 1 个，得到 ",
+   "want": "104117",
+   "got": "104107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 1 0 4 7 开始往后数 7 2 4 4 4 个，得到 ",
+   "want": "83491",
+   "got": "83451",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 2 9 5 6 开始往后数 9 6 9 4 4 个，得到 ",
+   "want": "109900",
+   "got": "109650",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 5 6 1 4 开始往后数 2 0 8 7 9 个，得到 ",
+   "want": "36493",
+   "got": "46503",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 8 5 4 3 开始往后数 9 5 7 0 9 个，得到 ",
+   "want": "144252",
+   "got": "144252",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 5 9 7 3 开始往后数 2 4 5 7 9 个，得到 ",
+   "want": "70552",
+   "got": "70542",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 9 1 6 1 开始往后数 1 0 6 6 7 个，得到 ",
+   "want": "49828",
+   "got": "49878",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 9 5 5 4 开始往后数 7 6 7 4 7 个，得到 ",
+   "want": "136301",
+   "got": "136301",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 4 9 7 1 开始往后数 6 5 1 7 8 个，得到 ",
+   "want": "160149",
+   "got": "160509",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 3 5 9 7 开始往后数 4 4 1 6 7 个，得到 ",
+   "want": "77764",
+   "got": "77715",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 5 3 1 1 开始往后数 7 7 1 0 2 个，得到 ",
+   "want": "92413",
+   "got": "92514",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 8 3 3 7 开始往后数 2 3 4 4 8 个，得到 ",
+   "want": "91785",
+   "got": "92085",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 0 6 7 4 开始往后数 1 0 4 4 9 个，得到 ",
+   "want": "21123",
+   "got": "21023",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 3 6 4 6 开始往后数 6 3 9 8 2 个，得到 ",
+   "want": "157628",
+   "got": "157638",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 3 6 3 1 开始往后数 8 0 9 7 4 个，得到 ",
+   "want": "144605",
+   "got": "143728",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 8 5 7 8 开始往后数 1 7 7 3 2 个，得到 ",
+   "want": "106310",
+   "got": "106305",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 8 1 2 1 开始往后数 4 5 6 4 4 个，得到 ",
+   "want": "143765",
+   "got": "143665",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 3 1 4 5 开始往后数 7 3 6 8 2 个，得到 ",
+   "want": "96827",
+   "got": "96828",
+   "exact": false,
+   "samelen": true
+  }
+ ]
+}

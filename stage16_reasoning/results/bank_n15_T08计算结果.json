@@ -1,0 +1,3231 @@
+{
+ "label": "n15_T08计算结果",
+ "by_rung": {
+  "2": [
+   98,
+   99,
+   0,
+   100
+  ],
+  "3": [
+   86,
+   99,
+   0,
+   100
+  ],
+  "4": [
+   64,
+   100,
+   0,
+   100
+  ],
+  "5": [
+   56,
+   97,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "8 8 + 9 3 的计算结果是 ",
+   "want": "181",
+   "got": "181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 + 4 6 的计算结果是 ",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 + 1 7 的计算结果是 ",
+   "want": "103",
+   "got": "93",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 2 + 9 1 的计算结果是 ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 + 6 6 的计算结果是 ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 + 3 5 的计算结果是 ",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 + 7 6 的计算结果是 ",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 + 3 4 的计算结果是 ",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 + 8 6 的计算结果是 ",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 + 7 6 的计算结果是 ",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 + 3 9 的计算结果是 ",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 + 3 1 的计算结果是 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 + 1 4 的计算结果是 ",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6 + 4 0 的计算结果是 ",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 + 1 0 的计算结果是 ",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 + 2 1 的计算结果是 ",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 + 6 1 的计算结果是 ",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 + 9 5 的计算结果是 ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 + 6 1 的计算结果是 ",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 + 3 5 的计算结果是 ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 + 1 1 的计算结果是 ",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 + 2 1 的计算结果是 ",
+   "want": "39",
+   "got": "39",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 + 4 6 的计算结果是 ",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 + 8 4 的计算结果是 ",
+   "want": "165",
+   "got": "165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4 + 5 4 的计算结果是 ",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 + 3 8 的计算结果是 ",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 + 3 4 的计算结果是 ",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 + 6 1 的计算结果是 ",
+   "want": "129",
+   "got": "129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 + 1 0 的计算结果是 ",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 + 3 2 的计算结果是 ",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 + 7 4 的计算结果是 ",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 + 8 1 的计算结果是 ",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 + 7 4 的计算结果是 ",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 + 5 3 的计算结果是 ",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 + 7 5 的计算结果是 ",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 + 7 8 的计算结果是 ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 + 4 2 的计算结果是 ",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 + 6 6 的计算结果是 ",
+   "want": "164",
+   "got": "164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 + 8 2 的计算结果是 ",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 + 4 1 的计算结果是 ",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 + 6 8 的计算结果是 ",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 + 6 8 的计算结果是 ",
+   "want": "165",
+   "got": "165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 + 1 3 的计算结果是 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 + 2 4 的计算结果是 ",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 + 1 8 的计算结果是 ",
+   "want": "61",
+   "got": "61",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 + 9 1 的计算结果是 ",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 8 + 9 6 的计算结果是 ",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 + 3 9 的计算结果是 ",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 + 6 2 的计算结果是 ",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 + 7 6 的计算结果是 ",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 8 + 1 1 的计算结果是 ",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 + 4 3 的计算结果是 ",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 + 4 6 的计算结果是 ",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 + 6 1 的计算结果是 ",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 + 5 3 的计算结果是 ",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 + 8 0 的计算结果是 ",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 + 7 0 的计算结果是 ",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 + 5 5 的计算结果是 ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 + 8 3 的计算结果是 ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 + 3 3 的计算结果是 ",
+   "want": "77",
+   "got": "75",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 + 3 4 的计算结果是 ",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 + 3 5 的计算结果是 ",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 + 4 0 的计算结果是 ",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 + 3 6 的计算结果是 ",
+   "want": "79",
+   "got": "79",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 + 3 5 的计算结果是 ",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 + 8 9 的计算结果是 ",
+   "want": "130",
+   "got": "130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 + 2 9 的计算结果是 ",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 + 2 5 的计算结果是 ",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 + 9 6 的计算结果是 ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 + 7 3 的计算结果是 ",
+   "want": "167",
+   "got": "167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 + 1 0 的计算结果是 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 + 1 5 的计算结果是 ",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 + 5 7 的计算结果是 ",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 + 5 0 的计算结果是 ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 + 8 3 的计算结果是 ",
+   "want": "156",
+   "got": "156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 + 7 2 的计算结果是 ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 + 7 5 的计算结果是 ",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 + 6 0 的计算结果是 ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 8 + 8 3 的计算结果是 ",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 + 1 6 的计算结果是 ",
+   "want": "42",
+   "got": "42",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 + 6 4 的计算结果是 ",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 + 7 9 的计算结果是 ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 + 7 4 的计算结果是 ",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4 + 6 0 的计算结果是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 + 3 2 的计算结果是 ",
+   "want": "129",
+   "got": "129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 + 2 5 的计算结果是 ",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 + 7 6 的计算结果是 ",
+   "want": "175",
+   "got": "175",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 + 5 0 的计算结果是 ",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 + 1 1 的计算结果是 ",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 + 9 6 的计算结果是 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 + 5 8 的计算结果是 ",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 + 2 2 的计算结果是 ",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 + 5 6 的计算结果是 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 + 4 3 的计算结果是 ",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 + 8 0 的计算结果是 ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 + 4 0 的计算结果是 ",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 + 7 0 的计算结果是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 + 5 3 的计算结果是 ",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6 + 3 3 的计算结果是 ",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 + 6 4 的计算结果是 ",
+   "want": "137",
+   "got": "137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 5 + 5 2 9 的计算结果是 ",
+   "want": "844",
+   "got": "844",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 7 + 8 7 0 的计算结果是 ",
+   "want": "1687",
+   "got": "1687",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 1 + 4 7 3 的计算结果是 ",
+   "want": "954",
+   "got": "954",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 4 + 5 1 0 的计算结果是 ",
+   "want": "1484",
+   "got": "1484",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 6 + 5 6 1 的计算结果是 ",
+   "want": "947",
+   "got": "947",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 4 + 6 8 5 的计算结果是 ",
+   "want": "969",
+   "got": "969",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 4 + 6 8 9 的计算结果是 ",
+   "want": "923",
+   "got": "922",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 2 + 3 3 4 的计算结果是 ",
+   "want": "1136",
+   "got": "1136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 3 + 2 0 2 的计算结果是 ",
+   "want": "1135",
+   "got": "1135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 8 + 3 7 6 的计算结果是 ",
+   "want": "1214",
+   "got": "1215",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 3 + 3 4 1 的计算结果是 ",
+   "want": "1264",
+   "got": "1264",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 8 + 5 4 2 的计算结果是 ",
+   "want": "1210",
+   "got": "1211",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 6 + 4 9 0 的计算结果是 ",
+   "want": "1466",
+   "got": "1466",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 0 + 2 4 9 的计算结果是 ",
+   "want": "549",
+   "got": "549",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 9 + 8 5 6 的计算结果是 ",
+   "want": "1775",
+   "got": "1775",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 3 + 5 8 4 的计算结果是 ",
+   "want": "837",
+   "got": "837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 5 + 1 0 9 的计算结果是 ",
+   "want": "1034",
+   "got": "1034",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 0 + 5 3 1 的计算结果是 ",
+   "want": "811",
+   "got": "811",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 1 + 2 3 7 的计算结果是 ",
+   "want": "848",
+   "got": "848",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 9 + 7 4 5 的计算结果是 ",
+   "want": "1714",
+   "got": "1714",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 9 + 6 4 6 的计算结果是 ",
+   "want": "1275",
+   "got": "1275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 7 + 4 2 3 的计算结果是 ",
+   "want": "1260",
+   "got": "1260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 4 + 5 9 8 的计算结果是 ",
+   "want": "1502",
+   "got": "1502",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 7 + 3 5 6 的计算结果是 ",
+   "want": "763",
+   "got": "763",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 5 + 9 7 9 的计算结果是 ",
+   "want": "1654",
+   "got": "1654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 1 + 1 4 8 的计算结果是 ",
+   "want": "829",
+   "got": "830",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 7 + 2 0 1 的计算结果是 ",
+   "want": "708",
+   "got": "768",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 7 + 2 6 7 的计算结果是 ",
+   "want": "1074",
+   "got": "1074",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 1 + 3 2 0 的计算结果是 ",
+   "want": "481",
+   "got": "481",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 3 + 3 6 0 的计算结果是 ",
+   "want": "1293",
+   "got": "1193",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 7 + 9 5 9 的计算结果是 ",
+   "want": "1546",
+   "got": "1546",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 4 + 1 9 8 的计算结果是 ",
+   "want": "942",
+   "got": "942",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 0 + 8 6 2 的计算结果是 ",
+   "want": "1422",
+   "got": "1422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 4 2 + 3 6 6 的计算结果是 ",
+   "want": "808",
+   "got": "808",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 9 + 4 6 8 的计算结果是 ",
+   "want": "937",
+   "got": "937",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 3 + 6 7 0 的计算结果是 ",
+   "want": "1343",
+   "got": "1343",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 9 + 3 6 3 的计算结果是 ",
+   "want": "1292",
+   "got": "1292",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 5 2 + 1 2 0 的计算结果是 ",
+   "want": "572",
+   "got": "572",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 1 + 2 2 4 的计算结果是 ",
+   "want": "745",
+   "got": "745",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 5 9 + 9 8 8 的计算结果是 ",
+   "want": "1447",
+   "got": "1447",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 5 + 7 2 0 的计算结果是 ",
+   "want": "1515",
+   "got": "1515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 3 + 6 9 0 的计算结果是 ",
+   "want": "993",
+   "got": "993",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 9 + 7 6 5 的计算结果是 ",
+   "want": "1454",
+   "got": "1454",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 4 + 6 5 1 的计算结果是 ",
+   "want": "1415",
+   "got": "1415",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 8 + 8 9 9 的计算结果是 ",
+   "want": "1177",
+   "got": "1177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 1 + 4 6 3 的计算结果是 ",
+   "want": "854",
+   "got": "854",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 2 + 7 8 9 的计算结果是 ",
+   "want": "1221",
+   "got": "1221",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 2 + 5 9 9 的计算结果是 ",
+   "want": "1221",
+   "got": "1222",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 3 + 8 5 4 的计算结果是 ",
+   "want": "1747",
+   "got": "1747",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 7 + 1 8 0 的计算结果是 ",
+   "want": "737",
+   "got": "737",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 0 + 7 2 8 的计算结果是 ",
+   "want": "1218",
+   "got": "1218",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 3 + 5 7 4 的计算结果是 ",
+   "want": "967",
+   "got": "967",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 6 + 2 4 8 的计算结果是 ",
+   "want": "994",
+   "got": "1004",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "9 8 9 + 2 7 1 的计算结果是 ",
+   "want": "1260",
+   "got": "1260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 5 + 9 2 7 的计算结果是 ",
+   "want": "1682",
+   "got": "1682",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 4 5 + 5 3 1 的计算结果是 ",
+   "want": "976",
+   "got": "975",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 6 + 7 2 7 的计算结果是 ",
+   "want": "1473",
+   "got": "1473",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 5 + 5 1 4 的计算结果是 ",
+   "want": "1199",
+   "got": "1199",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 9 + 1 7 3 的计算结果是 ",
+   "want": "1142",
+   "got": "1142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 1 + 2 6 5 的计算结果是 ",
+   "want": "446",
+   "got": "456",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 5 1 + 3 3 3 的计算结果是 ",
+   "want": "784",
+   "got": "754",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 1 + 4 2 4 的计算结果是 ",
+   "want": "845",
+   "got": "845",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 8 + 3 9 8 的计算结果是 ",
+   "want": "1166",
+   "got": "1166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 7 + 3 7 3 的计算结果是 ",
+   "want": "1200",
+   "got": "1200",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 9 + 7 6 0 的计算结果是 ",
+   "want": "1479",
+   "got": "1479",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 4 + 3 7 7 的计算结果是 ",
+   "want": "881",
+   "got": "881",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 5 + 8 9 9 的计算结果是 ",
+   "want": "1454",
+   "got": "1454",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 8 3 + 4 7 1 的计算结果是 ",
+   "want": "1454",
+   "got": "1454",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 5 + 7 0 1 的计算结果是 ",
+   "want": "1566",
+   "got": "1566",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 3 + 5 6 1 的计算结果是 ",
+   "want": "1194",
+   "got": "1194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 3 + 2 7 1 的计算结果是 ",
+   "want": "794",
+   "got": "794",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 8 + 9 7 4 的计算结果是 ",
+   "want": "1262",
+   "got": "1262",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 3 + 2 2 8 的计算结果是 ",
+   "want": "351",
+   "got": "341",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 5 + 3 4 0 的计算结果是 ",
+   "want": "1185",
+   "got": "1185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 7 + 3 5 7 的计算结果是 ",
+   "want": "1134",
+   "got": "1134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 1 + 8 1 7 的计算结果是 ",
+   "want": "1678",
+   "got": "1678",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 7 + 1 8 1 的计算结果是 ",
+   "want": "1048",
+   "got": "1048",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 5 + 2 7 0 的计算结果是 ",
+   "want": "585",
+   "got": "585",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 6 + 2 0 5 的计算结果是 ",
+   "want": "711",
+   "got": "712",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 7 + 1 6 5 的计算结果是 ",
+   "want": "362",
+   "got": "362",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 9 9 + 5 8 4 的计算结果是 ",
+   "want": "1583",
+   "got": "1583",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 1 + 1 5 5 的计算结果是 ",
+   "want": "816",
+   "got": "816",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 6 + 8 8 9 的计算结果是 ",
+   "want": "1015",
+   "got": "1015",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 6 + 6 3 6 的计算结果是 ",
+   "want": "1142",
+   "got": "1142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 3 + 1 8 5 的计算结果是 ",
+   "want": "1068",
+   "got": "1068",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 6 + 3 6 8 的计算结果是 ",
+   "want": "574",
+   "got": "574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 3 2 + 2 5 9 的计算结果是 ",
+   "want": "991",
+   "got": "991",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 6 + 7 7 0 的计算结果是 ",
+   "want": "956",
+   "got": "956",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 9 + 4 1 6 的计算结果是 ",
+   "want": "915",
+   "got": "915",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 4 + 3 5 3 的计算结果是 ",
+   "want": "687",
+   "got": "687",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 5 5 + 3 9 0 的计算结果是 ",
+   "want": "1245",
+   "got": "1245",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 3 + 7 4 1 的计算结果是 ",
+   "want": "1294",
+   "got": "1274",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 9 + 2 3 4 的计算结果是 ",
+   "want": "463",
+   "got": "463",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 9 + 9 5 8 的计算结果是 ",
+   "want": "1597",
+   "got": "1597",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 4 + 1 2 9 的计算结果是 ",
+   "want": "403",
+   "got": "403",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 5 + 7 7 9 的计算结果是 ",
+   "want": "914",
+   "got": "914",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 5 + 9 8 1 的计算结果是 ",
+   "want": "1446",
+   "got": "1446",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 3 + 9 8 4 的计算结果是 ",
+   "want": "1417",
+   "got": "1417",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 7 + 5 7 8 的计算结果是 ",
+   "want": "1165",
+   "got": "1165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 9 1 + 6 5 3 的计算结果是 ",
+   "want": "1644",
+   "got": "1644",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 6 3 + 9 9 8 7 的计算结果是 ",
+   "want": "15450",
+   "got": "15450",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 8 8 + 3 2 1 3 的计算结果是 ",
+   "want": "11501",
+   "got": "11401",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 8 3 5 + 3 9 0 0 的计算结果是 ",
+   "want": "13735",
+   "got": "13735",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 8 0 + 8 1 2 6 的计算结果是 ",
+   "want": "16606",
+   "got": "16606",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 7 6 + 9 7 4 5 的计算结果是 ",
+   "want": "19321",
+   "got": "19321",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 7 3 + 6 6 8 8 的计算结果是 ",
+   "want": "12761",
+   "got": "12761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 9 1 + 9 8 4 1 的计算结果是 ",
+   "want": "18732",
+   "got": "18732",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 2 1 + 2 4 6 7 的计算结果是 ",
+   "want": "7188",
+   "got": "7198",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 3 9 + 6 0 4 4 的计算结果是 ",
+   "want": "14283",
+   "got": "14293",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 9 9 2 + 7 7 5 3 的计算结果是 ",
+   "want": "14745",
+   "got": "14745",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 2 5 6 + 3 5 5 1 的计算结果是 ",
+   "want": "8807",
+   "got": "8807",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 7 3 + 1 1 7 2 的计算结果是 ",
+   "want": "7145",
+   "got": "7155",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 0 1 + 9 5 7 4 的计算结果是 ",
+   "want": "10575",
+   "got": "10575",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 3 3 + 6 6 3 4 的计算结果是 ",
+   "want": "9867",
+   "got": "9867",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 9 8 + 8 6 8 7 的计算结果是 ",
+   "want": "14385",
+   "got": "15385",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 6 7 + 1 1 3 6 的计算结果是 ",
+   "want": "10903",
+   "got": "10914",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 5 9 + 8 8 1 6 的计算结果是 ",
+   "want": "17875",
+   "got": "17875",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 0 8 + 1 1 4 9 的计算结果是 ",
+   "want": "7057",
+   "got": "7107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 0 5 2 + 5 7 9 9 的计算结果是 ",
+   "want": "13851",
+   "got": "13851",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 8 8 + 1 1 1 8 的计算结果是 ",
+   "want": "5906",
+   "got": "5916",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 9 8 1 + 7 1 2 1 的计算结果是 ",
+   "want": "17102",
+   "got": "17102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 8 9 + 7 7 4 5 的计算结果是 ",
+   "want": "11834",
+   "got": "11834",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 6 1 + 7 4 6 7 的计算结果是 ",
+   "want": "15628",
+   "got": "15628",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 9 4 + 3 6 7 5 的计算结果是 ",
+   "want": "8769",
+   "got": "8769",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 8 5 + 7 1 9 9 的计算结果是 ",
+   "want": "14584",
+   "got": "14584",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 1 4 + 5 3 0 8 的计算结果是 ",
+   "want": "9922",
+   "got": "9922",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 9 7 + 7 9 1 7 的计算结果是 ",
+   "want": "10214",
+   "got": "10194",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 2 4 + 9 4 6 4 的计算结果是 ",
+   "want": "14388",
+   "got": "14388",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 5 4 + 5 6 6 4 的计算结果是 ",
+   "want": "11118",
+   "got": "11018",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 1 5 + 5 4 0 4 的计算结果是 ",
+   "want": "15119",
+   "got": "15119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 6 5 + 4 0 8 0 的计算结果是 ",
+   "want": "11845",
+   "got": "11845",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 2 1 + 3 9 8 8 的计算结果是 ",
+   "want": "6109",
+   "got": "6109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 3 8 + 5 7 4 4 的计算结果是 ",
+   "want": "8982",
+   "got": "8982",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 0 8 + 8 4 6 0 的计算结果是 ",
+   "want": "11268",
+   "got": "11268",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 1 8 + 5 4 5 8 的计算结果是 ",
+   "want": "13876",
+   "got": "13876",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 6 0 + 4 0 7 6 的计算结果是 ",
+   "want": "13136",
+   "got": "13136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 5 3 + 1 3 1 7 的计算结果是 ",
+   "want": "7570",
+   "got": "7570",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 9 2 + 1 8 1 3 的计算结果是 ",
+   "want": "5305",
+   "got": "6305",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 6 4 + 1 3 6 2 的计算结果是 ",
+   "want": "11126",
+   "got": "11225",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 4 6 + 2 6 7 5 的计算结果是 ",
+   "want": "6721",
+   "got": "6721",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 2 2 + 5 4 1 0 的计算结果是 ",
+   "want": "11032",
+   "got": "10032",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 4 8 + 8 1 8 3 的计算结果是 ",
+   "want": "11231",
+   "got": "11230",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 3 4 + 4 8 1 4 的计算结果是 ",
+   "want": "5948",
+   "got": "6949",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 7 7 + 3 4 6 8 的计算结果是 ",
+   "want": "5945",
+   "got": "6045",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 4 1 + 9 0 8 6 的计算结果是 ",
+   "want": "10327",
+   "got": "10328",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 5 8 + 6 6 0 1 的计算结果是 ",
+   "want": "11159",
+   "got": "11169",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 8 5 + 6 1 0 4 的计算结果是 ",
+   "want": "13989",
+   "got": "14989",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 6 5 + 7 0 8 4 的计算结果是 ",
+   "want": "16249",
+   "got": "16249",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 9 7 + 1 5 1 9 的计算结果是 ",
+   "want": "10116",
+   "got": "10117",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 1 0 + 2 3 1 4 的计算结果是 ",
+   "want": "8724",
+   "got": "8725",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 9 3 + 1 9 1 8 的计算结果是 ",
+   "want": "5311",
+   "got": "5301",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 6 6 + 7 4 2 9 的计算结果是 ",
+   "want": "12795",
+   "got": "12795",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 6 9 + 9 8 9 9 的计算结果是 ",
+   "want": "12068",
+   "got": "12068",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 7 0 2 + 3 9 7 5 的计算结果是 ",
+   "want": "12677",
+   "got": "12677",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 4 8 + 5 0 9 7 的计算结果是 ",
+   "want": "9245",
+   "got": "9245",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 5 1 + 1 2 0 6 的计算结果是 ",
+   "want": "8457",
+   "got": "8457",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 9 8 + 5 0 7 8 的计算结果是 ",
+   "want": "8076",
+   "got": "8076",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 0 4 + 8 2 5 7 的计算结果是 ",
+   "want": "15561",
+   "got": "15561",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 4 9 + 1 5 4 9 的计算结果是 ",
+   "want": "6598",
+   "got": "6598",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 6 3 + 8 5 5 0 的计算结果是 ",
+   "want": "12813",
+   "got": "12814",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 5 3 9 + 9 5 3 8 的计算结果是 ",
+   "want": "12077",
+   "got": "12077",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 1 5 + 8 7 4 6 的计算结果是 ",
+   "want": "13161",
+   "got": "13161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 7 5 + 6 1 1 3 的计算结果是 ",
+   "want": "13488",
+   "got": "13488",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 9 3 + 3 5 9 8 的计算结果是 ",
+   "want": "9891",
+   "got": "9890",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 9 1 + 9 5 3 4 的计算结果是 ",
+   "want": "11225",
+   "got": "11225",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 0 1 + 5 1 5 0 的计算结果是 ",
+   "want": "8151",
+   "got": "8151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 8 4 + 5 8 9 5 的计算结果是 ",
+   "want": "14779",
+   "got": "14780",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 5 5 + 6 9 0 5 的计算结果是 ",
+   "want": "11160",
+   "got": "11260",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 8 5 3 + 4 5 6 8 的计算结果是 ",
+   "want": "6421",
+   "got": "6421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 5 0 + 4 8 6 6 的计算结果是 ",
+   "want": "7716",
+   "got": "7517",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 1 3 + 6 3 1 6 的计算结果是 ",
+   "want": "14429",
+   "got": "14429",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 4 6 + 3 7 4 2 的计算结果是 ",
+   "want": "4988",
+   "got": "5088",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 2 3 + 2 9 6 0 的计算结果是 ",
+   "want": "8483",
+   "got": "8193",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 8 4 + 4 9 8 2 的计算结果是 ",
+   "want": "12466",
+   "got": "12466",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 4 6 + 1 6 8 8 的计算结果是 ",
+   "want": "2834",
+   "got": "3835",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 7 8 6 + 3 5 3 9 的计算结果是 ",
+   "want": "12325",
+   "got": "12325",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 8 4 + 2 4 6 6 的计算结果是 ",
+   "want": "9550",
+   "got": "9550",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 7 5 + 3 5 8 3 的计算结果是 ",
+   "want": "8658",
+   "got": "8658",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 9 0 + 2 4 9 7 的计算结果是 ",
+   "want": "11687",
+   "got": "11687",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 4 4 + 1 9 8 3 的计算结果是 ",
+   "want": "8527",
+   "got": "8527",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 9 7 9 + 6 8 2 4 的计算结果是 ",
+   "want": "8803",
+   "got": "8803",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 2 1 + 9 7 8 7 的计算结果是 ",
+   "want": "13308",
+   "got": "13398",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 5 9 + 3 0 6 1 的计算结果是 ",
+   "want": "5820",
+   "got": "5820",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 9 2 + 4 8 1 2 的计算结果是 ",
+   "want": "13804",
+   "got": "13804",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 8 9 + 6 6 9 0 的计算结果是 ",
+   "want": "12879",
+   "got": "12880",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 8 7 + 4 1 6 1 的计算结果是 ",
+   "want": "12348",
+   "got": "12348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 4 9 + 7 1 8 9 的计算结果是 ",
+   "want": "8538",
+   "got": "8538",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 6 8 + 3 2 0 7 的计算结果是 ",
+   "want": "10075",
+   "got": "10075",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 0 7 + 1 6 4 6 的计算结果是 ",
+   "want": "6753",
+   "got": "6753",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 5 1 + 8 1 6 8 的计算结果是 ",
+   "want": "17119",
+   "got": "17129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 2 8 + 9 8 9 2 的计算结果是 ",
+   "want": "15720",
+   "got": "15720",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 2 9 + 4 1 0 9 的计算结果是 ",
+   "want": "13138",
+   "got": "13138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 5 7 + 9 9 0 6 的计算结果是 ",
+   "want": "13963",
+   "got": "14963",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 9 6 + 6 3 0 3 的计算结果是 ",
+   "want": "12999",
+   "got": "12999",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 7 4 + 5 5 1 0 的计算结果是 ",
+   "want": "14184",
+   "got": "14174",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 2 7 + 2 1 2 8 的计算结果是 ",
+   "want": "5755",
+   "got": "5755",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 0 2 + 3 5 3 9 的计算结果是 ",
+   "want": "13241",
+   "got": "13231",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 6 2 + 5 8 4 4 的计算结果是 ",
+   "want": "14206",
+   "got": "14206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 1 4 + 9 8 7 3 的计算结果是 ",
+   "want": "15187",
+   "got": "15187",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 1 4 + 8 4 3 9 的计算结果是 ",
+   "want": "15453",
+   "got": "15453",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 0 9 4 + 9 3 6 2 7 的计算结果是 ",
+   "want": "103721",
+   "got": "103722",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 3 1 6 + 5 9 6 8 1 的计算结果是 ",
+   "want": "135997",
+   "got": "135997",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 3 1 8 + 1 2 4 5 3 的计算结果是 ",
+   "want": "46771",
+   "got": "45771",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 2 2 9 + 5 7 7 2 0 的计算结果是 ",
+   "want": "148949",
+   "got": "148949",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 2 9 0 + 4 1 2 9 8 的计算结果是 ",
+   "want": "132588",
+   "got": "132588",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 0 3 4 + 1 8 3 0 2 的计算结果是 ",
+   "want": "70336",
+   "got": "70336",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 2 8 3 + 8 0 6 4 2 的计算结果是 ",
+   "want": "176925",
+   "got": "176925",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 7 8 9 + 3 4 8 8 6 的计算结果是 ",
+   "want": "95675",
+   "got": "95675",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 6 9 0 + 9 9 5 5 1 的计算结果是 ",
+   "want": "178241",
+   "got": "178250",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 5 2 1 4 + 8 2 2 8 1 的计算结果是 ",
+   "want": "157495",
+   "got": "157505",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 2 0 2 + 9 0 3 5 2 的计算结果是 ",
+   "want": "120554",
+   "got": "120554",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 7 1 1 0 + 5 2 2 8 3 的计算结果是 ",
+   "want": "99393",
+   "got": "99403",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 7 1 3 + 9 4 0 0 4 的计算结果是 ",
+   "want": "157717",
+   "got": "157717",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 2 0 8 + 2 4 4 7 8 的计算结果是 ",
+   "want": "76686",
+   "got": "76686",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 6 1 6 + 7 8 5 7 6 的计算结果是 ",
+   "want": "101192",
+   "got": "101092",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 3 6 2 + 1 8 7 3 9 的计算结果是 ",
+   "want": "115101",
+   "got": "115101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 7 3 7 + 2 7 0 0 9 的计算结果是 ",
+   "want": "42746",
+   "got": "42846",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 4 1 4 + 1 4 0 9 9 的计算结果是 ",
+   "want": "47513",
+   "got": "47503",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 4 8 6 + 2 4 0 3 1 的计算结果是 ",
+   "want": "60517",
+   "got": "60517",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 6 1 8 + 3 5 1 1 5 的计算结果是 ",
+   "want": "108733",
+   "got": "108733",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 9 4 3 + 1 4 1 7 0 的计算结果是 ",
+   "want": "37113",
+   "got": "47013",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 8 4 3 + 9 4 1 1 5 的计算结果是 ",
+   "want": "178958",
+   "got": "179058",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 9 3 4 + 9 6 2 3 5 的计算结果是 ",
+   "want": "157169",
+   "got": "157189",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 2 1 3 + 7 8 9 2 0 的计算结果是 ",
+   "want": "153133",
+   "got": "153123",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 7 8 5 + 8 7 3 7 1 的计算结果是 ",
+   "want": "179156",
+   "got": "179156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 5 4 6 + 1 6 4 3 3 的计算结果是 ",
+   "want": "59979",
+   "got": "59979",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 0 1 8 + 3 8 9 3 0 的计算结果是 ",
+   "want": "96948",
+   "got": "96948",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 4 2 3 + 1 9 2 8 9 的计算结果是 ",
+   "want": "108712",
+   "got": "108702",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 7 1 5 + 3 7 3 5 9 的计算结果是 ",
+   "want": "49074",
+   "got": "49974",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 9 5 0 + 7 4 4 0 9 的计算结果是 ",
+   "want": "170359",
+   "got": "170360",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 4 8 0 + 7 1 3 4 9 的计算结果是 ",
+   "want": "91829",
+   "got": "91829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 7 4 4 + 1 7 9 5 6 的计算结果是 ",
+   "want": "111700",
+   "got": "11270",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "5 7 3 0 7 + 8 3 1 4 0 的计算结果是 ",
+   "want": "140447",
+   "got": "140447",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 5 1 9 + 5 8 3 7 4 的计算结果是 ",
+   "want": "122893",
+   "got": "122893",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 6 4 1 + 9 0 8 6 2 的计算结果是 ",
+   "want": "108503",
+   "got": "108503",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 8 4 0 + 7 9 3 3 9 的计算结果是 ",
+   "want": "124179",
+   "got": "124189",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 3 2 8 + 1 9 2 2 5 的计算结果是 ",
+   "want": "34553",
+   "got": "34553",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 8 3 3 + 2 0 2 1 5 的计算结果是 ",
+   "want": "70048",
+   "got": "70048",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 8 2 9 8 + 7 8 0 8 9 的计算结果是 ",
+   "want": "116387",
+   "got": "116387",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 7 2 9 + 2 3 2 6 7 的计算结果是 ",
+   "want": "45996",
+   "got": "46996",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 2 7 9 + 7 9 6 8 5 的计算结果是 ",
+   "want": "119964",
+   "got": "119964",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 5 0 6 + 3 4 8 3 2 的计算结果是 ",
+   "want": "95338",
+   "got": "95338",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 3 1 2 + 7 8 9 6 9 的计算结果是 ",
+   "want": "114281",
+   "got": "114281",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 0 9 8 + 4 2 6 0 5 的计算结果是 ",
+   "want": "138703",
+   "got": "138693",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 7 1 4 + 9 1 9 6 2 的计算结果是 ",
+   "want": "176676",
+   "got": "176676",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 4 4 8 + 8 3 1 9 3 的计算结果是 ",
+   "want": "116641",
+   "got": "116641",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 1 5 6 + 6 4 4 1 9 的计算结果是 ",
+   "want": "147575",
+   "got": "147575",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 3 8 2 9 + 9 3 7 0 5 的计算结果是 ",
+   "want": "117534",
+   "got": "117534",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 5 7 1 + 5 6 9 1 8 的计算结果是 ",
+   "want": "142489",
+   "got": "142499",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 4 0 7 + 7 0 1 2 5 的计算结果是 ",
+   "want": "168532",
+   "got": "168532",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 1 9 4 + 6 5 9 7 7 的计算结果是 ",
+   "want": "163171",
+   "got": "163171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 3 6 4 4 + 3 1 8 6 4 的计算结果是 ",
+   "want": "55508",
+   "got": "55508",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 6 4 4 + 8 2 0 8 5 的计算结果是 ",
+   "want": "115729",
+   "got": "115729",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 6 3 2 + 7 6 1 5 1 的计算结果是 ",
+   "want": "138783",
+   "got": "138783",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 2 3 8 + 9 6 1 8 4 的计算结果是 ",
+   "want": "150422",
+   "got": "150432",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 7 3 2 + 7 9 9 7 9 的计算结果是 ",
+   "want": "110711",
+   "got": "110701",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 6 3 2 + 6 8 0 6 6 的计算结果是 ",
+   "want": "156698",
+   "got": "156708",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 1 7 9 + 5 1 3 0 7 的计算结果是 ",
+   "want": "107486",
+   "got": "107486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 1 0 0 + 5 2 5 5 3 的计算结果是 ",
+   "want": "134653",
+   "got": "134653",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 7 2 2 + 6 4 0 4 6 的计算结果是 ",
+   "want": "122768",
+   "got": "122768",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 0 0 0 + 6 6 4 3 8 的计算结果是 ",
+   "want": "159438",
+   "got": "159438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 3 9 5 + 8 9 7 4 5 的计算结果是 ",
+   "want": "142140",
+   "got": "142140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 5 5 1 + 8 3 8 1 2 的计算结果是 ",
+   "want": "125363",
+   "got": "125363",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 5 1 6 + 3 8 0 3 9 的计算结果是 ",
+   "want": "119555",
+   "got": "119555",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 1 6 0 + 8 2 1 2 0 的计算结果是 ",
+   "want": "141280",
+   "got": "141280",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 3 0 3 + 5 7 1 8 7 的计算结果是 ",
+   "want": "100490",
+   "got": "10048",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 9 2 9 7 + 6 8 6 5 4 的计算结果是 ",
+   "want": "137951",
+   "got": "137951",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 0 4 7 + 1 0 0 2 5 的计算结果是 ",
+   "want": "72072",
+   "got": "72162",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 5 4 3 + 4 7 2 8 7 的计算结果是 ",
+   "want": "61830",
+   "got": "61830",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 0 8 7 + 1 2 1 3 6 的计算结果是 ",
+   "want": "100223",
+   "got": "100214",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 8 4 4 + 2 7 7 0 5 的计算结果是 ",
+   "want": "105549",
+   "got": "105550",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 5 6 2 + 1 0 8 6 0 的计算结果是 ",
+   "want": "60422",
+   "got": "60423",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 3 6 5 + 3 9 0 8 3 的计算结果是 ",
+   "want": "88448",
+   "got": "88448",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 8 1 5 7 + 5 1 2 7 5 的计算结果是 ",
+   "want": "89432",
+   "got": "90432",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 8 4 4 + 4 6 1 7 0 的计算结果是 ",
+   "want": "59014",
+   "got": "59013",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 5 6 9 + 7 7 0 1 3 的计算结果是 ",
+   "want": "159582",
+   "got": "159582",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 9 1 8 + 8 4 7 9 8 的计算结果是 ",
+   "want": "167716",
+   "got": "167517",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 9 2 2 + 3 0 2 7 8 的计算结果是 ",
+   "want": "115200",
+   "got": "115190",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 3 5 8 + 1 4 9 4 6 的计算结果是 ",
+   "want": "37304",
+   "got": "47324",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 0 3 4 1 + 5 6 6 1 6 的计算结果是 ",
+   "want": "126957",
+   "got": "126957",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 4 6 1 + 2 8 1 4 1 的计算结果是 ",
+   "want": "58602",
+   "got": "58602",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 7 3 2 + 5 8 1 1 4 的计算结果是 ",
+   "want": "102846",
+   "got": "102856",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 6 3 0 4 + 4 2 7 4 9 的计算结果是 ",
+   "want": "129053",
+   "got": "129103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 5 3 9 + 4 3 5 8 6 的计算结果是 ",
+   "want": "84125",
+   "got": "84124",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 3 6 1 + 2 2 0 4 6 的计算结果是 ",
+   "want": "71407",
+   "got": "71317",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 7 7 4 + 6 2 4 0 2 的计算结果是 ",
+   "want": "147176",
+   "got": "147176",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 5 8 8 + 3 8 4 9 9 的计算结果是 ",
+   "want": "123087",
+   "got": "123087",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 1 1 8 + 5 2 5 5 8 的计算结果是 ",
+   "want": "72676",
+   "got": "72576",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 2 4 6 + 3 2 6 6 2 的计算结果是 ",
+   "want": "105908",
+   "got": "105908",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 9 9 9 + 8 5 5 2 7 的计算结果是 ",
+   "want": "159526",
+   "got": "159527",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 4 9 9 + 8 8 0 1 8 的计算结果是 ",
+   "want": "110517",
+   "got": "116517",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 1 8 1 + 4 9 3 7 3 的计算结果是 ",
+   "want": "143554",
+   "got": "143554",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 8 9 8 + 8 5 5 3 4 的计算结果是 ",
+   "want": "100432",
+   "got": "90432",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 0 0 1 0 + 2 0 2 8 6 的计算结果是 ",
+   "want": "80296",
+   "got": "81096",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 3 2 9 + 5 3 8 2 9 的计算结果是 ",
+   "want": "71158",
+   "got": "71158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 6 0 3 + 6 6 9 2 5 的计算结果是 ",
+   "want": "122528",
+   "got": "123829",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 5 9 4 + 2 5 7 9 9 的计算结果是 ",
+   "want": "90393",
+   "got": "90393",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 7 1 6 + 9 5 5 6 1 的计算结果是 ",
+   "want": "135277",
+   "got": "135287",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 9 4 4 + 1 1 4 9 8 的计算结果是 ",
+   "want": "100442",
+   "got": "100442",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 0 8 4 + 9 2 8 6 2 的计算结果是 ",
+   "want": "185946",
+   "got": "185946",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

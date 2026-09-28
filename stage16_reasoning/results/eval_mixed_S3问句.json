@@ -1,0 +1,6431 @@
+{
+ "label": "mixed_S3问句",
+ "by_rung": {
+  "2": [
+   192,
+   197,
+   0,
+   200
+  ],
+  "3": [
+   190,
+   198,
+   0,
+   200
+  ],
+  "4": [
+   179,
+   200,
+   0,
+   200
+  ],
+  "5": [
+   165,
+   200,
+   0,
+   200
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "计算 5 1 加 1 2 等于多少？",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 5 加 2 9 等于多少？",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 7 加 8 0 等于多少？",
+   "want": "177",
+   "got": "177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 1 加 5 4 等于多少？",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 1 加 8 9 等于多少？",
+   "want": "130",
+   "got": "130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 3 加 6 3 等于多少？",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 5 加 5 7 等于多少？",
+   "want": "132",
+   "got": "132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 9 加 7 4 等于多少？",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 1 加 3 1 等于多少？",
+   "want": "52",
+   "got": "52",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 0 加 5 9 等于多少？",
+   "want": "129",
+   "got": "129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 2 加 7 1 等于多少？",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 7 加 9 8 等于多少？",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 7 加 1 0 等于多少？",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 5 加 4 4 等于多少？",
+   "want": "99",
+   "got": "109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算 6 5 加 1 5 等于多少？",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 3 加 5 1 等于多少？",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 8 加 8 4 等于多少？",
+   "want": "182",
+   "got": "182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 8 加 6 5 等于多少？",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 9 加 3 7 等于多少？",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 8 加 5 8 等于多少？",
+   "want": "146",
+   "got": "146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 1 加 5 7 等于多少？",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 2 加 5 9 等于多少？",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 7 加 2 3 等于多少？",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 9 加 8 9 等于多少？",
+   "want": "188",
+   "got": "188",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 0 加 6 0 等于多少？",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 7 加 6 1 等于多少？",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 5 加 1 6 等于多少？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 0 加 6 0 等于多少？",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 3 加 2 9 等于多少？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 6 加 6 7 等于多少？",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 5 加 2 4 等于多少？",
+   "want": "99",
+   "got": "109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算 2 1 加 6 2 等于多少？",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 4 加 7 2 等于多少？",
+   "want": "146",
+   "got": "146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 5 加 1 1 等于多少？",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 4 加 8 8 等于多少？",
+   "want": "182",
+   "got": "182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 8 加 2 9 等于多少？",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 4 加 5 4 等于多少？",
+   "want": "148",
+   "got": "148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 5 加 7 0 等于多少？",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 9 加 8 0 等于多少？",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 3 加 8 0 等于多少？",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 5 加 9 9 等于多少？",
+   "want": "144",
+   "got": "144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 3 加 7 5 等于多少？",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 7 加 9 2 等于多少？",
+   "want": "179",
+   "got": "179",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 4 加 2 2 等于多少？",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 3 加 4 7 等于多少？",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 5 加 3 3 等于多少？",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 2 加 5 8 等于多少？",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 1 加 7 9 等于多少？",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 4 加 3 3 等于多少？",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 3 加 6 3 等于多少？",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 6 加 8 9 等于多少？",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 0 加 6 7 等于多少？",
+   "want": "137",
+   "got": "137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 5 加 1 7 等于多少？",
+   "want": "52",
+   "got": "52",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 8 加 9 1 等于多少？",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 4 加 3 7 等于多少？",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 8 加 9 9 等于多少？",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 6 加 4 7 等于多少？",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 6 加 1 6 等于多少？",
+   "want": "42",
+   "got": "42",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 2 加 1 5 等于多少？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 7 加 3 3 等于多少？",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 1 加 7 5 等于多少？",
+   "want": "156",
+   "got": "156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 0 加 5 1 等于多少？",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 4 加 5 7 等于多少？",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 2 加 2 2 等于多少？",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 8 加 3 3 等于多少？",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 7 加 9 5 等于多少？",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 8 加 7 1 等于多少？",
+   "want": "89",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 0 加 1 1 等于多少？",
+   "want": "21",
+   "got": "21",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 2 加 7 5 等于多少？",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 8 加 3 2 等于多少？",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 7 加 9 9 等于多少？",
+   "want": "166",
+   "got": "166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 1 加 3 6 等于多少？",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 7 加 3 0 等于多少？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 5 加 4 6 等于多少？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 0 加 3 7 等于多少？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 9 加 5 1 等于多少？",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 2 加 2 1 等于多少？",
+   "want": "33",
+   "got": "33",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 8 加 3 0 等于多少？",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 4 加 3 7 等于多少？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 3 加 6 7 等于多少？",
+   "want": "90",
+   "got": "80",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 7 加 5 9 等于多少？",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 5 加 2 1 等于多少？",
+   "want": "76",
+   "got": "76",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 2 加 3 7 等于多少？",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 9 加 5 0 等于多少？",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 0 加 1 7 等于多少？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 9 加 4 3 等于多少？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 0 加 3 9 等于多少？",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 2 加 2 4 等于多少？",
+   "want": "36",
+   "got": "36",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 4 加 6 2 等于多少？",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 2 加 1 9 等于多少？",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 3 加 2 1 等于多少？",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 6 加 3 1 等于多少？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 0 加 7 0 等于多少？",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 6 加 5 1 等于多少？",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 0 加 6 0 等于多少？",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 1 加 6 2 等于多少？",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 0 加 9 7 等于多少？",
+   "want": "177",
+   "got": "177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 0 加 4 6 等于多少？",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 6 加 5 2 等于多少？",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 0 加 5 3 等于多少？",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 1 加 3 0 等于多少？",
+   "want": "41",
+   "got": "41",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 5 加 1 2 等于多少？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 8 加 9 7 等于多少？",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 2 加 4 7 等于多少？",
+   "want": "69",
+   "got": "69",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 7 加 8 8 等于多少？",
+   "want": "175",
+   "got": "175",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 6 加 3 6 等于多少？",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 2 加 4 8 等于多少？",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 0 加 4 4 等于多少？",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 3 加 6 0 等于多少？",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 8 加 8 1 等于多少？",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 2 加 1 2 等于多少？",
+   "want": "54",
+   "got": "54",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 6 加 8 6 等于多少？",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 9 加 9 9 等于多少？",
+   "want": "178",
+   "got": "178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 1 加 8 0 等于多少？",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 9 加 1 6 等于多少？",
+   "want": "45",
+   "got": "45",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 0 加 4 1 等于多少？",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 3 加 2 2 等于多少？",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 3 加 2 6 等于多少？",
+   "want": "39",
+   "got": "39",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 7 加 5 7 等于多少？",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 9 加 7 3 等于多少？",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 9 加 3 9 等于多少？",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 4 加 7 4 等于多少？",
+   "want": "168",
+   "got": "168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 8 加 3 8 等于多少？",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 9 加 7 5 等于多少？",
+   "want": "144",
+   "got": "144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 3 加 6 0 等于多少？",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 5 加 2 6 等于多少？",
+   "want": "41",
+   "got": "41",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 6 加 5 0 等于多少？",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 7 加 8 3 等于多少？",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 0 加 4 0 等于多少？",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 4 加 3 9 等于多少？",
+   "want": "73",
+   "got": "73",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 5 加 5 2 等于多少？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 3 加 6 4 等于多少？",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 0 加 8 7 等于多少？",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 4 加 1 1 等于多少？",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 1 加 1 7 等于多少？",
+   "want": "38",
+   "got": "38",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 2 加 7 4 等于多少？",
+   "want": "156",
+   "got": "156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 4 加 4 3 等于多少？",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 1 加 8 2 等于多少？",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 4 加 8 4 等于多少？",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 6 加 9 5 等于多少？",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 6 加 9 4 等于多少？",
+   "want": "190",
+   "got": "190",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 1 加 7 4 等于多少？",
+   "want": "165",
+   "got": "165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 6 加 7 0 等于多少？",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 2 加 9 4 等于多少？",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 6 加 8 6 等于多少？",
+   "want": "182",
+   "got": "182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 7 加 6 2 等于多少？",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 5 加 6 2 等于多少？",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 5 加 2 4 等于多少？",
+   "want": "119",
+   "got": "129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 7 加 4 9 等于多少？",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 2 加 4 8 等于多少？",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 1 加 8 2 等于多少？",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 0 加 6 1 等于多少？",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 8 加 4 1 等于多少？",
+   "want": "99",
+   "got": "109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算 7 9 加 8 3 等于多少？",
+   "want": "162",
+   "got": "162",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 2 加 7 6 等于多少？",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 9 加 5 2 等于多少？",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 5 加 3 3 等于多少？",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 2 加 4 7 等于多少？",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 1 加 3 2 等于多少？",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 5 加 5 0 等于多少？",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 8 9 加 7 9 等于多少？",
+   "want": "168",
+   "got": "168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 5 加 5 9 等于多少？",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 5 加 8 2 等于多少？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 2 加 4 4 等于多少？",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 5 加 7 4 等于多少？",
+   "want": "139",
+   "got": "149",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 9 加 6 2 等于多少？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 3 加 6 1 等于多少？",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 8 加 7 3 等于多少？",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 4 加 8 7 等于多少？",
+   "want": "161",
+   "got": "161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 2 加 9 0 等于多少？",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 7 加 3 9 等于多少？",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 6 加 6 5 等于多少？",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 0 加 2 6 等于多少？",
+   "want": "56",
+   "got": "56",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 4 加 8 5 等于多少？",
+   "want": "129",
+   "got": "129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 0 加 1 3 等于多少？",
+   "want": "23",
+   "got": "23",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 8 加 1 0 等于多少？",
+   "want": "58",
+   "got": "58",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 3 加 3 9 等于多少？",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 6 加 5 8 等于多少？",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 5 加 4 9 等于多少？",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 0 加 2 6 等于多少？",
+   "want": "56",
+   "got": "56",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 6 加 1 2 等于多少？",
+   "want": "28",
+   "got": "28",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 1 加 4 9 等于多少？",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 5 加 4 4 等于多少？",
+   "want": "69",
+   "got": "79",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 3 加 7 5 等于多少？",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 8 加 6 5 等于多少？",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 5 3 加 2 7 等于多少？",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 0 加 8 1 等于多少？",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 0 加 7 8 等于多少？",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 8 加 6 8 等于多少？",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 2 加 2 4 等于多少？",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 3 9 加 3 8 等于多少？",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 7 加 9 1 等于多少？",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 4 4 加 4 6 等于多少？",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 6 2 加 4 6 等于多少？",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 7 2 加 6 5 等于多少？",
+   "want": "137",
+   "got": "137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 5 加 5 4 等于多少？",
+   "want": "69",
+   "got": "69",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 4 加 1 8 等于多少？",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 2 6 加 5 7 等于多少？",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 9 9 加 5 8 等于多少？",
+   "want": "157",
+   "got": "157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算 1 3 加 3 3 等于多少？",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 2 1 加 8 8 1 等于多少？",
+   "want": "1602",
+   "got": "1602",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 0 8 加 1 2 4 等于多少？",
+   "want": "1032",
+   "got": "1032",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 1 9 加 3 6 2 等于多少？",
+   "want": "881",
+   "got": "881",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 0 7 加 7 7 9 等于多少？",
+   "want": "1586",
+   "got": "1586",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 0 2 加 3 4 4 等于多少？",
+   "want": "1146",
+   "got": "1146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 1 4 加 4 5 2 等于多少？",
+   "want": "1066",
+   "got": "1066",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 8 7 加 6 4 7 等于多少？",
+   "want": "1634",
+   "got": "1634",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 7 3 加 7 4 0 等于多少？",
+   "want": "1513",
+   "got": "1513",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 4 0 加 1 3 9 等于多少？",
+   "want": "379",
+   "got": "379",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 5 9 加 4 6 4 等于多少？",
+   "want": "623",
+   "got": "623",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 6 5 加 5 3 0 等于多少？",
+   "want": "1395",
+   "got": "1395",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 1 8 加 5 3 9 等于多少？",
+   "want": "1357",
+   "got": "1357",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 8 2 加 4 7 3 等于多少？",
+   "want": "655",
+   "got": "655",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 1 4 加 9 1 7 等于多少？",
+   "want": "1031",
+   "got": "1031",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 2 4 加 4 4 5 等于多少？",
+   "want": "1269",
+   "got": "1279",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 9 3 加 3 1 1 等于多少？",
+   "want": "1204",
+   "got": "1204",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 5 1 加 3 9 0 等于多少？",
+   "want": "1141",
+   "got": "1141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 4 1 加 5 9 0 等于多少？",
+   "want": "731",
+   "got": "731",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 2 2 加 2 3 0 等于多少？",
+   "want": "1052",
+   "got": "1052",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 5 5 加 1 0 6 等于多少？",
+   "want": "961",
+   "got": "961",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 4 5 加 5 8 7 等于多少？",
+   "want": "1432",
+   "got": "1432",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 2 9 加 1 3 8 等于多少？",
+   "want": "967",
+   "got": "967",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 5 1 加 6 0 1 等于多少？",
+   "want": "752",
+   "got": "752",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 9 4 加 5 4 1 等于多少？",
+   "want": "835",
+   "got": "835",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 8 2 加 5 6 2 等于多少？",
+   "want": "1044",
+   "got": "1044",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 9 2 加 6 9 6 等于多少？",
+   "want": "988",
+   "got": "988",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 8 6 加 8 4 8 等于多少？",
+   "want": "1834",
+   "got": "1834",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 0 8 加 5 6 1 等于多少？",
+   "want": "969",
+   "got": "969",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 8 4 加 7 9 0 等于多少？",
+   "want": "1174",
+   "got": "1174",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 0 1 加 8 2 8 等于多少？",
+   "want": "1029",
+   "got": "1029",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 9 1 加 9 5 5 等于多少？",
+   "want": "1546",
+   "got": "1546",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 5 9 加 2 8 5 等于多少？",
+   "want": "1044",
+   "got": "1044",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 9 6 加 3 0 6 等于多少？",
+   "want": "1002",
+   "got": "1002",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 8 0 加 5 2 2 等于多少？",
+   "want": "902",
+   "got": "902",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 1 8 加 8 8 9 等于多少？",
+   "want": "1607",
+   "got": "1507",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 2 5 加 4 6 5 等于多少？",
+   "want": "990",
+   "got": "990",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 0 6 加 3 8 8 等于多少？",
+   "want": "594",
+   "got": "594",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 4 5 加 3 4 8 等于多少？",
+   "want": "493",
+   "got": "493",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 3 1 加 5 6 2 等于多少？",
+   "want": "1193",
+   "got": "1193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 2 6 加 6 7 9 等于多少？",
+   "want": "905",
+   "got": "805",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 1 8 加 6 9 0 等于多少？",
+   "want": "1208",
+   "got": "1208",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 0 7 加 8 0 0 等于多少？",
+   "want": "1107",
+   "got": "1107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 8 7 加 2 4 5 等于多少？",
+   "want": "632",
+   "got": "632",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 3 1 加 4 0 4 等于多少？",
+   "want": "735",
+   "got": "735",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 8 6 加 8 1 7 等于多少？",
+   "want": "1703",
+   "got": "1703",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 7 4 加 3 9 3 等于多少？",
+   "want": "667",
+   "got": "667",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 1 3 加 7 9 3 等于多少？",
+   "want": "1006",
+   "got": "1006",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 0 4 加 7 8 5 等于多少？",
+   "want": "1289",
+   "got": "1289",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 7 1 加 5 3 3 等于多少？",
+   "want": "1104",
+   "got": "1104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 8 8 加 5 3 6 等于多少？",
+   "want": "1324",
+   "got": "1324",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 2 5 加 9 2 3 等于多少？",
+   "want": "1348",
+   "got": "1348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 1 9 加 9 4 5 等于多少？",
+   "want": "1764",
+   "got": "1764",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 5 9 加 6 3 7 等于多少？",
+   "want": "1396",
+   "got": "1396",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 1 3 加 9 7 5 等于多少？",
+   "want": "1088",
+   "got": "1088",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 6 5 加 7 5 4 等于多少？",
+   "want": "1119",
+   "got": "1119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 7 2 加 4 0 6 等于多少？",
+   "want": "1278",
+   "got": "1278",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 6 1 加 9 7 2 等于多少？",
+   "want": "1733",
+   "got": "1733",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 7 6 加 6 5 4 等于多少？",
+   "want": "1330",
+   "got": "1330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 1 9 加 1 0 2 等于多少？",
+   "want": "821",
+   "got": "821",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 6 0 加 3 7 8 等于多少？",
+   "want": "1338",
+   "got": "1338",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 4 0 加 4 3 8 等于多少？",
+   "want": "1278",
+   "got": "1278",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 4 3 加 1 8 6 等于多少？",
+   "want": "829",
+   "got": "829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 7 7 加 2 8 7 等于多少？",
+   "want": "1064",
+   "got": "1064",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 5 2 加 5 7 0 等于多少？",
+   "want": "822",
+   "got": "822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 2 8 加 3 4 0 等于多少？",
+   "want": "568",
+   "got": "568",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 9 6 加 1 8 1 等于多少？",
+   "want": "577",
+   "got": "577",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 8 0 加 3 3 1 等于多少？",
+   "want": "1011",
+   "got": "1011",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 9 4 加 5 6 4 等于多少？",
+   "want": "1258",
+   "got": "1258",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 9 0 加 9 5 9 等于多少？",
+   "want": "1949",
+   "got": "1949",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 8 0 加 7 5 3 等于多少？",
+   "want": "1033",
+   "got": "1033",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 7 7 加 2 7 3 等于多少？",
+   "want": "650",
+   "got": "650",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 5 9 加 9 6 5 等于多少？",
+   "want": "1924",
+   "got": "1924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 6 5 加 5 6 0 等于多少？",
+   "want": "1525",
+   "got": "1525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 9 3 加 7 2 3 等于多少？",
+   "want": "1516",
+   "got": "1516",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 9 7 加 5 0 7 等于多少？",
+   "want": "1304",
+   "got": "1304",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 3 6 加 5 4 5 等于多少？",
+   "want": "1281",
+   "got": "1281",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 9 4 加 1 0 6 等于多少？",
+   "want": "600",
+   "got": "500",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 8 3 加 5 9 4 等于多少？",
+   "want": "1277",
+   "got": "1277",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 4 6 加 1 4 8 等于多少？",
+   "want": "1094",
+   "got": "1094",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 6 4 加 5 5 6 等于多少？",
+   "want": "1420",
+   "got": "1420",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 6 6 加 1 2 8 等于多少？",
+   "want": "294",
+   "got": "294",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 0 1 加 9 2 6 等于多少？",
+   "want": "1827",
+   "got": "1827",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 0 8 加 4 3 8 等于多少？",
+   "want": "746",
+   "got": "746",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 0 5 加 2 9 0 等于多少？",
+   "want": "995",
+   "got": "995",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 2 2 加 7 2 8 等于多少？",
+   "want": "1050",
+   "got": "1050",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 7 9 加 3 9 1 等于多少？",
+   "want": "1170",
+   "got": "1170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 1 1 加 9 0 4 等于多少？",
+   "want": "1615",
+   "got": "1615",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 6 7 加 1 6 1 等于多少？",
+   "want": "1128",
+   "got": "1128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 1 7 加 5 1 6 等于多少？",
+   "want": "1433",
+   "got": "1433",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 7 1 加 2 3 8 等于多少？",
+   "want": "1209",
+   "got": "1209",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 5 6 加 5 4 5 等于多少？",
+   "want": "1401",
+   "got": "1401",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 3 6 加 8 1 3 等于多少？",
+   "want": "1449",
+   "got": "1459",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 9 1 加 3 6 2 等于多少？",
+   "want": "1053",
+   "got": "1053",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 2 2 加 6 8 2 等于多少？",
+   "want": "1504",
+   "got": "1404",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 6 2 加 6 9 0 等于多少？",
+   "want": "1452",
+   "got": "1452",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 6 1 加 2 7 1 等于多少？",
+   "want": "832",
+   "got": "832",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 0 8 加 4 6 1 等于多少？",
+   "want": "869",
+   "got": "869",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 4 6 加 5 6 1 等于多少？",
+   "want": "707",
+   "got": "707",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 2 3 加 7 7 4 等于多少？",
+   "want": "1297",
+   "got": "1297",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 9 3 加 2 9 1 等于多少？",
+   "want": "884",
+   "got": "884",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 5 7 加 2 4 2 等于多少？",
+   "want": "999",
+   "got": "1099",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算 5 3 2 加 5 0 4 等于多少？",
+   "want": "1036",
+   "got": "1036",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 4 8 加 8 6 3 等于多少？",
+   "want": "1811",
+   "got": "1811",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 4 0 加 8 4 4 等于多少？",
+   "want": "1284",
+   "got": "1284",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 3 6 加 6 8 1 等于多少？",
+   "want": "1117",
+   "got": "1117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 7 1 加 4 4 1 等于多少？",
+   "want": "712",
+   "got": "712",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 1 0 加 1 7 7 等于多少？",
+   "want": "887",
+   "got": "887",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 2 7 加 4 3 0 等于多少？",
+   "want": "957",
+   "got": "957",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 0 7 加 3 8 0 等于多少？",
+   "want": "787",
+   "got": "787",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 1 4 加 3 1 8 等于多少？",
+   "want": "432",
+   "got": "432",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 9 4 加 6 0 5 等于多少？",
+   "want": "999",
+   "got": "999",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 6 3 加 7 5 7 等于多少？",
+   "want": "1320",
+   "got": "1320",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 3 8 加 7 0 3 等于多少？",
+   "want": "1441",
+   "got": "1441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 3 7 加 8 5 3 等于多少？",
+   "want": "1190",
+   "got": "1190",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 1 9 加 2 6 3 等于多少？",
+   "want": "882",
+   "got": "882",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 7 7 加 5 8 0 等于多少？",
+   "want": "857",
+   "got": "857",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 8 4 加 2 2 1 等于多少？",
+   "want": "505",
+   "got": "505",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 1 9 加 1 6 9 等于多少？",
+   "want": "388",
+   "got": "388",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 7 3 加 7 8 3 等于多少？",
+   "want": "1356",
+   "got": "1356",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 7 1 加 2 5 6 等于多少？",
+   "want": "427",
+   "got": "427",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 1 2 加 6 0 8 等于多少？",
+   "want": "1020",
+   "got": "1020",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 1 4 加 9 5 6 等于多少？",
+   "want": "1170",
+   "got": "1170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 1 7 加 9 0 6 等于多少？",
+   "want": "1823",
+   "got": "1823",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 8 0 加 9 4 1 等于多少？",
+   "want": "1621",
+   "got": "1621",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 6 0 加 3 7 3 等于多少？",
+   "want": "1333",
+   "got": "1333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 4 1 加 5 7 4 等于多少？",
+   "want": "1215",
+   "got": "1215",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 1 4 加 6 2 4 等于多少？",
+   "want": "738",
+   "got": "738",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 1 2 加 7 4 2 等于多少？",
+   "want": "1554",
+   "got": "1554",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 3 1 加 1 1 7 等于多少？",
+   "want": "1048",
+   "got": "1048",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 6 9 加 5 6 8 等于多少？",
+   "want": "737",
+   "got": "737",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 7 0 加 2 1 8 等于多少？",
+   "want": "1188",
+   "got": "1188",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 6 5 加 3 6 6 等于多少？",
+   "want": "731",
+   "got": "731",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 9 8 加 6 8 8 等于多少？",
+   "want": "1286",
+   "got": "1286",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 8 6 加 7 8 0 等于多少？",
+   "want": "1366",
+   "got": "1366",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 5 1 加 1 6 7 等于多少？",
+   "want": "418",
+   "got": "418",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 5 9 加 7 0 9 等于多少？",
+   "want": "1668",
+   "got": "1668",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 5 0 加 4 3 1 等于多少？",
+   "want": "881",
+   "got": "881",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 5 9 加 9 9 7 等于多少？",
+   "want": "1956",
+   "got": "1956",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 7 3 加 3 3 7 等于多少？",
+   "want": "1210",
+   "got": "1210",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 1 3 加 7 6 9 等于多少？",
+   "want": "1382",
+   "got": "1382",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 3 6 加 1 0 1 等于多少？",
+   "want": "837",
+   "got": "837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 0 4 加 3 2 1 等于多少？",
+   "want": "1025",
+   "got": "1025",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 9 4 加 7 7 9 等于多少？",
+   "want": "1673",
+   "got": "1673",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 3 0 加 1 0 9 等于多少？",
+   "want": "239",
+   "got": "239",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 0 2 加 2 4 3 等于多少？",
+   "want": "945",
+   "got": "945",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 6 1 加 8 1 9 等于多少？",
+   "want": "1180",
+   "got": "1180",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 5 8 加 9 1 7 等于多少？",
+   "want": "1475",
+   "got": "1475",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 5 2 加 7 8 5 等于多少？",
+   "want": "1537",
+   "got": "1537",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 0 0 加 5 8 0 等于多少？",
+   "want": "980",
+   "got": "980",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 7 6 加 5 9 6 等于多少？",
+   "want": "1572",
+   "got": "1572",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 4 1 加 8 9 3 等于多少？",
+   "want": "1134",
+   "got": "1134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 5 5 加 3 2 3 等于多少？",
+   "want": "978",
+   "got": "978",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 2 3 加 8 2 5 等于多少？",
+   "want": "1748",
+   "got": "1748",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 4 8 加 4 8 7 等于多少？",
+   "want": "835",
+   "got": "835",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 5 2 加 3 6 7 等于多少？",
+   "want": "819",
+   "got": "819",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 0 9 加 8 1 0 等于多少？",
+   "want": "1619",
+   "got": "1619",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 1 7 加 2 0 9 等于多少？",
+   "want": "1026",
+   "got": "1026",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 9 2 加 2 7 8 等于多少？",
+   "want": "870",
+   "got": "870",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 4 2 加 5 4 1 等于多少？",
+   "want": "683",
+   "got": "683",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 5 9 加 1 3 1 等于多少？",
+   "want": "1090",
+   "got": "1090",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 8 5 加 8 7 3 等于多少？",
+   "want": "1058",
+   "got": "1058",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 0 9 加 5 4 1 等于多少？",
+   "want": "1350",
+   "got": "1350",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 2 9 加 5 2 0 等于多少？",
+   "want": "749",
+   "got": "749",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 8 9 加 2 2 1 等于多少？",
+   "want": "710",
+   "got": "710",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 1 9 加 2 6 6 等于多少？",
+   "want": "585",
+   "got": "585",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 6 0 加 6 7 4 等于多少？",
+   "want": "1634",
+   "got": "1634",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 7 2 加 9 8 2 等于多少？",
+   "want": "1754",
+   "got": "1754",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 0 6 加 7 0 2 等于多少？",
+   "want": "808",
+   "got": "808",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 5 8 加 3 4 8 等于多少？",
+   "want": "606",
+   "got": "606",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 8 1 加 5 3 0 等于多少？",
+   "want": "711",
+   "got": "711",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 2 8 加 5 8 2 等于多少？",
+   "want": "710",
+   "got": "710",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 5 7 加 9 6 8 等于多少？",
+   "want": "1225",
+   "got": "1225",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 1 3 加 9 9 0 等于多少？",
+   "want": "1203",
+   "got": "1203",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 1 1 加 8 0 1 等于多少？",
+   "want": "1612",
+   "got": "1612",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 5 6 加 2 7 8 等于多少？",
+   "want": "534",
+   "got": "534",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 8 7 加 8 4 6 等于多少？",
+   "want": "1533",
+   "got": "1533",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 8 3 加 1 1 9 等于多少？",
+   "want": "702",
+   "got": "602",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 2 5 加 1 7 8 等于多少？",
+   "want": "1003",
+   "got": "903",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算 5 4 8 加 2 9 2 等于多少？",
+   "want": "840",
+   "got": "840",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 5 7 加 4 7 4 等于多少？",
+   "want": "1231",
+   "got": "1231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 9 8 加 7 9 3 等于多少？",
+   "want": "1391",
+   "got": "1391",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 9 2 加 7 3 4 等于多少？",
+   "want": "1726",
+   "got": "1726",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 2 9 加 5 0 4 等于多少？",
+   "want": "1333",
+   "got": "1333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 1 0 5 加 5 0 5 等于多少？",
+   "want": "610",
+   "got": "610",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 8 1 加 2 9 7 等于多少？",
+   "want": "1178",
+   "got": "1178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 5 9 加 6 3 9 等于多少？",
+   "want": "1498",
+   "got": "1498",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 3 9 加 1 8 6 等于多少？",
+   "want": "425",
+   "got": "425",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 8 8 加 7 9 8 等于多少？",
+   "want": "1386",
+   "got": "1386",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 1 5 加 3 5 8 等于多少？",
+   "want": "973",
+   "got": "973",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 3 1 2 加 4 4 2 等于多少？",
+   "want": "754",
+   "got": "754",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 7 4 6 加 9 4 3 等于多少？",
+   "want": "1689",
+   "got": "1699",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 8 8 1 加 9 4 2 等于多少？",
+   "want": "1823",
+   "got": "1823",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 0 4 加 3 4 5 等于多少？",
+   "want": "1249",
+   "got": "1249",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 4 3 7 加 6 2 2 等于多少？",
+   "want": "1059",
+   "got": "1059",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 7 9 加 6 1 4 等于多少？",
+   "want": "893",
+   "got": "893",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 6 8 7 加 7 6 1 等于多少？",
+   "want": "1448",
+   "got": "1448",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 5 7 2 加 6 9 6 等于多少？",
+   "want": "1268",
+   "got": "1268",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 8 1 加 2 2 0 等于多少？",
+   "want": "1201",
+   "got": "1201",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 9 8 0 加 6 6 3 等于多少？",
+   "want": "1643",
+   "got": "1643",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算 2 4 7 加 6 8 8 等于多少？",
+   "want": "935",
+   "got": "935",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 1 8 7 加 2 6 4 9 等于多少？",
+   "want": "11836",
+   "got": "11836",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 9 1 2 加 4 1 5 2 等于多少？",
+   "want": "8064",
+   "got": "8064",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 7 9 9 加 8 0 5 3 等于多少？",
+   "want": "10852",
+   "got": "10852",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 9 2 8 加 6 1 9 9 等于多少？",
+   "want": "9127",
+   "got": "9127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 9 1 3 加 2 7 5 0 等于多少？",
+   "want": "4663",
+   "got": "4663",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 6 9 5 加 6 7 0 8 等于多少？",
+   "want": "12403",
+   "got": "12303",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 9 8 3 加 6 5 4 0 等于多少？",
+   "want": "13523",
+   "got": "13523",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 5 6 8 加 5 8 8 6 等于多少？",
+   "want": "13454",
+   "got": "13454",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 7 3 7 加 1 6 2 9 等于多少？",
+   "want": "5366",
+   "got": "5366",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 8 1 6 加 9 9 0 8 等于多少？",
+   "want": "19724",
+   "got": "19724",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 8 0 6 加 6 8 9 2 等于多少？",
+   "want": "14698",
+   "got": "14698",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 2 8 5 加 2 2 8 6 等于多少？",
+   "want": "7571",
+   "got": "7571",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 1 3 8 加 5 7 3 8 等于多少？",
+   "want": "11876",
+   "got": "11876",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 7 4 3 加 2 3 6 0 等于多少？",
+   "want": "7103",
+   "got": "7103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 2 9 8 加 6 0 4 7 等于多少？",
+   "want": "9345",
+   "got": "9345",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 2 1 3 加 4 6 8 0 等于多少？",
+   "want": "7893",
+   "got": "7893",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 3 1 7 加 3 1 1 6 等于多少？",
+   "want": "9433",
+   "got": "9433",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 8 0 3 加 1 2 5 1 等于多少？",
+   "want": "9054",
+   "got": "9054",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 0 9 5 加 2 5 3 8 等于多少？",
+   "want": "3633",
+   "got": "3633",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 1 6 7 加 6 5 4 1 等于多少？",
+   "want": "7708",
+   "got": "7708",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 9 5 9 加 6 3 5 8 等于多少？",
+   "want": "12317",
+   "got": "12317",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 6 6 9 加 6 5 5 4 等于多少？",
+   "want": "11223",
+   "got": "11223",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 5 6 5 加 6 1 8 2 等于多少？",
+   "want": "7747",
+   "got": "7747",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 1 9 8 加 3 0 8 5 等于多少？",
+   "want": "12283",
+   "got": "12283",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 4 2 5 加 6 6 8 5 等于多少？",
+   "want": "8110",
+   "got": "8110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 7 0 8 加 9 7 6 5 等于多少？",
+   "want": "14473",
+   "got": "14473",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 2 3 6 加 3 0 7 1 等于多少？",
+   "want": "4307",
+   "got": "4307",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 8 7 1 加 4 9 7 0 等于多少？",
+   "want": "6841",
+   "got": "6841",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 1 8 7 加 3 3 8 9 等于多少？",
+   "want": "11576",
+   "got": "11576",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 2 9 9 加 2 5 3 2 等于多少？",
+   "want": "10831",
+   "got": "10831",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 3 7 7 加 7 4 3 9 等于多少？",
+   "want": "16816",
+   "got": "16816",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 7 4 8 加 8 7 7 4 等于多少？",
+   "want": "12522",
+   "got": "12522",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 2 5 3 加 4 4 4 2 等于多少？",
+   "want": "13695",
+   "got": "13795",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 9 6 3 加 3 5 9 0 等于多少？",
+   "want": "9553",
+   "got": "9553",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 5 2 6 加 9 6 1 3 等于多少？",
+   "want": "11139",
+   "got": "11139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 6 1 6 加 4 1 8 7 等于多少？",
+   "want": "12803",
+   "got": "12803",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 5 7 9 加 5 0 2 1 等于多少？",
+   "want": "6600",
+   "got": "6600",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 6 0 0 加 5 2 0 0 等于多少？",
+   "want": "14800",
+   "got": "14800",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 4 9 2 加 7 1 8 4 等于多少？",
+   "want": "9676",
+   "got": "9676",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 5 8 5 加 1 6 6 5 等于多少？",
+   "want": "3250",
+   "got": "3250",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 5 7 9 加 7 8 0 1 等于多少？",
+   "want": "14380",
+   "got": "14380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 5 0 7 加 3 2 5 4 等于多少？",
+   "want": "6761",
+   "got": "6761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 8 0 2 加 6 8 9 8 等于多少？",
+   "want": "16700",
+   "got": "16600",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 5 7 2 加 6 5 2 2 等于多少？",
+   "want": "16094",
+   "got": "16194",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 7 6 5 加 9 5 3 2 等于多少？",
+   "want": "19297",
+   "got": "19297",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 3 1 1 加 8 5 7 2 等于多少？",
+   "want": "17883",
+   "got": "17883",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 1 4 0 加 3 2 0 1 等于多少？",
+   "want": "8341",
+   "got": "8341",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 1 2 2 加 1 6 2 1 等于多少？",
+   "want": "4743",
+   "got": "4743",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 1 1 1 加 4 4 4 2 等于多少？",
+   "want": "13553",
+   "got": "13553",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 4 2 2 加 9 8 0 2 等于多少？",
+   "want": "15224",
+   "got": "15224",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 6 4 2 加 4 9 9 3 等于多少？",
+   "want": "11635",
+   "got": "11635",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 0 1 3 加 2 1 5 5 等于多少？",
+   "want": "10168",
+   "got": "10168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 7 8 9 加 3 4 5 1 等于多少？",
+   "want": "6240",
+   "got": "6240",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 7 1 3 加 3 6 1 1 等于多少？",
+   "want": "7324",
+   "got": "7324",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 5 9 9 加 8 1 7 5 等于多少？",
+   "want": "11774",
+   "got": "11774",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 5 5 6 加 9 4 3 4 等于多少？",
+   "want": "12990",
+   "got": "13990",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 4 7 7 加 9 8 7 8 等于多少？",
+   "want": "15355",
+   "got": "15355",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 4 9 8 加 5 9 8 8 等于多少？",
+   "want": "11486",
+   "got": "11486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 1 8 1 加 7 2 9 3 等于多少？",
+   "want": "11474",
+   "got": "11474",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 4 5 3 加 6 3 0 3 等于多少？",
+   "want": "15756",
+   "got": "15756",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 6 8 9 加 5 3 2 4 等于多少？",
+   "want": "14013",
+   "got": "14013",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 4 4 8 加 7 1 4 4 等于多少？",
+   "want": "15592",
+   "got": "15692",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 3 0 5 加 5 5 8 6 等于多少？",
+   "want": "9891",
+   "got": "9891",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 3 8 9 加 6 5 4 7 等于多少？",
+   "want": "9936",
+   "got": "9936",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 0 3 5 加 5 8 6 1 等于多少？",
+   "want": "10896",
+   "got": "10896",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 8 9 0 加 4 3 6 9 等于多少？",
+   "want": "13259",
+   "got": "13259",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 8 8 8 加 4 6 9 8 等于多少？",
+   "want": "13586",
+   "got": "13586",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 4 5 3 加 3 6 4 8 等于多少？",
+   "want": "7101",
+   "got": "7001",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 4 2 3 加 3 4 0 4 等于多少？",
+   "want": "11827",
+   "got": "11827",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 8 9 2 加 2 5 8 6 等于多少？",
+   "want": "10478",
+   "got": "10478",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 2 4 1 加 5 0 2 0 等于多少？",
+   "want": "14261",
+   "got": "14261",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 1 7 0 加 9 6 9 0 等于多少？",
+   "want": "18860",
+   "got": "18860",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 3 8 2 加 8 9 9 1 等于多少？",
+   "want": "16373",
+   "got": "16373",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 5 7 1 加 9 3 3 9 等于多少？",
+   "want": "11910",
+   "got": "11910",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 4 9 5 加 6 3 7 0 等于多少？",
+   "want": "9865",
+   "got": "9865",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 1 0 4 加 7 2 4 5 等于多少？",
+   "want": "9349",
+   "got": "9349",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 3 5 6 加 5 7 9 4 等于多少？",
+   "want": "12150",
+   "got": "12150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 6 3 7 加 6 8 0 8 等于多少？",
+   "want": "13445",
+   "got": "13445",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 0 4 1 加 1 7 4 9 等于多少？",
+   "want": "9790",
+   "got": "9790",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 2 1 3 加 5 1 0 1 等于多少？",
+   "want": "6314",
+   "got": "6314",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 3 1 8 加 4 8 3 5 等于多少？",
+   "want": "11153",
+   "got": "11153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 3 6 2 加 1 2 5 2 等于多少？",
+   "want": "4614",
+   "got": "4614",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 6 5 7 加 9 1 6 3 等于多少？",
+   "want": "10820",
+   "got": "10820",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 6 8 1 加 2 6 6 6 等于多少？",
+   "want": "7347",
+   "got": "7347",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 8 7 6 加 6 0 6 6 等于多少？",
+   "want": "7942",
+   "got": "7942",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 9 4 0 加 1 2 4 5 等于多少？",
+   "want": "9185",
+   "got": "9185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 4 0 6 加 8 0 5 4 等于多少？",
+   "want": "17460",
+   "got": "17460",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 1 2 1 加 2 8 1 7 等于多少？",
+   "want": "7938",
+   "got": "7938",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 7 3 2 加 6 5 7 1 等于多少？",
+   "want": "10303",
+   "got": "10303",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 5 7 5 加 7 1 4 9 等于多少？",
+   "want": "12724",
+   "got": "12724",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 5 4 8 加 4 3 8 5 等于多少？",
+   "want": "12933",
+   "got": "12933",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 0 1 3 加 4 4 4 9 等于多少？",
+   "want": "10462",
+   "got": "10462",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 5 9 6 加 9 2 0 4 等于多少？",
+   "want": "17800",
+   "got": "17700",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 0 1 9 加 8 4 0 6 等于多少？",
+   "want": "17425",
+   "got": "17425",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 2 4 3 加 9 1 4 2 等于多少？",
+   "want": "10385",
+   "got": "10385",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 1 3 5 加 1 3 9 0 等于多少？",
+   "want": "9525",
+   "got": "9525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 4 6 3 加 2 7 3 4 等于多少？",
+   "want": "5197",
+   "got": "5197",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 4 6 8 加 3 9 9 1 等于多少？",
+   "want": "11459",
+   "got": "11459",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 9 6 0 加 3 7 7 1 等于多少？",
+   "want": "9731",
+   "got": "9731",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 4 8 6 加 7 3 1 4 等于多少？",
+   "want": "15800",
+   "got": "15800",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 5 7 9 加 8 4 4 3 等于多少？",
+   "want": "11022",
+   "got": "11022",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 6 5 9 加 3 4 7 2 等于多少？",
+   "want": "8131",
+   "got": "8131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 2 3 7 加 4 4 3 9 等于多少？",
+   "want": "8676",
+   "got": "8676",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 0 9 0 加 6 9 4 7 等于多少？",
+   "want": "11037",
+   "got": "10037",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 6 7 4 加 2 2 4 2 等于多少？",
+   "want": "5916",
+   "got": "5916",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 6 5 5 加 8 5 2 1 等于多少？",
+   "want": "14176",
+   "got": "14176",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 6 8 4 加 2 3 3 3 等于多少？",
+   "want": "8017",
+   "got": "7017",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 3 4 9 加 6 3 9 9 等于多少？",
+   "want": "14748",
+   "got": "14748",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 1 6 4 加 4 2 7 7 等于多少？",
+   "want": "6441",
+   "got": "6441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 4 9 8 加 9 8 2 6 等于多少？",
+   "want": "18324",
+   "got": "18324",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 3 3 4 加 6 2 7 0 等于多少？",
+   "want": "8604",
+   "got": "8604",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 9 8 3 加 2 5 1 1 等于多少？",
+   "want": "10494",
+   "got": "10494",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 5 9 5 加 5 4 7 4 等于多少？",
+   "want": "14069",
+   "got": "14079",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 5 9 1 加 5 8 7 7 等于多少？",
+   "want": "13468",
+   "got": "13468",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 4 3 2 加 1 9 9 8 等于多少？",
+   "want": "7430",
+   "got": "7430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 9 9 3 加 5 1 0 2 等于多少？",
+   "want": "14095",
+   "got": "14195",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 7 9 5 加 9 8 1 9 等于多少？",
+   "want": "18614",
+   "got": "18614",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 3 2 5 加 2 3 2 2 等于多少？",
+   "want": "7647",
+   "got": "7647",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 4 3 6 加 9 5 6 9 等于多少？",
+   "want": "11005",
+   "got": "10005",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 8 3 5 加 8 1 2 8 等于多少？",
+   "want": "16963",
+   "got": "17963",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 7 6 2 加 6 9 0 5 等于多少？",
+   "want": "11667",
+   "got": "11667",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 5 3 3 加 1 8 7 5 等于多少？",
+   "want": "7408",
+   "got": "7408",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 9 4 3 加 8 7 4 8 等于多少？",
+   "want": "18691",
+   "got": "18791",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 5 5 8 加 1 5 1 3 等于多少？",
+   "want": "5071",
+   "got": "5071",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 4 6 5 加 8 7 2 0 等于多少？",
+   "want": "10185",
+   "got": "10185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 8 6 0 加 5 0 4 6 等于多少？",
+   "want": "11906",
+   "got": "11906",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 9 4 1 加 1 5 6 4 等于多少？",
+   "want": "3505",
+   "got": "3505",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 9 7 5 加 6 6 6 0 等于多少？",
+   "want": "10635",
+   "got": "10635",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 0 7 0 加 6 7 0 3 等于多少？",
+   "want": "11773",
+   "got": "11773",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 6 9 6 加 5 6 8 0 等于多少？",
+   "want": "14376",
+   "got": "14376",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 9 3 4 加 1 9 0 6 等于多少？",
+   "want": "4840",
+   "got": "4840",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 9 8 2 加 7 8 0 9 等于多少？",
+   "want": "9791",
+   "got": "9791",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 8 3 8 加 9 9 3 8 等于多少？",
+   "want": "11776",
+   "got": "11776",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 0 5 4 加 9 8 5 0 等于多少？",
+   "want": "10904",
+   "got": "10804",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 4 7 5 加 7 6 9 6 等于多少？",
+   "want": "10171",
+   "got": "10171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 6 4 3 加 5 4 9 2 等于多少？",
+   "want": "12135",
+   "got": "12135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 2 4 2 加 5 1 9 3 等于多少？",
+   "want": "9435",
+   "got": "9435",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 9 4 7 加 9 3 9 9 等于多少？",
+   "want": "14346",
+   "got": "14346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 6 0 6 加 4 5 1 8 等于多少？",
+   "want": "10124",
+   "got": "10124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 4 9 3 加 4 3 2 2 等于多少？",
+   "want": "12815",
+   "got": "12815",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 4 9 9 加 1 1 0 0 等于多少？",
+   "want": "9599",
+   "got": "9699",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 9 1 9 加 8 7 9 1 等于多少？",
+   "want": "13710",
+   "got": "13710",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 1 9 4 加 4 2 1 7 等于多少？",
+   "want": "13411",
+   "got": "13411",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 6 5 4 加 4 2 6 9 等于多少？",
+   "want": "5923",
+   "got": "5923",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 3 1 4 加 9 4 3 8 等于多少？",
+   "want": "13752",
+   "got": "13752",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 2 3 1 加 9 4 3 7 等于多少？",
+   "want": "11668",
+   "got": "11668",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 5 3 5 加 7 2 9 5 等于多少？",
+   "want": "15830",
+   "got": "15830",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 8 6 5 加 1 6 0 5 等于多少？",
+   "want": "9470",
+   "got": "9470",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 2 9 2 加 8 9 9 2 等于多少？",
+   "want": "18284",
+   "got": "18284",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 5 8 9 加 7 7 5 6 等于多少？",
+   "want": "14345",
+   "got": "14345",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 7 7 8 加 3 4 7 7 等于多少？",
+   "want": "5255",
+   "got": "5255",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 8 2 7 加 6 5 6 6 等于多少？",
+   "want": "12393",
+   "got": "12393",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 0 8 3 加 2 3 6 4 等于多少？",
+   "want": "5447",
+   "got": "5447",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 6 5 5 加 4 9 8 6 等于多少？",
+   "want": "14641",
+   "got": "14641",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 2 3 4 加 1 1 7 9 等于多少？",
+   "want": "10413",
+   "got": "10413",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 9 1 0 加 9 4 8 0 等于多少？",
+   "want": "18390",
+   "got": "18390",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 8 6 9 加 2 5 5 7 等于多少？",
+   "want": "4426",
+   "got": "4426",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 8 7 5 加 6 5 8 6 等于多少？",
+   "want": "14461",
+   "got": "14461",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 7 3 1 加 2 8 5 2 等于多少？",
+   "want": "7583",
+   "got": "7583",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 0 6 4 加 6 9 3 3 等于多少？",
+   "want": "11997",
+   "got": "11997",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 0 4 5 加 9 7 4 0 等于多少？",
+   "want": "11785",
+   "got": "11785",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 7 7 8 加 3 2 1 7 等于多少？",
+   "want": "11995",
+   "got": "11995",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 4 0 2 加 3 6 9 7 等于多少？",
+   "want": "5099",
+   "got": "5009",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 0 3 1 加 2 7 8 0 等于多少？",
+   "want": "8811",
+   "got": "8811",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 5 6 5 加 3 6 8 1 等于多少？",
+   "want": "9246",
+   "got": "9246",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 9 0 9 加 5 2 7 2 等于多少？",
+   "want": "7181",
+   "got": "7181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 4 7 3 加 9 7 6 5 等于多少？",
+   "want": "16238",
+   "got": "16238",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 0 0 5 加 5 3 5 4 等于多少？",
+   "want": "14359",
+   "got": "14359",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 3 7 1 加 6 1 5 1 等于多少？",
+   "want": "8522",
+   "got": "8522",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 4 2 6 加 2 8 5 0 等于多少？",
+   "want": "6276",
+   "got": "6276",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 0 8 3 加 2 5 8 9 等于多少？",
+   "want": "4672",
+   "got": "4672",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 4 5 7 加 5 6 4 5 等于多少？",
+   "want": "15102",
+   "got": "15002",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 6 1 2 加 2 5 4 1 等于多少？",
+   "want": "4153",
+   "got": "4153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 9 7 3 加 1 2 3 3 等于多少？",
+   "want": "8206",
+   "got": "8206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 5 2 7 加 8 4 5 5 等于多少？",
+   "want": "11982",
+   "got": "11982",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 4 8 9 加 8 3 9 3 等于多少？",
+   "want": "16882",
+   "got": "16882",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 7 0 4 加 6 3 6 9 等于多少？",
+   "want": "9073",
+   "got": "9073",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 2 0 7 加 5 0 0 5 等于多少？",
+   "want": "12212",
+   "got": "12212",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 4 4 1 加 6 7 8 3 等于多少？",
+   "want": "13224",
+   "got": "13224",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 2 8 9 加 5 8 1 9 等于多少？",
+   "want": "11108",
+   "got": "11108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 5 8 1 加 2 6 0 4 等于多少？",
+   "want": "10185",
+   "got": "10185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 6 2 8 加 2 1 6 7 等于多少？",
+   "want": "10795",
+   "got": "10795",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 0 5 1 加 9 0 9 6 等于多少？",
+   "want": "13147",
+   "got": "13147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 9 1 1 加 4 3 1 6 等于多少？",
+   "want": "9227",
+   "got": "9227",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 1 2 6 加 7 3 3 8 等于多少？",
+   "want": "10464",
+   "got": "10464",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 5 9 2 加 2 6 8 3 等于多少？",
+   "want": "4275",
+   "got": "4275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 4 5 6 加 4 5 7 9 等于多少？",
+   "want": "7035",
+   "got": "7035",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 7 9 7 加 2 9 6 8 等于多少？",
+   "want": "5765",
+   "got": "5765",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 3 9 1 4 加 2 7 3 2 等于多少？",
+   "want": "6646",
+   "got": "6646",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 1 9 5 7 加 4 6 0 6 等于多少？",
+   "want": "6563",
+   "got": "6563",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 5 0 5 4 加 2 6 5 7 等于多少？",
+   "want": "7711",
+   "got": "7711",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 2 5 8 加 6 7 7 9 等于多少？",
+   "want": "9037",
+   "got": "8037",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 4 6 7 加 4 7 5 3 等于多少？",
+   "want": "7220",
+   "got": "7220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 6 7 0 7 加 7 9 0 4 等于多少？",
+   "want": "14611",
+   "got": "14611",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 7 8 8 5 加 4 5 3 6 等于多少？",
+   "want": "12421",
+   "got": "12421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 4 3 8 加 8 8 9 6 等于多少？",
+   "want": "11334",
+   "got": "11334",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 4 9 3 7 加 9 5 3 1 等于多少？",
+   "want": "14468",
+   "got": "14468",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 2 7 5 0 加 5 4 4 0 等于多少？",
+   "want": "8190",
+   "got": "8190",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 9 5 8 6 加 4 2 0 2 等于多少？",
+   "want": "13788",
+   "got": "13788",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算 8 0 7 5 加 6 0 2 3 等于多少？",
+   "want": "14098",
+   "got": "14198",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 4 8 6 9 加 2 1 1 1 4 等于多少？",
+   "want": "35983",
+   "got": "36983",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 6 0 8 4 加 2 1 8 9 2 等于多少？",
+   "want": "57976",
+   "got": "57976",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 5 3 6 8 加 5 9 6 0 1 等于多少？",
+   "want": "154969",
+   "got": "155979",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 1 7 2 5 加 6 4 4 0 5 等于多少？",
+   "want": "86130",
+   "got": "86130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 0 8 2 4 加 7 1 3 5 4 等于多少？",
+   "want": "142178",
+   "got": "142178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 9 8 5 1 加 7 5 3 0 8 等于多少？",
+   "want": "125159",
+   "got": "125159",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 6 9 5 8 加 6 2 9 7 7 等于多少？",
+   "want": "119935",
+   "got": "119935",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 7 3 4 4 加 2 3 7 5 6 等于多少？",
+   "want": "51100",
+   "got": "51100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 7 8 2 8 加 1 9 3 6 1 等于多少？",
+   "want": "117189",
+   "got": "117199",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 5 8 3 5 加 8 6 2 5 4 等于多少？",
+   "want": "132089",
+   "got": "132099",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 1 4 8 7 加 2 9 8 4 6 等于多少？",
+   "want": "71333",
+   "got": "71333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 1 1 3 5 加 8 2 6 0 9 等于多少？",
+   "want": "93744",
+   "got": "93744",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 2 0 8 2 加 7 4 7 1 2 等于多少？",
+   "want": "86794",
+   "got": "86794",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 9 4 1 4 加 3 4 7 5 1 等于多少？",
+   "want": "104165",
+   "got": "104165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 3 7 0 0 加 8 0 2 9 1 等于多少？",
+   "want": "113991",
+   "got": "114991",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 5 5 2 0 加 6 0 1 3 0 等于多少？",
+   "want": "125650",
+   "got": "125650",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 1 3 7 1 加 5 1 9 2 4 等于多少？",
+   "want": "113295",
+   "got": "113395",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 5 0 6 3 加 1 8 2 8 0 等于多少？",
+   "want": "53343",
+   "got": "53343",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 9 3 4 4 加 3 4 0 2 0 等于多少？",
+   "want": "83364",
+   "got": "83364",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 3 1 0 0 加 5 6 4 5 5 等于多少？",
+   "want": "99555",
+   "got": "99555",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 6 3 0 4 加 9 9 0 2 3 等于多少？",
+   "want": "195327",
+   "got": "195327",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 1 7 6 9 加 3 7 9 5 0 等于多少？",
+   "want": "99719",
+   "got": "99729",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 2 7 5 9 加 2 4 0 0 3 等于多少？",
+   "want": "46762",
+   "got": "46762",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 7 4 8 5 加 9 0 3 7 7 等于多少？",
+   "want": "177862",
+   "got": "177862",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 8 2 3 5 加 1 4 5 5 7 等于多少？",
+   "want": "52792",
+   "got": "52792",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 0 2 8 5 加 1 3 0 2 2 等于多少？",
+   "want": "103307",
+   "got": "103307",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 1 7 1 8 加 3 5 8 1 3 等于多少？",
+   "want": "47531",
+   "got": "47531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 6 5 3 3 加 3 7 5 9 9 等于多少？",
+   "want": "124132",
+   "got": "124132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 8 9 2 0 加 7 5 0 8 2 等于多少？",
+   "want": "94002",
+   "got": "94002",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 2 2 8 5 加 8 1 2 4 6 等于多少？",
+   "want": "133531",
+   "got": "133531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 0 1 5 0 加 5 0 3 3 5 等于多少？",
+   "want": "70485",
+   "got": "70485",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 5 1 6 6 加 9 1 7 6 5 等于多少？",
+   "want": "186931",
+   "got": "186931",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 5 6 6 6 加 9 3 2 2 2 等于多少？",
+   "want": "178888",
+   "got": "178888",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 8 0 1 5 加 2 2 6 8 3 等于多少？",
+   "want": "60698",
+   "got": "60698",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 7 4 6 1 加 6 4 0 4 0 等于多少？",
+   "want": "161501",
+   "got": "161401",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 8 7 2 9 加 3 1 6 3 1 等于多少？",
+   "want": "50360",
+   "got": "50360",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 6 4 8 9 加 1 0 4 3 4 等于多少？",
+   "want": "86923",
+   "got": "86923",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 5 6 5 6 加 1 5 2 0 9 等于多少？",
+   "want": "100865",
+   "got": "100865",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 2 0 2 0 加 3 1 3 7 7 等于多少？",
+   "want": "113397",
+   "got": "113497",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 7 8 2 8 加 3 5 1 1 8 等于多少？",
+   "want": "92946",
+   "got": "93946",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 0 0 9 2 加 1 8 4 4 1 等于多少？",
+   "want": "28533",
+   "got": "28533",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 7 1 3 1 加 7 7 6 7 3 等于多少？",
+   "want": "94804",
+   "got": "94804",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 5 4 4 5 加 3 4 5 6 5 等于多少？",
+   "want": "130010",
+   "got": "130010",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 6 6 0 2 加 1 5 2 2 0 等于多少？",
+   "want": "51822",
+   "got": "51822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 5 0 4 6 加 4 2 6 1 7 等于多少？",
+   "want": "77663",
+   "got": "77663",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 5 0 9 7 加 6 6 0 7 1 等于多少？",
+   "want": "131168",
+   "got": "131168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 3 5 4 8 加 5 5 5 9 8 等于多少？",
+   "want": "89146",
+   "got": "89146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 2 2 2 7 加 8 9 9 1 8 等于多少？",
+   "want": "102145",
+   "got": "102145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 9 8 3 7 加 8 2 9 0 6 等于多少？",
+   "want": "102743",
+   "got": "102743",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 5 1 4 3 加 3 0 9 6 5 等于多少？",
+   "want": "56108",
+   "got": "56108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 2 7 2 3 加 6 1 1 5 1 等于多少？",
+   "want": "73874",
+   "got": "73874",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 2 8 3 9 加 9 0 6 7 8 等于多少？",
+   "want": "113517",
+   "got": "113517",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 4 7 7 0 加 7 2 1 6 4 等于多少？",
+   "want": "146934",
+   "got": "146934",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 1 0 8 0 加 7 7 0 1 0 等于多少？",
+   "want": "148090",
+   "got": "148090",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 1 0 0 8 加 8 8 9 5 4 等于多少？",
+   "want": "129962",
+   "got": "129962",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 5 8 9 6 加 7 6 7 9 4 等于多少？",
+   "want": "142690",
+   "got": "142690",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 8 3 2 3 加 5 9 2 4 8 等于多少？",
+   "want": "137571",
+   "got": "137571",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 3 4 2 8 加 5 5 7 5 8 等于多少？",
+   "want": "129186",
+   "got": "129286",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 6 0 7 1 加 1 9 2 3 0 等于多少？",
+   "want": "95301",
+   "got": "95301",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 1 8 4 5 加 3 2 0 8 8 等于多少？",
+   "want": "53933",
+   "got": "53933",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 6 5 0 5 加 6 2 9 1 4 等于多少？",
+   "want": "99419",
+   "got": "99419",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 7 0 4 7 加 2 5 8 6 5 等于多少？",
+   "want": "62912",
+   "got": "62912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 5 7 4 3 加 1 6 6 9 5 等于多少？",
+   "want": "92438",
+   "got": "92438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 9 9 7 5 加 4 9 4 3 4 等于多少？",
+   "want": "149409",
+   "got": "149419",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 4 7 8 0 加 6 4 5 6 9 等于多少？",
+   "want": "109349",
+   "got": "109349",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 1 3 5 3 加 4 4 8 1 6 等于多少？",
+   "want": "66169",
+   "got": "66169",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 3 8 6 4 加 7 1 8 3 0 等于多少？",
+   "want": "165694",
+   "got": "165694",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 3 0 2 6 加 1 6 3 7 5 等于多少？",
+   "want": "69401",
+   "got": "69401",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 4 3 4 0 加 4 4 8 3 1 等于多少？",
+   "want": "139171",
+   "got": "139171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 5 7 6 6 加 2 7 3 8 9 等于多少？",
+   "want": "83155",
+   "got": "83155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 9 0 1 3 加 5 4 1 9 3 等于多少？",
+   "want": "113206",
+   "got": "113206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 7 3 5 7 加 4 1 8 3 4 等于多少？",
+   "want": "99191",
+   "got": "99191",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 4 4 0 0 加 2 1 9 2 5 等于多少？",
+   "want": "96325",
+   "got": "96325",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 9 4 0 2 加 7 2 2 0 9 等于多少？",
+   "want": "111611",
+   "got": "111611",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 4 0 5 4 加 3 3 7 2 2 等于多少？",
+   "want": "87776",
+   "got": "87776",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 8 2 3 4 加 4 7 0 8 2 等于多少？",
+   "want": "75316",
+   "got": "75316",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 7 3 3 6 加 1 1 8 0 8 等于多少？",
+   "want": "49144",
+   "got": "49144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 4 7 1 4 加 8 7 0 2 0 等于多少？",
+   "want": "141734",
+   "got": "141734",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 3 9 6 1 加 7 0 9 2 3 等于多少？",
+   "want": "164884",
+   "got": "164884",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 9 8 2 6 加 3 3 1 6 7 等于多少？",
+   "want": "62993",
+   "got": "63993",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 4 0 5 4 加 9 5 9 7 2 等于多少？",
+   "want": "110026",
+   "got": "109026",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 6 6 5 8 加 2 9 5 9 7 等于多少？",
+   "want": "126255",
+   "got": "126255",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 3 1 7 9 加 7 6 6 4 3 等于多少？",
+   "want": "129822",
+   "got": "129822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 8 6 1 3 加 4 6 0 1 5 等于多少？",
+   "want": "124628",
+   "got": "124628",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 6 8 1 8 加 8 4 3 2 2 等于多少？",
+   "want": "131140",
+   "got": "131140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 3 9 3 3 加 5 1 2 1 2 等于多少？",
+   "want": "65145",
+   "got": "65145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 1 5 9 0 加 1 3 3 5 1 等于多少？",
+   "want": "34941",
+   "got": "34941",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 9 9 6 2 加 5 5 2 3 2 等于多少？",
+   "want": "85194",
+   "got": "85194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 8 4 4 1 加 4 7 4 7 4 等于多少？",
+   "want": "145915",
+   "got": "145915",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 4 3 7 0 加 3 2 1 8 2 等于多少？",
+   "want": "56552",
+   "got": "56552",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 3 5 4 1 加 5 2 9 2 0 等于多少？",
+   "want": "116461",
+   "got": "116461",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 0 5 4 2 加 5 3 7 1 7 等于多少？",
+   "want": "74259",
+   "got": "74269",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 5 9 0 4 加 6 8 9 3 9 等于多少？",
+   "want": "104843",
+   "got": "104843",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 4 6 9 5 加 2 4 7 2 0 等于多少？",
+   "want": "49415",
+   "got": "49415",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 1 6 8 5 加 9 7 6 5 7 等于多少？",
+   "want": "129342",
+   "got": "129342",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 5 2 6 9 加 1 4 7 7 0 等于多少？",
+   "want": "40039",
+   "got": "30039",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 9 0 6 5 加 1 2 3 1 5 等于多少？",
+   "want": "81380",
+   "got": "81380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 9 9 0 7 加 5 7 1 4 5 等于多少？",
+   "want": "127052",
+   "got": "127052",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 6 7 0 8 加 7 3 8 4 6 等于多少？",
+   "want": "120554",
+   "got": "120554",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 5 8 3 9 加 1 4 5 4 8 等于多少？",
+   "want": "90387",
+   "got": "90387",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 5 0 2 5 加 9 4 1 8 1 等于多少？",
+   "want": "189206",
+   "got": "199206",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 8 8 4 4 加 6 3 8 0 6 等于多少？",
+   "want": "132650",
+   "got": "132650",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 5 6 7 5 加 5 9 9 4 2 等于多少？",
+   "want": "95617",
+   "got": "95617",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 6 5 9 9 加 8 4 1 1 3 等于多少？",
+   "want": "160712",
+   "got": "160712",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 6 4 8 7 加 3 5 9 3 2 等于多少？",
+   "want": "132419",
+   "got": "132429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 8 6 6 1 加 7 8 0 0 1 等于多少？",
+   "want": "106662",
+   "got": "106662",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 4 0 5 8 加 1 6 9 2 8 等于多少？",
+   "want": "100986",
+   "got": "100986",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 1 3 0 6 加 7 8 4 6 3 等于多少？",
+   "want": "109769",
+   "got": "109769",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 3 3 7 6 加 2 6 2 0 0 等于多少？",
+   "want": "59576",
+   "got": "59576",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 9 6 4 6 加 4 4 6 0 8 等于多少？",
+   "want": "94254",
+   "got": "94254",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 1 4 1 7 加 9 1 8 6 9 等于多少？",
+   "want": "163286",
+   "got": "163286",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 2 5 3 8 加 1 3 3 0 1 等于多少？",
+   "want": "75839",
+   "got": "75839",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 1 3 3 8 加 6 3 4 9 8 等于多少？",
+   "want": "124836",
+   "got": "124836",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 3 1 9 5 加 8 3 1 4 9 等于多少？",
+   "want": "176344",
+   "got": "176444",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 6 9 9 3 加 9 5 4 3 9 等于多少？",
+   "want": "172432",
+   "got": "172432",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 0 3 2 8 加 9 6 0 3 7 等于多少？",
+   "want": "126365",
+   "got": "126365",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 6 9 8 6 加 6 4 5 0 8 等于多少？",
+   "want": "131494",
+   "got": "131494",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 8 3 6 5 加 5 7 7 2 2 等于多少？",
+   "want": "156087",
+   "got": "156087",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 0 3 9 5 加 8 0 1 1 9 等于多少？",
+   "want": "170514",
+   "got": "170514",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 2 7 4 2 加 2 9 3 7 7 等于多少？",
+   "want": "82119",
+   "got": "82129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 4 3 2 4 加 3 1 6 7 6 等于多少？",
+   "want": "66000",
+   "got": "66000",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 6 4 0 1 加 5 4 5 9 9 等于多少？",
+   "want": "131000",
+   "got": "131990",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 7 5 3 6 加 3 3 3 3 3 等于多少？",
+   "want": "90869",
+   "got": "90869",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 9 2 7 4 加 8 3 2 7 5 等于多少？",
+   "want": "172549",
+   "got": "172559",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 1 8 2 3 加 3 9 0 3 1 等于多少？",
+   "want": "100854",
+   "got": "100854",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 6 4 5 7 加 5 3 3 8 9 等于多少？",
+   "want": "69846",
+   "got": "79846",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 8 5 7 4 加 4 0 7 7 9 等于多少？",
+   "want": "139353",
+   "got": "139453",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 2 1 3 2 加 9 5 1 6 3 等于多少？",
+   "want": "127295",
+   "got": "127295",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 0 7 9 0 加 5 9 0 0 6 等于多少？",
+   "want": "149796",
+   "got": "149796",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 4 6 3 5 加 2 3 4 4 0 等于多少？",
+   "want": "118075",
+   "got": "118075",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 7 2 0 3 加 6 9 3 2 0 等于多少？",
+   "want": "136523",
+   "got": "136523",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 8 4 0 9 加 2 1 2 9 9 等于多少？",
+   "want": "89708",
+   "got": "89708",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 0 6 4 2 加 7 5 9 5 6 等于多少？",
+   "want": "96598",
+   "got": "96598",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 7 8 5 8 加 7 9 0 9 0 等于多少？",
+   "want": "166948",
+   "got": "166948",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 5 1 0 5 加 3 6 2 2 5 等于多少？",
+   "want": "101330",
+   "got": "101330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 4 2 9 0 加 1 3 5 5 6 等于多少？",
+   "want": "77846",
+   "got": "77846",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 8 4 0 3 加 6 5 4 1 8 等于多少？",
+   "want": "113821",
+   "got": "113821",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 4 6 0 2 加 6 0 7 4 7 等于多少？",
+   "want": "85349",
+   "got": "85349",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 0 5 4 6 加 5 1 1 4 2 等于多少？",
+   "want": "91688",
+   "got": "91688",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 0 6 1 3 加 2 4 5 4 1 等于多少？",
+   "want": "65154",
+   "got": "65154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 2 2 1 7 加 4 1 7 6 0 等于多少？",
+   "want": "53977",
+   "got": "54977",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 9 8 4 4 加 9 4 9 2 0 等于多少？",
+   "want": "164764",
+   "got": "164764",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 0 8 5 5 加 2 8 9 4 1 等于多少？",
+   "want": "99796",
+   "got": "99896",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 3 8 5 7 加 7 8 5 7 5 等于多少？",
+   "want": "172432",
+   "got": "172432",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 9 4 7 5 加 8 8 5 0 9 等于多少？",
+   "want": "177984",
+   "got": "178984",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 3 2 5 5 加 6 7 8 4 2 等于多少？",
+   "want": "131097",
+   "got": "131097",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 6 8 5 2 加 7 5 4 8 6 等于多少？",
+   "want": "132338",
+   "got": "132338",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 9 5 0 7 加 2 5 5 3 1 等于多少？",
+   "want": "115038",
+   "got": "115038",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 9 2 5 3 加 3 7 4 6 2 等于多少？",
+   "want": "76715",
+   "got": "76715",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 5 1 6 2 加 7 4 0 8 0 等于多少？",
+   "want": "89242",
+   "got": "99242",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 1 8 5 1 加 5 0 6 3 2 等于多少？",
+   "want": "142483",
+   "got": "142483",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 1 4 2 7 加 1 8 9 2 7 等于多少？",
+   "want": "50354",
+   "got": "50354",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 7 5 1 0 加 9 6 6 8 8 等于多少？",
+   "want": "134198",
+   "got": "134298",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 9 1 6 0 加 2 1 1 2 6 等于多少？",
+   "want": "110286",
+   "got": "110286",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 8 4 1 4 加 4 4 0 2 5 等于多少？",
+   "want": "62439",
+   "got": "62439",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 5 0 6 3 加 3 0 5 5 0 等于多少？",
+   "want": "75613",
+   "got": "75613",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 9 3 4 5 加 9 5 9 7 1 等于多少？",
+   "want": "165316",
+   "got": "165316",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 4 4 8 3 加 9 2 6 9 0 等于多少？",
+   "want": "127173",
+   "got": "127173",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 2 7 9 5 加 7 3 8 9 8 等于多少？",
+   "want": "86693",
+   "got": "86693",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 6 1 1 8 加 3 7 9 9 1 等于多少？",
+   "want": "84109",
+   "got": "84109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 4 6 7 8 加 9 2 2 6 8 等于多少？",
+   "want": "116946",
+   "got": "116946",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 8 1 7 4 加 4 5 1 7 8 等于多少？",
+   "want": "103352",
+   "got": "103452",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 1 6 1 1 加 2 1 9 3 6 等于多少？",
+   "want": "73547",
+   "got": "73547",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 3 0 8 0 加 8 4 0 4 8 等于多少？",
+   "want": "97128",
+   "got": "97128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 4 0 7 4 加 9 7 5 8 4 等于多少？",
+   "want": "111658",
+   "got": "111658",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 5 5 5 4 加 6 9 2 4 0 等于多少？",
+   "want": "164794",
+   "got": "164794",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 5 9 6 0 加 9 9 0 3 7 等于多少？",
+   "want": "194997",
+   "got": "194997",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 4 7 4 9 加 6 2 6 7 5 等于多少？",
+   "want": "137424",
+   "got": "137424",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 8 1 7 5 加 6 8 7 7 8 等于多少？",
+   "want": "156953",
+   "got": "156953",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 9 5 9 3 加 6 0 7 3 5 等于多少？",
+   "want": "110328",
+   "got": "110328",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 5 3 2 2 加 4 8 9 7 0 等于多少？",
+   "want": "74292",
+   "got": "74392",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 9 0 4 5 加 4 7 6 0 8 等于多少？",
+   "want": "106653",
+   "got": "106653",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 9 1 1 5 加 9 2 1 8 9 等于多少？",
+   "want": "111304",
+   "got": "111304",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 2 2 2 2 8 加 9 2 1 7 0 等于多少？",
+   "want": "114398",
+   "got": "114498",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 2 1 5 4 加 9 8 6 2 9 等于多少？",
+   "want": "170783",
+   "got": "170783",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 9 4 1 0 加 6 2 1 2 1 等于多少？",
+   "want": "121531",
+   "got": "121531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 7 8 2 3 加 1 9 5 8 9 等于多少？",
+   "want": "107412",
+   "got": "107412",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 0 6 1 0 加 2 5 2 3 4 等于多少？",
+   "want": "85844",
+   "got": "85844",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 5 2 7 4 加 4 9 4 9 7 等于多少？",
+   "want": "94771",
+   "got": "94771",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 6 2 8 4 加 7 0 4 2 5 等于多少？",
+   "want": "136709",
+   "got": "136709",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 7 3 4 3 加 7 3 3 0 0 等于多少？",
+   "want": "120643",
+   "got": "120643",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 0 9 5 1 加 5 7 0 8 2 等于多少？",
+   "want": "108033",
+   "got": "107033",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 2 6 7 7 加 4 9 1 0 2 等于多少？",
+   "want": "91779",
+   "got": "91789",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 5 9 0 2 加 9 0 3 1 1 等于多少？",
+   "want": "136213",
+   "got": "136213",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 1 9 8 1 加 3 6 9 6 8 等于多少？",
+   "want": "98949",
+   "got": "98949",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 1 2 5 1 加 5 8 8 1 0 等于多少？",
+   "want": "120061",
+   "got": "110061",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 5 2 2 6 1 加 9 6 3 6 4 等于多少？",
+   "want": "148625",
+   "got": "148625",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 3 0 8 2 加 1 1 1 6 9 等于多少？",
+   "want": "74251",
+   "got": "74251",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 5 4 1 0 加 8 1 8 6 5 等于多少？",
+   "want": "147275",
+   "got": "147275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 8 6 3 5 加 2 5 7 0 2 等于多少？",
+   "want": "104337",
+   "got": "104337",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 1 5 2 4 6 加 8 9 1 4 7 等于多少？",
+   "want": "104393",
+   "got": "104393",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 9 3 2 0 2 加 6 5 5 7 4 等于多少？",
+   "want": "158776",
+   "got": "158776",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 3 6 1 4 0 加 8 1 2 0 3 等于多少？",
+   "want": "117343",
+   "got": "117343",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 4 8 1 4 4 加 5 1 5 4 0 等于多少？",
+   "want": "99684",
+   "got": "99684",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 5 0 3 6 加 4 2 7 0 0 等于多少？",
+   "want": "117736",
+   "got": "117736",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 6 1 8 1 7 加 5 4 2 6 9 等于多少？",
+   "want": "116086",
+   "got": "116086",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 8 4 8 6 8 加 6 3 7 0 3 等于多少？",
+   "want": "148571",
+   "got": "148571",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 1 1 2 3 加 5 1 2 5 7 等于多少？",
+   "want": "122380",
+   "got": "122380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 6 8 5 8 加 5 9 4 7 8 等于多少？",
+   "want": "136336",
+   "got": "136336",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算 7 3 6 0 5 加 5 3 4 1 0 等于多少？",
+   "want": "127015",
+   "got": "127015",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

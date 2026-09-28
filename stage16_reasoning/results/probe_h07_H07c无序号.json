@@ -1,0 +1,3231 @@
+{
+ "label": "n30_H07c无序号",
+ "by_rung": {
+  "2": [
+   70,
+   91,
+   0,
+   100
+  ],
+  "3": [
+   55,
+   97,
+   0,
+   100
+  ],
+  "4": [
+   66,
+   99,
+   0,
+   100
+  ],
+  "5": [
+   51,
+   99,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "4 7\n7 4\n合计：",
+   "want": "121",
+   "got": "91",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 0\n8 2\n合计：",
+   "want": "142",
+   "got": "132",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 9\n2 5\n合计：",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7\n4 7\n合计：",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0\n2 4\n合计：",
+   "want": "54",
+   "got": "54",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2\n5 0\n合计：",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1\n1 4\n合计：",
+   "want": "55",
+   "got": "55",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4\n2 5\n合计：",
+   "want": "79",
+   "got": "79",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5\n4 2\n合计：",
+   "want": "137",
+   "got": "137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2\n1 2\n合计：",
+   "want": "34",
+   "got": "34",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1\n1 7\n合计：",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5\n8 0\n合计：",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5\n7 2\n合计：",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 9\n7 3\n合计：",
+   "want": "132",
+   "got": "122",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7\n8 9\n合计：",
+   "want": "136",
+   "got": "96",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 1\n2 3\n合计：",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 9\n2 3\n合计：",
+   "want": "92",
+   "got": "92",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5\n6 6\n合计：",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6\n2 3\n合计：",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2\n1 4\n合计：",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2\n6 0\n合计：",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6\n1 2\n合计：",
+   "want": "58",
+   "got": "58",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4\n2 3\n合计：",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3\n9 0\n合计：",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0\n3 2\n合计：",
+   "want": "62",
+   "got": "62",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8\n1 4\n合计：",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4\n3 0\n合计：",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 9\n8 4\n合计：",
+   "want": "143",
+   "got": "143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0\n6 4\n合计：",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2\n3 5\n合计：",
+   "want": "57",
+   "got": "57",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4\n6 3\n合计：",
+   "want": "107",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 1\n9 7\n合计：",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4\n9 1\n合计：",
+   "want": "185",
+   "got": "185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6\n3 0\n合计：",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2\n1 3\n合计：",
+   "want": "65",
+   "got": "65",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3\n7 2\n合计：",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3\n9 6\n合计：",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8\n8 2\n合计：",
+   "want": "170",
+   "got": "130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3\n5 5\n合计：",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8\n6 6\n合计：",
+   "want": "94",
+   "got": "54",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7\n6 4\n合计：",
+   "want": "111",
+   "got": "91",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 3\n9 2\n合计：",
+   "want": "165",
+   "got": "155",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7\n9 6\n合计：",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4\n1 4\n合计：",
+   "want": "48",
+   "got": "58",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5\n3 4\n合计：",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3\n3 1\n合计：",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0\n1 8\n合计：",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8\n4 8\n合计：",
+   "want": "116",
+   "got": "136",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6\n2 4\n合计：",
+   "want": "60",
+   "got": "70",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9\n4 8\n合计：",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5\n1 6\n合计：",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 8\n1 6\n合计：",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7\n9 7\n合计：",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5\n7 4\n合计：",
+   "want": "159",
+   "got": "169",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0\n4 3\n合计：",
+   "want": "53",
+   "got": "53",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0\n6 4\n合计：",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4\n7 1\n合计：",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1\n1 9\n合计：",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1\n9 7\n合计：",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8\n9 2\n合计：",
+   "want": "120",
+   "got": "126",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4\n2 8\n合计：",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1\n2 0\n合计：",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6\n8 4\n合计：",
+   "want": "100",
+   "got": "90",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 8\n9 1\n合计：",
+   "want": "169",
+   "got": "169",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3\n5 4\n合计：",
+   "want": "97",
+   "got": "87",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0\n7 9\n合计：",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5\n7 1\n合计：",
+   "want": "146",
+   "got": "146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5\n4 8\n合计：",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4\n3 4\n合计：",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9\n1 6\n合计：",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4\n8 6\n合计：",
+   "want": "130",
+   "got": "110",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0\n6 3\n合计：",
+   "want": "103",
+   "got": "83",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 9\n3 2\n合计：",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6\n8 9\n合计：",
+   "want": "185",
+   "got": "195",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2\n6 7\n合计：",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4\n7 0\n合计：",
+   "want": "154",
+   "got": "164",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 2\n3 4\n合计：",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4\n5 5\n合计：",
+   "want": "69",
+   "got": "69",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 8\n9 6\n合计：",
+   "want": "134",
+   "got": "84",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "9 0\n1 5\n合计：",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1\n6 1\n合计：",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1\n6 6\n合计：",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4\n8 5\n合计：",
+   "want": "129",
+   "got": "89",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 6\n3 8\n合计：",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 4\n4 1\n合计：",
+   "want": "105",
+   "got": "95",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 6\n3 0\n合计：",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9\n3 9\n合计：",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2\n9 4\n合计：",
+   "want": "176",
+   "got": "166",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7\n4 3\n合计：",
+   "want": "80",
+   "got": "70",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8\n3 5\n合计：",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6\n4 0\n合计：",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0\n5 8\n合计：",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0\n2 2\n合计：",
+   "want": "92",
+   "got": "92",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2\n9 9\n合计：",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5\n9 5\n合计：",
+   "want": "110",
+   "got": "107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4\n9 9\n合计：",
+   "want": "173",
+   "got": "153",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5\n3 6\n合计：",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7\n2 5\n合计：",
+   "want": "42",
+   "got": "32",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0\n7 7\n合计：",
+   "want": "117",
+   "got": "107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0\n8 8\n合计：",
+   "want": "158",
+   "got": "148",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 8\n7 3 0\n合计：",
+   "want": "1688",
+   "got": "1688",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 2\n2 6 2\n合计：",
+   "want": "524",
+   "got": "424",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 8\n3 7 7\n合计：",
+   "want": "935",
+   "got": "933",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 0\n6 0 0\n合计：",
+   "want": "850",
+   "got": "8510",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "7 1 1\n3 9 1\n合计：",
+   "want": "1102",
+   "got": "1010",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 0\n3 0 1\n合计：",
+   "want": "971",
+   "got": "971",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 1\n8 8 2\n合计：",
+   "want": "1763",
+   "got": "1763",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 7\n1 5 8\n合计：",
+   "want": "515",
+   "got": "615",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 6\n3 9 9\n合计：",
+   "want": "865",
+   "got": "865",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 6\n3 8 7\n合计：",
+   "want": "1273",
+   "got": "1273",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 1\n5 0 5\n合计：",
+   "want": "1396",
+   "got": "1496",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 2\n8 4 3\n合计：",
+   "want": "1585",
+   "got": "1485",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 8\n4 6 2\n合计：",
+   "want": "790",
+   "got": "690",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 0\n9 6 5\n合计：",
+   "want": "1305",
+   "got": "1305",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 5\n2 6 8\n合计：",
+   "want": "573",
+   "got": "573",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 5\n6 5 5\n合计：",
+   "want": "1500",
+   "got": "1400",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 1\n1 3 8\n合计：",
+   "want": "829",
+   "got": "829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 9\n1 0 7\n合计：",
+   "want": "956",
+   "got": "956",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 6\n8 9 0\n合计：",
+   "want": "1586",
+   "got": "1486",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 9\n7 9 6\n合计：",
+   "want": "1195",
+   "got": "1195",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 9 7\n8 6 3\n合计：",
+   "want": "1460",
+   "got": "1460",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 5 5\n2 6 8\n合计：",
+   "want": "723",
+   "got": "822",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 2\n5 5 2\n合计：",
+   "want": "1314",
+   "got": "1304",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 5\n7 9 6\n合计：",
+   "want": "1421",
+   "got": "1321",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 2\n6 3 7\n合计：",
+   "want": "1499",
+   "got": "1499",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 9\n3 6 7\n合计：",
+   "want": "846",
+   "got": "946",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 2\n1 4 5\n合计：",
+   "want": "757",
+   "got": "757",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 7\n1 8 1\n合计：",
+   "want": "298",
+   "got": "394",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 7\n2 3 2\n合计：",
+   "want": "1049",
+   "got": "1048",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 4\n2 0 3\n合计：",
+   "want": "487",
+   "got": "487",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 7\n3 4 8\n合计：",
+   "want": "645",
+   "got": "645",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 3\n7 8 2\n合计：",
+   "want": "1165",
+   "got": "1165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 8\n9 8 5\n合计：",
+   "want": "1543",
+   "got": "1543",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 9\n6 7 7\n合计：",
+   "want": "1296",
+   "got": "1296",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 0\n6 4 9\n合计：",
+   "want": "1519",
+   "got": "1519",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 5\n6 0 0\n合计：",
+   "want": "1395",
+   "got": "1495",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 1\n4 5 2\n合计：",
+   "want": "713",
+   "got": "703",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 8\n7 6 4\n合计：",
+   "want": "1182",
+   "got": "1082",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 6\n4 4 6\n合计：",
+   "want": "992",
+   "got": "992",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 4\n8 9 2\n合计：",
+   "want": "1546",
+   "got": "1446",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 4\n5 9 2\n合计：",
+   "want": "1166",
+   "got": "1166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 4\n4 0 9\n合计：",
+   "want": "1283",
+   "got": "1283",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 3\n2 2 4\n合计：",
+   "want": "467",
+   "got": "457",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 6\n1 2 3\n合计：",
+   "want": "429",
+   "got": "428",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 1\n5 1 5\n合计：",
+   "want": "1226",
+   "got": "1226",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 6\n6 9 1\n合计：",
+   "want": "1217",
+   "got": "1217",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 8\n7 5 9\n合计：",
+   "want": "1397",
+   "got": "1397",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 9 8\n3 7 9\n合计：",
+   "want": "977",
+   "got": "977",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 5\n4 7 8\n合计：",
+   "want": "983",
+   "got": "983",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 6\n9 2 3\n合计：",
+   "want": "1579",
+   "got": "1579",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 6\n5 7 9\n合计：",
+   "want": "1215",
+   "got": "1316",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 6\n4 0 2\n合计：",
+   "want": "748",
+   "got": "648",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 1\n5 7 8\n合计：",
+   "want": "959",
+   "got": "959",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 7\n6 7 9\n合计：",
+   "want": "1206",
+   "got": "1106",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 8\n6 0 7\n合计：",
+   "want": "1165",
+   "got": "1173",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 4\n5 8 3\n合计：",
+   "want": "827",
+   "got": "527",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 4\n2 5 2\n合计：",
+   "want": "786",
+   "got": "786",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 4\n9 2 6\n合计：",
+   "want": "1240",
+   "got": "12310",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 8 0\n6 4 1\n合计：",
+   "want": "1121",
+   "got": "1021",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 5\n4 7 7\n合计：",
+   "want": "1132",
+   "got": "1332",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 7\n9 5 7\n合计：",
+   "want": "1284",
+   "got": "1284",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 5\n9 3 7\n合计：",
+   "want": "1192",
+   "got": "1192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 7\n1 3 7\n合计：",
+   "want": "1024",
+   "got": "1025",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 8\n7 6 6\n合计：",
+   "want": "1194",
+   "got": "1094",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 7\n3 3 4\n合计：",
+   "want": "1121",
+   "got": "1121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 6\n6 4 1\n合计：",
+   "want": "1067",
+   "got": "1067",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 5\n1 0 7\n合计：",
+   "want": "482",
+   "got": "582",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 1\n3 7 9\n合计：",
+   "want": "690",
+   "got": "690",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 3\n4 5 7\n合计：",
+   "want": "1270",
+   "got": "1270",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 6\n7 0 9\n合计：",
+   "want": "1415",
+   "got": "1416",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 9\n1 3 8\n合计：",
+   "want": "647",
+   "got": "647",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 3\n3 1 9\n合计：",
+   "want": "1152",
+   "got": "1152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 1\n8 4 6\n合计：",
+   "want": "1037",
+   "got": "1037",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 7\n3 9 6\n合计：",
+   "want": "633",
+   "got": "633",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 3\n1 9 4\n合计：",
+   "want": "1017",
+   "got": "1016",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 9\n4 7 0\n合计：",
+   "want": "1039",
+   "got": "1039",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 6\n1 2 8\n合计：",
+   "want": "284",
+   "got": "384",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 2\n6 9 3\n合计：",
+   "want": "1185",
+   "got": "1085",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 7\n3 3 0\n合计：",
+   "want": "917",
+   "got": "917",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 1\n2 0 0\n合计：",
+   "want": "751",
+   "got": "762",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 5\n5 7 6\n合计：",
+   "want": "711",
+   "got": "701",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 2\n2 3 2\n合计：",
+   "want": "914",
+   "got": "915",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 9\n1 6 0\n合计：",
+   "want": "639",
+   "got": "639",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 1\n6 5 6\n合计：",
+   "want": "847",
+   "got": "847",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 9\n6 6 3\n合计：",
+   "want": "1622",
+   "got": "1622",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 0\n1 2 3\n合计：",
+   "want": "333",
+   "got": "333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 8\n8 3 1\n合计：",
+   "want": "1459",
+   "got": "1459",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 0\n5 6 2\n合计：",
+   "want": "1472",
+   "got": "1472",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 7\n5 3 2\n合计：",
+   "want": "1279",
+   "got": "1279",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 7\n3 6 7\n合计：",
+   "want": "1034",
+   "got": "1034",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 6\n3 4 5\n合计：",
+   "want": "901",
+   "got": "905",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 3\n7 2 5\n合计：",
+   "want": "1128",
+   "got": "1028",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 4\n9 8 7\n合计：",
+   "want": "1091",
+   "got": "990",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "3 8 6\n5 7 8\n合计：",
+   "want": "964",
+   "got": "964",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 9\n3 5 1\n合计：",
+   "want": "920",
+   "got": "920",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 3\n5 4 3\n合计：",
+   "want": "1356",
+   "got": "1356",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 4\n8 2 1\n合计：",
+   "want": "1605",
+   "got": "1505",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 1\n3 0 8\n合计：",
+   "want": "1189",
+   "got": "1189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 5 4\n3 8 1\n合计：",
+   "want": "1235",
+   "got": "1235",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 7\n8 4 4\n合计：",
+   "want": "1321",
+   "got": "1322",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 8 0\n9 9 4 3\n合计：",
+   "want": "17923",
+   "got": "17923",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 3 4\n6 9 2 7\n合计：",
+   "want": "13361",
+   "got": "13351",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 2 1 8\n5 6 9 2\n合计：",
+   "want": "10910",
+   "got": "10900",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 2 4\n1 6 8 0\n合计：",
+   "want": "4604",
+   "got": "5604",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 6 7\n6 4 1 7\n合计：",
+   "want": "9384",
+   "got": "9384",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 1 2\n5 1 6 3\n合计：",
+   "want": "11775",
+   "got": "11775",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 0 7\n1 6 4 6\n合计：",
+   "want": "10953",
+   "got": "10953",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 8 2 4\n9 1 1 3\n合计：",
+   "want": "18937",
+   "got": "18936",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 8 9\n4 8 6 9\n合计：",
+   "want": "9258",
+   "got": "9258",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 8 3\n8 2 2 8\n合计：",
+   "want": "11911",
+   "got": "11911",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 2 3\n5 6 8 8\n合计：",
+   "want": "10211",
+   "got": "10201",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 1 9\n2 9 6 3\n合计：",
+   "want": "6082",
+   "got": "6082",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 7 8\n3 1 6 6\n合计：",
+   "want": "4544",
+   "got": "4544",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 9 9 9\n3 2 6 8\n合计：",
+   "want": "13267",
+   "got": "13257",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 6 2\n7 5 0 3\n合计：",
+   "want": "15965",
+   "got": "15965",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 9 1\n6 9 2 9\n合计：",
+   "want": "14220",
+   "got": "14220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 1 3\n1 0 5 0\n合计：",
+   "want": "4863",
+   "got": "5863",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 9 5\n2 4 2 7\n合计：",
+   "want": "10122",
+   "got": "10132",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 0 9\n2 5 6 2\n合计：",
+   "want": "10971",
+   "got": "10971",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 3 2\n4 8 6 9\n合计：",
+   "want": "13701",
+   "got": "13701",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 5 1\n8 1 3 1\n合计：",
+   "want": "15182",
+   "got": "15182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 5 0 7\n7 8 5 1\n合计：",
+   "want": "10358",
+   "got": "10358",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 3 6\n1 0 2 8\n合计：",
+   "want": "2464",
+   "got": "2464",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 6 6\n5 2 1 2\n合计：",
+   "want": "12778",
+   "got": "12778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 0 6\n8 0 0 8\n合计：",
+   "want": "14314",
+   "got": "14314",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 7 3\n7 8 1 1\n合计：",
+   "want": "15784",
+   "got": "15784",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 8 8\n7 6 7 0\n合计：",
+   "want": "10858",
+   "got": "10858",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 4 7\n5 6 1 0\n合计：",
+   "want": "11657",
+   "got": "11657",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 5 6\n7 9 4 1\n合计：",
+   "want": "14197",
+   "got": "14197",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 2 8\n4 0 7 7\n合计：",
+   "want": "9605",
+   "got": "9595",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 6 9\n9 0 4 6\n合计：",
+   "want": "10415",
+   "got": "10416",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 8 2\n2 7 4 3\n合计：",
+   "want": "10325",
+   "got": "10325",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 4 6\n9 8 8 1\n合计：",
+   "want": "18427",
+   "got": "18427",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 5 2\n5 5 9 4\n合计：",
+   "want": "11446",
+   "got": "11446",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 8 9\n3 0 8 5\n合计：",
+   "want": "7274",
+   "got": "7284",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 4 4\n6 6 3 8\n合计：",
+   "want": "10882",
+   "got": "10882",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 8 6\n2 6 1 7\n合计：",
+   "want": "8003",
+   "got": "7903",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 2 3\n3 2 8 0\n合计：",
+   "want": "12303",
+   "got": "12293",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 0 9\n8 7 2 1\n合计：",
+   "want": "14930",
+   "got": "14929",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 9 8\n6 5 1 2\n合计：",
+   "want": "8210",
+   "got": "8200",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 7 5\n7 2 2 3\n合计：",
+   "want": "14698",
+   "got": "14698",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 3 3\n6 3 2 6\n合计：",
+   "want": "9659",
+   "got": "9659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 7 6\n8 6 7 8\n合计：",
+   "want": "11554",
+   "got": "11554",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 7 0\n4 0 1 4\n合计：",
+   "want": "13384",
+   "got": "13384",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 0 8\n2 8 8 6\n合计：",
+   "want": "10094",
+   "got": "10094",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 3 2\n5 1 3 3\n合计：",
+   "want": "11965",
+   "got": "11965",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 4 3\n8 9 3 5\n合计：",
+   "want": "16678",
+   "got": "16678",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 4 4\n4 2 1 5\n合计：",
+   "want": "12159",
+   "got": "12159",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 7 0\n5 6 2 3\n合计：",
+   "want": "13293",
+   "got": "13283",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 0 9\n8 7 2 0\n合计：",
+   "want": "14029",
+   "got": "14029",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 1 3\n4 9 8 0\n合计：",
+   "want": "14193",
+   "got": "14193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 5 9\n5 2 5 2\n合计：",
+   "want": "10611",
+   "got": "10610",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 9 1\n8 0 5 6\n合计：",
+   "want": "15347",
+   "got": "15347",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 1 9\n4 5 2 8\n合计：",
+   "want": "12847",
+   "got": "12847",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 5 5\n7 1 7 8\n合计：",
+   "want": "8833",
+   "got": "8833",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 0 4\n5 3 3 9\n合计：",
+   "want": "13443",
+   "got": "13443",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 4 5\n8 5 3 5\n合计：",
+   "want": "9680",
+   "got": "96710",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1 5 1 3\n3 1 4 8\n合计：",
+   "want": "4661",
+   "got": "4660",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 8 7\n6 5 9 4\n合计：",
+   "want": "12481",
+   "got": "12481",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 9 0\n3 2 9 1\n合计：",
+   "want": "6381",
+   "got": "6381",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 4 4\n4 1 1 3\n合计：",
+   "want": "11357",
+   "got": "10357",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 4 3\n5 8 9 6\n合计：",
+   "want": "13839",
+   "got": "13839",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 1 7\n4 0 0 5\n合计：",
+   "want": "5422",
+   "got": "5421",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 4 1\n8 2 0 9\n合计：",
+   "want": "9650",
+   "got": "9649",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 0 6\n3 7 9 9\n合计：",
+   "want": "11605",
+   "got": "11505",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 4 4\n7 5 9 3\n合计：",
+   "want": "11937",
+   "got": "11837",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 3 2\n2 7 9 0\n合计：",
+   "want": "4522",
+   "got": "4523",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 1 0\n1 1 2 5\n合计：",
+   "want": "9235",
+   "got": "9245",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 3 5\n5 3 9 4\n合计：",
+   "want": "11929",
+   "got": "11929",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 5 1\n4 1 7 8\n合计：",
+   "want": "7129",
+   "got": "6130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 0 5\n9 9 4 9\n合计：",
+   "want": "15254",
+   "got": "15254",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 5 8\n3 6 0 1\n合计：",
+   "want": "5859",
+   "got": "5859",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 6 4\n1 9 7 3\n合计：",
+   "want": "11237",
+   "got": "11236",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 9 1 2\n3 0 0 4\n合计：",
+   "want": "6916",
+   "got": "6916",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 0 2\n1 1 9 1\n合计：",
+   "want": "2693",
+   "got": "2893",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 0 8\n8 7 5 3\n合计：",
+   "want": "9761",
+   "got": "9761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 9 0\n5 0 5 4\n合计：",
+   "want": "8644",
+   "got": "8644",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 5 1\n5 3 8 7\n合计：",
+   "want": "9138",
+   "got": "9138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 2 9\n8 8 6 5\n合计：",
+   "want": "12094",
+   "got": "12094",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 6 8\n1 8 5 5\n合计：",
+   "want": "6823",
+   "got": "6822",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 4 8\n6 2 6 7\n合计：",
+   "want": "15615",
+   "got": "15616",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 3 1\n7 0 1 8\n合计：",
+   "want": "13149",
+   "got": "13149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 3 0\n9 4 0 9\n合计：",
+   "want": "15839",
+   "got": "15839",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 4 0\n8 7 4 1\n合计：",
+   "want": "12581",
+   "got": "12581",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 6 5\n8 9 8 6\n合计：",
+   "want": "11451",
+   "got": "11450",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 1 6\n5 9 5 6\n合计：",
+   "want": "14372",
+   "got": "14362",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 9 7\n7 4 2 0\n合计：",
+   "want": "16517",
+   "got": "16517",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 5 0\n2 8 3 6\n合计：",
+   "want": "4486",
+   "got": "4486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 7 5\n5 4 7 5\n合计：",
+   "want": "15250",
+   "got": "15250",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 1 3\n6 7 6 4\n合计：",
+   "want": "14277",
+   "got": "14277",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 2 7\n5 7 4 0\n合计：",
+   "want": "13167",
+   "got": "13167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 6 1\n7 3 5 7\n合计：",
+   "want": "8918",
+   "got": "8918",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 9 6\n6 4 4 0\n合计：",
+   "want": "12836",
+   "got": "12836",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 1 9\n8 1 4 1\n合计：",
+   "want": "17160",
+   "got": "17160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 0 7\n3 4 0 3\n合计：",
+   "want": "6910",
+   "got": "6910",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 0 7\n6 9 5 2\n合计：",
+   "want": "13559",
+   "got": "13559",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 5 5\n4 5 5 3\n合计：",
+   "want": "5708",
+   "got": "6778",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 4 6\n1 6 8 5\n合计：",
+   "want": "5031",
+   "got": "5031",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 8 0\n5 2 7 6\n合计：",
+   "want": "12456",
+   "got": "12456",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 0 8 4\n4 7 9 0\n合计：",
+   "want": "12874",
+   "got": "12874",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 2 9 9\n9 9 2 7 5\n合计：",
+   "want": "126574",
+   "got": "126574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 0 2 2\n1 4 7 7 1\n合计：",
+   "want": "33793",
+   "got": "33793",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 9 1 8\n9 0 5 1 6\n合计：",
+   "want": "122434",
+   "got": "122634",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 5 2 0\n6 1 7 7 8\n合计：",
+   "want": "161298",
+   "got": "161308",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 8 8 1\n5 8 0 7 3\n合计：",
+   "want": "151954",
+   "got": "151954",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 8 2 6\n4 7 6 8 5\n合计：",
+   "want": "120511",
+   "got": "110501",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 3 2 6\n7 8 5 6 0\n合计：",
+   "want": "166886",
+   "got": "166886",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 1 0 8\n9 6 6 4 0\n合计：",
+   "want": "180748",
+   "got": "170748",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 9 1 2\n1 3 9 5 0\n合计：",
+   "want": "30862",
+   "got": "39862",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 0 8 8\n8 6 9 4 0\n合计：",
+   "want": "174028",
+   "got": "173929",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 8 4 2\n1 2 7 7 6\n合计：",
+   "want": "90618",
+   "got": "90608",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 7 3 5\n4 1 9 3 5\n合计：",
+   "want": "118670",
+   "got": "118660",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 7 6 3\n9 0 7 1 3\n合计：",
+   "want": "112476",
+   "got": "112476",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 8 5 5\n7 6 5 3 3\n合计：",
+   "want": "114388",
+   "got": "114388",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 1 4 3\n7 1 5 6 5\n合计：",
+   "want": "99708",
+   "got": "109708",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 6 8 2 5\n3 1 2 4 6\n合计：",
+   "want": "98071",
+   "got": "98071",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 9 6 3\n1 6 5 1 3\n合计：",
+   "want": "41476",
+   "got": "41376",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 4 4 9\n4 4 7 1 7\n合计：",
+   "want": "102166",
+   "got": "102266",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 0 7 8\n1 8 5 8 3\n合计：",
+   "want": "81661",
+   "got": "81661",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 3 7 5\n9 4 9 0 4\n合计：",
+   "want": "172279",
+   "got": "172279",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 5 0 8\n3 8 0 3 2\n合计：",
+   "want": "133540",
+   "got": "133539",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 1 8 7\n5 0 7 2 3\n合计：",
+   "want": "70910",
+   "got": "79900",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 0 1 6 7\n7 7 5 8 6\n合计：",
+   "want": "147753",
+   "got": "147753",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 3 9 4\n4 1 9 5 8\n合计：",
+   "want": "131352",
+   "got": "131252",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 1 5 5\n2 1 3 8 4\n合计：",
+   "want": "120539",
+   "got": "120539",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 7 0 4\n8 8 9 6 2\n合计：",
+   "want": "150666",
+   "got": "140666",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 9 5 8\n1 3 7 3 5\n合计：",
+   "want": "68693",
+   "got": "68693",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 6 3 8\n7 8 2 5 4\n合计：",
+   "want": "167892",
+   "got": "167892",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 0 1 4\n3 4 1 9 4\n合计：",
+   "want": "93208",
+   "got": "93208",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 2 5 7\n4 5 5 3 4\n合计：",
+   "want": "81791",
+   "got": "81791",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 5 8 9\n5 7 5 7 9\n合计：",
+   "want": "152168",
+   "got": "152168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 2 6 5\n8 4 4 8 1\n合计：",
+   "want": "117746",
+   "got": "117746",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 5 9 8\n6 3 0 5 4\n合计：",
+   "want": "93652",
+   "got": "93652",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 3 1 3\n6 6 6 8 9\n合计：",
+   "want": "149002",
+   "got": "148900",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 1 6 5\n5 8 0 1 6\n合计：",
+   "want": "141181",
+   "got": "141281",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 7 5 7\n2 8 6 6 7\n合计：",
+   "want": "87424",
+   "got": "87425",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 7 2 9\n3 5 6 6 5\n合计：",
+   "want": "110394",
+   "got": "110394",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 1 7 9\n2 8 9 4 6\n合计：",
+   "want": "91125",
+   "got": "91025",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 6 2 7\n6 0 9 7 8\n合计：",
+   "want": "80605",
+   "got": "89605",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 4 9 9\n1 3 9 7 2\n合计：",
+   "want": "104471",
+   "got": "104470",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 4 9 4\n3 5 4 9 0\n合计：",
+   "want": "56984",
+   "got": "57984",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 2 5 6\n7 4 1 1 0\n合计：",
+   "want": "113366",
+   "got": "113366",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 5 2 1\n1 0 9 6 1\n合计：",
+   "want": "32482",
+   "got": "32482",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 1 5 8\n3 3 1 2 2\n合计：",
+   "want": "75280",
+   "got": "75270",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 6 8 2\n4 0 0 4 0\n合计：",
+   "want": "52722",
+   "got": "52722",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 1 2 8\n5 4 8 5 5\n合计：",
+   "want": "120983",
+   "got": "121083",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 3 6 0\n3 4 9 3 3\n合计：",
+   "want": "59293",
+   "got": "59293",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 3 6 0 9\n8 9 2 5 0\n合计：",
+   "want": "102859",
+   "got": "102859",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 2 0 8\n4 9 5 9 8\n合计：",
+   "want": "139806",
+   "got": "149796",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 0 7 2\n4 0 4 0 8\n合计：",
+   "want": "92480",
+   "got": "92479",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 6 7 5\n1 6 8 8 8\n合计：",
+   "want": "72563",
+   "got": "73553",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 0 4 2\n1 3 6 8 7\n合计：",
+   "want": "47729",
+   "got": "47729",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 0 4 2\n3 2 6 3 0\n合计：",
+   "want": "47672",
+   "got": "47672",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 8 9 4\n6 3 1 2 1\n合计：",
+   "want": "161015",
+   "got": "161015",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 5 6 4\n5 5 6 1 9\n合计：",
+   "want": "108183",
+   "got": "108173",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 0 0 2\n9 1 9 7 7\n合计：",
+   "want": "164979",
+   "got": "164979",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 8 3 4\n5 2 5 9 3\n合计：",
+   "want": "120427",
+   "got": "110427",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 2 1 9\n8 1 0 2 9\n合计：",
+   "want": "96248",
+   "got": "96248",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 5 9 7\n6 0 0 3 9\n合计：",
+   "want": "151636",
+   "got": "151636",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 7 0 7\n2 3 3 7 5\n合计：",
+   "want": "93082",
+   "got": "93082",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 3 7 4 6\n9 0 8 6 7\n合计：",
+   "want": "104613",
+   "got": "104603",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 3 0 0\n2 7 8 8 8\n合计：",
+   "want": "62188",
+   "got": "62288",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 8 8 7\n1 4 3 4 8\n合计：",
+   "want": "51235",
+   "got": "61335",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 0 8 4\n8 0 3 2 7\n合计：",
+   "want": "152411",
+   "got": "142411",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 3 8 9\n2 6 5 5 0\n合计：",
+   "want": "102939",
+   "got": "102939",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 5 7 2\n7 3 3 3 1\n合计：",
+   "want": "122903",
+   "got": "122803",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 2 3 6\n5 0 6 3 5\n合计：",
+   "want": "137871",
+   "got": "137871",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 1 3 0\n2 0 8 5 6\n合计：",
+   "want": "111986",
+   "got": "111986",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 6 2 4\n2 2 4 2 1\n合计：",
+   "want": "73045",
+   "got": "72945",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 7 4 5\n2 7 4 9 8\n合计：",
+   "want": "76243",
+   "got": "76223",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 0 7 6\n2 4 4 9 1\n合计：",
+   "want": "44567",
+   "got": "44567",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 2 7 6\n8 1 3 4 5\n合计：",
+   "want": "129621",
+   "got": "130620",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 9 8 9\n4 6 8 9 7\n合计：",
+   "want": "131886",
+   "got": "131786",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 1 6 9\n2 1 8 9 4\n合计：",
+   "want": "87063",
+   "got": "87063",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 0 8 2\n9 6 0 6 4\n合计：",
+   "want": "141146",
+   "got": "141146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 3 3 5\n8 4 0 5 6\n合计：",
+   "want": "153391",
+   "got": "153391",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 0 1 3\n2 9 6 7 6\n合计：",
+   "want": "100689",
+   "got": "100689",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 3 3 7 8\n1 9 6 7 7\n合计：",
+   "want": "73055",
+   "got": "73055",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 3 8 8\n5 2 4 0 7\n合计：",
+   "want": "131795",
+   "got": "131795",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 5 5 1\n2 4 8 8 3\n合计：",
+   "want": "49434",
+   "got": "59434",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 0 1 1\n2 9 6 6 7\n合计：",
+   "want": "41678",
+   "got": "31678",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 4 7 1\n4 3 9 8 8\n合计：",
+   "want": "127459",
+   "got": "127459",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 4 0 0\n1 7 2 0 0\n合计：",
+   "want": "91600",
+   "got": "91610",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 7 6 2\n9 2 1 3 2\n合计：",
+   "want": "107894",
+   "got": "107894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 0 6 7\n9 2 4 6 5\n合计：",
+   "want": "152532",
+   "got": "152632",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 7 7 1\n2 1 8 0 7\n合计：",
+   "want": "91578",
+   "got": "91678",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 5 0 1\n8 3 3 5 2\n合计：",
+   "want": "179853",
+   "got": "179853",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 9 8 4\n4 4 6 6 4\n合计：",
+   "want": "121648",
+   "got": "121648",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 9 0 8\n8 1 5 1 0\n合计：",
+   "want": "116418",
+   "got": "116418",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 6 8 2\n6 7 5 4 1\n合计：",
+   "want": "79223",
+   "got": "89224",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 7 4 0\n9 2 1 9 4\n合计：",
+   "want": "180934",
+   "got": "180934",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 6 7 8\n9 3 5 0 7\n合计：",
+   "want": "192185",
+   "got": "192195",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 1 9 1\n9 6 0 7 0\n合计：",
+   "want": "141261",
+   "got": "141281",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 5 0 4\n2 5 3 4 8\n合计：",
+   "want": "107852",
+   "got": "107852",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 8 0 2\n6 8 5 0 9\n合计：",
+   "want": "101311",
+   "got": "101410",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 6 7 4\n2 2 2 5 9\n合计：",
+   "want": "111933",
+   "got": "111833",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 4 2 7\n9 2 7 6 1\n合计：",
+   "want": "126188",
+   "got": "126178",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 2 2 0\n6 6 8 7 3\n合计：",
+   "want": "156093",
+   "got": "156093",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 1 9 3\n3 2 6 1 6\n合计：",
+   "want": "127809",
+   "got": "127809",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 9 8 1\n8 8 9 2 4\n合计：",
+   "want": "103905",
+   "got": "103905",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

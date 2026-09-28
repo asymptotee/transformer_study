@@ -1,0 +1,6431 @@
+{
+ "label": "mixed_S1同款",
+ "by_rung": {
+  "2": [
+   189,
+   199,
+   0,
+   200
+  ],
+  "3": [
+   185,
+   198,
+   0,
+   200
+  ],
+  "4": [
+   164,
+   200,
+   0,
+   200
+  ],
+  "5": [
+   146,
+   199,
+   0,
+   200
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "5 9 + 8 4 =",
+   "want": "143",
+   "got": "143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 + 3 7 =",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 + 3 4 =",
+   "want": "65",
+   "got": "65",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 + 9 5 =",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 + 2 1 =",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 + 4 6 =",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 + 6 6 =",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 9 + 9 1 =",
+   "want": "160",
+   "got": "160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 + 1 3 =",
+   "want": "37",
+   "got": "37",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 + 3 1 =",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 + 6 6 =",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 + 4 8 =",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 + 2 0 =",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 + 4 2 =",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 + 3 0 =",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 + 5 1 =",
+   "want": "148",
+   "got": "148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 + 1 9 =",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 + 9 3 =",
+   "want": "172",
+   "got": "172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6 + 9 4 =",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 + 3 7 =",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 + 5 3 =",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 + 4 9 =",
+   "want": "67",
+   "got": "67",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2 + 4 1 =",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 + 8 6 =",
+   "want": "181",
+   "got": "181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 + 7 2 =",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 + 4 4 =",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 + 4 5 =",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 + 2 1 =",
+   "want": "56",
+   "got": "56",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 + 7 3 =",
+   "want": "156",
+   "got": "156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 + 9 3 =",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 + 5 1 =",
+   "want": "79",
+   "got": "89",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 + 3 5 =",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 + 8 7 =",
+   "want": "182",
+   "got": "182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 + 7 0 =",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4 + 4 3 =",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 + 3 8 =",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 8 + 4 1 =",
+   "want": "119",
+   "got": "129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 + 9 0 =",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 + 4 3 =",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 + 9 2 =",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 + 9 3 =",
+   "want": "172",
+   "got": "172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 + 6 0 =",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 + 4 9 =",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 + 1 8 =",
+   "want": "79",
+   "got": "89",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 + 5 6 =",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 + 4 2 =",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 + 8 3 =",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 5 + 5 3 =",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 + 5 7 =",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 + 1 7 =",
+   "want": "31",
+   "got": "31",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 + 9 9 =",
+   "want": "166",
+   "got": "166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 + 6 6 =",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 + 2 1 =",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 + 2 0 =",
+   "want": "34",
+   "got": "34",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 + 6 2 =",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 + 7 8 =",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 + 8 3 =",
+   "want": "156",
+   "got": "156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 + 6 2 =",
+   "want": "139",
+   "got": "149",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 + 3 8 =",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 + 4 8 =",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 + 4 7 =",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 + 5 3 =",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 + 8 4 =",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 2 + 1 2 =",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 + 7 9 =",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 + 9 8 =",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 2 + 6 3 =",
+   "want": "155",
+   "got": "155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 + 9 0 =",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 + 4 7 =",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 + 6 7 =",
+   "want": "111",
+   "got": "111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 + 9 6 =",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 + 5 0 =",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 + 6 0 =",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 2 + 7 1 =",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 9 + 1 8 =",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 + 3 9 =",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 + 7 7 =",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 + 8 5 =",
+   "want": "178",
+   "got": "178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 + 6 7 =",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 + 3 2 =",
+   "want": "59",
+   "got": "59",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 + 2 4 =",
+   "want": "40",
+   "got": "30",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 + 1 6 =",
+   "want": "36",
+   "got": "36",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 + 1 3 =",
+   "want": "53",
+   "got": "53",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 + 9 9 =",
+   "want": "180",
+   "got": "180",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 + 1 6 =",
+   "want": "88",
+   "got": "98",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 + 5 2 =",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 + 2 3 =",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 + 2 4 =",
+   "want": "57",
+   "got": "57",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 + 7 4 =",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 + 8 6 =",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 + 7 3 =",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 + 4 9 =",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 + 9 7 =",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 + 6 8 =",
+   "want": "161",
+   "got": "161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 + 9 2 =",
+   "want": "160",
+   "got": "160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 + 6 2 =",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 + 2 9 =",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 + 2 0 =",
+   "want": "73",
+   "got": "73",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 + 7 7 =",
+   "want": "111",
+   "got": "111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 + 3 3 =",
+   "want": "62",
+   "got": "62",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 + 6 6 =",
+   "want": "92",
+   "got": "82",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 + 4 6 =",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 + 9 2 =",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 + 2 7 =",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 + 2 2 =",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 + 9 1 =",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 + 8 7 =",
+   "want": "174",
+   "got": "174",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 + 4 4 =",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 9 + 1 8 =",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 + 3 7 =",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 + 8 9 =",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2 + 7 0 =",
+   "want": "152",
+   "got": "152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 + 5 3 =",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 + 9 8 =",
+   "want": "166",
+   "got": "166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 + 1 5 =",
+   "want": "44",
+   "got": "44",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 + 3 1 =",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 + 3 8 =",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 + 3 9 =",
+   "want": "50",
+   "got": "50",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 + 4 9 =",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 + 9 6 =",
+   "want": "166",
+   "got": "166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 + 8 4 =",
+   "want": "173",
+   "got": "173",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 + 5 2 =",
+   "want": "92",
+   "got": "92",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 + 4 0 =",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 + 7 0 =",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 + 4 6 =",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 + 4 0 =",
+   "want": "53",
+   "got": "53",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4 + 9 0 =",
+   "want": "144",
+   "got": "144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 + 8 2 =",
+   "want": "168",
+   "got": "168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 + 3 8 =",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6 + 3 9 =",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 + 6 0 =",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 + 1 9 =",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 + 5 5 =",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 6 + 6 7 =",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 + 6 7 =",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 + 8 2 =",
+   "want": "152",
+   "got": "152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 + 4 0 =",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 + 2 3 =",
+   "want": "37",
+   "got": "37",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 + 7 6 =",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 + 4 8 =",
+   "want": "61",
+   "got": "61",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 1 + 7 9 =",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 + 8 4 =",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 + 5 6 =",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 + 9 7 =",
+   "want": "132",
+   "got": "132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 + 3 7 =",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 + 2 8 =",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 + 9 2 =",
+   "want": "116",
+   "got": "106",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 + 3 7 =",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 + 4 2 =",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 + 9 0 =",
+   "want": "178",
+   "got": "178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 + 3 0 =",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 + 7 6 =",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 + 4 6 =",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 + 4 6 =",
+   "want": "76",
+   "got": "76",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 + 2 8 =",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 + 8 8 =",
+   "want": "146",
+   "got": "146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 2 + 1 9 =",
+   "want": "31",
+   "got": "31",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 + 7 1 =",
+   "want": "111",
+   "got": "111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 + 4 1 =",
+   "want": "51",
+   "got": "51",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 + 7 2 =",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 + 2 7 =",
+   "want": "99",
+   "got": "109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "7 8 + 3 9 =",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 + 5 4 =",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2 + 8 7 =",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 1 + 9 3 =",
+   "want": "184",
+   "got": "184",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 + 5 3 =",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 0 + 3 2 =",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 + 8 7 =",
+   "want": "181",
+   "got": "181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 + 8 4 =",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 + 5 3 =",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 + 8 6 =",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 + 3 9 =",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 + 7 0 =",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 + 8 1 =",
+   "want": "139",
+   "got": "149",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7 + 6 9 =",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 + 5 6 =",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 + 3 5 =",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 + 9 5 =",
+   "want": "165",
+   "got": "165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 + 9 2 =",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 + 7 8 =",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 + 4 5 =",
+   "want": "55",
+   "got": "55",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 + 2 7 =",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 + 1 9 =",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4 + 7 7 =",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 + 8 9 =",
+   "want": "166",
+   "got": "166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 + 6 7 =",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 0 + 5 0 =",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 + 3 4 =",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 + 1 0 =",
+   "want": "41",
+   "got": "41",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 + 8 7 =",
+   "want": "144",
+   "got": "144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 + 8 9 =",
+   "want": "159",
+   "got": "159",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 + 2 6 =",
+   "want": "41",
+   "got": "31",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 + 3 0 =",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 + 9 3 =",
+   "want": "146",
+   "got": "146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 + 6 4 =",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 + 9 2 =",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5 + 3 9 =",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 5 + 8 9 =",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 + 3 5 =",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 + 3 9 =",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 3 + 9 8 3 =",
+   "want": "1306",
+   "got": "1306",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 4 + 5 4 4 =",
+   "want": "918",
+   "got": "918",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 5 + 6 1 5 =",
+   "want": "870",
+   "got": "870",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 7 + 8 6 5 =",
+   "want": "1542",
+   "got": "1542",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 2 + 7 1 7 =",
+   "want": "1619",
+   "got": "1619",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 7 + 8 3 6 =",
+   "want": "1173",
+   "got": "1173",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 4 + 6 3 3 =",
+   "want": "1547",
+   "got": "1547",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 8 + 3 8 2 =",
+   "want": "600",
+   "got": "500",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 4 + 8 3 8 =",
+   "want": "1052",
+   "got": "1052",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 0 + 2 2 9 =",
+   "want": "339",
+   "got": "339",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 7 + 8 4 1 =",
+   "want": "1308",
+   "got": "1308",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 6 + 9 1 5 =",
+   "want": "1601",
+   "got": "1601",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 2 + 2 4 5 =",
+   "want": "767",
+   "got": "767",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 6 + 1 0 2 =",
+   "want": "738",
+   "got": "738",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 5 + 7 4 1 =",
+   "want": "1206",
+   "got": "1206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 0 + 5 2 0 =",
+   "want": "810",
+   "got": "810",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 5 + 3 9 6 =",
+   "want": "1041",
+   "got": "1041",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 0 + 2 4 0 =",
+   "want": "1030",
+   "got": "1030",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 0 + 3 6 4 =",
+   "want": "1304",
+   "got": "1304",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 5 + 3 1 2 =",
+   "want": "487",
+   "got": "487",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 6 + 2 0 2 =",
+   "want": "1168",
+   "got": "1168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 8 + 5 4 2 =",
+   "want": "1430",
+   "got": "1430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 2 + 4 0 9 =",
+   "want": "1311",
+   "got": "1311",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 0 + 7 1 5 =",
+   "want": "965",
+   "got": "965",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 1 + 8 4 0 =",
+   "want": "1271",
+   "got": "1271",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 9 + 9 6 9 =",
+   "want": "1168",
+   "got": "1168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 9 + 5 1 5 =",
+   "want": "854",
+   "got": "854",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 4 + 9 6 3 =",
+   "want": "1307",
+   "got": "1307",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 4 + 7 2 7 =",
+   "want": "991",
+   "got": "991",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 0 + 6 0 9 =",
+   "want": "1519",
+   "got": "1519",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 7 + 8 6 7 =",
+   "want": "1084",
+   "got": "1084",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 3 + 1 9 7 =",
+   "want": "330",
+   "got": "330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 3 3 + 3 8 3 =",
+   "want": "1116",
+   "got": "1116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 7 + 5 4 4 =",
+   "want": "1071",
+   "got": "1071",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 4 + 5 8 1 =",
+   "want": "1215",
+   "got": "1215",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 1 + 3 8 9 =",
+   "want": "590",
+   "got": "590",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 2 + 8 5 1 =",
+   "want": "1323",
+   "got": "1323",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 4 + 7 1 9 =",
+   "want": "1433",
+   "got": "1433",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 4 + 5 0 1 =",
+   "want": "1045",
+   "got": "1045",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 8 + 2 6 2 =",
+   "want": "760",
+   "got": "760",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 9 + 4 0 4 =",
+   "want": "653",
+   "got": "653",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 4 + 1 9 7 =",
+   "want": "1141",
+   "got": "1141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 8 + 5 8 1 =",
+   "want": "1519",
+   "got": "1519",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 8 + 9 3 9 =",
+   "want": "1047",
+   "got": "1047",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 4 + 9 7 2 =",
+   "want": "1846",
+   "got": "1846",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 4 + 1 1 6 =",
+   "want": "360",
+   "got": "360",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 0 + 9 0 5 =",
+   "want": "1595",
+   "got": "1595",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 1 + 7 6 2 =",
+   "want": "1653",
+   "got": "1653",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 9 2 + 5 5 3 =",
+   "want": "1545",
+   "got": "1545",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 6 + 1 3 2 =",
+   "want": "878",
+   "got": "878",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 0 + 1 7 3 =",
+   "want": "533",
+   "got": "533",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 5 + 2 8 5 =",
+   "want": "1070",
+   "got": "1070",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 0 + 3 9 3 =",
+   "want": "1103",
+   "got": "1103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 8 + 2 7 4 =",
+   "want": "782",
+   "got": "782",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 2 + 2 2 4 =",
+   "want": "706",
+   "got": "706",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 1 + 8 9 5 =",
+   "want": "1586",
+   "got": "1586",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 7 + 3 5 7 =",
+   "want": "1064",
+   "got": "1064",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 3 + 7 6 1 =",
+   "want": "984",
+   "got": "984",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 4 + 8 6 4 =",
+   "want": "1328",
+   "got": "1328",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 6 + 4 3 5 =",
+   "want": "1061",
+   "got": "1061",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 2 + 3 5 9 =",
+   "want": "1231",
+   "got": "1231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 6 + 9 2 1 =",
+   "want": "1717",
+   "got": "1717",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 6 + 6 8 0 =",
+   "want": "1436",
+   "got": "1436",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 7 + 6 4 4 =",
+   "want": "1471",
+   "got": "1471",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 1 + 7 7 7 =",
+   "want": "1238",
+   "got": "1238",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 4 3 + 2 4 8 =",
+   "want": "691",
+   "got": "691",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 6 + 6 7 3 =",
+   "want": "1459",
+   "got": "1459",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 2 + 2 3 4 =",
+   "want": "576",
+   "got": "576",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 8 6 + 2 4 7 =",
+   "want": "1233",
+   "got": "1233",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 8 + 3 3 5 =",
+   "want": "1173",
+   "got": "1173",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 0 + 4 9 3 =",
+   "want": "1023",
+   "got": "1023",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 7 + 9 8 5 =",
+   "want": "1502",
+   "got": "1402",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 0 + 2 0 7 =",
+   "want": "897",
+   "got": "897",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 6 + 3 6 3 =",
+   "want": "899",
+   "got": "899",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 1 + 1 5 0 =",
+   "want": "661",
+   "got": "661",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 4 + 5 0 7 =",
+   "want": "921",
+   "got": "921",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 0 + 4 8 6 =",
+   "want": "796",
+   "got": "796",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 9 + 3 8 2 =",
+   "want": "601",
+   "got": "501",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 3 + 2 9 5 =",
+   "want": "528",
+   "got": "428",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 2 + 9 6 5 =",
+   "want": "1537",
+   "got": "1537",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 6 + 7 4 7 =",
+   "want": "1713",
+   "got": "1713",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 2 + 2 6 0 =",
+   "want": "692",
+   "got": "692",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 6 + 7 4 9 =",
+   "want": "1635",
+   "got": "1635",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 8 + 1 2 6 =",
+   "want": "804",
+   "got": "804",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 3 + 8 3 9 =",
+   "want": "1162",
+   "got": "1162",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 5 + 7 0 1 =",
+   "want": "976",
+   "got": "976",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 4 + 7 5 9 =",
+   "want": "1183",
+   "got": "1183",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 5 + 7 9 1 =",
+   "want": "976",
+   "got": "976",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 2 + 1 9 9 =",
+   "want": "471",
+   "got": "471",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 0 + 6 6 2 =",
+   "want": "1332",
+   "got": "1332",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 2 + 7 0 2 =",
+   "want": "1584",
+   "got": "1584",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 6 + 7 9 0 =",
+   "want": "1126",
+   "got": "1126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 3 + 3 0 1 =",
+   "want": "634",
+   "got": "634",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 9 + 4 5 9 =",
+   "want": "1298",
+   "got": "1298",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 5 + 6 8 2 =",
+   "want": "1307",
+   "got": "1307",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 1 + 3 4 8 =",
+   "want": "899",
+   "got": "899",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 6 + 5 5 2 =",
+   "want": "1298",
+   "got": "1398",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 0 + 3 4 6 =",
+   "want": "1226",
+   "got": "1226",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 9 4 + 9 8 2 =",
+   "want": "1576",
+   "got": "1576",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 0 + 7 9 4 =",
+   "want": "1194",
+   "got": "1194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 7 + 3 0 7 =",
+   "want": "1004",
+   "got": "1004",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 4 + 9 9 8 =",
+   "want": "1642",
+   "got": "1642",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 3 + 5 1 3 =",
+   "want": "1436",
+   "got": "1436",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 0 + 1 5 3 =",
+   "want": "253",
+   "got": "253",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 2 + 4 3 2 =",
+   "want": "1214",
+   "got": "1214",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 0 + 2 3 0 =",
+   "want": "470",
+   "got": "470",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 3 + 9 3 0 =",
+   "want": "1223",
+   "got": "1223",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 9 + 9 6 1 =",
+   "want": "1470",
+   "got": "1470",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 8 + 3 1 4 =",
+   "want": "582",
+   "got": "582",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 0 + 2 1 3 =",
+   "want": "603",
+   "got": "603",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 0 + 4 5 9 =",
+   "want": "869",
+   "got": "869",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 3 + 3 5 7 =",
+   "want": "940",
+   "got": "940",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 7 + 1 8 3 =",
+   "want": "610",
+   "got": "610",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 9 + 2 3 4 =",
+   "want": "1173",
+   "got": "1173",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 7 + 1 6 0 =",
+   "want": "597",
+   "got": "597",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 0 + 5 6 6 =",
+   "want": "1086",
+   "got": "1086",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 6 + 5 4 1 =",
+   "want": "1167",
+   "got": "1167",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 5 + 8 2 0 =",
+   "want": "1385",
+   "got": "1385",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 9 + 9 5 3 =",
+   "want": "1822",
+   "got": "1822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 1 + 9 9 5 =",
+   "want": "1416",
+   "got": "1416",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 3 + 6 7 1 =",
+   "want": "914",
+   "got": "814",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 6 + 8 7 6 =",
+   "want": "1122",
+   "got": "1122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 3 + 1 4 7 =",
+   "want": "550",
+   "got": "550",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 6 + 1 7 2 =",
+   "want": "668",
+   "got": "668",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 2 + 9 3 6 =",
+   "want": "1438",
+   "got": "1438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 3 + 4 9 3 =",
+   "want": "1456",
+   "got": "1456",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 4 + 2 0 6 =",
+   "want": "740",
+   "got": "740",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 3 + 3 4 2 =",
+   "want": "605",
+   "got": "505",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 4 + 1 2 6 =",
+   "want": "840",
+   "got": "940",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 6 + 3 8 2 =",
+   "want": "748",
+   "got": "748",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 2 + 2 1 0 =",
+   "want": "492",
+   "got": "492",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 7 + 2 5 8 =",
+   "want": "1055",
+   "got": "1055",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 6 + 2 2 8 =",
+   "want": "394",
+   "got": "394",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 3 + 1 2 3 =",
+   "want": "526",
+   "got": "526",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 1 + 3 0 6 =",
+   "want": "1207",
+   "got": "1207",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 1 + 5 9 7 =",
+   "want": "778",
+   "got": "778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 3 + 1 8 6 =",
+   "want": "909",
+   "got": "909",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 7 + 3 3 6 =",
+   "want": "1083",
+   "got": "1083",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 2 + 8 0 4 =",
+   "want": "1666",
+   "got": "1666",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 0 + 9 1 6 =",
+   "want": "1756",
+   "got": "1756",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 6 + 9 7 2 =",
+   "want": "1488",
+   "got": "1488",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 3 + 7 4 3 =",
+   "want": "1006",
+   "got": "906",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "3 7 5 + 5 3 5 =",
+   "want": "910",
+   "got": "910",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 2 + 4 7 6 =",
+   "want": "858",
+   "got": "858",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 7 + 2 2 5 =",
+   "want": "1052",
+   "got": "1052",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 8 + 1 5 4 =",
+   "want": "372",
+   "got": "372",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 2 + 7 5 9 =",
+   "want": "1011",
+   "got": "911",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "4 8 3 + 3 9 0 =",
+   "want": "873",
+   "got": "873",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 0 + 5 7 6 =",
+   "want": "836",
+   "got": "836",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 9 + 7 8 4 =",
+   "want": "1373",
+   "got": "1373",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 8 + 9 2 4 =",
+   "want": "1172",
+   "got": "1172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 0 + 2 1 8 =",
+   "want": "968",
+   "got": "968",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 1 + 3 6 9 =",
+   "want": "850",
+   "got": "850",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 3 + 4 3 6 =",
+   "want": "569",
+   "got": "579",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 1 + 3 7 2 =",
+   "want": "643",
+   "got": "643",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 0 + 8 8 7 =",
+   "want": "1307",
+   "got": "1307",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 7 + 2 6 8 =",
+   "want": "845",
+   "got": "845",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 0 + 5 8 0 =",
+   "want": "1300",
+   "got": "1300",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 6 + 1 9 7 =",
+   "want": "703",
+   "got": "603",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 5 + 9 5 8 =",
+   "want": "1353",
+   "got": "1353",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 0 + 1 2 4 =",
+   "want": "234",
+   "got": "234",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 9 + 3 6 6 =",
+   "want": "1185",
+   "got": "1185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 7 + 8 5 0 =",
+   "want": "1027",
+   "got": "1027",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 8 + 8 0 9 =",
+   "want": "1387",
+   "got": "1387",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 0 + 2 9 0 =",
+   "want": "1250",
+   "got": "1250",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 0 + 3 0 1 =",
+   "want": "1141",
+   "got": "1141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 9 + 8 0 5 =",
+   "want": "1574",
+   "got": "1574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 5 + 3 3 8 =",
+   "want": "533",
+   "got": "533",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 3 + 9 1 5 =",
+   "want": "1638",
+   "got": "1638",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 0 + 1 2 6 =",
+   "want": "366",
+   "got": "366",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 7 + 7 1 6 =",
+   "want": "983",
+   "got": "983",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 6 + 1 2 1 =",
+   "want": "1007",
+   "got": "1007",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 8 + 9 0 5 =",
+   "want": "1463",
+   "got": "1463",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 1 + 7 0 4 =",
+   "want": "895",
+   "got": "895",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 8 + 6 8 2 =",
+   "want": "1500",
+   "got": "1400",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 6 + 4 8 0 =",
+   "want": "1166",
+   "got": "1166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 2 + 9 0 1 =",
+   "want": "1673",
+   "got": "1673",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 0 + 1 3 5 =",
+   "want": "835",
+   "got": "835",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 4 + 2 5 6 =",
+   "want": "550",
+   "got": "550",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 5 + 1 1 2 =",
+   "want": "327",
+   "got": "327",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 8 + 7 4 2 =",
+   "want": "1580",
+   "got": "1580",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 1 + 1 6 6 =",
+   "want": "1047",
+   "got": "1047",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 7 7 + 1 0 7 =",
+   "want": "784",
+   "got": "784",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 2 + 9 7 3 =",
+   "want": "1095",
+   "got": "1095",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 0 + 4 2 2 =",
+   "want": "932",
+   "got": "932",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 9 + 4 7 2 =",
+   "want": "1351",
+   "got": "1351",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 0 + 2 1 3 =",
+   "want": "1163",
+   "got": "1163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 8 + 2 6 1 =",
+   "want": "739",
+   "got": "739",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 1 + 5 2 7 =",
+   "want": "1488",
+   "got": "1488",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 4 + 2 0 9 =",
+   "want": "333",
+   "got": "333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 7 + 3 4 2 =",
+   "want": "1089",
+   "got": "1099",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 2 + 1 1 1 =",
+   "want": "643",
+   "got": "643",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 5 + 3 7 0 =",
+   "want": "525",
+   "got": "525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 9 + 7 0 7 =",
+   "want": "1146",
+   "got": "1146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 9 + 9 7 2 =",
+   "want": "1861",
+   "got": "1861",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 4 + 4 3 2 =",
+   "want": "1346",
+   "got": "1346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 7 + 6 4 8 =",
+   "want": "1485",
+   "got": "1485",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 9 + 1 9 3 =",
+   "want": "442",
+   "got": "442",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 2 + 5 4 3 =",
+   "want": "825",
+   "got": "825",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 4 + 8 9 5 =",
+   "want": "1189",
+   "got": "1199",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 9 0 + 4 3 3 6 =",
+   "want": "8526",
+   "got": "8526",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 9 5 + 7 3 3 2 =",
+   "want": "12927",
+   "got": "13937",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 9 9 + 1 8 6 5 =",
+   "want": "7664",
+   "got": "7664",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 3 9 + 4 8 5 9 =",
+   "want": "12198",
+   "got": "12198",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 6 9 + 8 3 7 9 =",
+   "want": "15948",
+   "got": "15948",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 9 6 + 7 2 3 5 =",
+   "want": "14031",
+   "got": "14031",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 4 9 + 9 1 4 8 =",
+   "want": "18797",
+   "got": "18897",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 3 5 + 3 1 4 5 =",
+   "want": "10680",
+   "got": "10680",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 3 5 + 5 2 2 6 =",
+   "want": "11961",
+   "got": "12961",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 4 1 + 3 8 3 8 =",
+   "want": "12479",
+   "got": "12479",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 9 5 + 3 7 2 2 =",
+   "want": "9217",
+   "got": "9217",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 6 9 + 7 4 3 7 =",
+   "want": "11006",
+   "got": "10006",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 5 5 + 9 2 7 5 =",
+   "want": "12230",
+   "got": "12230",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 2 9 + 6 3 7 7 =",
+   "want": "12206",
+   "got": "12206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 9 3 + 9 8 3 8 =",
+   "want": "11931",
+   "got": "11931",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 4 1 + 6 5 0 1 =",
+   "want": "14742",
+   "got": "14742",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 7 5 + 8 4 8 2 =",
+   "want": "11857",
+   "got": "11857",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 0 6 + 7 3 0 0 =",
+   "want": "10206",
+   "got": "10206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 7 4 + 6 2 9 0 =",
+   "want": "8764",
+   "got": "8764",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 9 2 + 8 9 4 6 =",
+   "want": "11438",
+   "got": "11438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 0 8 + 8 1 8 6 =",
+   "want": "16294",
+   "got": "16294",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 6 9 + 6 9 5 5 =",
+   "want": "10324",
+   "got": "10324",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 9 8 + 7 7 9 9 =",
+   "want": "10097",
+   "got": "10097",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 1 8 + 9 9 8 9 =",
+   "want": "16107",
+   "got": "16107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 7 6 + 7 1 1 5 =",
+   "want": "12891",
+   "got": "12891",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 0 1 + 5 8 3 9 =",
+   "want": "7940",
+   "got": "7940",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 0 2 + 9 5 3 0 =",
+   "want": "19032",
+   "got": "19032",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 3 8 + 1 6 3 6 =",
+   "want": "5374",
+   "got": "5374",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 2 8 + 7 7 3 2 =",
+   "want": "15660",
+   "got": "15660",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 4 3 + 2 0 9 8 =",
+   "want": "3741",
+   "got": "3741",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 2 5 + 5 2 5 1 =",
+   "want": "9676",
+   "got": "9676",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 1 0 + 6 7 7 4 =",
+   "want": "12984",
+   "got": "12984",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 5 3 + 3 6 3 6 =",
+   "want": "7989",
+   "got": "7989",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 9 1 + 5 1 7 2 =",
+   "want": "6863",
+   "got": "6863",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 0 5 + 6 1 7 3 =",
+   "want": "8878",
+   "got": "8878",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 9 9 + 5 9 2 8 =",
+   "want": "15727",
+   "got": "15727",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 8 4 + 3 5 6 6 =",
+   "want": "12450",
+   "got": "12450",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 2 3 + 6 5 3 8 =",
+   "want": "8161",
+   "got": "8161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 2 1 + 3 7 9 0 =",
+   "want": "4911",
+   "got": "4001",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 2 4 + 5 2 3 9 =",
+   "want": "14563",
+   "got": "14563",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 8 7 5 + 5 9 1 3 =",
+   "want": "15788",
+   "got": "15888",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 4 6 + 8 7 4 4 =",
+   "want": "12590",
+   "got": "12590",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 6 5 + 5 3 8 5 =",
+   "want": "12950",
+   "got": "12950",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 0 7 + 8 6 8 9 =",
+   "want": "11096",
+   "got": "10096",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 4 5 + 4 8 9 6 =",
+   "want": "9141",
+   "got": "9141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 0 1 + 6 3 3 2 =",
+   "want": "12233",
+   "got": "12233",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 9 6 3 + 5 1 2 7 =",
+   "want": "15090",
+   "got": "15090",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 5 5 5 + 8 1 3 5 =",
+   "want": "10690",
+   "got": "10690",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 7 0 + 6 9 0 3 =",
+   "want": "11073",
+   "got": "11073",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 3 5 + 3 0 6 8 =",
+   "want": "10603",
+   "got": "10603",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 5 0 4 + 2 8 0 2 =",
+   "want": "5306",
+   "got": "4306",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 2 4 + 3 0 0 3 =",
+   "want": "7827",
+   "got": "7827",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 1 5 + 5 2 9 7 =",
+   "want": "12712",
+   "got": "12712",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 0 6 + 4 9 1 9 =",
+   "want": "9725",
+   "got": "9735",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 4 4 + 1 0 4 0 =",
+   "want": "4484",
+   "got": "4484",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 6 3 + 5 3 3 1 =",
+   "want": "9994",
+   "got": "9994",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 6 1 + 3 7 7 9 =",
+   "want": "13440",
+   "got": "13440",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 8 5 + 3 0 6 6 =",
+   "want": "4251",
+   "got": "4941",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 2 4 + 7 8 2 8 =",
+   "want": "15352",
+   "got": "15352",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 1 6 + 7 9 9 2 =",
+   "want": "14708",
+   "got": "14708",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 0 3 + 6 2 3 1 =",
+   "want": "9234",
+   "got": "9234",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 6 6 + 8 3 4 4 =",
+   "want": "16710",
+   "got": "16710",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 5 0 + 2 3 0 2 =",
+   "want": "7752",
+   "got": "7752",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 9 6 + 2 0 2 5 =",
+   "want": "8121",
+   "got": "8121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 7 3 + 2 8 4 0 =",
+   "want": "12013",
+   "got": "12013",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 8 8 + 4 6 0 3 =",
+   "want": "9991",
+   "got": "9991",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 9 1 + 7 3 3 1 =",
+   "want": "13122",
+   "got": "13122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 9 1 + 9 3 1 2 =",
+   "want": "15003",
+   "got": "14003",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 1 8 + 5 9 1 9 =",
+   "want": "12737",
+   "got": "12747",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 9 3 9 + 5 8 7 5 =",
+   "want": "7814",
+   "got": "7814",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 9 7 + 1 2 8 3 =",
+   "want": "10280",
+   "got": "10280",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 7 9 + 5 3 9 9 =",
+   "want": "8478",
+   "got": "8478",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 9 3 + 8 0 3 7 =",
+   "want": "11430",
+   "got": "11430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 6 6 + 1 7 6 8 =",
+   "want": "3434",
+   "got": "3434",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 5 1 + 5 8 2 1 =",
+   "want": "9872",
+   "got": "9872",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 3 8 + 3 3 6 0 =",
+   "want": "11598",
+   "got": "11698",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 5 1 + 7 5 1 7 =",
+   "want": "10868",
+   "got": "10868",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 5 5 + 1 7 9 2 =",
+   "want": "3247",
+   "got": "3247",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 7 9 + 9 0 8 8 =",
+   "want": "17267",
+   "got": "17267",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 7 9 2 + 6 1 3 2 =",
+   "want": "14924",
+   "got": "14924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 6 5 + 2 4 3 0 =",
+   "want": "5695",
+   "got": "5695",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 4 4 + 1 7 9 0 =",
+   "want": "9934",
+   "got": "9934",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 1 3 + 6 9 3 1 =",
+   "want": "9844",
+   "got": "9844",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 9 2 + 7 3 7 1 =",
+   "want": "15063",
+   "got": "15063",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 3 4 + 3 5 4 1 =",
+   "want": "10975",
+   "got": "10975",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 2 8 + 9 1 2 6 =",
+   "want": "18354",
+   "got": "18354",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 1 5 + 1 3 2 7 =",
+   "want": "4442",
+   "got": "4442",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 9 1 + 2 7 5 1 =",
+   "want": "5642",
+   "got": "4642",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 9 8 + 6 5 9 4 =",
+   "want": "15692",
+   "got": "15692",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 1 0 + 5 2 4 4 =",
+   "want": "10354",
+   "got": "10354",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 4 6 + 4 1 3 2 =",
+   "want": "7178",
+   "got": "7178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 7 2 + 5 8 0 9 =",
+   "want": "8681",
+   "got": "8681",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 3 4 + 1 3 3 7 =",
+   "want": "5371",
+   "got": "5371",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 9 1 + 8 0 3 1 =",
+   "want": "14222",
+   "got": "14222",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 3 8 + 9 7 9 2 =",
+   "want": "16030",
+   "got": "16030",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 7 6 + 3 4 1 6 =",
+   "want": "5192",
+   "got": "5192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 2 6 + 8 5 0 4 =",
+   "want": "17630",
+   "got": "17630",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 3 2 + 3 7 5 7 =",
+   "want": "9789",
+   "got": "9799",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 6 1 + 1 2 9 6 =",
+   "want": "2757",
+   "got": "2757",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 4 2 + 9 2 0 4 =",
+   "want": "16346",
+   "got": "16346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 2 4 3 + 5 8 3 2 =",
+   "want": "11075",
+   "got": "11075",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 2 1 0 + 8 2 7 0 =",
+   "want": "13480",
+   "got": "13480",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 6 9 + 2 4 6 9 =",
+   "want": "8138",
+   "got": "8138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 4 1 + 5 8 8 9 =",
+   "want": "14930",
+   "got": "14930",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 7 1 + 3 9 7 9 =",
+   "want": "12950",
+   "got": "12950",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 2 7 + 7 4 3 9 =",
+   "want": "15266",
+   "got": "15266",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 5 9 + 2 9 4 3 =",
+   "want": "10702",
+   "got": "10702",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 0 2 + 4 2 4 4 =",
+   "want": "13246",
+   "got": "13246",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 7 9 + 1 6 1 9 =",
+   "want": "11198",
+   "got": "11198",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 5 5 + 6 1 5 0 =",
+   "want": "8205",
+   "got": "8105",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 0 9 + 9 2 2 4 =",
+   "want": "14633",
+   "got": "14633",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 0 0 + 9 0 4 4 =",
+   "want": "16544",
+   "got": "16544",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 2 1 8 + 9 8 0 8 =",
+   "want": "15026",
+   "got": "15026",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 9 3 0 + 9 0 3 4 =",
+   "want": "15964",
+   "got": "15964",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 8 8 + 4 1 6 3 =",
+   "want": "8751",
+   "got": "8751",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 5 1 + 5 2 5 1 =",
+   "want": "10702",
+   "got": "10702",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 0 7 + 7 9 7 9 =",
+   "want": "17186",
+   "got": "17186",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 0 9 + 8 9 1 3 =",
+   "want": "13822",
+   "got": "13822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 5 6 + 7 0 2 4 =",
+   "want": "15180",
+   "got": "15180",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 4 6 + 2 5 1 4 =",
+   "want": "6860",
+   "got": "6860",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 9 6 + 8 1 0 7 =",
+   "want": "11603",
+   "got": "11603",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 7 3 + 3 7 2 8 =",
+   "want": "12701",
+   "got": "12701",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 0 0 + 7 5 7 2 =",
+   "want": "9272",
+   "got": "9272",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 9 6 + 5 7 9 3 =",
+   "want": "11189",
+   "got": "11189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 4 0 + 7 1 7 5 =",
+   "want": "13915",
+   "got": "13915",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 0 6 + 1 3 3 8 =",
+   "want": "10744",
+   "got": "10744",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 1 7 + 6 5 3 0 =",
+   "want": "12147",
+   "got": "12147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 1 0 + 1 1 4 4 =",
+   "want": "3954",
+   "got": "3954",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 1 5 + 1 8 0 8 =",
+   "want": "8423",
+   "got": "8423",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 5 0 + 1 7 4 0 =",
+   "want": "3390",
+   "got": "3390",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 3 8 + 5 3 4 7 =",
+   "want": "14285",
+   "got": "14285",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 9 7 + 8 4 1 2 =",
+   "want": "15109",
+   "got": "15119",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 1 9 + 4 8 6 7 =",
+   "want": "7086",
+   "got": "6075",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 8 4 + 5 3 2 6 =",
+   "want": "13910",
+   "got": "13910",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 2 5 + 4 5 5 5 =",
+   "want": "9380",
+   "got": "9380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 4 1 + 8 8 0 2 =",
+   "want": "11043",
+   "got": "10003",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 0 2 + 2 3 6 8 =",
+   "want": "10770",
+   "got": "10770",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 4 7 + 1 7 1 8 =",
+   "want": "6465",
+   "got": "6465",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 3 0 + 3 9 3 5 =",
+   "want": "12565",
+   "got": "12565",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 8 2 + 8 8 2 6 =",
+   "want": "11008",
+   "got": "10008",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 1 8 + 8 5 4 0 =",
+   "want": "14058",
+   "got": "13758",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 7 5 + 2 3 9 4 =",
+   "want": "9469",
+   "got": "9479",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 0 2 + 4 0 3 8 =",
+   "want": "5340",
+   "got": "5340",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 0 8 + 7 1 9 6 =",
+   "want": "13104",
+   "got": "13004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 9 0 + 9 1 1 5 =",
+   "want": "13605",
+   "got": "13605",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 8 8 + 9 8 8 4 =",
+   "want": "16772",
+   "got": "16772",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 0 5 + 4 1 0 3 =",
+   "want": "6808",
+   "got": "6808",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 8 8 + 1 2 5 8 =",
+   "want": "5446",
+   "got": "5446",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 7 1 + 5 0 0 6 =",
+   "want": "10977",
+   "got": "11977",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 2 6 + 8 6 0 4 =",
+   "want": "13230",
+   "got": "13230",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 8 9 + 9 0 1 1 =",
+   "want": "12600",
+   "got": "12500",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 9 9 + 9 5 8 4 =",
+   "want": "10883",
+   "got": "10883",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 4 9 + 7 5 6 8 =",
+   "want": "14417",
+   "got": "14417",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 0 3 + 3 6 6 4 =",
+   "want": "13067",
+   "got": "13067",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 3 5 + 7 5 7 4 =",
+   "want": "14809",
+   "got": "14819",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 1 9 + 2 3 7 3 =",
+   "want": "10992",
+   "got": "10992",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 1 3 + 8 6 2 1 =",
+   "want": "14134",
+   "got": "13744",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 6 2 + 6 6 5 1 =",
+   "want": "12013",
+   "got": "11013",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 3 8 + 9 1 0 8 =",
+   "want": "12446",
+   "got": "12446",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 6 5 + 5 5 0 6 =",
+   "want": "14171",
+   "got": "14171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 2 5 + 6 3 2 6 =",
+   "want": "12751",
+   "got": "12751",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 3 7 + 1 8 9 5 =",
+   "want": "10332",
+   "got": "10332",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 1 9 + 9 2 6 6 =",
+   "want": "14585",
+   "got": "14585",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 0 7 + 7 5 0 1 =",
+   "want": "13308",
+   "got": "13308",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 6 1 + 9 2 4 1 =",
+   "want": "10302",
+   "got": "10302",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 5 3 + 5 3 0 9 =",
+   "want": "14862",
+   "got": "14862",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 8 0 + 7 7 4 7 =",
+   "want": "10727",
+   "got": "10727",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 7 5 + 8 0 7 9 =",
+   "want": "15854",
+   "got": "15854",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 9 1 + 2 8 6 5 =",
+   "want": "5156",
+   "got": "4156",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 5 4 + 5 7 4 9 =",
+   "want": "11103",
+   "got": "11103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 4 3 + 2 3 8 5 =",
+   "want": "5328",
+   "got": "4328",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 3 4 + 8 1 3 2 =",
+   "want": "11366",
+   "got": "11366",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 5 6 + 9 5 8 6 =",
+   "want": "11042",
+   "got": "10042",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 1 0 + 7 0 7 7 =",
+   "want": "14087",
+   "got": "14087",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 6 0 + 5 2 1 6 =",
+   "want": "9876",
+   "got": "9876",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 7 5 + 8 4 8 7 =",
+   "want": "12262",
+   "got": "12262",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 4 8 + 3 3 5 4 =",
+   "want": "12602",
+   "got": "12602",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 9 0 + 8 3 2 1 =",
+   "want": "16111",
+   "got": "16111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 8 0 + 6 0 4 6 =",
+   "want": "14926",
+   "got": "14926",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 3 1 + 4 5 8 4 =",
+   "want": "8415",
+   "got": "8415",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 0 3 + 1 2 0 0 =",
+   "want": "6803",
+   "got": "6803",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 8 6 + 7 8 5 2 =",
+   "want": "13638",
+   "got": "13638",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 1 5 + 8 2 3 4 =",
+   "want": "13749",
+   "got": "13769",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 3 7 + 4 2 9 6 =",
+   "want": "5633",
+   "got": "5633",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 9 1 + 2 2 9 5 =",
+   "want": "3486",
+   "got": "3406",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 1 1 + 3 7 6 8 =",
+   "want": "13379",
+   "got": "13379",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 8 2 + 6 3 9 0 =",
+   "want": "13072",
+   "got": "13072",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 5 6 + 5 9 5 9 =",
+   "want": "7415",
+   "got": "7415",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 5 2 + 9 1 9 4 =",
+   "want": "15346",
+   "got": "15346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 2 9 + 6 2 6 1 =",
+   "want": "12990",
+   "got": "12980",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 8 6 + 4 4 2 4 =",
+   "want": "12710",
+   "got": "12710",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 2 9 + 5 1 5 4 =",
+   "want": "6283",
+   "got": "6458",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 7 5 + 9 8 4 4 =",
+   "want": "14419",
+   "got": "14429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 8 2 + 5 0 0 9 =",
+   "want": "14091",
+   "got": "14091",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 2 7 + 7 9 0 0 =",
+   "want": "10727",
+   "got": "10727",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 8 7 + 3 2 4 4 =",
+   "want": "12131",
+   "got": "12131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 3 2 + 5 1 3 1 =",
+   "want": "12863",
+   "got": "12863",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 4 6 + 5 1 9 1 =",
+   "want": "12037",
+   "got": "12037",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 0 5 4 + 4 0 9 6 =",
+   "want": "12150",
+   "got": "12150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 8 3 8 + 5 0 3 7 =",
+   "want": "6875",
+   "got": "6875",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 5 2 2 + 2 3 3 2 5 =",
+   "want": "82847",
+   "got": "82847",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 6 5 6 + 8 9 2 2 1 =",
+   "want": "99877",
+   "got": "99877",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 0 2 3 + 6 0 1 6 7 =",
+   "want": "93190",
+   "got": "93190",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 8 0 0 + 6 8 1 0 7 =",
+   "want": "160907",
+   "got": "161907",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 3 8 9 4 + 1 7 1 3 8 =",
+   "want": "71032",
+   "got": "70032",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 7 4 6 + 6 7 3 9 0 =",
+   "want": "84136",
+   "got": "84136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 4 5 7 + 3 2 3 6 6 =",
+   "want": "122823",
+   "got": "122823",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 3 9 5 + 8 6 0 8 6 =",
+   "want": "154481",
+   "got": "154481",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 4 3 6 + 3 5 0 7 2 =",
+   "want": "74508",
+   "got": "74508",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 0 9 1 + 1 3 4 9 0 =",
+   "want": "80581",
+   "got": "80581",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 5 2 5 + 5 2 5 2 5 =",
+   "want": "93050",
+   "got": "93050",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 5 6 8 + 3 3 7 5 8 =",
+   "want": "108326",
+   "got": "108326",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 4 4 7 + 6 9 7 2 9 =",
+   "want": "127176",
+   "got": "127276",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 9 5 5 + 6 2 8 3 6 =",
+   "want": "122791",
+   "got": "122891",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 2 4 5 + 5 6 5 4 3 =",
+   "want": "81788",
+   "got": "71788",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 5 5 6 + 9 7 3 0 5 =",
+   "want": "122861",
+   "got": "122861",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 2 2 4 + 8 3 4 1 9 =",
+   "want": "131643",
+   "got": "131643",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 6 2 9 + 4 1 9 1 0 =",
+   "want": "52539",
+   "got": "52539",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 6 7 2 + 3 4 9 7 0 =",
+   "want": "79642",
+   "got": "79642",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 3 3 0 + 4 4 6 7 8 =",
+   "want": "106008",
+   "got": "106008",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 3 1 1 + 4 8 8 8 5 =",
+   "want": "130196",
+   "got": "130196",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 7 9 3 1 + 1 6 9 8 8 =",
+   "want": "64919",
+   "got": "64919",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 0 2 8 1 + 1 7 1 7 9 =",
+   "want": "97460",
+   "got": "97450",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 7 4 3 + 4 4 3 5 4 =",
+   "want": "70097",
+   "got": "60197",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 0 1 9 + 3 3 4 8 4 =",
+   "want": "131503",
+   "got": "131403",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 9 6 4 + 3 9 8 5 8 =",
+   "want": "111822",
+   "got": "111822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 1 9 7 + 4 0 1 7 9 =",
+   "want": "56376",
+   "got": "56376",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 8 4 8 + 7 1 1 7 2 =",
+   "want": "131020",
+   "got": "131020",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 6 1 8 + 3 2 3 1 3 =",
+   "want": "113931",
+   "got": "113931",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 3 5 0 + 2 1 4 0 9 =",
+   "want": "88759",
+   "got": "88759",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 3 4 6 + 5 0 6 9 8 =",
+   "want": "114044",
+   "got": "114044",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 5 9 3 + 4 8 2 5 4 =",
+   "want": "68847",
+   "got": "68847",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 5 6 0 + 5 8 1 8 1 =",
+   "want": "135741",
+   "got": "135741",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 9 5 6 + 7 7 1 4 1 =",
+   "want": "126097",
+   "got": "126197",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 6 1 8 + 5 7 6 5 1 =",
+   "want": "124269",
+   "got": "124269",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 7 6 6 + 6 1 4 3 2 =",
+   "want": "88198",
+   "got": "88298",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 3 6 0 + 8 9 0 0 7 =",
+   "want": "129367",
+   "got": "129367",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 6 8 9 + 4 6 2 1 1 =",
+   "want": "145900",
+   "got": "145890",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 3 6 8 + 1 7 1 8 5 =",
+   "want": "94553",
+   "got": "94553",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 2 8 0 + 3 1 3 7 8 =",
+   "want": "88658",
+   "got": "88658",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 7 1 1 + 4 3 6 1 8 =",
+   "want": "64329",
+   "got": "64329",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 4 0 1 + 7 3 1 1 2 =",
+   "want": "150513",
+   "got": "150513",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 5 6 2 + 8 6 9 1 6 =",
+   "want": "164478",
+   "got": "164478",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 3 1 8 + 6 1 2 6 8 =",
+   "want": "102586",
+   "got": "102586",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 2 2 8 + 2 1 0 7 8 =",
+   "want": "87306",
+   "got": "87306",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 8 2 7 + 1 3 3 7 1 =",
+   "want": "101198",
+   "got": "101298",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 0 1 6 + 3 4 2 9 5 =",
+   "want": "58311",
+   "got": "58311",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 9 2 5 + 2 1 1 8 1 =",
+   "want": "53106",
+   "got": "53106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 0 5 7 + 7 6 6 0 5 =",
+   "want": "161662",
+   "got": "161662",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 9 5 8 + 6 7 3 6 7 =",
+   "want": "85325",
+   "got": "85325",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 6 9 7 + 5 6 7 1 4 =",
+   "want": "124411",
+   "got": "124411",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 3 3 6 + 5 5 0 6 1 =",
+   "want": "76397",
+   "got": "76397",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 0 3 8 + 6 9 3 6 0 =",
+   "want": "154398",
+   "got": "154398",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 5 9 0 + 4 0 3 8 6 =",
+   "want": "106976",
+   "got": "106976",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 1 8 9 + 8 0 2 5 3 =",
+   "want": "163442",
+   "got": "163442",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 4 2 4 + 2 1 9 2 1 =",
+   "want": "86345",
+   "got": "86345",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 0 3 9 + 6 8 9 9 5 =",
+   "want": "109034",
+   "got": "108034",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 6 5 1 + 9 0 3 0 7 =",
+   "want": "138958",
+   "got": "139958",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 4 5 4 + 8 3 0 1 2 =",
+   "want": "172466",
+   "got": "172466",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 4 7 2 + 2 6 1 3 7 =",
+   "want": "61609",
+   "got": "61609",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 3 1 4 + 9 2 7 0 1 =",
+   "want": "142015",
+   "got": "142015",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 3 8 5 + 9 6 8 3 8 =",
+   "want": "163223",
+   "got": "163223",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 6 7 3 + 5 6 7 7 8 =",
+   "want": "78451",
+   "got": "78451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 7 0 2 8 + 7 6 0 2 5 =",
+   "want": "123053",
+   "got": "123053",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 2 5 1 + 8 5 0 6 2 =",
+   "want": "172313",
+   "got": "172313",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 9 3 7 + 2 0 6 9 7 =",
+   "want": "98634",
+   "got": "98634",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 2 8 4 + 2 0 9 9 1 =",
+   "want": "108275",
+   "got": "108275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 8 6 2 + 2 7 7 9 1 =",
+   "want": "58653",
+   "got": "58653",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 8 3 3 + 1 4 0 6 6 =",
+   "want": "87899",
+   "got": "87999",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 6 4 1 + 5 9 5 7 1 =",
+   "want": "133212",
+   "got": "133212",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 1 7 2 + 9 4 2 2 2 =",
+   "want": "159394",
+   "got": "159495",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 6 4 9 + 6 8 3 2 8 =",
+   "want": "79977",
+   "got": "85977",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 3 7 3 1 + 5 8 1 8 0 =",
+   "want": "71911",
+   "got": "71911",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 5 2 1 + 4 5 1 8 7 =",
+   "want": "143708",
+   "got": "143708",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 8 3 6 + 2 6 4 7 9 =",
+   "want": "89315",
+   "got": "89315",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 0 4 3 + 2 2 4 3 5 =",
+   "want": "116478",
+   "got": "116478",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 6 1 8 + 8 9 4 0 8 =",
+   "want": "136026",
+   "got": "136026",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 9 9 1 + 5 0 8 3 8 =",
+   "want": "90829",
+   "got": "80829",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 5 9 5 + 2 9 1 0 2 =",
+   "want": "64697",
+   "got": "64697",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 5 0 4 + 2 9 0 9 0 =",
+   "want": "112594",
+   "got": "112594",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 3 7 7 + 9 2 8 1 9 =",
+   "want": "151196",
+   "got": "151196",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 5 7 0 + 9 1 9 3 6 =",
+   "want": "175506",
+   "got": "175506",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 0 3 5 4 + 6 2 6 1 0 =",
+   "want": "132964",
+   "got": "132964",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 2 7 3 + 6 0 9 4 7 =",
+   "want": "89220",
+   "got": "89220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 0 3 7 + 4 0 3 6 6 =",
+   "want": "74403",
+   "got": "74303",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 3 7 3 + 4 8 4 5 0 =",
+   "want": "133823",
+   "got": "133823",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 1 0 7 + 1 5 9 8 1 =",
+   "want": "103088",
+   "got": "103088",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 8 2 2 + 2 1 1 6 2 =",
+   "want": "71984",
+   "got": "72984",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 8 8 1 + 2 6 3 6 3 =",
+   "want": "104244",
+   "got": "104244",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 0 6 8 + 1 1 0 9 3 =",
+   "want": "99161",
+   "got": "99161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 7 2 3 + 3 1 1 0 7 =",
+   "want": "102830",
+   "got": "102830",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 5 1 3 + 7 6 7 6 3 =",
+   "want": "132276",
+   "got": "132399",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 5 5 1 1 + 2 7 4 4 2 =",
+   "want": "102953",
+   "got": "103953",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 7 4 7 + 5 7 8 7 4 =",
+   "want": "108621",
+   "got": "108621",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 7 8 7 + 4 6 8 2 3 =",
+   "want": "134610",
+   "got": "134610",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 8 1 5 + 4 2 8 9 0 =",
+   "want": "88705",
+   "got": "88705",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 3 0 2 + 8 9 1 0 4 =",
+   "want": "178406",
+   "got": "178406",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 3 4 6 + 8 5 0 4 7 =",
+   "want": "161393",
+   "got": "161493",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 7 5 2 5 + 2 4 9 3 3 =",
+   "want": "72458",
+   "got": "72458",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 9 1 9 + 2 7 1 4 3 =",
+   "want": "92062",
+   "got": "92062",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 5 5 4 + 4 7 9 5 3 =",
+   "want": "74507",
+   "got": "74507",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 0 4 4 + 1 5 3 2 8 =",
+   "want": "80372",
+   "got": "80372",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 2 5 1 + 1 9 1 2 1 =",
+   "want": "81372",
+   "got": "81372",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 0 5 1 + 1 2 7 2 2 =",
+   "want": "57773",
+   "got": "57773",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 7 0 6 + 3 5 0 4 3 =",
+   "want": "71749",
+   "got": "71749",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 7 7 4 + 8 7 8 2 8 =",
+   "want": "116602",
+   "got": "116602",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 6 4 5 3 + 3 0 9 7 6 =",
+   "want": "117429",
+   "got": "117429",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 3 9 6 + 2 9 1 6 0 =",
+   "want": "106556",
+   "got": "106556",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 7 3 0 + 6 3 5 6 2 =",
+   "want": "91292",
+   "got": "81292",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 3 5 8 + 6 5 1 9 7 =",
+   "want": "157555",
+   "got": "157555",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 9 5 2 + 2 0 2 6 4 =",
+   "want": "89216",
+   "got": "89216",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 7 5 3 + 6 3 5 3 2 =",
+   "want": "90285",
+   "got": "80285",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 4 3 0 + 2 7 1 7 0 =",
+   "want": "52600",
+   "got": "42600",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 5 5 4 + 4 3 1 9 9 =",
+   "want": "138753",
+   "got": "138753",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 6 4 0 + 6 9 4 3 8 =",
+   "want": "168078",
+   "got": "168078",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 1 3 7 + 3 2 8 3 7 =",
+   "want": "87974",
+   "got": "85114",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 8 5 0 + 6 7 4 5 3 =",
+   "want": "97303",
+   "got": "87303",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 0 4 5 + 9 2 7 6 4 =",
+   "want": "125809",
+   "got": "125819",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 8 1 5 + 1 6 2 5 0 =",
+   "want": "109065",
+   "got": "109065",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 9 5 6 + 5 3 6 0 4 =",
+   "want": "81560",
+   "got": "81560",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 3 1 2 + 2 0 5 7 4 =",
+   "want": "31886",
+   "got": "33796",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 0 9 8 + 6 8 1 9 0 =",
+   "want": "166288",
+   "got": "166288",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 2 4 8 + 9 6 8 4 8 =",
+   "want": "134096",
+   "got": "134196",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 0 5 6 + 8 2 4 3 0 =",
+   "want": "164486",
+   "got": "164486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 3 9 6 + 7 5 7 5 5 =",
+   "want": "161151",
+   "got": "161151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 4 7 4 + 2 1 7 1 1 =",
+   "want": "77185",
+   "got": "76485",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 1 4 3 + 6 2 3 3 7 =",
+   "want": "78480",
+   "got": "78480",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 0 8 4 + 3 0 7 5 2 =",
+   "want": "98836",
+   "got": "108836",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "5 5 7 6 9 + 8 5 6 9 1 =",
+   "want": "141460",
+   "got": "142450",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 5 3 7 + 7 9 1 6 2 =",
+   "want": "141699",
+   "got": "141799",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 6 7 9 + 8 8 6 1 8 =",
+   "want": "167297",
+   "got": "167297",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 6 4 1 + 3 4 7 9 0 =",
+   "want": "94431",
+   "got": "94431",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 3 8 5 3 + 8 6 1 3 8 =",
+   "want": "139991",
+   "got": "139991",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 3 7 1 + 6 6 3 1 9 =",
+   "want": "108690",
+   "got": "108690",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 4 0 7 + 6 8 2 4 9 =",
+   "want": "114656",
+   "got": "114656",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 5 7 4 + 1 7 8 6 7 =",
+   "want": "66441",
+   "got": "66441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 3 7 5 + 7 2 1 7 5 =",
+   "want": "98550",
+   "got": "98550",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 5 3 9 + 7 6 3 1 6 =",
+   "want": "115855",
+   "got": "115855",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 3 9 9 + 7 8 9 8 2 =",
+   "want": "129381",
+   "got": "129381",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 6 1 9 + 6 6 2 1 8 =",
+   "want": "122837",
+   "got": "122847",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 7 4 6 + 5 1 2 7 1 =",
+   "want": "115017",
+   "got": "115017",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 0 0 2 + 1 1 5 0 0 =",
+   "want": "85502",
+   "got": "95502",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 6 4 6 + 5 3 6 1 3 =",
+   "want": "113259",
+   "got": "113259",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 8 7 9 8 + 8 1 6 5 9 =",
+   "want": "120457",
+   "got": "120457",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 6 2 9 + 2 3 6 0 7 =",
+   "want": "41236",
+   "got": "41236",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 6 9 3 + 5 2 6 2 3 =",
+   "want": "131316",
+   "got": "131316",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 7 7 3 + 5 9 6 0 8 =",
+   "want": "155381",
+   "got": "155381",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 6 4 1 + 6 4 8 6 2 =",
+   "want": "86503",
+   "got": "86503",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 2 1 5 + 8 6 8 4 6 =",
+   "want": "165061",
+   "got": "165061",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 8 7 6 + 4 0 2 4 8 =",
+   "want": "58124",
+   "got": "58124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 0 2 7 + 4 2 8 0 2 =",
+   "want": "139829",
+   "got": "139829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 6 7 5 + 1 3 3 2 5 =",
+   "want": "92000",
+   "got": "92000",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 4 0 6 + 7 4 1 0 0 =",
+   "want": "145506",
+   "got": "145506",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 0 7 4 + 8 0 2 6 7 =",
+   "want": "179341",
+   "got": "189341",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 2 6 3 + 3 9 9 7 3 =",
+   "want": "61236",
+   "got": "61236",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 7 3 8 + 6 4 3 1 1 =",
+   "want": "149049",
+   "got": "149049",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 7 2 8 + 2 1 1 9 8 =",
+   "want": "37926",
+   "got": "37926",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 8 2 4 + 8 9 1 0 7 =",
+   "want": "132931",
+   "got": "132931",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 7 6 8 + 4 2 1 8 0 =",
+   "want": "137948",
+   "got": "138948",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 0 7 9 + 9 4 5 4 4 =",
+   "want": "110623",
+   "got": "100623",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 0 2 8 7 + 2 8 1 1 3 =",
+   "want": "98400",
+   "got": "98400",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 3 3 8 + 4 2 7 3 9 =",
+   "want": "114077",
+   "got": "114177",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 6 1 0 + 5 4 9 3 1 =",
+   "want": "95541",
+   "got": "95541",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 1 8 0 + 1 0 6 1 4 =",
+   "want": "46794",
+   "got": "46894",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 3 4 2 + 3 0 8 8 9 =",
+   "want": "115231",
+   "got": "115231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 0 4 4 + 6 6 9 5 5 =",
+   "want": "130999",
+   "got": "130909",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 4 9 4 + 4 5 1 3 7 =",
+   "want": "89631",
+   "got": "99631",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 5 7 8 + 9 2 8 2 0 =",
+   "want": "117398",
+   "got": "117498",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 8 2 5 + 3 3 5 4 0 =",
+   "want": "61365",
+   "got": "61365",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 8 9 6 + 3 3 8 2 5 =",
+   "want": "89721",
+   "got": "99711",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 7 2 9 + 1 4 7 6 1 =",
+   "want": "52490",
+   "got": "52480",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 4 1 2 + 6 5 8 3 6 =",
+   "want": "77248",
+   "got": "70958",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 6 0 1 + 8 4 6 0 0 =",
+   "want": "106201",
+   "got": "106201",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 5 7 6 2 + 8 7 2 1 9 =",
+   "want": "162981",
+   "got": "163981",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 8 9 8 + 9 9 1 7 3 =",
+   "want": "132071",
+   "got": "132071",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 4 5 4 + 6 8 9 2 2 =",
+   "want": "81376",
+   "got": "81376",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 7 6 0 + 5 5 8 8 9 =",
+   "want": "124649",
+   "got": "124649",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 0 0 6 + 5 9 4 2 8 =",
+   "want": "84434",
+   "got": "84434",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 5 8 7 + 1 7 9 3 7 =",
+   "want": "37524",
+   "got": "37524",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 1 9 4 + 3 6 8 1 2 =",
+   "want": "113006",
+   "got": "112006",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 5 1 6 + 9 2 3 2 5 =",
+   "want": "176841",
+   "got": "176841",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 5 0 5 + 1 8 2 7 3 =",
+   "want": "47778",
+   "got": "47778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 4 7 2 + 2 0 8 5 5 =",
+   "want": "116327",
+   "got": "116327",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 7 6 0 + 5 1 0 4 4 =",
+   "want": "135804",
+   "got": "135804",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 5 0 0 + 8 4 2 1 5 =",
+   "want": "124715",
+   "got": "124715",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 6 3 0 + 5 9 7 7 2 =",
+   "want": "78402",
+   "got": "78402",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 6 9 3 + 7 6 1 9 0 =",
+   "want": "163883",
+   "got": "163883",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 5 6 1 + 6 0 0 4 8 =",
+   "want": "149609",
+   "got": "149609",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 2 8 7 + 4 6 7 6 2 =",
+   "want": "93049",
+   "got": "93059",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 1 6 0 + 5 9 3 8 7 =",
+   "want": "78547",
+   "got": "78547",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 8 3 5 + 8 3 3 5 5 =",
+   "want": "99190",
+   "got": "99190",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 6 8 8 + 2 1 0 1 4 =",
+   "want": "81702",
+   "got": "81602",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 9 8 8 + 6 7 1 8 5 =",
+   "want": "86173",
+   "got": "86173",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 7 6 8 + 1 1 9 7 8 =",
+   "want": "101746",
+   "got": "101746",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 3 8 2 + 2 4 1 4 6 =",
+   "want": "44528",
+   "got": "44528",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 3 4 3 + 8 8 2 9 3 =",
+   "want": "170636",
+   "got": "170636",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 4 8 2 + 7 2 5 9 7 =",
+   "want": "156079",
+   "got": "156079",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 2 4 6 + 7 7 8 4 3 =",
+   "want": "111089",
+   "got": "101089",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 0 2 6 + 5 5 1 6 3 =",
+   "want": "140189",
+   "got": "140189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 1 4 9 + 4 4 1 5 6 =",
+   "want": "88305",
+   "got": "98305",
+   "exact": false,
+   "samelen": true
+  }
+ ]
+}

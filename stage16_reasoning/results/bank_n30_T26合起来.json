@@ -1,0 +1,3231 @@
+{
+ "label": "n30_T26合起来",
+ "by_rung": {
+  "2": [
+   85,
+   97,
+   0,
+   100
+  ],
+  "3": [
+   82,
+   99,
+   0,
+   100
+  ],
+  "4": [
+   69,
+   100,
+   0,
+   100
+  ],
+  "5": [
+   53,
+   100,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "2 1 与 7 6 合起来是 ",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 与 8 9 合起来是 ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 6 与 1 9 合起来是 ",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 4 与 9 1 合起来是 ",
+   "want": "155",
+   "got": "155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 与 2 0 合起来是 ",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 与 6 8 合起来是 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 与 9 7 合起来是 ",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 与 5 3 合起来是 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 与 1 4 合起来是 ",
+   "want": "27",
+   "got": "28",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 与 1 3 合起来是 ",
+   "want": "24",
+   "got": "24",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 与 9 8 合起来是 ",
+   "want": "193",
+   "got": "193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 与 1 3 合起来是 ",
+   "want": "26",
+   "got": "24",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 与 5 1 合起来是 ",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 与 9 1 合起来是 ",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 与 2 0 合起来是 ",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 与 9 8 合起来是 ",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 与 7 1 合起来是 ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2 与 6 6 合起来是 ",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 8 与 9 2 合起来是 ",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 与 1 7 合起来是 ",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 0 与 8 7 合起来是 ",
+   "want": "177",
+   "got": "177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 与 2 9 合起来是 ",
+   "want": "42",
+   "got": "42",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 与 5 0 合起来是 ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 与 9 6 合起来是 ",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 与 7 4 合起来是 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 2 与 4 7 合起来是 ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 与 4 3 合起来是 ",
+   "want": "90",
+   "got": "80",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 与 2 0 合起来是 ",
+   "want": "50",
+   "got": "50",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 与 2 8 合起来是 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 与 9 5 合起来是 ",
+   "want": "181",
+   "got": "181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 与 7 9 合起来是 ",
+   "want": "162",
+   "got": "162",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 与 4 6 合起来是 ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 与 7 6 合起来是 ",
+   "want": "148",
+   "got": "148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 与 2 9 合起来是 ",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 与 4 6 合起来是 ",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4 与 8 9 合起来是 ",
+   "want": "163",
+   "got": "163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 与 5 0 合起来是 ",
+   "want": "65",
+   "got": "65",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 与 7 0 合起来是 ",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 与 7 4 合起来是 ",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 5 与 6 9 合起来是 ",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 与 1 5 合起来是 ",
+   "want": "28",
+   "got": "28",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 与 1 6 合起来是 ",
+   "want": "102",
+   "got": "92",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 0 与 9 4 合起来是 ",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 与 4 1 合起来是 ",
+   "want": "84",
+   "got": "74",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 与 5 4 合起来是 ",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 1 与 5 3 合起来是 ",
+   "want": "144",
+   "got": "144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 与 5 6 合起来是 ",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 与 4 5 合起来是 ",
+   "want": "121",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 与 2 9 合起来是 ",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 与 5 8 合起来是 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2 与 2 5 合起来是 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 与 6 2 合起来是 ",
+   "want": "102",
+   "got": "92",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 9 与 4 4 合起来是 ",
+   "want": "73",
+   "got": "73",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 与 3 9 合起来是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 与 5 7 合起来是 ",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 与 1 6 合起来是 ",
+   "want": "110",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6 与 4 9 合起来是 ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 与 8 3 合起来是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 与 1 5 合起来是 ",
+   "want": "73",
+   "got": "73",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 与 1 5 合起来是 ",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 0 与 7 0 合起来是 ",
+   "want": "160",
+   "got": "160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 与 6 2 合起来是 ",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 与 4 0 合起来是 ",
+   "want": "76",
+   "got": "76",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 与 8 7 合起来是 ",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 与 8 1 合起来是 ",
+   "want": "169",
+   "got": "169",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 与 8 9 合起来是 ",
+   "want": "157",
+   "got": "157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 与 1 2 合起来是 ",
+   "want": "67",
+   "got": "67",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 与 9 1 合起来是 ",
+   "want": "180",
+   "got": "180",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 与 3 3 合起来是 ",
+   "want": "110",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 与 1 8 合起来是 ",
+   "want": "44",
+   "got": "44",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7 与 4 4 合起来是 ",
+   "want": "61",
+   "got": "60",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 与 2 5 合起来是 ",
+   "want": "41",
+   "got": "41",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 与 4 2 合起来是 ",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 与 2 5 合起来是 ",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 与 7 7 合起来是 ",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 与 4 3 合起来是 ",
+   "want": "53",
+   "got": "53",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 0 与 4 3 合起来是 ",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 2 与 3 2 合起来是 ",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 与 7 0 合起来是 ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 与 4 1 合起来是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 与 3 4 合起来是 ",
+   "want": "110",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 与 3 4 合起来是 ",
+   "want": "92",
+   "got": "92",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 与 9 2 合起来是 ",
+   "want": "169",
+   "got": "169",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 与 6 1 合起来是 ",
+   "want": "79",
+   "got": "79",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 与 4 1 合起来是 ",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 与 9 6 合起来是 ",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 与 2 8 合起来是 ",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 与 6 1 合起来是 ",
+   "want": "160",
+   "got": "150",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 与 9 6 合起来是 ",
+   "want": "185",
+   "got": "185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 与 3 1 合起来是 ",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 与 8 3 合起来是 ",
+   "want": "159",
+   "got": "149",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 2 与 9 5 合起来是 ",
+   "want": "187",
+   "got": "187",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 与 4 9 合起来是 ",
+   "want": "144",
+   "got": "144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 与 4 8 合起来是 ",
+   "want": "110",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 与 1 2 合起来是 ",
+   "want": "42",
+   "got": "42",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 与 6 3 合起来是 ",
+   "want": "104",
+   "got": "94",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 6 与 5 7 合起来是 ",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 与 6 5 合起来是 ",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 与 2 3 合起来是 ",
+   "want": "60",
+   "got": "60",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 与 4 2 合起来是 ",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 4 与 5 7 3 合起来是 ",
+   "want": "757",
+   "got": "757",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 9 4 与 1 4 1 合起来是 ",
+   "want": "1135",
+   "got": "1135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 1 与 4 9 9 合起来是 ",
+   "want": "1440",
+   "got": "1440",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 8 与 7 4 6 合起来是 ",
+   "want": "1144",
+   "got": "1144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 9 与 2 6 0 合起来是 ",
+   "want": "759",
+   "got": "759",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 3 与 8 6 8 合起来是 ",
+   "want": "1331",
+   "got": "1331",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 2 与 8 7 5 合起来是 ",
+   "want": "1357",
+   "got": "1357",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 7 与 9 8 7 合起来是 ",
+   "want": "1384",
+   "got": "1384",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 9 4 与 1 4 3 合起来是 ",
+   "want": "1137",
+   "got": "1136",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 1 与 5 1 2 合起来是 ",
+   "want": "803",
+   "got": "803",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 7 与 3 3 4 合起来是 ",
+   "want": "1241",
+   "got": "1241",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 8 与 7 9 1 合起来是 ",
+   "want": "1629",
+   "got": "1629",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 7 与 4 4 8 合起来是 ",
+   "want": "925",
+   "got": "925",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 6 与 7 9 9 合起来是 ",
+   "want": "1455",
+   "got": "1455",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 1 与 4 0 0 合起来是 ",
+   "want": "691",
+   "got": "701",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 6 与 9 8 6 合起来是 ",
+   "want": "1282",
+   "got": "1282",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 6 与 1 2 3 合起来是 ",
+   "want": "969",
+   "got": "969",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 4 与 1 8 6 合起来是 ",
+   "want": "970",
+   "got": "970",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 1 与 4 8 6 合起来是 ",
+   "want": "1067",
+   "got": "1067",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 5 与 5 2 1 合起来是 ",
+   "want": "936",
+   "got": "936",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 1 与 3 8 6 合起来是 ",
+   "want": "1297",
+   "got": "1297",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 8 3 与 3 9 7 合起来是 ",
+   "want": "1380",
+   "got": "1380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 5 与 6 8 9 合起来是 ",
+   "want": "1314",
+   "got": "1314",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 4 与 6 4 3 合起来是 ",
+   "want": "1577",
+   "got": "1577",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 7 与 1 2 3 合起来是 ",
+   "want": "740",
+   "got": "740",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 0 与 3 3 1 合起来是 ",
+   "want": "1221",
+   "got": "1222",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 8 与 2 1 1 合起来是 ",
+   "want": "1059",
+   "got": "1059",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 7 与 3 4 7 合起来是 ",
+   "want": "824",
+   "got": "825",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 9 与 8 1 4 合起来是 ",
+   "want": "1483",
+   "got": "1483",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 2 与 6 3 1 合起来是 ",
+   "want": "1243",
+   "got": "1243",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 2 与 9 5 0 合起来是 ",
+   "want": "1232",
+   "got": "1232",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 2 与 4 3 9 合起来是 ",
+   "want": "821",
+   "got": "821",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 2 与 2 3 7 合起来是 ",
+   "want": "1079",
+   "got": "1079",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 6 与 7 2 4 合起来是 ",
+   "want": "1300",
+   "got": "1300",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 1 与 8 1 3 合起来是 ",
+   "want": "1764",
+   "got": "1764",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 3 与 7 8 9 合起来是 ",
+   "want": "952",
+   "got": "952",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 4 与 4 4 8 合起来是 ",
+   "want": "1252",
+   "got": "1252",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 8 与 3 9 6 合起来是 ",
+   "want": "534",
+   "got": "534",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 3 与 7 5 4 合起来是 ",
+   "want": "1557",
+   "got": "1557",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 8 与 9 7 3 合起来是 ",
+   "want": "1131",
+   "got": "1121",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 8 与 3 4 4 合起来是 ",
+   "want": "742",
+   "got": "742",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 9 与 3 2 1 合起来是 ",
+   "want": "630",
+   "got": "630",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 3 与 8 8 3 合起来是 ",
+   "want": "1196",
+   "got": "1196",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 3 与 4 6 3 合起来是 ",
+   "want": "1406",
+   "got": "1406",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 8 与 9 4 8 合起来是 ",
+   "want": "1246",
+   "got": "1246",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 8 与 3 6 3 合起来是 ",
+   "want": "1001",
+   "got": "900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "7 0 1 与 4 2 2 合起来是 ",
+   "want": "1123",
+   "got": "1123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 5 与 2 2 5 合起来是 ",
+   "want": "1050",
+   "got": "1050",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 4 与 8 4 5 合起来是 ",
+   "want": "1349",
+   "got": "1349",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 7 与 9 2 6 合起来是 ",
+   "want": "1253",
+   "got": "1253",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 4 与 9 2 5 合起来是 ",
+   "want": "1169",
+   "got": "1169",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 4 与 1 9 2 合起来是 ",
+   "want": "396",
+   "got": "396",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 6 与 8 2 8 合起来是 ",
+   "want": "1024",
+   "got": "1025",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 4 与 5 6 5 合起来是 ",
+   "want": "1279",
+   "got": "1279",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 8 与 5 7 7 合起来是 ",
+   "want": "1215",
+   "got": "1216",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 8 与 9 9 9 合起来是 ",
+   "want": "1837",
+   "got": "1837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 6 与 2 2 6 合起来是 ",
+   "want": "1132",
+   "got": "1132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 7 与 1 4 9 合起来是 ",
+   "want": "806",
+   "got": "806",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 1 与 3 0 3 合起来是 ",
+   "want": "1024",
+   "got": "1024",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 6 与 7 0 7 合起来是 ",
+   "want": "1053",
+   "got": "1053",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 3 与 7 4 6 合起来是 ",
+   "want": "939",
+   "got": "939",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 5 与 3 0 2 合起来是 ",
+   "want": "1097",
+   "got": "1097",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 0 4 与 3 2 1 合起来是 ",
+   "want": "925",
+   "got": "924",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 7 与 5 1 4 合起来是 ",
+   "want": "751",
+   "got": "750",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 9 与 4 3 0 合起来是 ",
+   "want": "1189",
+   "got": "1189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 1 与 1 4 0 合起来是 ",
+   "want": "471",
+   "got": "471",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 6 与 9 7 5 合起来是 ",
+   "want": "1491",
+   "got": "1491",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 5 与 8 4 0 合起来是 ",
+   "want": "975",
+   "got": "975",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 8 与 1 8 5 合起来是 ",
+   "want": "363",
+   "got": "363",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 8 与 7 2 6 合起来是 ",
+   "want": "1594",
+   "got": "1594",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 9 与 6 1 7 合起来是 ",
+   "want": "1496",
+   "got": "1496",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 0 8 与 8 7 6 合起来是 ",
+   "want": "1484",
+   "got": "1484",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 5 与 4 9 8 合起来是 ",
+   "want": "933",
+   "got": "933",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 7 与 5 7 2 合起来是 ",
+   "want": "769",
+   "got": "769",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 2 与 9 7 8 合起来是 ",
+   "want": "1590",
+   "got": "1590",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 6 与 8 9 7 合起来是 ",
+   "want": "1413",
+   "got": "1414",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 5 与 8 3 7 合起来是 ",
+   "want": "1502",
+   "got": "1402",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 8 4 与 6 3 7 合起来是 ",
+   "want": "1621",
+   "got": "1621",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 8 与 1 1 0 合起来是 ",
+   "want": "218",
+   "got": "228",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 9 与 3 1 3 合起来是 ",
+   "want": "602",
+   "got": "602",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 0 与 1 2 7 合起来是 ",
+   "want": "1067",
+   "got": "1067",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 0 与 1 3 0 合起来是 ",
+   "want": "1060",
+   "got": "1060",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 0 与 2 0 9 合起来是 ",
+   "want": "909",
+   "got": "999",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 4 2 与 8 9 7 合起来是 ",
+   "want": "1339",
+   "got": "1339",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 4 与 2 1 4 合起来是 ",
+   "want": "738",
+   "got": "736",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 2 与 2 3 0 合起来是 ",
+   "want": "892",
+   "got": "892",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 7 与 7 1 1 合起来是 ",
+   "want": "1668",
+   "got": "1668",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 6 与 1 1 3 合起来是 ",
+   "want": "749",
+   "got": "749",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 0 与 8 0 4 合起来是 ",
+   "want": "1154",
+   "got": "1154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 6 与 4 4 1 合起来是 ",
+   "want": "927",
+   "got": "926",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 3 与 7 5 2 合起来是 ",
+   "want": "1335",
+   "got": "1335",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 9 与 6 0 9 合起来是 ",
+   "want": "1428",
+   "got": "1428",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 0 与 8 4 6 合起来是 ",
+   "want": "1216",
+   "got": "1216",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 0 与 9 4 2 合起来是 ",
+   "want": "1332",
+   "got": "1332",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 0 与 2 2 2 合起来是 ",
+   "want": "932",
+   "got": "932",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 2 与 5 2 5 合起来是 ",
+   "want": "1367",
+   "got": "1367",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 3 与 7 3 5 合起来是 ",
+   "want": "838",
+   "got": "838",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 6 与 3 1 8 合起来是 ",
+   "want": "1114",
+   "got": "1015",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 1 与 4 7 6 合起来是 ",
+   "want": "977",
+   "got": "977",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 4 与 9 1 1 合起来是 ",
+   "want": "1635",
+   "got": "1636",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 6 5 与 3 1 9 4 合起来是 ",
+   "want": "9859",
+   "got": "9859",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 9 4 9 与 2 2 4 9 合起来是 ",
+   "want": "4198",
+   "got": "4188",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 9 9 与 2 1 6 1 合起来是 ",
+   "want": "8260",
+   "got": "8260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 1 8 与 9 6 1 7 合起来是 ",
+   "want": "12635",
+   "got": "12636",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 9 9 与 2 7 8 3 合起来是 ",
+   "want": "8482",
+   "got": "8482",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 8 3 4 与 5 7 8 8 合起来是 ",
+   "want": "15622",
+   "got": "15622",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 0 0 与 4 7 9 0 合起来是 ",
+   "want": "9490",
+   "got": "9499",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 0 4 与 9 6 8 1 合起来是 ",
+   "want": "17185",
+   "got": "17185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 2 0 与 6 6 1 8 合起来是 ",
+   "want": "15438",
+   "got": "15438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 3 2 与 3 2 8 2 合起来是 ",
+   "want": "4714",
+   "got": "4715",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 7 2 与 4 1 9 0 合起来是 ",
+   "want": "11862",
+   "got": "11862",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 9 5 与 3 5 8 3 合起来是 ",
+   "want": "7378",
+   "got": "7378",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 3 2 与 9 2 8 7 合起来是 ",
+   "want": "13819",
+   "got": "13818",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 2 2 与 2 2 0 4 合起来是 ",
+   "want": "5626",
+   "got": "5626",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 3 4 与 8 3 9 3 合起来是 ",
+   "want": "13327",
+   "got": "13326",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 0 5 与 6 4 9 1 合起来是 ",
+   "want": "11996",
+   "got": "11546",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 3 2 与 7 8 5 2 合起来是 ",
+   "want": "14384",
+   "got": "14384",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 5 7 与 2 5 1 1 合起来是 ",
+   "want": "4768",
+   "got": "4768",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 8 0 与 1 5 9 7 合起来是 ",
+   "want": "6777",
+   "got": "6777",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 1 6 与 3 1 3 0 合起来是 ",
+   "want": "8946",
+   "got": "8946",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 1 4 与 9 7 8 3 合起来是 ",
+   "want": "19297",
+   "got": "19297",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 7 2 与 1 7 0 2 合起来是 ",
+   "want": "9374",
+   "got": "9374",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 1 0 与 1 3 4 8 合起来是 ",
+   "want": "8358",
+   "got": "8358",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 2 9 与 4 8 9 3 合起来是 ",
+   "want": "11422",
+   "got": "11422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 6 7 与 7 4 7 9 合起来是 ",
+   "want": "16546",
+   "got": "16546",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 0 2 3 与 8 1 3 3 合起来是 ",
+   "want": "16156",
+   "got": "16146",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 5 9 与 9 5 0 8 合起来是 ",
+   "want": "11267",
+   "got": "11267",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 5 7 2 与 2 9 0 8 合起来是 ",
+   "want": "5480",
+   "got": "5470",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 1 0 与 7 9 8 8 合起来是 ",
+   "want": "11098",
+   "got": "10108",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 9 4 与 1 6 9 0 合起来是 ",
+   "want": "2984",
+   "got": "2884",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 6 1 与 1 9 0 7 合起来是 ",
+   "want": "6068",
+   "got": "6068",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 2 3 与 4 3 2 8 合起来是 ",
+   "want": "13851",
+   "got": "13851",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 9 1 9 与 7 3 9 9 合起来是 ",
+   "want": "14318",
+   "got": "14308",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 1 8 与 2 4 4 8 合起来是 ",
+   "want": "9966",
+   "got": "9966",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 4 6 与 7 3 2 8 合起来是 ",
+   "want": "8774",
+   "got": "8774",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 2 3 与 8 4 6 5 合起来是 ",
+   "want": "11988",
+   "got": "11988",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 9 0 与 6 2 4 9 合起来是 ",
+   "want": "8439",
+   "got": "8439",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 8 7 与 2 6 3 7 合起来是 ",
+   "want": "7124",
+   "got": "7134",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 7 5 与 4 5 8 1 合起来是 ",
+   "want": "8456",
+   "got": "8456",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 6 1 与 6 5 7 9 合起来是 ",
+   "want": "11740",
+   "got": "11740",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 2 9 与 1 8 5 2 合起来是 ",
+   "want": "8681",
+   "got": "8681",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 0 4 1 与 9 3 4 0 合起来是 ",
+   "want": "17381",
+   "got": "17361",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 0 4 与 8 1 4 7 合起来是 ",
+   "want": "12151",
+   "got": "12141",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 8 2 与 8 9 5 2 合起来是 ",
+   "want": "11734",
+   "got": "11734",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 5 0 与 7 9 5 4 合起来是 ",
+   "want": "16904",
+   "got": "16904",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 3 6 与 4 4 5 4 合起来是 ",
+   "want": "7790",
+   "got": "7790",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 9 3 与 5 3 2 1 合起来是 ",
+   "want": "14914",
+   "got": "14915",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 5 7 与 1 6 6 0 合起来是 ",
+   "want": "7417",
+   "got": "7417",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 9 7 与 4 9 6 6 合起来是 ",
+   "want": "7863",
+   "got": "7863",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 8 0 与 1 0 8 1 合起来是 ",
+   "want": "7061",
+   "got": "7061",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 4 7 与 8 3 3 0 合起来是 ",
+   "want": "17977",
+   "got": "17977",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 7 9 与 6 6 1 3 合起来是 ",
+   "want": "10792",
+   "got": "10792",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 8 9 与 4 8 8 9 合起来是 ",
+   "want": "10778",
+   "got": "10778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 1 3 与 9 6 6 0 合起来是 ",
+   "want": "18473",
+   "got": "18473",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 3 6 与 7 6 7 5 合起来是 ",
+   "want": "10911",
+   "got": "10901",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 5 5 与 4 4 7 2 合起来是 ",
+   "want": "6227",
+   "got": "6227",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 2 9 与 7 1 3 2 合起来是 ",
+   "want": "11961",
+   "got": "11961",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 3 3 与 1 8 7 4 合起来是 ",
+   "want": "4907",
+   "got": "4907",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 6 7 8 与 7 0 7 1 合起来是 ",
+   "want": "9749",
+   "got": "9750",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 9 7 与 1 2 9 5 合起来是 ",
+   "want": "9692",
+   "got": "9692",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 7 8 与 9 3 1 3 合起来是 ",
+   "want": "11091",
+   "got": "11091",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 3 3 与 2 0 6 2 合起来是 ",
+   "want": "9095",
+   "got": "9995",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 4 0 与 5 6 8 1 合起来是 ",
+   "want": "11421",
+   "got": "11422",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 9 7 8 与 1 2 5 8 合起来是 ",
+   "want": "5236",
+   "got": "5226",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 2 3 与 5 1 8 1 合起来是 ",
+   "want": "13604",
+   "got": "13604",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 1 3 与 7 6 0 0 合起来是 ",
+   "want": "11313",
+   "got": "11314",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 9 3 与 7 1 5 8 合起来是 ",
+   "want": "15051",
+   "got": "15050",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 5 6 与 8 4 7 4 合起来是 ",
+   "want": "14330",
+   "got": "14330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 6 8 与 9 5 5 5 合起来是 ",
+   "want": "12023",
+   "got": "12022",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 4 2 与 3 3 7 8 合起来是 ",
+   "want": "9220",
+   "got": "9220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 6 9 与 6 9 9 9 合起来是 ",
+   "want": "16768",
+   "got": "16768",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 9 3 与 5 0 6 6 合起来是 ",
+   "want": "12359",
+   "got": "12369",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 0 7 与 6 4 1 2 合起来是 ",
+   "want": "9819",
+   "got": "9819",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 6 8 6 与 5 8 2 3 合起来是 ",
+   "want": "8509",
+   "got": "8509",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 4 8 与 9 1 9 9 合起来是 ",
+   "want": "10547",
+   "got": "10547",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 7 2 与 4 1 8 5 合起来是 ",
+   "want": "10257",
+   "got": "10257",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 6 9 与 4 1 1 9 合起来是 ",
+   "want": "7988",
+   "got": "8088",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 7 5 与 4 0 3 0 合起来是 ",
+   "want": "6805",
+   "got": "6805",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 5 4 与 5 8 2 3 合起来是 ",
+   "want": "10477",
+   "got": "10477",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 1 4 与 8 0 4 3 合起来是 ",
+   "want": "11357",
+   "got": "11357",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 2 2 与 1 8 9 7 合起来是 ",
+   "want": "9519",
+   "got": "9519",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 8 1 与 1 3 7 6 合起来是 ",
+   "want": "9057",
+   "got": "9057",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 7 4 9 与 3 5 3 9 合起来是 ",
+   "want": "12288",
+   "got": "12288",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 2 0 与 2 9 2 8 合起来是 ",
+   "want": "10448",
+   "got": "10448",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 9 0 与 7 8 4 3 合起来是 ",
+   "want": "16333",
+   "got": "16333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 0 0 与 8 2 4 1 合起来是 ",
+   "want": "9741",
+   "got": "9741",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 4 9 与 4 5 3 7 合起来是 ",
+   "want": "8386",
+   "got": "8386",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 7 0 与 4 7 3 7 合起来是 ",
+   "want": "10807",
+   "got": "10807",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 1 9 与 4 6 1 0 合起来是 ",
+   "want": "14129",
+   "got": "14130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 3 7 与 6 9 2 7 合起来是 ",
+   "want": "13264",
+   "got": "13254",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 9 7 与 9 5 2 3 合起来是 ",
+   "want": "14520",
+   "got": "14520",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 6 9 与 1 2 8 6 合起来是 ",
+   "want": "4555",
+   "got": "4555",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 6 4 与 1 0 5 0 合起来是 ",
+   "want": "6714",
+   "got": "6714",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 4 7 与 7 6 7 6 合起来是 ",
+   "want": "14323",
+   "got": "14324",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 3 0 与 3 3 3 4 合起来是 ",
+   "want": "6264",
+   "got": "6254",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 1 3 与 6 5 9 2 合起来是 ",
+   "want": "14705",
+   "got": "14705",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 9 0 与 9 9 9 8 合起来是 ",
+   "want": "11488",
+   "got": "11488",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 1 2 与 7 6 5 5 合起来是 ",
+   "want": "11067",
+   "got": "10967",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 7 7 与 9 9 2 1 合起来是 ",
+   "want": "16798",
+   "got": "16798",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 0 2 与 8 1 1 3 合起来是 ",
+   "want": "11515",
+   "got": "11515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 6 2 7 与 4 4 8 7 0 合起来是 ",
+   "want": "141497",
+   "got": "141597",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 2 5 4 与 8 2 1 7 0 合起来是 ",
+   "want": "104424",
+   "got": "104707",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 1 2 6 与 8 5 0 9 2 合起来是 ",
+   "want": "145218",
+   "got": "145208",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 5 8 4 与 5 5 1 8 2 合起来是 ",
+   "want": "114766",
+   "got": "114766",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 3 3 6 与 9 2 6 2 1 合起来是 ",
+   "want": "155957",
+   "got": "155957",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 5 4 2 与 3 8 3 9 4 合起来是 ",
+   "want": "57936",
+   "got": "57935",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 9 5 7 与 8 3 6 3 5 合起来是 ",
+   "want": "95592",
+   "got": "95592",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 1 6 7 与 6 5 8 3 0 合起来是 ",
+   "want": "138997",
+   "got": "138997",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 8 7 8 与 9 8 0 8 1 合起来是 ",
+   "want": "120959",
+   "got": "126959",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 8 7 2 与 2 9 0 9 9 合起来是 ",
+   "want": "128971",
+   "got": "128971",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 9 4 1 与 7 9 2 7 2 合起来是 ",
+   "want": "114213",
+   "got": "114203",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 1 1 1 6 与 8 4 9 0 8 合起来是 ",
+   "want": "136024",
+   "got": "136026",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 1 5 1 与 2 5 7 5 3 合起来是 ",
+   "want": "79904",
+   "got": "79904",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 0 2 1 与 3 5 1 7 1 合起来是 ",
+   "want": "78192",
+   "got": "78192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 0 0 2 与 6 2 2 5 4 合起来是 ",
+   "want": "107256",
+   "got": "107266",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 0 9 7 1 与 2 9 5 2 3 合起来是 ",
+   "want": "110494",
+   "got": "109494",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 5 3 6 与 8 7 0 1 9 合起来是 ",
+   "want": "128555",
+   "got": "128555",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 7 2 9 与 7 6 7 1 9 合起来是 ",
+   "want": "127448",
+   "got": "127448",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 6 3 8 与 9 2 0 5 6 合起来是 ",
+   "want": "137694",
+   "got": "137694",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 3 1 6 与 1 3 8 6 0 合起来是 ",
+   "want": "29176",
+   "got": "28176",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 5 2 7 与 7 2 7 0 7 合起来是 ",
+   "want": "104234",
+   "got": "104224",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 3 2 5 与 1 0 1 2 8 合起来是 ",
+   "want": "49453",
+   "got": "49453",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 8 5 3 与 9 7 5 1 8 合起来是 ",
+   "want": "108371",
+   "got": "108371",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 3 5 7 与 6 6 9 1 7 合起来是 ",
+   "want": "144274",
+   "got": "144274",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 6 9 4 与 6 1 2 0 6 合起来是 ",
+   "want": "149900",
+   "got": "150891",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 0 2 4 与 1 8 2 0 5 合起来是 ",
+   "want": "79229",
+   "got": "79239",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 2 2 8 与 2 5 3 0 7 合起来是 ",
+   "want": "42535",
+   "got": "42435",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 7 4 9 与 7 6 0 4 7 合起来是 ",
+   "want": "136796",
+   "got": "136796",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 4 8 4 与 1 9 8 3 7 合起来是 ",
+   "want": "56321",
+   "got": "56321",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 6 4 4 与 9 7 5 9 7 合起来是 ",
+   "want": "118241",
+   "got": "118221",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 3 4 0 与 9 0 2 0 1 合起来是 ",
+   "want": "125541",
+   "got": "125541",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 3 8 8 8 与 1 3 3 4 0 合起来是 ",
+   "want": "67228",
+   "got": "67228",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 2 8 0 与 1 8 6 7 9 合起来是 ",
+   "want": "34959",
+   "got": "35960",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 1 7 7 与 7 9 1 8 1 合起来是 ",
+   "want": "138358",
+   "got": "138358",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 3 3 8 与 9 0 2 2 4 合起来是 ",
+   "want": "107562",
+   "got": "107562",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 9 7 2 与 4 6 6 0 1 合起来是 ",
+   "want": "141573",
+   "got": "141673",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 4 9 9 与 4 8 4 0 8 合起来是 ",
+   "want": "68907",
+   "got": "68997",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 5 5 7 与 8 9 4 9 9 合起来是 ",
+   "want": "182056",
+   "got": "182056",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 5 8 9 与 5 2 1 2 5 合起来是 ",
+   "want": "71714",
+   "got": "71713",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 1 2 0 与 6 9 3 9 3 合起来是 ",
+   "want": "86513",
+   "got": "86503",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 4 4 9 与 3 3 2 2 4 合起来是 ",
+   "want": "96673",
+   "got": "96673",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 5 1 4 与 7 8 3 9 4 合起来是 ",
+   "want": "170908",
+   "got": "160908",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 6 7 6 与 8 6 3 4 4 合起来是 ",
+   "want": "122020",
+   "got": "121920",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 1 0 6 与 9 4 1 5 7 合起来是 ",
+   "want": "162263",
+   "got": "162363",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 8 8 8 与 9 2 1 7 9 合起来是 ",
+   "want": "156067",
+   "got": "156067",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 8 2 8 与 1 6 5 9 2 合起来是 ",
+   "want": "45420",
+   "got": "45400",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 2 8 1 与 3 8 9 0 2 合起来是 ",
+   "want": "97183",
+   "got": "97193",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 5 5 8 与 4 6 6 7 3 合起来是 ",
+   "want": "140231",
+   "got": "140231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 4 0 5 与 1 2 2 0 4 合起来是 ",
+   "want": "57609",
+   "got": "57610",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 9 1 5 与 6 7 7 5 6 合起来是 ",
+   "want": "142671",
+   "got": "142671",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 0 2 4 与 8 8 4 9 0 合起来是 ",
+   "want": "156514",
+   "got": "156504",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 8 9 6 与 6 1 2 1 4 合起来是 ",
+   "want": "108110",
+   "got": "108100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 2 7 4 与 1 7 6 2 6 合起来是 ",
+   "want": "48900",
+   "got": "48899",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 8 5 4 与 2 8 3 1 4 合起来是 ",
+   "want": "97168",
+   "got": "97168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 8 5 0 与 6 3 9 5 5 合起来是 ",
+   "want": "126805",
+   "got": "126805",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 0 0 0 与 2 7 0 4 3 合起来是 ",
+   "want": "125043",
+   "got": "125103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 1 5 9 与 2 7 9 8 2 合起来是 ",
+   "want": "116141",
+   "got": "116131",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 1 6 0 与 1 2 5 5 0 合起来是 ",
+   "want": "67710",
+   "got": "67611",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 8 0 5 与 2 2 0 6 7 合起来是 ",
+   "want": "104872",
+   "got": "104872",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 4 9 9 与 9 1 9 7 1 合起来是 ",
+   "want": "166470",
+   "got": "166470",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 1 4 6 与 6 0 3 9 3 合起来是 ",
+   "want": "132539",
+   "got": "132439",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 2 5 1 与 3 1 0 9 8 合起来是 ",
+   "want": "47349",
+   "got": "47349",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 1 1 0 与 8 8 8 7 8 合起来是 ",
+   "want": "172988",
+   "got": "172988",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 7 5 4 与 4 4 5 4 3 合起来是 ",
+   "want": "63297",
+   "got": "63297",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 9 7 9 与 6 2 0 7 2 合起来是 ",
+   "want": "75051",
+   "got": "74951",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 6 7 9 与 9 8 4 2 5 合起来是 ",
+   "want": "177104",
+   "got": "177004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 9 3 1 与 4 4 4 4 5 合起来是 ",
+   "want": "124376",
+   "got": "124375",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 8 0 2 与 3 5 5 9 4 合起来是 ",
+   "want": "54396",
+   "got": "54396",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 0 0 9 与 3 6 5 6 3 合起来是 ",
+   "want": "72572",
+   "got": "72772",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 4 8 9 与 4 0 4 2 3 合起来是 ",
+   "want": "109912",
+   "got": "109911",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 6 8 9 与 2 7 3 8 8 合起来是 ",
+   "want": "49077",
+   "got": "49077",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 1 1 8 2 与 5 6 9 0 7 合起来是 ",
+   "want": "108089",
+   "got": "108989",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 4 4 5 与 3 6 5 5 7 合起来是 ",
+   "want": "69002",
+   "got": "68002",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 1 8 5 与 6 2 6 0 0 合起来是 ",
+   "want": "117785",
+   "got": "117785",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 2 4 9 与 7 1 2 3 5 合起来是 ",
+   "want": "95484",
+   "got": "95484",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 3 9 3 与 2 0 3 7 4 合起来是 ",
+   "want": "101767",
+   "got": "101867",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 0 8 5 0 与 1 1 3 9 4 合起来是 ",
+   "want": "82244",
+   "got": "82244",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 8 5 8 与 3 1 5 3 1 合起来是 ",
+   "want": "68389",
+   "got": "68389",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 8 7 1 与 2 3 3 2 4 合起来是 ",
+   "want": "122195",
+   "got": "122195",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 3 0 1 与 8 9 0 2 6 合起来是 ",
+   "want": "109327",
+   "got": "109327",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 4 1 4 与 1 0 0 6 0 合起来是 ",
+   "want": "41474",
+   "got": "41474",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 7 8 5 与 2 4 7 6 1 合起来是 ",
+   "want": "84546",
+   "got": "84546",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 8 6 8 7 与 6 5 2 9 9 合起来是 ",
+   "want": "103986",
+   "got": "103986",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 1 9 1 与 7 7 2 7 8 合起来是 ",
+   "want": "118469",
+   "got": "118459",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 7 7 0 与 5 1 6 4 8 合起来是 ",
+   "want": "149418",
+   "got": "149418",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 3 4 8 与 7 1 3 0 6 合起来是 ",
+   "want": "98654",
+   "got": "98654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 9 7 8 与 8 1 5 8 0 合起来是 ",
+   "want": "156558",
+   "got": "156558",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 1 6 1 与 5 5 2 1 5 合起来是 ",
+   "want": "140376",
+   "got": "140376",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 2 8 0 与 2 5 8 9 4 合起来是 ",
+   "want": "85174",
+   "got": "85174",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 9 5 4 与 3 8 6 0 6 合起来是 ",
+   "want": "73560",
+   "got": "73550",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 6 5 3 与 1 9 7 4 3 合起来是 ",
+   "want": "88396",
+   "got": "88396",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 5 3 9 与 8 1 4 5 8 合起来是 ",
+   "want": "178997",
+   "got": "178997",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 8 9 2 与 5 0 2 5 1 合起来是 ",
+   "want": "99143",
+   "got": "99043",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 6 8 1 与 8 7 6 6 7 合起来是 ",
+   "want": "132348",
+   "got": "132248",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 4 4 6 与 3 2 1 1 1 合起来是 ",
+   "want": "48557",
+   "got": "48557",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 8 6 5 与 5 2 3 3 9 合起来是 ",
+   "want": "138204",
+   "got": "138204",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 2 6 3 与 2 8 4 6 1 合起来是 ",
+   "want": "44724",
+   "got": "44724",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 8 5 0 与 4 8 5 3 7 合起来是 ",
+   "want": "110387",
+   "got": "100387",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 8 8 1 与 1 5 6 3 6 合起来是 ",
+   "want": "92517",
+   "got": "92517",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 3 8 8 与 6 6 5 1 2 合起来是 ",
+   "want": "88900",
+   "got": "88800",
+   "exact": false,
+   "samelen": true
+  }
+ ]
+}
