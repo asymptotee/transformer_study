@@ -1,0 +1,3231 @@
+{
+ "label": "n6x3_T02无等号",
+ "by_rung": {
+  "2": [
+   12,
+   29,
+   0,
+   100
+  ],
+  "3": [
+   53,
+   80,
+   0,
+   100
+  ],
+  "4": [
+   78,
+   94,
+   0,
+   100
+  ],
+  "5": [
+   70,
+   95,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "计算：1 1 + 7 6，答案是 ",
+   "want": "87",
+   "got": "77",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：3 4 + 2 0，答案是 ",
+   "want": "54",
+   "got": "答案是54",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 0 + 6 2，答案是 ",
+   "want": "102",
+   "got": "答案是102",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：7 2 + 8 1，答案是 ",
+   "want": "153",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 0 + 9 8，答案是 ",
+   "want": "138",
+   "got": "答案是138",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：7 0 + 9 2，答案是 ",
+   "want": "162",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：7 2 + 6 7，答案是 ",
+   "want": "139",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：1 2 + 2 1，答案是 ",
+   "want": "33",
+   "got": "33",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：4 7 + 3 8，答案是 ",
+   "want": "85",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：6 1 + 9 8，答案是 ",
+   "want": "159",
+   "got": "149",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：4 1 + 4 9，答案是 ",
+   "want": "90",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：9 4 + 8 4，答案是 ",
+   "want": "178",
+   "got": "：78",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：5 7 + 7 0，答案是 ",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：8 0 + 7 7，答案是 ",
+   "want": "157",
+   "got": "147",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：5 4 + 6 4，答案是 ",
+   "want": "118",
+   "got": "108",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：8 0 + 5 2，答案是 ",
+   "want": "132",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：5 5 + 9 9，答案是 ",
+   "want": "154",
+   "got": "144",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：6 8 + 4 4，答案是 ",
+   "want": "112",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 9 + 4 2，答案是 ",
+   "want": "91",
+   "got": "答案是91",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 9 + 2 5，答案是 ",
+   "want": "64",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 4 + 5 0，答案是 ",
+   "want": "84",
+   "got": "：84",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：2 5 + 7 8，答案是 ",
+   "want": "103",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：9 8 + 3 3，答案是 ",
+   "want": "131",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 4 + 3 7，答案是 ",
+   "want": "71",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：7 1 + 4 5，答案是 ",
+   "want": "116",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 5 + 7 7，答案是 ",
+   "want": "162",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 6 + 4 6，答案是 ",
+   "want": "132",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：2 2 + 3 4，答案是 ",
+   "want": "56",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：4 7 + 3 9，答案是 ",
+   "want": "86",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：5 6 + 3 2，答案是 ",
+   "want": "88",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 8 + 1 1，答案是 ",
+   "want": "59",
+   "got": "29",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：7 8 + 2 6，答案是 ",
+   "want": "104",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 5 + 1 5，答案是 ",
+   "want": "60",
+   "got": "：65",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：1 6 + 8 0，答案是 ",
+   "want": "96",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 7 + 9 9，答案是 ",
+   "want": "146",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：2 6 + 9 1，答案是 ",
+   "want": "117",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：7 2 + 2 3，答案是 ",
+   "want": "95",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：1 1 + 8 3，答案是 ",
+   "want": "94",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 6 + 7 0，答案是 ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：7 1 + 6 6，答案是 ",
+   "want": "137",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：5 3 + 3 3，答案是 ",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：1 6 + 4 2，答案是 ",
+   "want": "58",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：7 1 + 2 4，答案是 ",
+   "want": "95",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：1 8 + 6 1，答案是 ",
+   "want": "79",
+   "got": "79",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：7 2 + 1 9，答案是 ",
+   "want": "91",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 3 + 9 0，答案是 ",
+   "want": "173",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：9 7 + 1 6，答案是 ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：2 9 + 2 9，答案是 ",
+   "want": "58",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 2 + 4 8，答案是 ",
+   "want": "130",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：2 0 + 4 1，答案是 ",
+   "want": "61",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：2 5 + 8 1，答案是 ",
+   "want": "106",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：6 3 + 8 7，答案是 ",
+   "want": "150",
+   "got": "140",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：8 6 + 8 9，答案是 ",
+   "want": "175",
+   "got": "答案是175",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 8 + 7 6，答案是 ",
+   "want": "114",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：5 8 + 6 7，答案是 ",
+   "want": "125",
+   "got": "115",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：6 6 + 4 8，答案是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：8 5 + 6 4，答案是 ",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：4 9 + 8 2，答案是 ",
+   "want": "131",
+   "got": "答案是131",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 9 + 1 7，答案是 ",
+   "want": "106",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 8 + 2 2，答案是 ",
+   "want": "110",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 6 + 9 0，答案是 ",
+   "want": "126",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 7 + 4 3，答案是 ",
+   "want": "80",
+   "got": "120",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：9 4 + 2 0，答案是 ",
+   "want": "114",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 0 + 4 0，答案是 ",
+   "want": "70",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 2 + 8 0，答案是 ",
+   "want": "112",
+   "got": "答案是112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：1 9 + 3 0，答案是 ",
+   "want": "49",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：1 0 + 6 2，答案是 ",
+   "want": "72",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：6 7 + 9 8，答案是 ",
+   "want": "165",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 6 + 7 0，答案是 ",
+   "want": "156",
+   "got": "146",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：4 7 + 1 4，答案是 ",
+   "want": "61",
+   "got": "21",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：3 9 + 4 6，答案是 ",
+   "want": "85",
+   "got": "115",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 6 + 9 9，答案是 ",
+   "want": "145",
+   "got": "答案是145",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：6 8 + 1 9，答案是 ",
+   "want": "87",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：9 7 + 3 9，答案是 ",
+   "want": "136",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 3 + 9 0，答案是 ",
+   "want": "133",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 5 + 9 4，答案是 ",
+   "want": "179",
+   "got": "：79",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：3 5 + 6 4，答案是 ",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：2 4 + 7 9，答案是 ",
+   "want": "103",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：3 8 + 9 2，答案是 ",
+   "want": "130",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：2 9 + 4 4，答案是 ",
+   "want": "73",
+   "got": "答案是73",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：2 8 + 1 9，答案是 ",
+   "want": "47",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：1 7 + 3 1，答案是 ",
+   "want": "48",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 9 + 8 6，答案是 ",
+   "want": "135",
+   "got": "115",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：8 2 + 4 6，答案是 ",
+   "want": "128",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：6 6 + 2 5，答案是 ",
+   "want": "91",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：6 9 + 9 8，答案是 ",
+   "want": "167",
+   "got": "答案是167",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：4 8 + 9 9，答案是 ",
+   "want": "147",
+   "got": "答案是147",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：6 1 + 4 4，答案是 ",
+   "want": "105",
+   "got": "答案是105",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：7 4 + 7 9，答案是 ",
+   "want": "153",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：7 3 + 6 6，答案是 ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：2 0 + 8 6，答案是 ",
+   "want": "106",
+   "got": "答案是106",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：1 5 + 6 5，答案是 ",
+   "want": "80",
+   "got": "70",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：5 1 + 8 7，答案是 ",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：4 2 + 1 3，答案是 ",
+   "want": "55",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：2 1 + 3 9，答案是 ",
+   "want": "60",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：9 6 + 8 3，答案是 ",
+   "want": "179",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 5 + 1 2，答案是 ",
+   "want": "97",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：9 6 + 4 4，答案是 ",
+   "want": "140",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "计算：8 3 + 1 5，答案是 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "计算：3 2 + 7 0，答案是 ",
+   "want": "102",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：6 3 1 + 7 6 7，答案是 ",
+   "want": "1398",
+   "got": "1398",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 5 2 + 3 8 4，答案是 ",
+   "want": "936",
+   "got": "936",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 8 5 + 6 9 9，答案是 ",
+   "want": "984",
+   "got": "答案是984",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：5 4 6 + 7 5 0，答案是 ",
+   "want": "1296",
+   "got": "1296",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 3 3 + 6 0 3，答案是 ",
+   "want": "1536",
+   "got": "1536",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：1 9 3 + 5 8 1，答案是 ",
+   "want": "774",
+   "got": "774",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 5 6 + 5 1 8，答案是 ",
+   "want": "974",
+   "got": "974",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 4 1 + 4 2 8，答案是 ",
+   "want": "869",
+   "got": "669",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 8 6 + 2 0 7，答案是 ",
+   "want": "993",
+   "got": "993",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 7 8 + 2 6 4，答案是 ",
+   "want": "1242",
+   "got": "1142",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 3 7 + 5 2 1，答案是 ",
+   "want": "958",
+   "got": "658",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：8 1 0 + 6 0 7，答案是 ",
+   "want": "1417",
+   "got": "1417",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：3 9 5 + 7 7 8，答案是 ",
+   "want": "1173",
+   "got": "答案是1173",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：5 1 0 + 9 3 3，答案是 ",
+   "want": "1443",
+   "got": "1443",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：8 7 8 + 6 6 3，答案是 ",
+   "want": "1541",
+   "got": "1141",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：1 3 7 + 5 6 5，答案是 ",
+   "want": "702",
+   "got": "802",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：1 9 0 + 4 2 2，答案是 ",
+   "want": "612",
+   "got": "612",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：3 5 8 + 4 3 1，答案是 ",
+   "want": "789",
+   "got": "789",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 1 8 + 8 9 1，答案是 ",
+   "want": "1109",
+   "got": "1009",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 1 3 + 9 8 5，答案是 ",
+   "want": "1498",
+   "got": "1498",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：6 2 6 + 9 4 4，答案是 ",
+   "want": "1570",
+   "got": "答案是1570",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：1 0 1 + 7 7 3，答案是 ",
+   "want": "874",
+   "got": "874",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 9 0 + 6 5 5，答案是 ",
+   "want": "1645",
+   "got": "1645",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 7 3 + 5 2 3，答案是 ",
+   "want": "1096",
+   "got": "796",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：1 5 5 + 2 9 2，答案是 ",
+   "want": "447",
+   "got": "747",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：6 3 0 + 4 7 0，答案是 ",
+   "want": "1100",
+   "got": "1000",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 3 7 + 8 7 4，答案是 ",
+   "want": "1611",
+   "got": "1611",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：6 1 0 + 7 4 0，答案是 ",
+   "want": "1350",
+   "got": "1350",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 5 2 + 8 7 8，答案是 ",
+   "want": "1430",
+   "got": "1430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：1 5 2 + 3 0 8，答案是 ",
+   "want": "460",
+   "got": "860",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：3 7 3 + 6 6 2，答案是 ",
+   "want": "1035",
+   "got": "935",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：2 3 4 + 3 9 4，答案是 ",
+   "want": "628",
+   "got": "528",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 4 8 + 8 1 5，答案是 ",
+   "want": "1363",
+   "got": "1363",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 9 6 + 2 2 4，答案是 ",
+   "want": "820",
+   "got": "答案是820",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：1 2 9 + 7 4 5，答案是 ",
+   "want": "874",
+   "got": "974",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 2 3 + 9 1 8，答案是 ",
+   "want": "1641",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：3 4 5 + 8 2 6，答案是 ",
+   "want": "1171",
+   "got": "答案是1171",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：2 6 2 + 4 1 8，答案是 ",
+   "want": "680",
+   "got": "680",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：6 6 4 + 1 1 4，答案是 ",
+   "want": "778",
+   "got": "778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：6 6 5 + 5 1 7，答案是 ",
+   "want": "1182",
+   "got": "1182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：1 9 5 + 3 3 0，答案是 ",
+   "want": "525",
+   "got": "425",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 6 1 + 2 1 6，答案是 ",
+   "want": "1177",
+   "got": "答案是1177",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：5 7 2 + 2 2 0，答案是 ",
+   "want": "792",
+   "got": "792",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 6 3 + 9 5 2，答案是 ",
+   "want": "1715",
+   "got": "1615",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 5 7 + 6 1 0，答案是 ",
+   "want": "867",
+   "got": "767",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：8 3 3 + 3 9 8，答案是 ",
+   "want": "1231",
+   "got": "1231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：6 2 1 + 8 2 2，答案是 ",
+   "want": "1443",
+   "got": "1443",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：3 7 9 + 5 2 5，答案是 ",
+   "want": "904",
+   "got": "894",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 5 4 + 5 9 4，答案是 ",
+   "want": "1548",
+   "got": "1148",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 8 3 + 3 4 9，答案是 ",
+   "want": "932",
+   "got": "932",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 6 7 + 6 6 4，答案是 ",
+   "want": "1231",
+   "got": "1231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 4 8 + 4 9 2，答案是 ",
+   "want": "740",
+   "got": "740",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 9 5 + 7 1 3，答案是 ",
+   "want": "1008",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：6 2 0 + 8 6 4，答案是 ",
+   "want": "1484",
+   "got": "1484",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 3 9 + 9 8 4，答案是 ",
+   "want": "1223",
+   "got": "1223",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：1 7 1 + 3 8 2，答案是 ",
+   "want": "553",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：8 9 1 + 9 0 8，答案是 ",
+   "want": "1799",
+   "got": "1799",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 7 4 + 5 2 4，答案是 ",
+   "want": "1498",
+   "got": "998",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：4 4 8 + 9 0 6，答案是 ",
+   "want": "1354",
+   "got": "1354",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：6 1 9 + 3 7 3，答案是 ",
+   "want": "992",
+   "got": "992",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 4 0 + 1 0 2，答案是 ",
+   "want": "1042",
+   "got": "1042",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：3 8 9 + 8 4 3，答案是 ",
+   "want": "1232",
+   "got": "1232",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 0 5 + 9 5 7，答案是 ",
+   "want": "1362",
+   "got": "1362",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 0 1 + 6 9 3，答案是 ",
+   "want": "1394",
+   "got": "1394",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 7 5 + 6 0 1，答案是 ",
+   "want": "1376",
+   "got": "1276",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 8 6 + 2 5 2，答案是 ",
+   "want": "1238",
+   "got": "1138",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 5 7 + 6 5 1，答案是 ",
+   "want": "1208",
+   "got": "1208",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 9 5 + 4 5 3，答案是 ",
+   "want": "1048",
+   "got": "1048",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 4 0 + 6 6 5，答案是 ",
+   "want": "1105",
+   "got": "1105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：8 8 1 + 6 5 6，答案是 ",
+   "want": "1537",
+   "got": "1137",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 8 6 + 5 6 6，答案是 ",
+   "want": "1052",
+   "got": "1052",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 2 9 + 9 9 0，答案是 ",
+   "want": "1419",
+   "got": "答案是1419",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：2 9 3 + 8 1 4，答案是 ",
+   "want": "1107",
+   "got": "答案是1107",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：3 4 4 + 6 8 5，答案是 ",
+   "want": "1029",
+   "got": "1029",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 9 2 + 3 3 9，答案是 ",
+   "want": "831",
+   "got": "831",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 7 6 + 8 9 4，答案是 ",
+   "want": "1870",
+   "got": "答案是1870",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：5 2 0 + 1 4 4，答案是 ",
+   "want": "664",
+   "got": "664",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：4 2 5 + 8 6 2，答案是 ",
+   "want": "1287",
+   "got": "1287",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 8 4 + 8 2 2，答案是 ",
+   "want": "1406",
+   "got": "1306",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 3 0 + 4 9 0，答案是 ",
+   "want": "1420",
+   "got": "答案是1420",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：4 9 5 + 7 7 9，答案是 ",
+   "want": "1274",
+   "got": "：274",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 1 1 + 9 4 0，答案是 ",
+   "want": "1851",
+   "got": "1051",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 6 7 + 2 5 5，答案是 ",
+   "want": "1022",
+   "got": "922",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：6 0 7 + 1 3 7，答案是 ",
+   "want": "744",
+   "got": "944",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 2 9 + 6 1 4，答案是 ",
+   "want": "843",
+   "got": "843",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 0 4 + 4 3 9，答案是 ",
+   "want": "1143",
+   "got": "1143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 9 0 + 2 0 2，答案是 ",
+   "want": "1192",
+   "got": "1192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 9 5 + 9 6 5，答案是 ",
+   "want": "1960",
+   "got": "答案是1960",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：5 5 0 + 2 0 2，答案是 ",
+   "want": "752",
+   "got": "752",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：6 3 8 + 5 6 7，答案是 ",
+   "want": "1205",
+   "got": "1205",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：1 1 5 + 8 3 9，答案是 ",
+   "want": "954",
+   "got": "954",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 4 7 + 5 1 9，答案是 ",
+   "want": "766",
+   "got": "766",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：9 9 1 + 7 7 0，答案是 ",
+   "want": "1761",
+   "got": "1661",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：2 5 8 + 1 7 6，答案是 ",
+   "want": "434",
+   "got": "334",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：5 8 0 + 9 0 0，答案是 ",
+   "want": "1480",
+   "got": "1480",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：3 7 1 + 4 4 6，答案是 ",
+   "want": "817",
+   "got": "907",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：7 3 8 + 8 0 9，答案是 ",
+   "want": "1547",
+   "got": "答案是1547",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：5 0 7 + 7 6 5，答案是 ",
+   "want": "1272",
+   "got": "1272",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "计算：1 8 2 + 9 7 2，答案是 ",
+   "want": "1154",
+   "got": "答案是1154",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "计算：4 3 6 + 9 7 2，答案是 ",
+   "want": "1408",
+   "got": "1308",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 7 4 2 + 7 2 2 6，答案是 ",
+   "want": "16968",
+   "got": "16968",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 1 8 8 + 8 9 9 4，答案是 ",
+   "want": "15182",
+   "got": "15182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 8 6 4 + 1 5 8 8，答案是 ",
+   "want": "11452",
+   "got": "11452",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 1 2 1 + 4 8 4 6，答案是 ",
+   "want": "6967",
+   "got": "6967",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 7 0 8 + 4 7 2 7，答案是 ",
+   "want": "10435",
+   "got": "11435",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 4 8 0 + 8 1 1 0，答案是 ",
+   "want": "10590",
+   "got": "10590",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 6 1 2 + 2 6 4 6，答案是 ",
+   "want": "5258",
+   "got": "11258",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "计算：8 2 6 9 + 3 7 2 5，答案是 ",
+   "want": "11994",
+   "got": "11994",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 9 0 6 + 1 4 7 4，答案是 ",
+   "want": "7380",
+   "got": "7380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 7 5 3 + 6 3 1 4，答案是 ",
+   "want": "8067",
+   "got": "8067",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 9 1 9 + 5 8 0 6，答案是 ",
+   "want": "7725",
+   "got": "7725",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 8 7 3 + 7 1 4 1，答案是 ",
+   "want": "14014",
+   "got": "14014",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 0 5 6 + 3 3 8 5，答案是 ",
+   "want": "11441",
+   "got": "11441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 0 0 0 + 9 7 0 2，答案是 ",
+   "want": "14702",
+   "got": "14702",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 7 5 1 + 3 9 5 0，答案是 ",
+   "want": "11701",
+   "got": "11601",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 7 8 5 + 3 8 6 8，答案是 ",
+   "want": "7653",
+   "got": "7653",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 2 9 3 + 7 2 6 7，答案是 ",
+   "want": "9560",
+   "got": "9560",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：4 9 4 5 + 9 1 5 3，答案是 ",
+   "want": "14098",
+   "got": "15098",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 3 4 4 + 4 8 0 4，答案是 ",
+   "want": "8148",
+   "got": "8148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 5 5 5 + 5 1 6 1，答案是 ",
+   "want": "13716",
+   "got": "13716",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 5 2 9 + 5 1 8 3，答案是 ",
+   "want": "13712",
+   "got": "13712",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 1 5 3 + 8 6 2 2，答案是 ",
+   "want": "9775",
+   "got": "9775",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 7 1 2 + 9 9 5 5，答案是 ",
+   "want": "15667",
+   "got": "15667",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 5 8 8 + 2 2 1 0，答案是 ",
+   "want": "5798",
+   "got": "5798",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 2 3 7 + 6 6 6 1，答案是 ",
+   "want": "14898",
+   "got": "14898",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 9 0 1 + 7 9 5 1，答案是 ",
+   "want": "13852",
+   "got": "13852",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 0 9 7 + 8 4 8 4，答案是 ",
+   "want": "13581",
+   "got": "13581",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 9 4 9 + 4 2 6 3，答案是 ",
+   "want": "10212",
+   "got": "答案是10212",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "计算：7 3 0 2 + 8 9 1 6，答案是 ",
+   "want": "16218",
+   "got": "15218",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 7 4 7 + 4 8 8 6，答案是 ",
+   "want": "7633",
+   "got": "7633",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 2 4 8 + 6 8 8 1，答案是 ",
+   "want": "14129",
+   "got": "14139",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 8 4 7 + 5 8 3 7，答案是 ",
+   "want": "11684",
+   "got": "14684",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 3 5 9 + 7 4 8 4，答案是 ",
+   "want": "8843",
+   "got": "8843",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 4 9 7 + 1 1 3 2，答案是 ",
+   "want": "6629",
+   "got": "6629",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 8 0 3 + 9 1 3 8，答案是 ",
+   "want": "10941",
+   "got": "10941",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 6 8 9 + 4 7 7 0，答案是 ",
+   "want": "10459",
+   "got": "10459",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 7 7 2 + 4 5 8 8，答案是 ",
+   "want": "11360",
+   "got": "11360",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：4 1 1 5 + 5 1 0 6，答案是 ",
+   "want": "9221",
+   "got": "9221",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 2 4 0 + 2 5 9 1，答案是 ",
+   "want": "5831",
+   "got": "8831",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 6 4 5 + 6 0 6 1，答案是 ",
+   "want": "7706",
+   "got": "7706",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 2 2 2 + 1 5 4 6，答案是 ",
+   "want": "9768",
+   "got": "9768",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 9 7 7 + 3 1 5 3，答案是 ",
+   "want": "10130",
+   "got": "10120",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 4 7 6 + 5 8 3 5，答案是 ",
+   "want": "8311",
+   "got": "8311",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 3 5 2 + 7 8 0 7，答案是 ",
+   "want": "14159",
+   "got": "14169",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 8 7 7 + 4 2 8 9，答案是 ",
+   "want": "8166",
+   "got": "8166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 1 6 5 + 9 8 3 7，答案是 ",
+   "want": "13002",
+   "got": "13002",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 9 9 4 + 9 6 9 7，答案是 ",
+   "want": "16691",
+   "got": "16691",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 2 2 1 + 5 4 6 5，答案是 ",
+   "want": "14686",
+   "got": "14686",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 6 9 5 + 5 2 1 0，答案是 ",
+   "want": "8905",
+   "got": "8905",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 8 9 4 + 5 8 3 5，答案是 ",
+   "want": "14729",
+   "got": "14729",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 5 4 9 + 2 8 8 6，答案是 ",
+   "want": "9435",
+   "got": "9435",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 6 7 3 + 2 2 3 3，答案是 ",
+   "want": "10906",
+   "got": "10906",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 3 0 6 + 4 6 9 6，答案是 ",
+   "want": "8002",
+   "got": "8092",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 5 1 1 + 6 9 9 2，答案是 ",
+   "want": "14503",
+   "got": "14503",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 4 7 9 + 7 4 6 4，答案是 ",
+   "want": "9943",
+   "got": "10003",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "计算：1 2 2 8 + 5 3 3 2，答案是 ",
+   "want": "6560",
+   "got": "6560",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 7 9 1 + 3 0 2 4，答案是 ",
+   "want": "12815",
+   "got": "18815",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 4 5 1 + 7 0 3 8，答案是 ",
+   "want": "15489",
+   "got": "15489",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 2 9 5 + 7 2 4 2，答案是 ",
+   "want": "12537",
+   "got": "12537",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 0 8 6 + 2 7 7 5，答案是 ",
+   "want": "9861",
+   "got": "9861",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：4 8 3 0 + 8 7 2 4，答案是 ",
+   "want": "13554",
+   "got": "13554",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 4 1 0 + 6 3 7 4，答案是 ",
+   "want": "7784",
+   "got": "7784",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：4 6 2 6 + 2 0 3 5，答案是 ",
+   "want": "6661",
+   "got": "6661",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 6 0 6 + 5 9 5 1，答案是 ",
+   "want": "14557",
+   "got": "14557",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 6 8 9 + 2 9 1 1，答案是 ",
+   "want": "10600",
+   "got": "10600",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 2 9 0 + 1 7 4 2，答案是 ",
+   "want": "5032",
+   "got": "5032",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 6 0 9 + 5 9 8 6，答案是 ",
+   "want": "7595",
+   "got": "7595",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 0 7 1 + 2 9 0 2，答案是 ",
+   "want": "11973",
+   "got": "11973",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 5 9 2 + 4 8 4 6，答案是 ",
+   "want": "7438",
+   "got": "7438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 8 0 7 + 3 2 2 2，答案是 ",
+   "want": "13029",
+   "got": "13029",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 3 6 7 + 8 4 3 2，答案是 ",
+   "want": "15799",
+   "got": "15799",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 0 7 8 + 9 8 5 0，答案是 ",
+   "want": "16928",
+   "got": "16928",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 8 6 6 + 3 5 3 1，答案是 ",
+   "want": "11397",
+   "got": "11397",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：7 7 9 7 + 2 6 2 2，答案是 ",
+   "want": "10419",
+   "got": "14419",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 0 1 7 + 7 6 8 6，答案是 ",
+   "want": "16703",
+   "got": "15703",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 5 8 3 + 1 5 3 6，答案是 ",
+   "want": "7119",
+   "got": "11019",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "计算：7 0 7 0 + 4 5 5 9，答案是 ",
+   "want": "11629",
+   "got": "12629",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：8 2 6 4 + 8 2 8 5，答案是 ",
+   "want": "16549",
+   "got": "答案是16549",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "计算：4 8 6 8 + 6 9 4 2，答案是 ",
+   "want": "11810",
+   "got": "11810",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 6 2 7 + 7 0 1 8，答案是 ",
+   "want": "9645",
+   "got": "9645",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 9 2 0 + 6 8 7 6，答案是 ",
+   "want": "16796",
+   "got": "16796",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 9 9 2 + 7 5 2 3，答案是 ",
+   "want": "9515",
+   "got": "9515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 5 2 0 + 4 1 0 9，答案是 ",
+   "want": "9629",
+   "got": "9629",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 0 0 1 + 8 4 5 0，答案是 ",
+   "want": "11451",
+   "got": "11451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 5 0 1 + 4 4 7 5，答案是 ",
+   "want": "6976",
+   "got": "6976",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 3 4 9 + 1 8 2 8，答案是 ",
+   "want": "3177",
+   "got": "3177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 4 6 4 + 4 9 9 0，答案是 ",
+   "want": "11454",
+   "got": "11454",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 0 6 3 + 4 3 6 2，答案是 ",
+   "want": "7425",
+   "got": "7425",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：2 1 2 4 + 4 3 9 4，答案是 ",
+   "want": "6518",
+   "got": "6519",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：4 5 3 8 + 4 8 1 7，答案是 ",
+   "want": "9355",
+   "got": "9355",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：6 3 8 3 + 3 4 1 7，答案是 ",
+   "want": "9800",
+   "got": "98010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "计算：1 0 4 6 + 5 5 4 2，答案是 ",
+   "want": "6588",
+   "got": "6588",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 3 7 0 + 3 1 2 9，答案是 ",
+   "want": "6499",
+   "got": "4499",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：9 8 5 0 + 5 1 0 6，答案是 ",
+   "want": "14956",
+   "got": "14956",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：3 8 5 8 + 2 8 0 1，答案是 ",
+   "want": "6659",
+   "got": "6659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 4 2 2 + 3 1 5 9，答案是 ",
+   "want": "4581",
+   "got": "4581",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 2 4 3 + 6 8 6 9，答案是 ",
+   "want": "8112",
+   "got": "8112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：4 8 9 8 + 6 3 0 4，答案是 ",
+   "want": "11202",
+   "got": "11202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：1 2 5 8 + 3 8 5 4，答案是 ",
+   "want": "5112",
+   "got": "5112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "计算：5 3 4 7 + 1 8 5 8，答案是 ",
+   "want": "7205",
+   "got": "7205",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 6 6 1 4 + 6 5 1 7 6，答案是 ",
+   "want": "91790",
+   "got": "91790",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：7 8 9 5 5 + 2 4 8 9 6，答案是 ",
+   "want": "103851",
+   "got": "103851",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 8 3 3 0 + 7 2 4 2 2，答案是 ",
+   "want": "90752",
+   "got": "90752",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 8 7 5 6 + 5 7 4 5 3，答案是 ",
+   "want": "126209",
+   "got": "126209",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：7 7 2 7 1 + 8 7 8 1 2，答案是 ",
+   "want": "165083",
+   "got": "155083",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 4 2 9 3 + 6 9 2 4 5，答案是 ",
+   "want": "93538",
+   "got": "93538",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：7 6 0 3 9 + 3 9 0 3 8，答案是 ",
+   "want": "115077",
+   "got": "115177",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 0 6 2 3 + 1 5 6 8 3，答案是 ",
+   "want": "106306",
+   "got": "106306",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 6 3 6 3 + 7 8 3 4 7，答案是 ",
+   "want": "174710",
+   "got": "1747010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "计算：4 9 5 3 5 + 7 0 0 3 6，答案是 ",
+   "want": "119571",
+   "got": "119571",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 4 3 2 3 + 1 4 0 8 2，答案是 ",
+   "want": "108405",
+   "got": "108405",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 7 9 7 2 + 7 2 7 8 1，答案是 ",
+   "want": "90753",
+   "got": "90753",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 2 6 4 0 + 6 5 8 7 2，答案是 ",
+   "want": "128512",
+   "got": "118512",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 9 9 2 8 + 2 4 1 5 0，答案是 ",
+   "want": "124078",
+   "got": "124078",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：7 4 2 6 0 + 6 8 1 3 8，答案是 ",
+   "want": "142398",
+   "got": "142398",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 9 6 3 2 + 2 0 5 8 9，答案是 ",
+   "want": "40221",
+   "got": "40221",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 2 2 1 9 + 8 9 7 3 0，答案是 ",
+   "want": "141949",
+   "got": "141949",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 9 4 4 2 + 1 8 6 0 9，答案是 ",
+   "want": "48051",
+   "got": "48051",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 6 5 4 0 + 4 6 0 4 6，答案是 ",
+   "want": "72586",
+   "got": "72586",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 1 8 3 0 + 9 2 9 7 8，答案是 ",
+   "want": "184808",
+   "got": "114808",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 6 7 2 4 + 8 1 8 7 4，答案是 ",
+   "want": "168598",
+   "got": "168598",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 2 6 2 2 + 5 9 9 2 5，答案是 ",
+   "want": "112547",
+   "got": "82648",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "计算：8 8 3 0 1 + 7 9 5 4 1，答案是 ",
+   "want": "167842",
+   "got": "167842",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：4 8 6 5 2 + 6 9 4 6 9，答案是 ",
+   "want": "118121",
+   "got": "118121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：7 6 2 6 3 + 8 9 3 5 4，答案是 ",
+   "want": "165617",
+   "got": "165617",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 6 3 8 7 + 2 2 9 9 9，答案是 ",
+   "want": "89386",
+   "got": "99386",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 4 9 9 6 + 9 5 8 1 4，答案是 ",
+   "want": "120810",
+   "got": "120210",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 5 3 1 6 + 8 2 2 6 4，答案是 ",
+   "want": "177580",
+   "got": "177580",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 8 1 8 3 + 6 6 3 7 0，答案是 ",
+   "want": "104553",
+   "got": "104553",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 9 1 8 6 + 3 9 9 4 9，答案是 ",
+   "want": "109135",
+   "got": "109135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 4 2 3 9 + 5 4 4 2 4，答案是 ",
+   "want": "118663",
+   "got": "118663",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 9 4 4 1 + 6 2 2 6 2，答案是 ",
+   "want": "131703",
+   "got": "91703",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "计算：6 4 5 2 4 + 2 2 4 6 3，答案是 ",
+   "want": "86987",
+   "got": "86987",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 0 9 6 6 + 6 5 9 3 6，答案是 ",
+   "want": "116902",
+   "got": "116902",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 0 9 6 3 + 9 7 1 7 7，答案是 ",
+   "want": "148140",
+   "got": "148130",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：4 3 4 0 8 + 5 9 0 6 0，答案是 ",
+   "want": "102468",
+   "got": "102468",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 0 0 0 6 + 7 2 1 6 3，答案是 ",
+   "want": "102169",
+   "got": "102179",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 8 7 9 9 + 2 1 9 5 7，答案是 ",
+   "want": "40756",
+   "got": "40756",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 1 1 8 8 + 2 2 2 1 9，答案是 ",
+   "want": "43407",
+   "got": "43407",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 6 6 0 6 + 2 2 6 5 6，答案是 ",
+   "want": "89262",
+   "got": "89262",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 8 8 4 3 + 2 7 0 5 4，答案是 ",
+   "want": "85897",
+   "got": "85897",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 2 9 2 4 + 1 7 8 6 1，答案是 ",
+   "want": "100785",
+   "got": "100785",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 6 8 6 9 + 8 3 6 0 8，答案是 ",
+   "want": "170477",
+   "got": "160477",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 3 6 2 0 + 5 3 2 0 7，答案是 ",
+   "want": "136827",
+   "got": "136827",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 7 8 1 9 + 2 6 0 2 1，答案是 ",
+   "want": "123840",
+   "got": "113840",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 3 8 4 5 + 5 6 3 4 6，答案是 ",
+   "want": "120191",
+   "got": "120191",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 7 2 0 7 + 6 5 4 3 5，答案是 ",
+   "want": "162642",
+   "got": "162642",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 6 7 4 3 + 4 7 7 0 0，答案是 ",
+   "want": "64443",
+   "got": "64443",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 8 6 9 6 + 5 0 9 5 3，答案是 ",
+   "want": "139649",
+   "got": "139649",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 6 0 9 0 + 2 3 5 7 9，答案是 ",
+   "want": "79669",
+   "got": "79669",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 5 7 4 8 + 7 6 5 0 7，答案是 ",
+   "want": "162255",
+   "got": "162255",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 7 8 8 4 + 3 0 2 8 0，答案是 ",
+   "want": "68164",
+   "got": "68164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 6 0 7 9 + 7 3 2 0 1，答案是 ",
+   "want": "169280",
+   "got": "169280",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 9 3 9 2 + 2 4 1 8 4，答案是 ",
+   "want": "63576",
+   "got": "73576",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 5 8 9 0 + 8 2 9 1 0，答案是 ",
+   "want": "138800",
+   "got": "138801",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 8 1 7 6 + 2 5 0 5 8，答案是 ",
+   "want": "83234",
+   "got": "83234",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：4 6 5 1 2 + 8 5 2 4 8，答案是 ",
+   "want": "131760",
+   "got": "130760",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 9 6 4 3 + 6 6 2 4 4，答案是 ",
+   "want": "105887",
+   "got": "105887",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 3 5 2 6 + 9 1 4 9 0，答案是 ",
+   "want": "175016",
+   "got": "175016",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 0 4 2 2 + 9 8 4 7 0，答案是 ",
+   "want": "188892",
+   "got": "188892",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 4 2 3 9 + 8 2 9 7 2，答案是 ",
+   "want": "177211",
+   "got": "答案是177201",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "计算：1 3 4 4 1 + 8 9 8 2 2，答案是 ",
+   "want": "103263",
+   "got": "103263",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 6 2 2 3 + 4 5 0 5 4，答案是 ",
+   "want": "141277",
+   "got": "141277",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 3 7 9 4 + 3 3 6 4 7，答案是 ",
+   "want": "47441",
+   "got": "47441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：4 5 8 1 8 + 5 0 4 9 9，答案是 ",
+   "want": "96317",
+   "got": "96317",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 4 5 4 1 + 5 6 0 0 9，答案是 ",
+   "want": "110550",
+   "got": "150550",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 0 8 0 0 + 3 3 7 7 7，答案是 ",
+   "want": "44577",
+   "got": "44577",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 8 7 7 6 + 8 4 2 2 8，答案是 ",
+   "want": "113004",
+   "got": "112004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 6 1 5 9 + 6 2 5 3 1，答案是 ",
+   "want": "158690",
+   "got": "158690",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 9 1 2 0 + 2 8 5 9 5，答案是 ",
+   "want": "47715",
+   "got": "47715",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 2 9 9 1 + 1 4 0 1 8，答案是 ",
+   "want": "107009",
+   "got": "107009",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 2 0 2 6 + 7 9 5 3 1，答案是 ",
+   "want": "101557",
+   "got": "100557",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 8 1 9 7 + 5 9 3 0 8，答案是 ",
+   "want": "97505",
+   "got": "97505",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 5 0 2 8 + 6 9 4 6 0，答案是 ",
+   "want": "134488",
+   "got": "134488",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 4 6 8 1 + 3 0 6 3 1，答案是 ",
+   "want": "85312",
+   "got": "85312",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 8 5 0 3 + 5 0 8 4 6，答案是 ",
+   "want": "109349",
+   "got": "109359",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 2 5 1 7 + 8 4 3 9 5，答案是 ",
+   "want": "136912",
+   "got": "136912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 8 1 4 8 + 2 1 1 3 5，答案是 ",
+   "want": "109283",
+   "got": "99283",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "计算：1 6 8 9 5 + 3 0 3 9 2，答案是 ",
+   "want": "47287",
+   "got": "47297",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 0 6 3 2 + 9 0 9 8 1，答案是 ",
+   "want": "121613",
+   "got": "121613",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 6 5 2 2 + 9 8 3 3 8，答案是 ",
+   "want": "114860",
+   "got": "114860",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 0 6 9 3 + 4 5 6 6 5，答案是 ",
+   "want": "66358",
+   "got": "66368",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 8 0 7 9 + 9 6 7 6 1，答案是 ",
+   "want": "164840",
+   "got": "164840",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 5 5 7 6 + 7 3 6 5 6，答案是 ",
+   "want": "139232",
+   "got": "130232",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：8 9 5 7 0 + 6 7 9 3 9，答案是 ",
+   "want": "157509",
+   "got": "157509",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 4 2 8 7 + 4 5 8 0 4，答案是 ",
+   "want": "110091",
+   "got": "110091",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 8 2 5 5 + 7 7 1 5 4，答案是 ",
+   "want": "115409",
+   "got": "115409",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：2 4 9 1 8 + 5 5 2 4 2，答案是 ",
+   "want": "80160",
+   "got": "80060",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 6 3 4 9 + 2 4 5 3 4，答案是 ",
+   "want": "90883",
+   "got": "90883",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：4 7 1 2 5 + 9 8 8 9 5，答案是 ",
+   "want": "146020",
+   "got": "145920",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 8 9 3 0 + 8 7 7 4 3，答案是 ",
+   "want": "186673",
+   "got": "176673",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：7 3 7 8 3 + 7 9 0 6 6，答案是 ",
+   "want": "152849",
+   "got": "152849",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：9 7 4 4 2 + 5 0 4 2 5，答案是 ",
+   "want": "147867",
+   "got": "147867",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 5 9 5 2 + 3 8 9 0 3，答案是 ",
+   "want": "54855",
+   "got": "54855",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：6 1 8 0 7 + 8 8 5 5 4，答案是 ",
+   "want": "150361",
+   "got": "150361",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：1 7 1 8 0 + 1 1 0 0 7，答案是 ",
+   "want": "28187",
+   "got": "27187",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 6 7 9 4 + 4 9 5 0 7，答案是 ",
+   "want": "86301",
+   "got": "86301",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：3 7 6 8 6 + 2 7 9 8 7，答案是 ",
+   "want": "65673",
+   "got": "65673",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：4 3 4 9 1 + 4 7 9 3 8，答案是 ",
+   "want": "91429",
+   "got": "81429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "计算：5 3 0 0 7 + 2 5 7 2 6，答案是 ",
+   "want": "78733",
+   "got": "78733",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

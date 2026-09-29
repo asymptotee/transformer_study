@@ -1,0 +1,3231 @@
+{
+ "label": "n30x3_T05自然写法",
+ "by_rung": {
+  "2": [
+   50,
+   80,
+   0,
+   100
+  ],
+  "3": [
+   62,
+   88,
+   0,
+   100
+  ],
+  "4": [
+   56,
+   94,
+   0,
+   100
+  ],
+  "5": [
+   29,
+   86,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "81 加 84 = ",
+   "want": "165",
+   "got": "95",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "98 加 83 = ",
+   "want": "181",
+   "got": "181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "38 加 67 = ",
+   "want": "105",
+   "got": "115",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "57 加 60 = ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "69 加 96 = ",
+   "want": "165",
+   "got": "155",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "85 加 98 = ",
+   "want": "183",
+   "got": "173",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "74 加 29 = ",
+   "want": "103",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "54 加 13 = ",
+   "want": "67",
+   "got": "67",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "71 加 23 = ",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "47 加 63 = ",
+   "want": "110",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "20 加 24 = ",
+   "want": "44",
+   "got": "44",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "28 加 54 = ",
+   "want": "82",
+   "got": "72",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "49 加 53 = ",
+   "want": "102",
+   "got": "92",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "68 加 36 = ",
+   "want": "104",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "76 加 71 = ",
+   "want": "147",
+   "got": "87",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "54 加 70 = ",
+   "want": "124",
+   "got": "114",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "22 加 66 = ",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "99 加 67 = ",
+   "want": "166",
+   "got": "5",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "50 加 18 = ",
+   "want": "68",
+   "got": "98",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "48 加 15 = ",
+   "want": "63",
+   "got": "73",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "24 加 12 = ",
+   "want": "36",
+   "got": "46",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "53 加 92 = ",
+   "want": "145",
+   "got": "45",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "23 加 96 = ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "31 加 41 = ",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "76 加 32 = ",
+   "want": "108",
+   "got": "9",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "80 加 30 = ",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "52 加 81 = ",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "64 加 69 = ",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "39 加 61 = ",
+   "want": "100",
+   "got": "90",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "90 加 33 = ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "33 加 91 = ",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "94 加 65 = ",
+   "want": "159",
+   "got": "159",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "60 加 13 = ",
+   "want": "73",
+   "got": "33",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "88 加 35 = ",
+   "want": "123",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "67 加 85 = ",
+   "want": "152",
+   "got": "142",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "64 加 59 = ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "10 加 37 = ",
+   "want": "47",
+   "got": "37",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "36 加 45 = ",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "18 加 83 = ",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "23 加 78 = ",
+   "want": "101",
+   "got": "110",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "33 加 56 = ",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "51 加 35 = ",
+   "want": "86",
+   "got": "76",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "68 加 24 = ",
+   "want": "92",
+   "got": "82",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "43 加 95 = ",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "72 加 77 = ",
+   "want": "149",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "91 加 50 = ",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "86 加 59 = ",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "88 加 60 = ",
+   "want": "148",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "85 加 24 = ",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "54 加 55 = ",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "68 加 89 = ",
+   "want": "157",
+   "got": "117",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "32 加 96 = ",
+   "want": "128",
+   "got": "118",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "48 加 88 = ",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "85 加 20 = ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "96 加 27 = ",
+   "want": "123",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "50 加 25 = ",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "40 加 49 = ",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "24 加 33 = ",
+   "want": "57",
+   "got": "67",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "57 加 98 = ",
+   "want": "155",
+   "got": "145",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "28 加 75 = ",
+   "want": "103",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "59 加 63 = ",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "86 加 27 = ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "83 加 59 = ",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "64 加 33 = ",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "72 加 91 = ",
+   "want": "163",
+   "got": "163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "78 加 98 = ",
+   "want": "176",
+   "got": "165",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "92 加 32 = ",
+   "want": "124",
+   "got": "114",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "81 加 31 = ",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "72 加 46 = ",
+   "want": "118",
+   "got": "98",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "27 加 33 = ",
+   "want": "60",
+   "got": "59",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "50 加 67 = ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "89 加 16 = ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "55 加 11 = ",
+   "want": "66",
+   "got": "66",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "72 加 27 = ",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "34 加 59 = ",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "81 加 74 = ",
+   "want": "155",
+   "got": "155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "93 加 73 = ",
+   "want": "166",
+   "got": "116",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "62 加 97 = ",
+   "want": "159",
+   "got": "119",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "72 加 63 = ",
+   "want": "135",
+   "got": "95",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "66 加 72 = ",
+   "want": "138",
+   "got": "8",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "31 加 20 = ",
+   "want": "51",
+   "got": "41",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "82 加 13 = ",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "38 加 47 = ",
+   "want": "85",
+   "got": "115",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "14 加 45 = ",
+   "want": "59",
+   "got": "69",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "38 加 78 = ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "46 加 31 = ",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "68 加 82 = ",
+   "want": "150",
+   "got": "49",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "73 加 80 = ",
+   "want": "153",
+   "got": "93",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "75 加 24 = ",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "83 加 24 = ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "44 加 79 = ",
+   "want": "123",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "56 加 79 = ",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "15 加 66 = ",
+   "want": "81",
+   "got": "71",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "79 加 37 = ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "64 加 23 = ",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "93 加 41 = ",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "48 加 14 = ",
+   "want": "62",
+   "got": "62",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "67 加 43 = ",
+   "want": "110",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "54 加 21 = ",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "66 加 25 = ",
+   "want": "91",
+   "got": "81",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "894 加 931 = ",
+   "want": "1825",
+   "got": "1825",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "342 加 314 = ",
+   "want": "656",
+   "got": "656",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "930 加 855 = ",
+   "want": "1785",
+   "got": "1785",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "702 加 805 = ",
+   "want": "1507",
+   "got": "907",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "459 加 981 = ",
+   "want": "1440",
+   "got": "1440",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "827 加 724 = ",
+   "want": "1551",
+   "got": "1550",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "747 加 538 = ",
+   "want": "1285",
+   "got": "385",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "269 加 730 = ",
+   "want": "999",
+   "got": "999",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "242 加 903 = ",
+   "want": "1145",
+   "got": "1145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "311 加 933 = ",
+   "want": "1244",
+   "got": "1244",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "311 加 924 = ",
+   "want": "1235",
+   "got": "1235",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "160 加 683 = ",
+   "want": "843",
+   "got": "843",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "459 加 645 = ",
+   "want": "1104",
+   "got": "1104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "387 加 711 = ",
+   "want": "1098",
+   "got": "598",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "651 加 272 = ",
+   "want": "923",
+   "got": "923",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "431 加 820 = ",
+   "want": "1251",
+   "got": "1251",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "399 加 396 = ",
+   "want": "795",
+   "got": "795",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "686 加 373 = ",
+   "want": "1059",
+   "got": "1059",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "978 加 626 = ",
+   "want": "1604",
+   "got": "1604",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "795 加 934 = ",
+   "want": "1729",
+   "got": "1729",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "197 加 238 = ",
+   "want": "435",
+   "got": "535",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "868 加 904 = ",
+   "want": "1772",
+   "got": "1772",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "521 加 160 = ",
+   "want": "681",
+   "got": "781",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "383 加 987 = ",
+   "want": "1370",
+   "got": "1370",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "771 加 229 = ",
+   "want": "1000",
+   "got": "950",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "818 加 986 = ",
+   "want": "1804",
+   "got": "1704",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "235 加 355 = ",
+   "want": "590",
+   "got": "590",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "249 加 828 = ",
+   "want": "1077",
+   "got": "1177",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "429 加 948 = ",
+   "want": "1377",
+   "got": "1377",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "353 加 879 = ",
+   "want": "1232",
+   "got": "1232",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "963 加 792 = ",
+   "want": "1755",
+   "got": "1755",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "502 加 601 = ",
+   "want": "1103",
+   "got": "1103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "245 加 691 = ",
+   "want": "936",
+   "got": "936",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "747 加 375 = ",
+   "want": "1122",
+   "got": "1122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "742 加 524 = ",
+   "want": "1266",
+   "got": "1266",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "484 加 562 = ",
+   "want": "1046",
+   "got": "1446",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "177 加 748 = ",
+   "want": "925",
+   "got": "925",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "913 加 887 = ",
+   "want": "1800",
+   "got": "1700",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "195 加 512 = ",
+   "want": "707",
+   "got": "717",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "627 加 867 = ",
+   "want": "1494",
+   "got": "1404",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "384 加 811 = ",
+   "want": "1195",
+   "got": "595",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "998 加 477 = ",
+   "want": "1475",
+   "got": "146",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "565 加 599 = ",
+   "want": "1164",
+   "got": "1164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "435 加 695 = ",
+   "want": "1130",
+   "got": "1120",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "102 加 989 = ",
+   "want": "1091",
+   "got": "1091",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "892 加 967 = ",
+   "want": "1859",
+   "got": "185",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "850 加 195 = ",
+   "want": "1045",
+   "got": "1045",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "848 加 569 = ",
+   "want": "1417",
+   "got": "1427",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "750 加 780 = ",
+   "want": "1530",
+   "got": "1530",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "814 加 466 = ",
+   "want": "1280",
+   "got": "1170",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "970 加 164 = ",
+   "want": "1134",
+   "got": "1134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "914 加 647 = ",
+   "want": "1561",
+   "got": "1561",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "507 加 323 = ",
+   "want": "830",
+   "got": "830",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "539 加 944 = ",
+   "want": "1483",
+   "got": "1483",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "316 加 606 = ",
+   "want": "922",
+   "got": "423",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "374 加 430 = ",
+   "want": "804",
+   "got": "704",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "948 加 390 = ",
+   "want": "1338",
+   "got": "1338",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "445 加 660 = ",
+   "want": "1105",
+   "got": "1105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "691 加 233 = ",
+   "want": "924",
+   "got": "924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "679 加 972 = ",
+   "want": "1651",
+   "got": "1650",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "596 加 907 = ",
+   "want": "1503",
+   "got": "1403",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "451 加 798 = ",
+   "want": "1249",
+   "got": "1249",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "880 加 149 = ",
+   "want": "1029",
+   "got": "1028",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "147 加 201 = ",
+   "want": "348",
+   "got": "348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "741 加 902 = ",
+   "want": "1643",
+   "got": "1643",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "956 加 570 = ",
+   "want": "1526",
+   "got": "1526",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "116 加 227 = ",
+   "want": "343",
+   "got": "343",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "978 加 261 = ",
+   "want": "1239",
+   "got": "1239",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "551 加 567 = ",
+   "want": "1118",
+   "got": "1178",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "100 加 538 = ",
+   "want": "638",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "307 加 805 = ",
+   "want": "1112",
+   "got": "1122",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "235 加 765 = ",
+   "want": "1000",
+   "got": "900",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "409 加 262 = ",
+   "want": "671",
+   "got": "671",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "995 加 997 = ",
+   "want": "1992",
+   "got": "196",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "380 加 195 = ",
+   "want": "575",
+   "got": "575",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "770 加 469 = ",
+   "want": "1239",
+   "got": "1239",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "356 加 184 = ",
+   "want": "540",
+   "got": "740",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "480 加 780 = ",
+   "want": "1260",
+   "got": "1258",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "764 加 269 = ",
+   "want": "1033",
+   "got": "1033",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "153 加 505 = ",
+   "want": "658",
+   "got": "658",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "740 加 412 = ",
+   "want": "1152",
+   "got": "1052",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "843 加 816 = ",
+   "want": "1659",
+   "got": "1659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "873 加 339 = ",
+   "want": "1212",
+   "got": "1212",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "539 加 771 = ",
+   "want": "1310",
+   "got": "1300",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "193 加 820 = ",
+   "want": "1013",
+   "got": "1013",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "197 加 101 = ",
+   "want": "298",
+   "got": "298",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "318 加 588 = ",
+   "want": "906",
+   "got": "806",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "179 加 235 = ",
+   "want": "414",
+   "got": "414",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "707 加 331 = ",
+   "want": "1038",
+   "got": "1038",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "631 加 796 = ",
+   "want": "1427",
+   "got": "1427",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "555 加 109 = ",
+   "want": "664",
+   "got": "664",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "108 加 812 = ",
+   "want": "920",
+   "got": "930",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "451 加 936 = ",
+   "want": "1387",
+   "got": "148",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "223 加 980 = ",
+   "want": "1203",
+   "got": "1203",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "532 加 810 = ",
+   "want": "1342",
+   "got": "342",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "235 加 589 = ",
+   "want": "824",
+   "got": "824",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "172 加 334 = ",
+   "want": "506",
+   "got": "506",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "492 加 191 = ",
+   "want": "683",
+   "got": "683",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "848 加 925 = ",
+   "want": "1773",
+   "got": "1773",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "204 加 205 = ",
+   "want": "409",
+   "got": "429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6133 加 7022 = ",
+   "want": "13155",
+   "got": "12255",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5902 加 3246 = ",
+   "want": "9148",
+   "got": "9148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7270 加 3181 = ",
+   "want": "10451",
+   "got": "10441",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3340 加 2120 = ",
+   "want": "5460",
+   "got": "6630",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9691 加 1138 = ",
+   "want": "10829",
+   "got": "10829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3688 加 8210 = ",
+   "want": "11898",
+   "got": "11898",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6753 加 4490 = ",
+   "want": "11243",
+   "got": "11253",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3480 加 7745 = ",
+   "want": "11225",
+   "got": "11214",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8248 加 4559 = ",
+   "want": "12807",
+   "got": "12707",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2420 加 2646 = ",
+   "want": "5066",
+   "got": "5066",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3293 加 3017 = ",
+   "want": "6310",
+   "got": "6310",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7291 加 6759 = ",
+   "want": "14050",
+   "got": "14050",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8035 加 6152 = ",
+   "want": "14187",
+   "got": "14187",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3290 加 5059 = ",
+   "want": "8349",
+   "got": "8359",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5537 加 2380 = ",
+   "want": "7917",
+   "got": "8817",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5065 加 5668 = ",
+   "want": "10733",
+   "got": "11733",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1439 加 5942 = ",
+   "want": "7381",
+   "got": "7381",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4366 加 9482 = ",
+   "want": "13848",
+   "got": "14848",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9348 加 4090 = ",
+   "want": "13438",
+   "got": "13488",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7418 加 5842 = ",
+   "want": "13260",
+   "got": "13260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1894 加 4921 = ",
+   "want": "6815",
+   "got": "6815",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9108 加 7322 = ",
+   "want": "16430",
+   "got": "16430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2847 加 4949 = ",
+   "want": "7796",
+   "got": "7796",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9185 加 2163 = ",
+   "want": "11348",
+   "got": "11348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9655 加 1197 = ",
+   "want": "10852",
+   "got": "11852",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6916 加 6185 = ",
+   "want": "13101",
+   "got": "13101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3162 加 7337 = ",
+   "want": "10499",
+   "got": "10499",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7895 加 6986 = ",
+   "want": "14881",
+   "got": "14871",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9951 加 3830 = ",
+   "want": "13781",
+   "got": "13781",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8717 加 2195 = ",
+   "want": "10912",
+   "got": "10912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1273 加 2106 = ",
+   "want": "3379",
+   "got": "3379",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1225 加 5295 = ",
+   "want": "6520",
+   "got": "7019",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4534 加 1652 = ",
+   "want": "6186",
+   "got": "6186",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1990 加 7520 = ",
+   "want": "9510",
+   "got": "9410",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9300 加 5693 = ",
+   "want": "14993",
+   "got": "14993",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9209 加 7806 = ",
+   "want": "17015",
+   "got": "17015",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7939 加 7590 = ",
+   "want": "15529",
+   "got": "15599",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2350 加 9791 = ",
+   "want": "12141",
+   "got": "12141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9808 加 3501 = ",
+   "want": "13309",
+   "got": "13359",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5546 加 2369 = ",
+   "want": "7915",
+   "got": "8815",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6077 加 2294 = ",
+   "want": "8371",
+   "got": "8371",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9377 加 4329 = ",
+   "want": "13706",
+   "got": "13706",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3545 加 9788 = ",
+   "want": "13333",
+   "got": "4333",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "6353 加 7401 = ",
+   "want": "13754",
+   "got": "13754",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2083 加 6081 = ",
+   "want": "8164",
+   "got": "8164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8167 加 4909 = ",
+   "want": "13076",
+   "got": "3176",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1948 加 5005 = ",
+   "want": "6953",
+   "got": "6993",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2412 加 8118 = ",
+   "want": "10530",
+   "got": "10544",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2900 加 8428 = ",
+   "want": "11328",
+   "got": "12328",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1901 加 6067 = ",
+   "want": "7968",
+   "got": "7968",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3877 加 2956 = ",
+   "want": "6833",
+   "got": "6833",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1207 加 3248 = ",
+   "want": "4455",
+   "got": "4455",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1185 加 3684 = ",
+   "want": "4869",
+   "got": "4869",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9133 加 6680 = ",
+   "want": "15813",
+   "got": "15913",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9568 加 9474 = ",
+   "want": "19042",
+   "got": "19042",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5247 加 3735 = ",
+   "want": "8982",
+   "got": "8982",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7092 加 3079 = ",
+   "want": "10171",
+   "got": "9171",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "5403 加 2934 = ",
+   "want": "8337",
+   "got": "8337",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1480 加 6488 = ",
+   "want": "7968",
+   "got": "8968",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8034 加 5456 = ",
+   "want": "13490",
+   "got": "13480",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9582 加 2046 = ",
+   "want": "11628",
+   "got": "11628",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5308 加 2262 = ",
+   "want": "7570",
+   "got": "8570",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9128 加 8457 = ",
+   "want": "17585",
+   "got": "17685",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9368 加 6900 = ",
+   "want": "16268",
+   "got": "16268",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1908 加 9185 = ",
+   "want": "11093",
+   "got": "11093",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3734 加 7024 = ",
+   "want": "10758",
+   "got": "9758",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3577 加 5179 = ",
+   "want": "8756",
+   "got": "8756",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2685 加 2889 = ",
+   "want": "5574",
+   "got": "5574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4742 加 9336 = ",
+   "want": "14078",
+   "got": "13078",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1042 加 1721 = ",
+   "want": "2763",
+   "got": "2763",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1201 加 5006 = ",
+   "want": "6207",
+   "got": "6267",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1753 加 8729 = ",
+   "want": "10482",
+   "got": "10982",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6963 加 7274 = ",
+   "want": "14237",
+   "got": "14237",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3458 加 3932 = ",
+   "want": "7390",
+   "got": "8390",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1579 加 7870 = ",
+   "want": "9449",
+   "got": "9449",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4678 加 6272 = ",
+   "want": "10950",
+   "got": "10950",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5067 加 7819 = ",
+   "want": "12886",
+   "got": "12886",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6241 加 5444 = ",
+   "want": "11685",
+   "got": "11685",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2276 加 7108 = ",
+   "want": "9384",
+   "got": "4384",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2956 加 9225 = ",
+   "want": "12181",
+   "got": "12181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1862 加 3938 = ",
+   "want": "5800",
+   "got": "5809",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4656 加 9450 = ",
+   "want": "14106",
+   "got": "14116",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1752 加 7568 = ",
+   "want": "9320",
+   "got": "9320",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2129 加 8620 = ",
+   "want": "10749",
+   "got": "9759",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "5625 加 6090 = ",
+   "want": "11715",
+   "got": "11715",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6362 加 2415 = ",
+   "want": "8777",
+   "got": "8777",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8483 加 1130 = ",
+   "want": "9613",
+   "got": "9613",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7044 加 4287 = ",
+   "want": "11331",
+   "got": "10331",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5777 加 5979 = ",
+   "want": "11756",
+   "got": "11756",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4974 加 8600 = ",
+   "want": "13574",
+   "got": "3574",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7033 加 9083 = ",
+   "want": "16116",
+   "got": "17116",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4201 加 9954 = ",
+   "want": "14155",
+   "got": "14155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5016 加 3466 = ",
+   "want": "8482",
+   "got": "8582",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1104 加 7718 = ",
+   "want": "8822",
+   "got": "8822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1391 加 4817 = ",
+   "want": "6208",
+   "got": "7208",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9872 加 6675 = ",
+   "want": "16547",
+   "got": "16537",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1157 加 6488 = ",
+   "want": "7645",
+   "got": "7645",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1023 加 7164 = ",
+   "want": "8187",
+   "got": "8187",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6038 加 2703 = ",
+   "want": "8741",
+   "got": "8741",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4361 加 9680 = ",
+   "want": "14041",
+   "got": "14041",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "41217 加 65026 = ",
+   "want": "106243",
+   "got": "106343",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "74491 加 17850 = ",
+   "want": "92341",
+   "got": "92231",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "28661 加 46677 = ",
+   "want": "75338",
+   "got": "75338",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "22193 加 15754 = ",
+   "want": "37947",
+   "got": "38547",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "40339 加 78125 = ",
+   "want": "118464",
+   "got": "118454",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "64140 加 58823 = ",
+   "want": "122963",
+   "got": "122943",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "70091 加 21128 = ",
+   "want": "91219",
+   "got": "91209",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "86122 加 22527 = ",
+   "want": "108649",
+   "got": "108649",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "76247 加 27499 = ",
+   "want": "103746",
+   "got": "103746",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "93521 加 61688 = ",
+   "want": "155209",
+   "got": "15599",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "19808 加 87580 = ",
+   "want": "107388",
+   "got": "106388",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "84425 加 18163 = ",
+   "want": "102588",
+   "got": "102688",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "67014 加 96827 = ",
+   "want": "163841",
+   "got": "16385",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "27132 加 41034 = ",
+   "want": "68166",
+   "got": "58166",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "48230 加 44208 = ",
+   "want": "92438",
+   "got": "92438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "51288 加 61505 = ",
+   "want": "112793",
+   "got": "113893",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "52762 加 51688 = ",
+   "want": "104450",
+   "got": "79459",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "69343 加 45645 = ",
+   "want": "114988",
+   "got": "114988",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "40619 加 19789 = ",
+   "want": "60408",
+   "got": "50418",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "36569 加 27840 = ",
+   "want": "64409",
+   "got": "64410",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "86638 加 24283 = ",
+   "want": "110921",
+   "got": "101021",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "30369 加 23848 = ",
+   "want": "54217",
+   "got": "54772",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "31544 加 68925 = ",
+   "want": "100469",
+   "got": "50469",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "71086 加 51160 = ",
+   "want": "122246",
+   "got": "21246",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "63282 加 25825 = ",
+   "want": "89107",
+   "got": "90107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "80244 加 56961 = ",
+   "want": "137205",
+   "got": "137205",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "37215 加 69233 = ",
+   "want": "106448",
+   "got": "106458",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "50410 加 70731 = ",
+   "want": "121141",
+   "got": "120131",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "44735 加 25717 = ",
+   "want": "70452",
+   "got": "73452",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "21851 加 30658 = ",
+   "want": "52509",
+   "got": "42410",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "99922 加 49874 = ",
+   "want": "149796",
+   "got": "14909",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "89076 加 15286 = ",
+   "want": "104362",
+   "got": "94372",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "38183 加 52964 = ",
+   "want": "91147",
+   "got": "91047",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "29441 加 21955 = ",
+   "want": "51396",
+   "got": "51496",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "42534 加 56627 = ",
+   "want": "99161",
+   "got": "99157",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "61936 加 77300 = ",
+   "want": "139236",
+   "got": "139236",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "16416 加 98759 = ",
+   "want": "115175",
+   "got": "115975",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "49169 加 44100 = ",
+   "want": "93269",
+   "got": "93178",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "32789 加 14073 = ",
+   "want": "46862",
+   "got": "46862",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "63004 加 69270 = ",
+   "want": "132274",
+   "got": "92274",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "82869 加 82105 = ",
+   "want": "164974",
+   "got": "164974",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "42748 加 22415 = ",
+   "want": "65163",
+   "got": "65103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "70560 加 23357 = ",
+   "want": "93917",
+   "got": "94018",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "28322 加 25919 = ",
+   "want": "54241",
+   "got": "84241",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "11567 加 18083 = ",
+   "want": "29650",
+   "got": "28650",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "39135 加 27133 = ",
+   "want": "66268",
+   "got": "66468",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "35969 加 62505 = ",
+   "want": "98474",
+   "got": "98474",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "58790 加 99952 = ",
+   "want": "158742",
+   "got": "158642",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "92614 加 94500 = ",
+   "want": "187114",
+   "got": "187614",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "21015 加 86326 = ",
+   "want": "107341",
+   "got": "97341",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "86823 加 43924 = ",
+   "want": "130747",
+   "got": "130647",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "19828 加 12857 = ",
+   "want": "32685",
+   "got": "42680",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "18450 加 35919 = ",
+   "want": "54369",
+   "got": "74379",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "94670 加 68121 = ",
+   "want": "162791",
+   "got": "162731",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "26880 加 22055 = ",
+   "want": "48935",
+   "got": "58835",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "53456 加 26059 = ",
+   "want": "79515",
+   "got": "89515",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "15596 加 70423 = ",
+   "want": "86019",
+   "got": "86919",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "16637 加 32018 = ",
+   "want": "48655",
+   "got": "48655",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "85220 加 66774 = ",
+   "want": "151994",
+   "got": "15195",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "61773 加 75028 = ",
+   "want": "136801",
+   "got": "136801",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "13864 加 60165 = ",
+   "want": "74029",
+   "got": "74029",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "99550 加 65923 = ",
+   "want": "165473",
+   "got": "165433",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "32650 加 56392 = ",
+   "want": "89042",
+   "got": "89942",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "38143 加 34530 = ",
+   "want": "72673",
+   "got": "72673",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "46042 加 46681 = ",
+   "want": "92723",
+   "got": "92722",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "68459 加 29481 = ",
+   "want": "97940",
+   "got": "97940",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "14541 加 90492 = ",
+   "want": "105033",
+   "got": "105033",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "91156 加 90868 = ",
+   "want": "182024",
+   "got": "182024",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "42215 加 94840 = ",
+   "want": "137055",
+   "got": "137055",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "48680 加 75390 = ",
+   "want": "124070",
+   "got": "134080",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "64000 加 82179 = ",
+   "want": "146179",
+   "got": "146179",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "72787 加 17992 = ",
+   "want": "90779",
+   "got": "95779",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "21497 加 46670 = ",
+   "want": "68167",
+   "got": "58167",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "60202 加 27987 = ",
+   "want": "88189",
+   "got": "88974",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "64949 加 36143 = ",
+   "want": "101092",
+   "got": "101092",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "94233 加 78919 = ",
+   "want": "173152",
+   "got": "173252",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "42656 加 92674 = ",
+   "want": "135330",
+   "got": "135330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "81258 加 12559 = ",
+   "want": "93817",
+   "got": "93817",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "60134 加 57069 = ",
+   "want": "117203",
+   "got": "117313",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "72873 加 81371 = ",
+   "want": "154244",
+   "got": "15419",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "73527 加 55093 = ",
+   "want": "128620",
+   "got": "128620",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "84141 加 75849 = ",
+   "want": "159990",
+   "got": "160090",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "52153 加 60905 = ",
+   "want": "113058",
+   "got": "123258",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "45446 加 33568 = ",
+   "want": "79014",
+   "got": "88004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "13416 加 51795 = ",
+   "want": "65211",
+   "got": "65191",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "88265 加 38707 = ",
+   "want": "126972",
+   "got": "12576",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "13840 加 46822 = ",
+   "want": "60662",
+   "got": "69662",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "17679 加 71824 = ",
+   "want": "89503",
+   "got": "89503",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "79393 加 56849 = ",
+   "want": "136242",
+   "got": "36242",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "86544 加 40508 = ",
+   "want": "127052",
+   "got": "127652",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "30922 加 23124 = ",
+   "want": "54046",
+   "got": "54046",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "42487 加 96096 = ",
+   "want": "138583",
+   "got": "138583",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "41608 加 44934 = ",
+   "want": "86542",
+   "got": "86542",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "79951 加 17328 = ",
+   "want": "97279",
+   "got": "97279",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "38758 加 85457 = ",
+   "want": "124215",
+   "got": "124225",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "60911 加 56504 = ",
+   "want": "117415",
+   "got": "117416",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "32768 加 33081 = ",
+   "want": "65849",
+   "got": "65849",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "41005 加 87662 = ",
+   "want": "128667",
+   "got": "2761",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "51681 加 57026 = ",
+   "want": "108707",
+   "got": "118797",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "87537 加 13697 = ",
+   "want": "101234",
+   "got": "105634",
+   "exact": false,
+   "samelen": true
+  }
+ ]
+}

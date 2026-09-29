@@ -15,6 +15,7 @@
   ~/llm_study/.venv/bin/python analyze_bank.py
 """
 
+import argparse
 import json
 from pathlib import Path
 
@@ -34,7 +35,7 @@ def kinds():
 
 def load(N, name):
     """→ [正确, 长度对, 崩坏, 总数],文件不存在返回 None"""
-    p = HERE / "results" / f"bank_n{N}_{name}.json"
+    p = HERE / "results" / f"bank_{N}_{name}.json"
     if not p.exists():
         return None
     d = json.loads(p.read_text(encoding="utf-8"))
@@ -48,61 +49,79 @@ def pct(a, n):
     return "%.1f%%" % (100.0 * a / n) if n else "-"
 
 
+def parse_runs(spec):
+    """'n6:6,n15:15,n30:30' → [('n6',6), ...]  (结果文件名前缀 : 训练骨架数)"""
+    out = []
+    for part in spec.split(","):
+        lab, n = part.split(":")
+        out.append((lab, int(n)))
+    return out
+
+
 def main():
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument("--runs", default="n6:6,n15:15,n30:30",
+                    help="逗号分隔的 标签:训练骨架数,决定列顺序")
+    args = ap.parse_args()
+
     KIND = kinds()
     names = (HERE / "bank_eval_manifest.txt").read_text(
         encoding="utf-8").split()
     seen, held = names[:30], names[30:]
     assert len(held) == 10, f"manifest 形状不对({len(names)} 个)"
-    NS = (6, 15, 30)
+    RUNS = parse_runs(args.runs)
+    NS = [lab for lab, _ in RUNS]
 
     print("=== 骨架数量 → 未见骨架迁移率 ===")
-    print("N        未见10 个        见过的(对照)      见过的layout")
-    for N in NS:
-        sv = [load(N, t) for t in seen[:N]]
-        hv = [load(N, t) for t in held]
+    print("跑       骨架数  未见10 个        见过的          见过的layout")
+    for lab, skel in RUNS:
+        sv = [load(lab, t) for t in seen[:skel]]
+        hv = [load(lab, t) for t in held]
         if not any(hv):
-            print("%-4d     (缺结果)" % N)
+            print("%-8s %5d   (缺结果)" % (lab, skel))
             continue
         sa = sum(x[0] for x in sv if x)
         sn = sum(x[3] for x in sv if x)
-        la = sum(x[0] for x, t in zip(sv, seen[:N]) if x and KIND.get(t) == "layout")
-        ln = sum(x[3] for x, t in zip(sv, seen[:N]) if x and KIND.get(t) == "layout")
+        la = sum(x[0] for x, t in zip(sv, seen[:skel]) if x and KIND.get(t) == "layout")
+        ln = sum(x[3] for x, t in zip(sv, seen[:skel]) if x and KIND.get(t) == "layout")
         ha = sum(x[0] for x in hv if x)
         hn = sum(x[3] for x in hv if x)
-        print("%-4d %9s %7s %9s %7s %9s %7s"
-              % (N, "%d/%d" % (ha, hn), pct(ha, hn), "%d/%d" % (sa, sn),
+        print("%-8s %5d %9s %7s %9s %7s %9s %7s"
+              % (lab, skel, "%d/%d" % (ha, hn), pct(ha, hn), "%d/%d" % (sa, sn),
                  pct(sa, sn), "%d/%d" % (la, ln), pct(la, ln) if ln else "-"))
 
-    print("\n--- 逐个未见骨架(★ = 三次训练都没见过)---")
-    print("%-12s %-8s" % ("骨架", "kind") + "".join("%12s" % f"N={N}" for N in NS))
+    hdr = "%-12s %-8s" % ("骨架", "kind") + "".join("%12s" % lab for lab in NS)
+
+    print("\n--- 逐个未见骨架(★ = 所有训练都没见过)---")
+    print(hdr)
     for t in held:
         row = "%-12s %-8s" % (t, KIND.get(t, "?"))
-        for N in NS:
-            x = load(N, t)
+        for lab in NS:
+            x = load(lab, t)
             row += "%12s" % (f"{x[0]}/{x[3]} = {pct(x[0], x[3])}" if x else "-")
         print(row)
 
-    # ★ 真正的对照:BANK[0:6] 三次训练**都训过**。拿它跨 run 比,才能回答
-    #   "N=30 是不是只是欠训练" —— 上面那个"见过的"平均值会骗人(骨干难度不同)。
-    print("\n--- ★ 共享骨架 T01–T06(三次都训过)= 欠训练对照 ---")
-    print("%-12s %-8s" % ("骨架", "kind") + "".join("%12s" % f"N={N}" for N in NS))
-    for i, t in enumerate(seen[:6]):
+    # ★ 真正的对照:BANK[0:6] 每次训练**都训过**。拿它跨 run 比,才能回答
+    #   "多加骨架/多训是不是只是欠训练" —— 上面那个"见过的"平均值会骗人(骨架难度不同)。
+    print("\n--- ★ 共享骨架 T01–T06(所有 run 都训过)= 欠训练对照 ---")
+    print(hdr)
+    for t in seen[:6]:
         row = "%-12s %-8s" % (t, KIND.get(t, "?"))
-        for N in NS:
-            x = load(N, t)
+        for lab in NS:
+            x = load(lab, t)
             row += "%12s" % (f"{x[0]}/{x[3]} = {pct(x[0], x[3])}" if x else "-")
         print(row)
     print("%-12s %-8s" % ("合计", "") + "".join(
         "%12s" % (lambda v: f"{sum(x[0] for x in v if x)}/{sum(x[3] for x in v if x)}"
-                  if any(v) else "-")([load(N, t) for t in seen[:6]]) for N in NS))
+                  if any(v) else "-")([load(lab, t) for t in seen[:6]])
+        for lab in NS))
 
     print("\n--- 全部见过的骨架 ---")
-    print("%-12s %-8s" % ("骨架", "kind") + "".join("%12s" % f"N={N}" for N in NS))
+    print(hdr)
     for t in seen:
         row = "%-12s %-8s" % (t, KIND.get(t, "?"))
-        for N in NS:
-            x = load(N, t)
+        for lab in NS:
+            x = load(lab, t)
             row += "%12s" % (f"{x[0]}/{x[3]} = {pct(x[0], x[3])}" if x else "-")
         print(row)
 

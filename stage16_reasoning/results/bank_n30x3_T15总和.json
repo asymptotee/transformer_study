@@ -1,0 +1,3231 @@
+{
+ "label": "n30x3_T15总和",
+ "by_rung": {
+  "2": [
+   90,
+   92,
+   0,
+   100
+  ],
+  "3": [
+   92,
+   97,
+   0,
+   100
+  ],
+  "4": [
+   90,
+   97,
+   0,
+   100
+  ],
+  "5": [
+   84,
+   97,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "6 0 和 1 1 的总和是 ",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 8 和 6 8 的总和是 ",
+   "want": "146",
+   "got": "146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 和 2 8 的总和是 ",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 和 3 8 的总和是 ",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 和 9 7 的总和是 ",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 和 2 8 的总和是 ",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 和 4 6 的总和是 ",
+   "want": "132",
+   "got": "132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 和 9 5 的总和是 ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 和 1 4 的总和是 ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 和 5 0 的总和是 ",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 和 7 4 的总和是 ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 和 2 5 的总和是 ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 和 8 3 的总和是 ",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 和 9 0 的总和是 ",
+   "want": "161",
+   "got": "161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 和 7 3 的总和是 ",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 和 5 8 的总和是 ",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7 和 5 2 的总和是 ",
+   "want": "69",
+   "got": "69",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 和 3 6 的总和是 ",
+   "want": "65",
+   "got": "65",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 8 和 9 9 的总和是 ",
+   "want": "137",
+   "got": "137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 和 3 2 的总和是 ",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 和 6 0 的总和是 ",
+   "want": "132",
+   "got": "132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 和 9 4 的总和是 ",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 和 1 2 的总和是 ",
+   "want": "42",
+   "got": "42",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 和 6 0 的总和是 ",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 和 6 4 的总和是 ",
+   "want": "117",
+   "got": "117",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 和 7 0 的总和是 ",
+   "want": "166",
+   "got": "166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4 和 6 0 的总和是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 和 1 9 的总和是 ",
+   "want": "79",
+   "got": "79",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 和 4 6 的总和是 ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 和 9 9 的总和是 ",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 和 9 9 的总和是 ",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 和 6 0 的总和是 ",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2 和 2 6 的总和是 ",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 和 8 4 的总和是 ",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 和 4 8 的总和是 ",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 和 9 3 的总和是 ",
+   "want": "161",
+   "got": "161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 和 8 3 的总和是 ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 和 6 6 的总和是 ",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 和 7 1 的总和是 ",
+   "want": "170",
+   "got": "70",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "4 7 和 2 8 的总和是 ",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 和 3 7 的总和是 ",
+   "want": "73",
+   "got": "73",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 和 9 3 的总和是 ",
+   "want": "128",
+   "got": "128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 和 5 6 的总和是 ",
+   "want": "67",
+   "got": "77",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 和 2 3 的总和是 ",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 和 2 8 的总和是 ",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 和 6 4 的总和是 ",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 和 3 1 的总和是 ",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7 和 2 2 的总和是 ",
+   "want": "39",
+   "got": "39",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 和 7 0 的总和是 ",
+   "want": "125",
+   "got": "35",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 2 和 1 6 的总和是 ",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5 和 7 5 的总和是 ",
+   "want": "100",
+   "got": "90",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "9 3 和 5 3 的总和是 ",
+   "want": "146",
+   "got": "146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 和 6 5 的总和是 ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 和 9 0 的总和是 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 和 4 1 的总和是 ",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 和 2 5 的总和是 ",
+   "want": "39",
+   "got": "39",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 和 6 0 的总和是 ",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 和 4 8 的总和是 ",
+   "want": "120",
+   "got": "20",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "9 8 和 8 6 的总和是 ",
+   "want": "184",
+   "got": "184",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 和 9 3 的总和是 ",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 和 9 8 的总和是 ",
+   "want": "156",
+   "got": "156",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 和 9 4 的总和是 ",
+   "want": "189",
+   "got": "189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 和 6 9 的总和是 ",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 和 5 8 的总和是 ",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 和 9 0 的总和是 ",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 和 6 6 的总和是 ",
+   "want": "159",
+   "got": "159",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 和 1 1 的总和是 ",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5 和 2 4 的总和是 ",
+   "want": "49",
+   "got": "49",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 和 2 5 的总和是 ",
+   "want": "45",
+   "got": "45",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 和 9 2 的总和是 ",
+   "want": "164",
+   "got": "164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 和 7 5 的总和是 ",
+   "want": "170",
+   "got": "70",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 8 和 1 2 的总和是 ",
+   "want": "50",
+   "got": "50",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 和 8 3 的总和是 ",
+   "want": "168",
+   "got": "168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 和 7 1 的总和是 ",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 和 9 8 的总和是 ",
+   "want": "143",
+   "got": "143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2 和 8 5 的总和是 ",
+   "want": "107",
+   "got": "47",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 3 和 5 9 的总和是 ",
+   "want": "92",
+   "got": "92",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 1 和 9 2 的总和是 ",
+   "want": "163",
+   "got": "163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 和 6 5 的总和是 ",
+   "want": "164",
+   "got": "164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 和 8 3 的总和是 ",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 和 2 2 的总和是 ",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 和 1 8 的总和是 ",
+   "want": "69",
+   "got": "69",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 8 和 3 3 的总和是 ",
+   "want": "111",
+   "got": "111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 和 9 9 的总和是 ",
+   "want": "160",
+   "got": "160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 2 和 6 0 的总和是 ",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 和 7 8 的总和是 ",
+   "want": "159",
+   "got": "159",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 7 和 7 2 的总和是 ",
+   "want": "149",
+   "got": "49",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 8 和 7 6 的总和是 ",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 和 7 8 的总和是 ",
+   "want": "162",
+   "got": "162",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 和 2 5 的总和是 ",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 和 9 4 的总和是 ",
+   "want": "130",
+   "got": "120",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5 和 3 3 的总和是 ",
+   "want": "58",
+   "got": "58",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 和 9 8 的总和是 ",
+   "want": "184",
+   "got": "184",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 和 1 0 的总和是 ",
+   "want": "43",
+   "got": "43",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 和 6 7 的总和是 ",
+   "want": "148",
+   "got": "148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 和 2 5 的总和是 ",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 和 2 6 的总和是 ",
+   "want": "41",
+   "got": "41",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 和 3 6 的总和是 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 3 和 3 0 的总和是 ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 和 8 1 的总和是 ",
+   "want": "102",
+   "got": "92",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "3 6 2 和 9 7 1 的总和是 ",
+   "want": "1333",
+   "got": "1333",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 1 和 1 3 5 的总和是 ",
+   "want": "1006",
+   "got": "906",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "1 8 6 和 2 2 7 的总和是 ",
+   "want": "413",
+   "got": "403",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 8 和 4 0 5 的总和是 ",
+   "want": "1023",
+   "got": "1023",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 2 和 6 5 7 的总和是 ",
+   "want": "1129",
+   "got": "1129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 5 和 5 3 3 的总和是 ",
+   "want": "808",
+   "got": "808",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 3 和 1 0 0 的总和是 ",
+   "want": "873",
+   "got": "873",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 4 和 4 0 7 的总和是 ",
+   "want": "761",
+   "got": "761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 4 7 和 6 3 1 的总和是 ",
+   "want": "778",
+   "got": "778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 1 和 4 0 0 的总和是 ",
+   "want": "1301",
+   "got": "1301",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 4 和 6 4 6 的总和是 ",
+   "want": "1420",
+   "got": "1420",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 5 和 2 4 3 的总和是 ",
+   "want": "798",
+   "got": "798",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 0 和 6 0 2 的总和是 ",
+   "want": "1292",
+   "got": "1292",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 1 和 4 2 0 的总和是 ",
+   "want": "1231",
+   "got": "1231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 5 和 4 6 0 的总和是 ",
+   "want": "1095",
+   "got": "1095",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 0 和 6 5 1 的总和是 ",
+   "want": "1371",
+   "got": "371",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "6 2 2 和 3 1 4 的总和是 ",
+   "want": "936",
+   "got": "936",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 4 和 2 0 1 的总和是 ",
+   "want": "1005",
+   "got": "1005",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 8 和 9 3 9 的总和是 ",
+   "want": "1717",
+   "got": "1717",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 4 5 和 3 4 2 的总和是 ",
+   "want": "487",
+   "got": "487",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 7 和 2 9 2 的总和是 ",
+   "want": "429",
+   "got": "429",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 5 和 4 0 6 的总和是 ",
+   "want": "651",
+   "got": "651",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 6 和 9 5 2 的总和是 ",
+   "want": "1928",
+   "got": "1928",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 0 和 2 3 7 的总和是 ",
+   "want": "557",
+   "got": "557",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 6 和 6 6 5 的总和是 ",
+   "want": "1381",
+   "got": "1381",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 1 和 7 0 5 的总和是 ",
+   "want": "1026",
+   "got": "1026",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 7 和 3 8 4 的总和是 ",
+   "want": "851",
+   "got": "851",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 1 和 8 4 6 的总和是 ",
+   "want": "1077",
+   "got": "1077",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 3 7 和 5 3 2 的总和是 ",
+   "want": "1269",
+   "got": "1269",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 6 和 6 6 3 的总和是 ",
+   "want": "839",
+   "got": "839",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 1 和 3 6 6 的总和是 ",
+   "want": "727",
+   "got": "727",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 0 和 7 6 5 的总和是 ",
+   "want": "1255",
+   "got": "1255",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 7 和 5 0 9 的总和是 ",
+   "want": "776",
+   "got": "776",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 7 和 1 8 5 的总和是 ",
+   "want": "752",
+   "got": "752",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 0 和 7 9 2 的总和是 ",
+   "want": "1152",
+   "got": "1152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 5 和 8 1 1 的总和是 ",
+   "want": "1346",
+   "got": "1346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 6 和 6 4 8 的总和是 ",
+   "want": "894",
+   "got": "894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 8 和 1 7 2 的总和是 ",
+   "want": "480",
+   "got": "480",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 4 和 8 5 0 的总和是 ",
+   "want": "1594",
+   "got": "1594",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 5 和 7 4 8 的总和是 ",
+   "want": "1123",
+   "got": "1123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 3 和 7 6 1 的总和是 ",
+   "want": "1574",
+   "got": "1574",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 7 和 8 3 1 的总和是 ",
+   "want": "1128",
+   "got": "1128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 1 和 6 7 7 的总和是 ",
+   "want": "1158",
+   "got": "1158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 3 和 7 6 3 的总和是 ",
+   "want": "1536",
+   "got": "1536",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 0 和 6 2 3 的总和是 ",
+   "want": "1563",
+   "got": "1563",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 9 和 2 6 7 的总和是 ",
+   "want": "986",
+   "got": "986",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 9 和 9 4 1 的总和是 ",
+   "want": "1470",
+   "got": "1470",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 7 和 4 2 3 的总和是 ",
+   "want": "680",
+   "got": "680",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 0 6 和 5 4 4 的总和是 ",
+   "want": "1450",
+   "got": "1450",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 8 和 1 2 6 的总和是 ",
+   "want": "614",
+   "got": "614",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 8 和 3 5 3 的总和是 ",
+   "want": "1071",
+   "got": "1071",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 9 和 3 7 6 的总和是 ",
+   "want": "555",
+   "got": "555",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 7 和 6 4 4 的总和是 ",
+   "want": "871",
+   "got": "871",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 2 和 8 0 0 的总和是 ",
+   "want": "1012",
+   "got": "1012",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 1 和 5 1 6 的总和是 ",
+   "want": "1177",
+   "got": "1177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 7 和 4 3 7 的总和是 ",
+   "want": "604",
+   "got": "604",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 5 和 1 9 1 的总和是 ",
+   "want": "946",
+   "got": "946",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 1 和 4 4 1 的总和是 ",
+   "want": "912",
+   "got": "912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 6 和 3 7 9 的总和是 ",
+   "want": "1275",
+   "got": "1275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 9 和 9 8 9 的总和是 ",
+   "want": "1238",
+   "got": "1238",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 7 和 3 3 1 的总和是 ",
+   "want": "1248",
+   "got": "1248",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 0 和 1 1 0 的总和是 ",
+   "want": "490",
+   "got": "490",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 0 和 4 8 6 的总和是 ",
+   "want": "686",
+   "got": "686",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 7 和 4 8 7 的总和是 ",
+   "want": "814",
+   "got": "804",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 7 和 9 0 1 的总和是 ",
+   "want": "1108",
+   "got": "1118",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 6 和 2 7 9 的总和是 ",
+   "want": "505",
+   "got": "495",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 9 和 8 4 5 的总和是 ",
+   "want": "1484",
+   "got": "1484",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 9 6 和 4 1 3 的总和是 ",
+   "want": "1409",
+   "got": "1409",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 2 和 9 4 1 的总和是 ",
+   "want": "1643",
+   "got": "1643",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 6 和 6 0 1 的总和是 ",
+   "want": "1527",
+   "got": "1527",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 7 和 6 4 1 的总和是 ",
+   "want": "838",
+   "got": "838",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 5 7 和 8 1 7 的总和是 ",
+   "want": "1274",
+   "got": "1274",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 5 和 9 8 6 的总和是 ",
+   "want": "1671",
+   "got": "1671",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 8 和 6 6 4 的总和是 ",
+   "want": "1052",
+   "got": "1052",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 7 和 7 2 2 的总和是 ",
+   "want": "1099",
+   "got": "1099",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 1 和 1 4 9 的总和是 ",
+   "want": "350",
+   "got": "350",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 4 和 4 2 5 的总和是 ",
+   "want": "699",
+   "got": "699",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 9 和 4 9 8 的总和是 ",
+   "want": "1367",
+   "got": "1367",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 5 和 4 5 3 的总和是 ",
+   "want": "738",
+   "got": "738",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 5 和 8 5 9 的总和是 ",
+   "want": "1784",
+   "got": "1784",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 4 和 9 0 7 的总和是 ",
+   "want": "1701",
+   "got": "1601",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 4 和 6 6 4 的总和是 ",
+   "want": "1308",
+   "got": "1308",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 8 和 9 7 0 的总和是 ",
+   "want": "1678",
+   "got": "1678",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 2 和 5 8 8 的总和是 ",
+   "want": "1100",
+   "got": "198",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "7 0 6 和 2 3 0 的总和是 ",
+   "want": "936",
+   "got": "936",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 5 和 1 0 9 的总和是 ",
+   "want": "474",
+   "got": "474",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 3 和 6 2 5 的总和是 ",
+   "want": "1428",
+   "got": "1428",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 0 和 2 5 9 的总和是 ",
+   "want": "1089",
+   "got": "1089",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 3 和 2 2 9 的总和是 ",
+   "want": "1002",
+   "got": "1002",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 6 和 4 8 7 的总和是 ",
+   "want": "733",
+   "got": "733",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 1 和 8 5 3 的总和是 ",
+   "want": "1534",
+   "got": "1534",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 3 和 1 5 4 的总和是 ",
+   "want": "527",
+   "got": "527",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 2 和 7 5 4 的总和是 ",
+   "want": "1596",
+   "got": "1596",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 7 9 和 8 2 4 的总和是 ",
+   "want": "1303",
+   "got": "1303",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 6 和 3 5 5 的总和是 ",
+   "want": "1251",
+   "got": "1251",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 4 和 7 2 3 的总和是 ",
+   "want": "1517",
+   "got": "1517",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 8 和 8 2 3 的总和是 ",
+   "want": "1351",
+   "got": "1351",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 6 8 和 2 8 7 的总和是 ",
+   "want": "855",
+   "got": "855",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 9 和 4 6 2 的总和是 ",
+   "want": "1011",
+   "got": "1011",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 7 和 5 7 9 的总和是 ",
+   "want": "1496",
+   "got": "1496",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 2 8 和 5 6 9 9 的总和是 ",
+   "want": "14927",
+   "got": "14927",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 1 9 和 8 0 0 8 的总和是 ",
+   "want": "13527",
+   "got": "13527",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 2 9 和 4 7 4 8 的总和是 ",
+   "want": "14277",
+   "got": "14277",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 0 0 和 2 4 2 4 的总和是 ",
+   "want": "8424",
+   "got": "8424",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 0 7 和 7 6 6 0 的总和是 ",
+   "want": "13667",
+   "got": "13667",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 2 3 和 2 4 7 6 的总和是 ",
+   "want": "8599",
+   "got": "8599",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 0 2 和 2 2 5 6 的总和是 ",
+   "want": "4558",
+   "got": "4558",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 3 2 和 2 5 3 4 的总和是 ",
+   "want": "7466",
+   "got": "7466",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 0 5 和 1 9 4 0 的总和是 ",
+   "want": "5645",
+   "got": "5645",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 8 5 和 5 6 8 3 的总和是 ",
+   "want": "8068",
+   "got": "8068",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 7 4 和 1 1 7 5 的总和是 ",
+   "want": "10249",
+   "got": "10249",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 4 6 和 9 3 3 4 的总和是 ",
+   "want": "17280",
+   "got": "17270",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 3 5 和 8 8 5 8 的总和是 ",
+   "want": "12093",
+   "got": "12093",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 5 6 和 9 4 3 7 的总和是 ",
+   "want": "18593",
+   "got": "18593",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 2 2 和 3 0 4 2 的总和是 ",
+   "want": "12764",
+   "got": "12764",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 4 3 和 1 2 2 7 的总和是 ",
+   "want": "8870",
+   "got": "8870",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 1 5 和 1 1 1 9 的总和是 ",
+   "want": "5234",
+   "got": "5235",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 6 2 和 9 7 5 4 的总和是 ",
+   "want": "17716",
+   "got": "17716",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 5 3 和 5 0 0 1 的总和是 ",
+   "want": "11654",
+   "got": "11654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 5 2 和 1 6 9 3 的总和是 ",
+   "want": "11345",
+   "got": "11345",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 5 0 和 3 7 6 1 的总和是 ",
+   "want": "12111",
+   "got": "12011",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 7 7 和 4 6 8 7 的总和是 ",
+   "want": "14264",
+   "got": "14264",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 6 4 和 2 2 3 0 的总和是 ",
+   "want": "6094",
+   "got": "6094",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 1 3 和 3 1 8 4 的总和是 ",
+   "want": "10197",
+   "got": "10197",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 1 6 和 6 7 8 8 的总和是 ",
+   "want": "16204",
+   "got": "16204",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 8 3 4 和 7 9 2 5 的总和是 ",
+   "want": "9759",
+   "got": "9759",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 1 8 和 7 2 1 1 的总和是 ",
+   "want": "16329",
+   "got": "16329",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 9 3 和 7 1 1 5 的总和是 ",
+   "want": "10908",
+   "got": "10908",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 5 5 和 6 5 3 7 的总和是 ",
+   "want": "9392",
+   "got": "9392",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 9 2 和 9 8 3 2 的总和是 ",
+   "want": "14924",
+   "got": "14924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 3 1 和 5 7 5 2 的总和是 ",
+   "want": "8683",
+   "got": "8683",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 0 1 和 8 9 1 5 的总和是 ",
+   "want": "14816",
+   "got": "14816",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 0 9 和 5 3 3 7 的总和是 ",
+   "want": "11146",
+   "got": "11046",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 9 0 和 1 0 3 6 的总和是 ",
+   "want": "5526",
+   "got": "5526",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 4 9 和 4 5 6 2 的总和是 ",
+   "want": "12011",
+   "got": "12011",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 9 4 和 9 4 4 6 的总和是 ",
+   "want": "15440",
+   "got": "15440",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 8 0 和 8 5 8 6 的总和是 ",
+   "want": "10166",
+   "got": "9166",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "8 9 9 9 和 1 9 4 2 的总和是 ",
+   "want": "10941",
+   "got": "10941",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 2 8 和 1 0 9 6 的总和是 ",
+   "want": "7924",
+   "got": "7924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 4 2 和 6 3 8 2 的总和是 ",
+   "want": "14924",
+   "got": "14924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 8 8 和 6 7 9 8 的总和是 ",
+   "want": "12686",
+   "got": "12686",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 5 5 和 1 0 8 4 的总和是 ",
+   "want": "3839",
+   "got": "3839",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 2 9 和 4 0 5 0 的总和是 ",
+   "want": "10779",
+   "got": "10779",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 8 7 和 6 8 0 8 的总和是 ",
+   "want": "14395",
+   "got": "14395",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 4 5 和 2 6 6 0 的总和是 ",
+   "want": "3805",
+   "got": "3805",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 0 5 8 和 9 0 6 1 的总和是 ",
+   "want": "17119",
+   "got": "17119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 3 6 和 2 3 8 8 的总和是 ",
+   "want": "6624",
+   "got": "6624",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 6 8 和 9 4 2 6 的总和是 ",
+   "want": "19094",
+   "got": "19094",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 1 8 和 7 7 2 9 的总和是 ",
+   "want": "11247",
+   "got": "11247",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 2 9 和 8 9 8 5 的总和是 ",
+   "want": "12014",
+   "got": "12014",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 1 3 和 3 5 4 9 的总和是 ",
+   "want": "4662",
+   "got": "4688",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 9 8 和 4 7 0 4 的总和是 ",
+   "want": "9802",
+   "got": "9802",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 7 1 1 和 7 4 7 7 的总和是 ",
+   "want": "16188",
+   "got": "16188",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 3 2 和 5 9 0 3 的总和是 ",
+   "want": "13035",
+   "got": "3135",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "6 9 7 1 和 8 0 1 7 的总和是 ",
+   "want": "14988",
+   "got": "14988",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 9 8 4 和 9 7 8 8 的总和是 ",
+   "want": "13772",
+   "got": "13772",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 1 5 和 2 7 8 0 的总和是 ",
+   "want": "8195",
+   "got": "8195",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 8 5 和 8 1 9 8 的总和是 ",
+   "want": "16383",
+   "got": "16383",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 5 1 和 3 2 9 1 的总和是 ",
+   "want": "6942",
+   "got": "6942",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 9 5 和 8 1 1 0 的总和是 ",
+   "want": "14905",
+   "got": "14905",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 9 5 和 6 8 8 5 的总和是 ",
+   "want": "7980",
+   "got": "7980",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 5 1 和 2 8 1 3 的总和是 ",
+   "want": "7064",
+   "got": "7064",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 0 5 和 5 6 6 7 的总和是 ",
+   "want": "9772",
+   "got": "9772",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 5 9 和 3 1 9 0 的总和是 ",
+   "want": "4849",
+   "got": "4849",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 6 4 和 7 8 9 8 的总和是 ",
+   "want": "15362",
+   "got": "15362",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 2 6 和 1 5 1 7 的总和是 ",
+   "want": "7943",
+   "got": "7943",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 2 6 和 4 2 6 0 的总和是 ",
+   "want": "7886",
+   "got": "7886",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 5 2 和 5 3 5 4 的总和是 ",
+   "want": "14206",
+   "got": "14206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 4 6 和 7 8 9 9 的总和是 ",
+   "want": "10845",
+   "got": "10845",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 1 2 和 9 1 1 9 的总和是 ",
+   "want": "18131",
+   "got": "18131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 8 7 和 6 3 2 2 的总和是 ",
+   "want": "9409",
+   "got": "9409",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 5 1 和 9 2 2 2 的总和是 ",
+   "want": "16773",
+   "got": "16773",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 7 0 和 3 1 5 3 的总和是 ",
+   "want": "10523",
+   "got": "10523",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 9 7 和 2 7 6 7 的总和是 ",
+   "want": "5564",
+   "got": "5564",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 4 6 和 3 0 6 6 的总和是 ",
+   "want": "4412",
+   "got": "4412",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 4 8 和 6 6 3 8 的总和是 ",
+   "want": "10186",
+   "got": "10186",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 9 2 和 1 2 2 3 的总和是 ",
+   "want": "10415",
+   "got": "10415",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 7 4 和 1 8 5 2 的总和是 ",
+   "want": "6726",
+   "got": "6726",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 0 5 和 8 0 3 9 的总和是 ",
+   "want": "14644",
+   "got": "14644",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 3 1 和 8 1 1 6 的总和是 ",
+   "want": "9247",
+   "got": "9247",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 6 7 和 5 7 4 2 的总和是 ",
+   "want": "14609",
+   "got": "14609",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 2 3 和 8 9 6 1 的总和是 ",
+   "want": "14584",
+   "got": "14584",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 5 3 和 8 0 2 7 的总和是 ",
+   "want": "10380",
+   "got": "10380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 5 9 和 3 4 9 8 的总和是 ",
+   "want": "8557",
+   "got": "8557",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 7 6 和 4 0 6 1 的总和是 ",
+   "want": "13437",
+   "got": "13437",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 8 7 和 5 6 0 6 的总和是 ",
+   "want": "10693",
+   "got": "10693",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 8 4 和 5 3 1 7 的总和是 ",
+   "want": "8201",
+   "got": "8201",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 5 2 和 8 0 3 1 的总和是 ",
+   "want": "13083",
+   "got": "3983",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 2 5 0 和 8 7 6 4 的总和是 ",
+   "want": "13014",
+   "got": "12014",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 6 8 8 和 9 2 3 0 的总和是 ",
+   "want": "11918",
+   "got": "11918",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 9 6 8 和 4 0 9 1 的总和是 ",
+   "want": "8059",
+   "got": "7059",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 3 6 和 4 7 5 8 的总和是 ",
+   "want": "8194",
+   "got": "8194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 7 3 和 3 1 6 7 的总和是 ",
+   "want": "6140",
+   "got": "6140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 7 4 和 1 6 2 8 的总和是 ",
+   "want": "9202",
+   "got": "9202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 8 6 和 4 1 4 8 的总和是 ",
+   "want": "9634",
+   "got": "9634",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 9 5 和 7 9 8 4 的总和是 ",
+   "want": "11379",
+   "got": "11379",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 8 9 和 4 2 7 0 的总和是 ",
+   "want": "5559",
+   "got": "5559",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 8 9 和 1 8 3 4 的总和是 ",
+   "want": "4323",
+   "got": "4323",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 3 1 和 7 6 7 3 的总和是 ",
+   "want": "14904",
+   "got": "14904",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 0 1 和 6 0 2 0 的总和是 ",
+   "want": "15621",
+   "got": "15621",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 0 0 9 和 4 0 3 3 3 的总和是 ",
+   "want": "133342",
+   "got": "133342",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 0 6 8 和 5 4 0 6 3 的总和是 ",
+   "want": "93131",
+   "got": "93131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 8 4 6 和 7 2 8 0 9 的总和是 ",
+   "want": "138655",
+   "got": "138655",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 0 4 1 和 7 6 8 2 8 的总和是 ",
+   "want": "94869",
+   "got": "94869",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 9 7 7 和 9 4 3 9 3 的总和是 ",
+   "want": "160370",
+   "got": "160360",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 7 7 0 和 4 9 8 8 3 的总和是 ",
+   "want": "66653",
+   "got": "66653",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 4 2 5 和 4 5 2 9 0 的总和是 ",
+   "want": "69715",
+   "got": "69715",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 6 5 4 和 4 6 7 7 3 的总和是 ",
+   "want": "104427",
+   "got": "104427",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 0 0 9 和 6 4 7 9 7 的总和是 ",
+   "want": "120806",
+   "got": "120806",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 3 7 0 和 5 1 9 2 2 的总和是 ",
+   "want": "94292",
+   "got": "94292",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 2 3 3 和 3 3 8 2 2 的总和是 ",
+   "want": "50055",
+   "got": "50055",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 3 5 9 和 1 0 0 7 0 的总和是 ",
+   "want": "25429",
+   "got": "35429",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 8 3 2 和 9 6 5 6 3 的总和是 ",
+   "want": "113395",
+   "got": "113395",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 1 5 7 和 3 7 7 8 4 的总和是 ",
+   "want": "89941",
+   "got": "89941",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 7 3 9 7 和 7 1 8 7 3 的总和是 ",
+   "want": "119270",
+   "got": "119260",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 7 2 1 和 8 9 4 9 8 的总和是 ",
+   "want": "136219",
+   "got": "136219",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 3 2 0 7 和 6 6 4 7 9 的总和是 ",
+   "want": "89686",
+   "got": "89686",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 2 2 7 和 4 3 0 6 4 的总和是 ",
+   "want": "77291",
+   "got": "77291",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 3 9 3 和 5 7 6 5 5 的总和是 ",
+   "want": "132048",
+   "got": "132048",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 3 8 1 5 和 4 9 8 9 2 的总和是 ",
+   "want": "103707",
+   "got": "103707",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 6 1 8 和 2 2 6 9 9 的总和是 ",
+   "want": "47317",
+   "got": "47317",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 6 8 0 和 1 1 7 9 0 的总和是 ",
+   "want": "109470",
+   "got": "89470",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 9 5 1 7 和 8 2 3 2 1 的总和是 ",
+   "want": "181838",
+   "got": "181838",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 0 7 9 和 5 3 4 1 2 的总和是 ",
+   "want": "80491",
+   "got": "70491",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 2 6 0 和 5 7 3 6 7 的总和是 ",
+   "want": "114627",
+   "got": "114627",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 1 8 9 和 7 9 3 1 9 的总和是 ",
+   "want": "166508",
+   "got": "166508",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 2 6 1 和 5 8 7 0 5 的总和是 ",
+   "want": "147966",
+   "got": "147966",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 2 2 8 和 9 5 2 2 9 的总和是 ",
+   "want": "136457",
+   "got": "136457",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 1 6 8 和 3 7 5 2 9 的总和是 ",
+   "want": "83697",
+   "got": "83697",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 6 5 8 8 和 6 0 3 3 8 的总和是 ",
+   "want": "146926",
+   "got": "146926",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 4 3 3 和 2 3 9 4 1 的总和是 ",
+   "want": "45374",
+   "got": "45374",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 1 0 2 和 9 2 5 1 7 的总和是 ",
+   "want": "119619",
+   "got": "119619",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 8 8 3 和 2 5 7 7 5 的总和是 ",
+   "want": "114658",
+   "got": "114658",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 3 7 9 和 8 6 8 8 1 的总和是 ",
+   "want": "102260",
+   "got": "102260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 7 6 7 和 3 4 9 6 0 的总和是 ",
+   "want": "130727",
+   "got": "130727",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 2 8 7 和 6 8 4 2 7 的总和是 ",
+   "want": "103714",
+   "got": "103714",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 9 2 8 和 1 9 8 1 4 的总和是 ",
+   "want": "42742",
+   "got": "42732",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 6 4 1 和 9 1 1 3 4 的总和是 ",
+   "want": "172775",
+   "got": "172775",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 9 4 4 和 4 9 5 1 5 的总和是 ",
+   "want": "104459",
+   "got": "104459",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 1 5 4 和 3 6 4 7 6 的总和是 ",
+   "want": "108630",
+   "got": "108630",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 9 3 4 和 3 0 1 4 2 的总和是 ",
+   "want": "110076",
+   "got": "100076",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 7 4 2 和 2 6 7 5 5 的总和是 ",
+   "want": "42497",
+   "got": "42507",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 1 2 7 和 6 4 8 1 5 的总和是 ",
+   "want": "99942",
+   "got": "99942",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 1 5 4 和 4 3 0 9 9 的总和是 ",
+   "want": "125253",
+   "got": "125253",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 4 4 5 和 5 5 5 2 6 的总和是 ",
+   "want": "138971",
+   "got": "138971",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 9 7 3 和 6 8 7 8 3 的总和是 ",
+   "want": "126756",
+   "got": "126756",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 5 5 7 和 2 5 3 9 1 的总和是 ",
+   "want": "117948",
+   "got": "117948",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 1 6 3 和 1 8 8 7 4 的总和是 ",
+   "want": "86037",
+   "got": "86037",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 2 8 4 和 6 4 9 1 9 的总和是 ",
+   "want": "138203",
+   "got": "138203",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 6 5 0 和 7 6 0 4 3 的总和是 ",
+   "want": "154693",
+   "got": "154693",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 8 6 7 和 3 1 8 8 0 的总和是 ",
+   "want": "44747",
+   "got": "44747",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 5 3 2 和 4 5 9 3 3 的总和是 ",
+   "want": "134465",
+   "got": "134465",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 8 9 9 和 4 7 9 6 5 的总和是 ",
+   "want": "74864",
+   "got": "74864",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 9 5 6 和 8 4 2 0 9 的总和是 ",
+   "want": "100165",
+   "got": "90065",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 7 9 6 8 和 3 4 9 2 8 的总和是 ",
+   "want": "52896",
+   "got": "52896",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 1 0 0 和 7 4 8 8 4 的总和是 ",
+   "want": "136984",
+   "got": "36984",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 9 7 4 4 和 7 9 7 9 1 的总和是 ",
+   "want": "179535",
+   "got": "179535",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 3 0 3 和 1 9 8 2 8 的总和是 ",
+   "want": "97131",
+   "got": "97131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 6 9 4 和 6 7 3 7 6 的总和是 ",
+   "want": "99070",
+   "got": "99070",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 7 5 2 和 6 0 3 5 1 的总和是 ",
+   "want": "137103",
+   "got": "137003",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 7 2 7 和 6 1 1 5 0 的总和是 ",
+   "want": "144877",
+   "got": "144877",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 5 4 0 和 8 9 5 8 9 的总和是 ",
+   "want": "152129",
+   "got": "152129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 5 8 5 和 3 7 1 2 2 的总和是 ",
+   "want": "82707",
+   "got": "82707",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 1 2 5 和 1 0 4 7 1 的总和是 ",
+   "want": "44596",
+   "got": "44596",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 9 7 1 和 8 4 9 5 9 的总和是 ",
+   "want": "115930",
+   "got": "115930",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 8 5 4 8 和 8 7 6 0 9 的总和是 ",
+   "want": "126157",
+   "got": "126157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 1 6 1 和 7 7 2 1 3 的总和是 ",
+   "want": "88374",
+   "got": "88825",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 6 9 5 和 7 6 0 3 6 的总和是 ",
+   "want": "145731",
+   "got": "145731",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 8 2 2 和 4 3 9 2 5 的总和是 ",
+   "want": "122747",
+   "got": "122747",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 7 6 8 和 3 8 8 7 9 的总和是 ",
+   "want": "88647",
+   "got": "88647",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 8 4 4 和 4 5 1 9 4 的总和是 ",
+   "want": "94038",
+   "got": "94038",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 3 7 1 和 2 5 6 1 1 的总和是 ",
+   "want": "107982",
+   "got": "107982",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 4 2 7 和 3 9 3 5 0 的总和是 ",
+   "want": "71777",
+   "got": "71777",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 9 7 8 和 7 9 9 3 5 的总和是 ",
+   "want": "95913",
+   "got": "95913",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 2 2 3 和 4 8 2 5 2 的总和是 ",
+   "want": "89475",
+   "got": "89475",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 1 2 3 和 9 3 8 3 5 的总和是 ",
+   "want": "108958",
+   "got": "108958",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 4 1 6 和 4 6 4 0 6 的总和是 ",
+   "want": "75822",
+   "got": "75822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 4 2 8 和 4 5 4 4 6 的总和是 ",
+   "want": "72874",
+   "got": "72874",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 7 5 2 和 9 4 2 0 2 的总和是 ",
+   "want": "110954",
+   "got": "100954",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 6 3 7 和 3 7 5 2 1 的总和是 ",
+   "want": "80158",
+   "got": "70158",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 0 0 7 0 和 2 5 2 2 8 的总和是 ",
+   "want": "105298",
+   "got": "105298",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 1 8 3 和 9 5 0 1 9 的总和是 ",
+   "want": "105202",
+   "got": "105202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 5 4 2 和 9 2 9 2 7 的总和是 ",
+   "want": "148469",
+   "got": "148369",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 3 1 9 和 5 8 3 8 0 的总和是 ",
+   "want": "147699",
+   "got": "147699",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 5 4 0 和 2 0 9 1 1 的总和是 ",
+   "want": "73451",
+   "got": "73451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 9 9 4 和 4 4 6 0 8 的总和是 ",
+   "want": "126602",
+   "got": "126602",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 5 1 2 和 6 3 5 2 2 的总和是 ",
+   "want": "91034",
+   "got": "91034",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 1 4 8 和 4 8 6 5 2 的总和是 ",
+   "want": "138800",
+   "got": "138800",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 5 5 0 和 1 7 5 0 5 的总和是 ",
+   "want": "70055",
+   "got": "60055",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 0 4 5 和 1 1 3 6 4 的总和是 ",
+   "want": "103409",
+   "got": "103409",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 5 9 3 和 3 8 7 4 1 的总和是 ",
+   "want": "95334",
+   "got": "95334",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 6 5 9 和 3 3 1 6 5 的总和是 ",
+   "want": "79824",
+   "got": "79824",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 5 5 2 和 1 2 0 4 9 的总和是 ",
+   "want": "55601",
+   "got": "55601",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 0 4 3 6 和 9 6 1 5 5 的总和是 ",
+   "want": "176591",
+   "got": "176591",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 6 4 4 9 和 2 3 9 5 1 的总和是 ",
+   "want": "110400",
+   "got": "110400",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 0 6 7 和 9 5 6 9 8 的总和是 ",
+   "want": "155765",
+   "got": "155765",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 7 3 0 和 9 2 0 8 1 的总和是 ",
+   "want": "135811",
+   "got": "135811",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 1 3 9 和 8 9 2 1 2 的总和是 ",
+   "want": "182351",
+   "got": "182351",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 2 0 4 和 3 7 0 2 1 的总和是 ",
+   "want": "119225",
+   "got": "119225",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 9 5 8 和 3 8 9 1 9 的总和是 ",
+   "want": "106877",
+   "got": "106877",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

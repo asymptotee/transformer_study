@@ -1,0 +1,3231 @@
+{
+ "label": "n30x3_T13求和冒号",
+ "by_rung": {
+  "2": [
+   19,
+   55,
+   0,
+   100
+  ],
+  "3": [
+   61,
+   83,
+   0,
+   100
+  ],
+  "4": [
+   67,
+   91,
+   0,
+   100
+  ],
+  "5": [
+   69,
+   94,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "求和：4 8 + 8 3 = ",
+   "want": "131",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：1 0 + 6 8 = ",
+   "want": "78",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：5 3 + 4 0 = ",
+   "want": "93",
+   "got": "83",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：8 4 + 8 2 = ",
+   "want": "166",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：9 0 + 9 5 = ",
+   "want": "185",
+   "got": "145",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：7 8 + 8 6 = ",
+   "want": "164",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：3 9 + 5 4 = ",
+   "want": "93",
+   "got": "83",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：4 8 + 4 6 = ",
+   "want": "94",
+   "got": "44",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：9 5 + 8 3 = ",
+   "want": "178",
+   "got": "78",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：9 6 + 2 7 = ",
+   "want": "123",
+   "got": "113",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：5 8 + 7 6 = ",
+   "want": "134",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：4 1 + 2 3 = ",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：5 1 + 7 6 = ",
+   "want": "127",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：8 4 + 3 4 = ",
+   "want": "118",
+   "got": "128",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：5 6 + 6 8 = ",
+   "want": "124",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：2 2 + 2 8 = ",
+   "want": "50",
+   "got": "10",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：6 4 + 6 2 = ",
+   "want": "126",
+   "got": "66",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：2 0 + 2 1 = ",
+   "want": "41",
+   "got": "31",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：1 7 + 6 4 = ",
+   "want": "81",
+   "got": "112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：2 6 + 7 0 = ",
+   "want": "96",
+   "got": "76",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：3 7 + 6 7 = ",
+   "want": "104",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：1 9 + 5 7 = ",
+   "want": "76",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：9 6 + 7 7 = ",
+   "want": "173",
+   "got": "43",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：6 1 + 8 5 = ",
+   "want": "146",
+   "got": "146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：8 1 + 7 6 = ",
+   "want": "157",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：6 0 + 4 3 = ",
+   "want": "103",
+   "got": "3",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：8 4 + 7 3 = ",
+   "want": "157",
+   "got": "177",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：9 1 + 6 4 = ",
+   "want": "155",
+   "got": "105",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：6 6 + 9 8 = ",
+   "want": "164",
+   "got": "54",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：7 2 + 6 3 = ",
+   "want": "135",
+   "got": "95",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：3 0 + 2 8 = ",
+   "want": "58",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：7 4 + 2 6 = ",
+   "want": "100",
+   "got": "0",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：7 2 + 6 8 = ",
+   "want": "140",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：2 6 + 7 5 = ",
+   "want": "101",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：7 7 + 2 5 = ",
+   "want": "102",
+   "got": "132",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：9 8 + 3 7 = ",
+   "want": "135",
+   "got": "115",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：6 8 + 7 0 = ",
+   "want": "138",
+   "got": "68",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：1 4 + 3 0 = ",
+   "want": "44",
+   "got": "44",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：8 1 + 5 7 = ",
+   "want": "138",
+   "got": "98",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：2 5 + 8 7 = ",
+   "want": "112",
+   "got": "32",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：6 2 + 2 4 = ",
+   "want": "86",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：2 5 + 5 7 = ",
+   "want": "82",
+   "got": "22",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：8 3 + 4 7 = ",
+   "want": "130",
+   "got": "130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：1 5 + 7 6 = ",
+   "want": "91",
+   "got": "71",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：2 9 + 2 5 = ",
+   "want": "54",
+   "got": "144",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：5 7 + 4 9 = ",
+   "want": "106",
+   "got": "46",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：5 7 + 4 8 = ",
+   "want": "105",
+   "got": "65",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：4 7 + 7 2 = ",
+   "want": "119",
+   "got": "99",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：1 3 + 2 8 = ",
+   "want": "41",
+   "got": "1",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：2 8 + 8 5 = ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：6 3 + 1 6 = ",
+   "want": "79",
+   "got": "99",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：4 9 + 4 6 = ",
+   "want": "95",
+   "got": "45",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：3 7 + 3 3 = ",
+   "want": "70",
+   "got": "110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：7 2 + 1 0 = ",
+   "want": "82",
+   "got": "22",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：2 5 + 8 0 = ",
+   "want": "105",
+   "got": "75",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：5 4 + 1 8 = ",
+   "want": "72",
+   "got": "32",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：1 5 + 6 3 = ",
+   "want": "78",
+   "got": "88",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：7 1 + 8 3 = ",
+   "want": "154",
+   "got": "94",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：4 9 + 8 2 = ",
+   "want": "131",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：6 7 + 5 3 = ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：5 8 + 7 0 = ",
+   "want": "128",
+   "got": "58",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：8 7 + 2 6 = ",
+   "want": "113",
+   "got": "43",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：2 7 + 7 4 = ",
+   "want": "101",
+   "got": "11",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：9 1 + 6 8 = ",
+   "want": "159",
+   "got": "149",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：6 7 + 9 5 = ",
+   "want": "162",
+   "got": "152",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：6 7 + 2 9 = ",
+   "want": "96",
+   "got": "116",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：5 1 + 2 1 = ",
+   "want": "72",
+   "got": "72",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：8 9 + 9 5 = ",
+   "want": "184",
+   "got": "184",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：8 9 + 6 2 = ",
+   "want": "151",
+   "got": "112",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：5 9 + 3 9 = ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：6 0 + 5 3 = ",
+   "want": "113",
+   "got": "33",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：7 9 + 1 5 = ",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：9 5 + 6 6 = ",
+   "want": "161",
+   "got": "0",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：4 5 + 9 2 = ",
+   "want": "137",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：2 1 + 3 1 = ",
+   "want": "52",
+   "got": "52",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：1 3 + 8 3 = ",
+   "want": "96",
+   "got": "116",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：9 0 + 4 9 = ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：8 1 + 9 2 = ",
+   "want": "173",
+   "got": "103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：2 5 + 9 2 = ",
+   "want": "117",
+   "got": "77",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：8 1 + 2 0 = ",
+   "want": "101",
+   "got": "91",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：3 4 + 8 9 = ",
+   "want": "123",
+   "got": "23",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：7 9 + 8 3 = ",
+   "want": "162",
+   "got": "122",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：1 6 + 8 2 = ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：7 6 + 3 4 = ",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：7 0 + 7 4 = ",
+   "want": "144",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：1 2 + 2 5 = ",
+   "want": "37",
+   "got": "77",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：9 4 + 7 8 = ",
+   "want": "172",
+   "got": "72",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：3 3 + 1 2 = ",
+   "want": "45",
+   "got": "45",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：4 5 + 3 6 = ",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：4 1 + 8 4 = ",
+   "want": "125",
+   "got": "65",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：6 6 + 2 0 = ",
+   "want": "86",
+   "got": "76",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：7 8 + 8 7 = ",
+   "want": "165",
+   "got": "55",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：5 1 + 6 1 = ",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：8 5 + 1 5 = ",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：7 2 + 1 2 = ",
+   "want": "84",
+   "got": "44",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：5 3 + 6 5 = ",
+   "want": "118",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：3 3 + 6 3 = ",
+   "want": "96",
+   "got": "66",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求和：1 3 + 7 7 = ",
+   "want": "90",
+   "got": "0",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：5 0 + 5 8 = ",
+   "want": "108",
+   "got": "88",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求和：4 2 + 2 1 = ",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 1 7 + 2 0 1 = ",
+   "want": "418",
+   "got": "318",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 5 4 + 2 7 2 = ",
+   "want": "926",
+   "got": "826",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：3 9 2 + 2 4 7 = ",
+   "want": "639",
+   "got": "639",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 8 7 + 3 6 1 = ",
+   "want": "648",
+   "got": "648",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：8 8 6 + 1 9 1 = ",
+   "want": "1077",
+   "got": "1077",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 5 7 + 4 1 4 = ",
+   "want": "671",
+   "got": "671",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：5 1 7 + 7 9 4 = ",
+   "want": "1311",
+   "got": "301",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：2 7 3 + 1 6 0 = ",
+   "want": "433",
+   "got": "433",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 2 9 + 4 3 3 = ",
+   "want": "1162",
+   "got": "1262",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 8 5 + 1 2 7 = ",
+   "want": "412",
+   "got": "1102",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：8 3 0 + 1 5 9 = ",
+   "want": "989",
+   "got": "789",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 0 5 + 4 9 9 = ",
+   "want": "904",
+   "got": "904",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 0 1 + 4 2 7 = ",
+   "want": "628",
+   "got": "628",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 4 5 + 5 2 2 = ",
+   "want": "767",
+   "got": "767",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 3 1 + 3 6 4 = ",
+   "want": "795",
+   "got": "795",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 8 4 + 9 4 7 = ",
+   "want": "1431",
+   "got": "1431",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 2 3 + 1 5 3 = ",
+   "want": "376",
+   "got": "776",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：3 0 7 + 3 4 5 = ",
+   "want": "652",
+   "got": "652",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：8 7 0 + 7 1 1 = ",
+   "want": "1581",
+   "got": "1581",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 0 0 + 3 4 2 = ",
+   "want": "1042",
+   "got": "742",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：6 0 4 + 6 2 0 = ",
+   "want": "1224",
+   "got": "824",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：8 7 0 + 6 1 6 = ",
+   "want": "1486",
+   "got": "986",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：4 9 4 + 2 1 7 = ",
+   "want": "711",
+   "got": "701",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：3 7 5 + 1 6 2 = ",
+   "want": "537",
+   "got": "937",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 2 5 + 5 7 5 = ",
+   "want": "1000",
+   "got": "700",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：6 6 6 + 5 1 6 = ",
+   "want": "1182",
+   "got": "782",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：1 6 7 + 5 9 5 = ",
+   "want": "762",
+   "got": "762",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：1 2 9 + 5 1 7 = ",
+   "want": "646",
+   "got": "746",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 4 8 + 3 3 9 = ",
+   "want": "1087",
+   "got": "1287",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：1 1 9 + 3 7 5 = ",
+   "want": "494",
+   "got": "494",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 6 7 + 7 0 0 = ",
+   "want": "1367",
+   "got": "1267",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 9 1 + 2 0 3 = ",
+   "want": "994",
+   "got": "994",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：3 5 2 + 8 8 1 = ",
+   "want": "1233",
+   "got": "1233",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 6 8 + 7 6 7 = ",
+   "want": "1435",
+   "got": "1445",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：9 0 4 + 2 2 8 = ",
+   "want": "1132",
+   "got": "1132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 1 1 + 6 8 1 = ",
+   "want": "1092",
+   "got": "1092",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：5 1 6 + 5 5 6 = ",
+   "want": "1072",
+   "got": "672",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：1 8 5 + 9 6 6 = ",
+   "want": "1151",
+   "got": "1151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 5 1 + 6 1 2 = ",
+   "want": "1363",
+   "got": "763",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：3 0 8 + 9 0 1 = ",
+   "want": "1209",
+   "got": "1209",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 4 5 + 4 8 2 = ",
+   "want": "727",
+   "got": "727",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 5 3 + 2 7 2 = ",
+   "want": "925",
+   "got": "825",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：9 0 0 + 3 5 1 = ",
+   "want": "1251",
+   "got": "1251",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 5 0 + 5 3 3 = ",
+   "want": "1183",
+   "got": "883",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：6 6 8 + 5 6 2 = ",
+   "want": "1230",
+   "got": "1120",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：1 4 2 + 1 0 1 = ",
+   "want": "243",
+   "got": "1443",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：9 3 2 + 5 7 5 = ",
+   "want": "1507",
+   "got": "1407",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：9 4 9 + 7 3 5 = ",
+   "want": "1684",
+   "got": "1684",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：3 9 6 + 7 6 8 = ",
+   "want": "1164",
+   "got": "1264",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 7 1 + 1 0 0 = ",
+   "want": "371",
+   "got": "371",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：1 6 1 + 5 9 3 = ",
+   "want": "754",
+   "got": "754",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：3 7 9 + 7 1 2 = ",
+   "want": "1091",
+   "got": "1091",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：3 5 6 + 9 5 9 = ",
+   "want": "1315",
+   "got": "1315",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 9 6 + 4 8 9 = ",
+   "want": "1285",
+   "got": "1285",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 5 9 + 9 6 2 = ",
+   "want": "1421",
+   "got": "1421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 4 7 + 3 1 7 = ",
+   "want": "1064",
+   "got": "1064",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 9 9 + 9 6 0 = ",
+   "want": "1659",
+   "got": "1659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 2 2 + 3 8 8 = ",
+   "want": "1010",
+   "got": "10010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：1 4 6 + 2 6 5 = ",
+   "want": "411",
+   "got": "401",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：8 5 6 + 6 4 6 = ",
+   "want": "1502",
+   "got": "1502",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 7 6 + 1 7 1 = ",
+   "want": "847",
+   "got": "847",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 0 7 + 1 9 1 = ",
+   "want": "598",
+   "got": "598",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：5 0 4 + 8 1 5 = ",
+   "want": "1319",
+   "got": "1319",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 2 5 + 9 5 0 = ",
+   "want": "1175",
+   "got": "1175",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：2 4 3 + 8 4 2 = ",
+   "want": "1085",
+   "got": "685",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：6 6 9 + 3 8 6 = ",
+   "want": "1055",
+   "got": "1055",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：9 9 9 + 5 4 2 = ",
+   "want": "1541",
+   "got": "1541",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：3 1 5 + 7 2 5 = ",
+   "want": "1040",
+   "got": "1040",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 1 6 + 9 2 1 = ",
+   "want": "1537",
+   "got": "1537",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 2 5 + 7 9 8 = ",
+   "want": "1223",
+   "got": "1223",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 5 0 + 7 5 0 = ",
+   "want": "1200",
+   "got": "200",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：3 6 7 + 8 7 0 = ",
+   "want": "1237",
+   "got": "1227",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：8 2 4 + 5 6 3 = ",
+   "want": "1387",
+   "got": "787",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：3 7 9 + 3 5 1 = ",
+   "want": "730",
+   "got": "730",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 7 8 + 4 2 9 = ",
+   "want": "1207",
+   "got": "1207",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 4 9 + 3 1 5 = ",
+   "want": "764",
+   "got": "764",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：5 7 0 + 7 1 3 = ",
+   "want": "1283",
+   "got": "1283",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 3 6 + 1 1 6 = ",
+   "want": "552",
+   "got": "552",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：8 0 8 + 2 3 6 = ",
+   "want": "1044",
+   "got": "1044",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 6 1 + 1 0 2 = ",
+   "want": "863",
+   "got": "763",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 2 3 + 5 8 7 = ",
+   "want": "1310",
+   "got": "1300",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：1 0 4 + 1 0 9 = ",
+   "want": "213",
+   "got": "1203",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：7 8 8 + 2 7 7 = ",
+   "want": "1065",
+   "got": "1065",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：5 2 3 + 6 6 9 = ",
+   "want": "1192",
+   "got": "1192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：8 1 3 + 8 2 0 = ",
+   "want": "1633",
+   "got": "1033",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 0 0 + 8 8 0 = ",
+   "want": "1480",
+   "got": "1480",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：5 0 2 + 6 5 1 = ",
+   "want": "1153",
+   "got": "1153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：1 8 3 + 9 0 6 = ",
+   "want": "1089",
+   "got": "1089",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：9 9 7 + 7 6 4 = ",
+   "want": "1761",
+   "got": "1761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 6 6 + 1 7 9 = ",
+   "want": "945",
+   "got": "945",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：6 5 1 + 1 3 1 = ",
+   "want": "782",
+   "got": "782",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：9 5 2 + 9 3 5 = ",
+   "want": "1887",
+   "got": "1887",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 8 7 + 5 5 5 = ",
+   "want": "1342",
+   "got": "1442",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 8 8 + 2 2 6 = ",
+   "want": "1014",
+   "got": "1014",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 6 1 + 9 3 2 = ",
+   "want": "1393",
+   "got": "1393",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：4 8 5 + 9 4 7 = ",
+   "want": "1432",
+   "got": "1432",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：7 1 5 + 4 6 6 = ",
+   "want": "1181",
+   "got": "881",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求和：4 9 6 + 2 8 1 = ",
+   "want": "777",
+   "got": "777",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：9 5 9 + 8 8 6 = ",
+   "want": "1845",
+   "got": "1845",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求和：9 3 1 + 8 1 3 = ",
+   "want": "1744",
+   "got": "1044",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 1 3 8 + 3 0 4 4 = ",
+   "want": "4182",
+   "got": "4182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 5 8 0 + 7 0 6 9 = ",
+   "want": "15649",
+   "got": "12649",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 1 6 1 + 8 2 8 3 = ",
+   "want": "12444",
+   "got": "12444",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 1 5 3 + 4 6 2 9 = ",
+   "want": "5782",
+   "got": "5782",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 3 2 4 + 5 6 0 6 = ",
+   "want": "6930",
+   "got": "7930",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 8 6 2 + 4 1 3 7 = ",
+   "want": "10999",
+   "got": "8999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：2 4 7 4 + 5 9 6 7 = ",
+   "want": "8441",
+   "got": "8441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 6 2 3 + 4 8 3 8 = ",
+   "want": "9461",
+   "got": "9461",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 0 9 0 + 6 9 4 7 = ",
+   "want": "16037",
+   "got": "16037",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 6 0 2 + 5 5 9 9 = ",
+   "want": "7201",
+   "got": "7201",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 0 7 4 + 4 4 2 5 = ",
+   "want": "13499",
+   "got": "13499",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 1 1 6 + 4 2 1 2 = ",
+   "want": "5328",
+   "got": "6328",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：7 4 8 9 + 2 8 1 7 = ",
+   "want": "10306",
+   "got": "11306",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：5 5 4 4 + 9 1 9 7 = ",
+   "want": "14741",
+   "got": "14741",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 0 9 3 + 3 7 9 3 = ",
+   "want": "12886",
+   "got": "12886",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 1 7 4 + 3 8 7 5 = ",
+   "want": "8049",
+   "got": "8049",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 0 7 0 + 3 1 0 1 = ",
+   "want": "5171",
+   "got": "5171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 0 6 5 + 3 0 8 7 = ",
+   "want": "5152",
+   "got": "2152",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：5 2 5 3 + 4 7 3 4 = ",
+   "want": "9987",
+   "got": "7987",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 5 7 0 + 5 4 9 4 = ",
+   "want": "15064",
+   "got": "15064",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 1 4 3 + 1 3 7 8 = ",
+   "want": "5521",
+   "got": "5521",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 7 3 1 + 5 1 4 3 = ",
+   "want": "14874",
+   "got": "14874",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 4 3 7 + 1 0 3 2 = ",
+   "want": "9469",
+   "got": "8469",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：7 9 9 7 + 1 8 4 9 = ",
+   "want": "9846",
+   "got": "9846",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 2 9 2 + 8 0 8 6 = ",
+   "want": "14378",
+   "got": "1437",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：7 6 6 6 + 5 4 8 9 = ",
+   "want": "13155",
+   "got": "13155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 9 9 4 + 9 4 9 1 = ",
+   "want": "12485",
+   "got": "12485",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 6 4 4 + 9 1 1 9 = ",
+   "want": "17763",
+   "got": "17763",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 9 2 2 + 9 4 7 4 = ",
+   "want": "16396",
+   "got": "16396",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 7 1 2 + 4 6 7 8 = ",
+   "want": "6390",
+   "got": "9390",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 7 6 9 + 5 5 5 3 = ",
+   "want": "7322",
+   "got": "7322",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：7 8 8 2 + 9 7 2 3 = ",
+   "want": "17605",
+   "got": "17605",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 3 5 4 + 6 1 8 1 = ",
+   "want": "14535",
+   "got": "14535",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 0 8 4 + 7 4 2 0 = ",
+   "want": "8504",
+   "got": "8504",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 1 8 8 + 6 4 8 3 = ",
+   "want": "10671",
+   "got": "10671",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 3 4 0 + 1 4 1 5 = ",
+   "want": "3755",
+   "got": "3755",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 6 9 6 + 7 9 4 3 = ",
+   "want": "12639",
+   "got": "13639",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 2 1 9 + 5 0 9 5 = ",
+   "want": "7314",
+   "got": "7314",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 2 2 5 + 3 6 9 4 = ",
+   "want": "7919",
+   "got": "7919",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 3 9 4 + 6 0 9 2 = ",
+   "want": "12486",
+   "got": "12486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 0 2 9 + 2 5 8 4 = ",
+   "want": "4613",
+   "got": "7613",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 4 5 6 + 8 8 6 3 = ",
+   "want": "10319",
+   "got": "14319",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 0 7 7 + 1 3 9 3 = ",
+   "want": "9470",
+   "got": "8470",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 4 7 7 + 5 1 0 2 = ",
+   "want": "11579",
+   "got": "7579",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：5 0 4 9 + 2 7 6 6 = ",
+   "want": "7815",
+   "got": "7815",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 7 5 9 + 4 9 0 5 = ",
+   "want": "13664",
+   "got": "13664",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 5 8 3 + 1 8 9 1 = ",
+   "want": "8474",
+   "got": "8474",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 4 6 5 + 9 5 1 4 = ",
+   "want": "15979",
+   "got": "14979",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 8 7 8 + 2 1 9 4 = ",
+   "want": "7072",
+   "got": "7072",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 1 8 4 + 2 5 6 7 = ",
+   "want": "10751",
+   "got": "9751",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：8 3 1 4 + 3 0 4 5 = ",
+   "want": "11359",
+   "got": "11359",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 4 0 1 + 1 9 9 4 = ",
+   "want": "4395",
+   "got": "7395",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 5 4 6 + 7 1 8 3 = ",
+   "want": "8729",
+   "got": "8729",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 1 3 2 + 2 0 6 5 = ",
+   "want": "8197",
+   "got": "8197",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：3 0 8 9 + 2 0 1 5 = ",
+   "want": "5104",
+   "got": "6004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 2 4 0 + 1 8 9 7 = ",
+   "want": "10137",
+   "got": "10137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：5 9 3 9 + 8 0 7 5 = ",
+   "want": "14014",
+   "got": "14014",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 0 7 7 + 2 6 6 8 = ",
+   "want": "4745",
+   "got": "2745",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 9 1 4 + 1 8 5 5 = ",
+   "want": "3769",
+   "got": "3769",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：5 8 3 1 + 7 2 4 9 = ",
+   "want": "13080",
+   "got": "13080",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：7 5 8 1 + 2 5 7 0 = ",
+   "want": "10151",
+   "got": "10151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：7 7 3 5 + 4 8 1 9 = ",
+   "want": "12554",
+   "got": "2654",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：1 1 7 3 + 8 4 2 8 = ",
+   "want": "9601",
+   "got": "9601",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：7 2 9 0 + 8 6 0 5 = ",
+   "want": "15895",
+   "got": "10895",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 0 1 4 + 2 6 5 9 = ",
+   "want": "10673",
+   "got": "10673",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 5 6 4 + 1 4 2 5 = ",
+   "want": "7989",
+   "got": "7989",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 4 3 9 + 9 4 7 4 = ",
+   "want": "17913",
+   "got": "14913",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 3 7 7 + 4 1 5 3 = ",
+   "want": "10530",
+   "got": "10530",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 7 6 9 + 2 6 8 2 = ",
+   "want": "5451",
+   "got": "5451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 2 0 1 + 2 1 0 6 = ",
+   "want": "3307",
+   "got": "3307",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 1 7 2 + 3 0 6 4 = ",
+   "want": "7236",
+   "got": "7236",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 3 3 7 + 5 1 9 8 = ",
+   "want": "14535",
+   "got": "8535",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：6 8 2 2 + 7 8 9 7 = ",
+   "want": "14719",
+   "got": "14719",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 8 8 7 + 8 2 8 4 = ",
+   "want": "17171",
+   "got": "17171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 0 4 6 + 4 9 8 3 = ",
+   "want": "9029",
+   "got": "9029",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：3 2 5 5 + 1 7 2 2 = ",
+   "want": "4977",
+   "got": "4977",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 9 9 1 + 3 0 9 1 = ",
+   "want": "5082",
+   "got": "5082",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 1 0 6 + 8 1 4 0 = ",
+   "want": "14246",
+   "got": "14246",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 4 0 7 + 6 8 6 1 = ",
+   "want": "16268",
+   "got": "16268",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 0 9 8 + 9 8 6 6 = ",
+   "want": "15964",
+   "got": "15964",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：3 3 8 5 + 3 4 1 5 = ",
+   "want": "6800",
+   "got": "6700",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：8 6 9 2 + 6 0 5 7 = ",
+   "want": "14749",
+   "got": "14749",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 6 1 8 + 5 7 6 8 = ",
+   "want": "12386",
+   "got": "12386",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：7 0 4 2 + 1 1 3 2 = ",
+   "want": "8174",
+   "got": "8174",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 4 8 1 + 3 3 6 9 = ",
+   "want": "12850",
+   "got": "8850",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：1 9 3 9 + 4 8 8 9 = ",
+   "want": "6828",
+   "got": "6828",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：9 3 0 8 + 1 8 9 4 = ",
+   "want": "11202",
+   "got": "11202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：7 9 1 5 + 6 6 3 3 = ",
+   "want": "14548",
+   "got": "16548",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 2 0 1 + 4 2 8 2 = ",
+   "want": "8483",
+   "got": "6483",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 2 9 7 + 2 1 2 0 = ",
+   "want": "6417",
+   "got": "6417",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 5 9 5 + 4 1 0 2 = ",
+   "want": "10697",
+   "got": "7697",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：8 7 9 4 + 8 6 5 7 = ",
+   "want": "17451",
+   "got": "16451",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 4 2 5 + 6 4 9 9 = ",
+   "want": "12924",
+   "got": "11924",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：5 9 0 9 + 7 8 5 9 = ",
+   "want": "13768",
+   "got": "13768",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：6 3 8 4 + 3 6 5 8 = ",
+   "want": "10042",
+   "got": "10042",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：2 7 1 7 + 8 4 4 3 = ",
+   "want": "11160",
+   "got": "11260",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：1 6 9 1 + 9 1 2 5 = ",
+   "want": "10816",
+   "got": "10816",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 5 9 4 + 1 0 6 0 = ",
+   "want": "5654",
+   "got": "5654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求和：4 6 5 4 + 4 7 7 2 = ",
+   "want": "9426",
+   "got": "13426",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求和：8 6 4 3 + 4 4 9 2 = ",
+   "want": "13135",
+   "got": "13135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 1 3 2 8 + 7 3 0 1 2 = ",
+   "want": "114340",
+   "got": "114340",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 3 4 5 2 + 5 9 2 7 1 = ",
+   "want": "112723",
+   "got": "112723",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 6 9 1 1 + 6 2 4 6 9 = ",
+   "want": "99380",
+   "got": "100380",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求和：3 4 1 4 9 + 1 0 8 8 1 = ",
+   "want": "45030",
+   "got": "45030",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 7 5 5 5 + 1 1 2 9 6 = ",
+   "want": "68851",
+   "got": "68851",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 9 6 6 4 + 5 6 9 0 8 = ",
+   "want": "76572",
+   "got": "76572",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 3 9 3 4 + 8 2 7 0 4 = ",
+   "want": "96638",
+   "got": "116638",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求和：2 5 0 9 8 + 2 8 6 6 4 = ",
+   "want": "53762",
+   "got": "83762",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 8 0 8 6 + 6 7 7 2 5 = ",
+   "want": "115811",
+   "got": "115801",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 5 4 8 0 + 9 2 7 5 0 = ",
+   "want": "128230",
+   "got": "128230",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 6 7 6 7 + 5 7 1 7 4 = ",
+   "want": "143941",
+   "got": "133941",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 5 7 5 4 + 1 3 8 9 0 = ",
+   "want": "29644",
+   "got": "70644",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 6 0 9 9 + 3 5 9 2 9 = ",
+   "want": "72028",
+   "got": "92028",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 7 2 3 7 + 3 2 8 2 5 = ",
+   "want": "80062",
+   "got": "80062",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 8 6 9 7 + 4 4 3 4 0 = ",
+   "want": "83037",
+   "got": "83037",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 2 8 4 3 + 5 4 5 4 0 = ",
+   "want": "87383",
+   "got": "87383",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 2 6 8 0 + 4 2 2 3 9 = ",
+   "want": "124919",
+   "got": "124919",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 3 4 0 1 + 3 5 6 8 8 = ",
+   "want": "69089",
+   "got": "89089",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 2 8 1 7 + 3 3 0 7 8 = ",
+   "want": "45895",
+   "got": "55895",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 4 3 1 3 + 2 3 2 6 3 = ",
+   "want": "67576",
+   "got": "67576",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 2 7 5 1 + 9 8 7 9 5 = ",
+   "want": "111546",
+   "got": "111546",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 7 9 8 8 + 5 9 6 6 6 = ",
+   "want": "87654",
+   "got": "87654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：9 5 8 3 5 + 2 4 5 4 4 = ",
+   "want": "120379",
+   "got": "120379",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 4 3 5 2 + 3 7 5 5 6 = ",
+   "want": "91908",
+   "got": "91908",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 9 9 8 6 + 6 9 7 9 5 = ",
+   "want": "119781",
+   "got": "119781",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 1 4 7 6 + 5 8 4 4 9 = ",
+   "want": "99925",
+   "got": "99925",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 8 8 0 4 + 9 6 6 2 6 = ",
+   "want": "155430",
+   "got": "155430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 2 4 6 0 + 7 9 0 6 5 = ",
+   "want": "111525",
+   "got": "111525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：9 1 6 8 4 + 6 6 8 4 8 = ",
+   "want": "158532",
+   "got": "158532",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 8 5 6 9 + 2 5 5 3 1 = ",
+   "want": "44100",
+   "got": "44100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 8 9 3 1 + 2 7 1 4 3 = ",
+   "want": "56074",
+   "got": "56074",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 4 8 5 6 + 3 5 1 2 4 = ",
+   "want": "69980",
+   "got": "89980",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 9 8 0 3 + 5 9 5 7 0 = ",
+   "want": "139373",
+   "got": "139373",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 9 0 5 4 + 5 1 6 7 4 = ",
+   "want": "110728",
+   "got": "110728",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 8 5 8 4 + 6 6 3 0 0 = ",
+   "want": "154884",
+   "got": "154884",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：9 3 3 8 0 + 4 2 0 5 3 = ",
+   "want": "135433",
+   "got": "165433",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 6 0 5 4 + 9 0 7 4 4 = ",
+   "want": "106798",
+   "got": "106798",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 6 9 8 1 + 3 4 7 8 5 = ",
+   "want": "121766",
+   "got": "121766",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 0 1 8 4 + 4 8 5 5 9 = ",
+   "want": "128743",
+   "got": "128743",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 9 4 7 2 + 5 2 9 4 9 = ",
+   "want": "82421",
+   "got": "82421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 2 3 9 7 + 1 6 9 8 0 = ",
+   "want": "59377",
+   "got": "69377",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：9 2 5 0 4 + 4 6 7 0 9 = ",
+   "want": "139213",
+   "got": "139213",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 6 5 7 5 + 7 6 6 1 9 = ",
+   "want": "103194",
+   "got": "103194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 6 5 5 6 + 7 4 0 9 2 = ",
+   "want": "160648",
+   "got": "150648",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 7 4 2 5 + 2 0 6 7 0 = ",
+   "want": "58095",
+   "got": "58095",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 1 6 9 1 + 9 6 9 6 6 = ",
+   "want": "168657",
+   "got": "168657",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：9 0 5 9 4 + 1 8 5 0 3 = ",
+   "want": "109097",
+   "got": "109097",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 1 9 4 5 + 7 6 6 6 5 = ",
+   "want": "108610",
+   "got": "108609",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 0 8 7 1 + 9 4 5 5 0 = ",
+   "want": "155421",
+   "got": "155421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 6 7 3 6 + 5 9 0 5 5 = ",
+   "want": "135791",
+   "got": "135791",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 5 3 5 0 + 7 8 0 1 2 = ",
+   "want": "153362",
+   "got": "153362",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 0 8 5 2 + 3 3 4 6 1 = ",
+   "want": "104313",
+   "got": "104313",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 2 1 8 2 + 5 9 0 0 5 = ",
+   "want": "111187",
+   "got": "111187",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 8 8 7 5 + 7 3 3 4 6 = ",
+   "want": "152221",
+   "got": "112221",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 4 8 5 3 + 7 2 0 9 6 = ",
+   "want": "146949",
+   "got": "106949",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 5 1 7 1 + 8 6 1 7 7 = ",
+   "want": "131348",
+   "got": "131348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 2 5 5 2 + 9 3 6 3 7 = ",
+   "want": "156189",
+   "got": "156189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 6 5 4 3 + 9 5 1 6 2 = ",
+   "want": "181705",
+   "got": "181705",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 4 7 9 7 + 3 7 1 5 8 = ",
+   "want": "51955",
+   "got": "61955",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 8 7 7 3 + 3 6 6 0 7 = ",
+   "want": "75380",
+   "got": "75380",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 9 2 5 5 + 4 0 7 2 1 = ",
+   "want": "109976",
+   "got": "109976",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 1 8 9 1 + 3 8 6 5 1 = ",
+   "want": "100542",
+   "got": "100542",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 0 1 0 7 + 6 5 7 0 8 = ",
+   "want": "115815",
+   "got": "115815",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 9 4 2 5 + 8 4 8 9 0 = ",
+   "want": "144315",
+   "got": "144315",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 0 6 0 5 + 5 9 0 3 4 = ",
+   "want": "89639",
+   "got": "89639",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 3 3 6 1 + 8 2 1 6 1 = ",
+   "want": "125522",
+   "got": "125512",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 1 1 0 9 + 2 7 6 0 6 = ",
+   "want": "48715",
+   "got": "38715",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 1 0 1 3 + 4 8 6 7 2 = ",
+   "want": "69685",
+   "got": "69685",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 8 2 6 2 + 7 8 0 0 2 = ",
+   "want": "146264",
+   "got": "146264",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 6 0 8 1 + 4 0 1 6 9 = ",
+   "want": "96250",
+   "got": "96250",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 6 5 4 1 + 1 5 3 9 2 = ",
+   "want": "101933",
+   "got": "101933",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 0 9 8 1 + 7 7 1 4 3 = ",
+   "want": "148124",
+   "got": "78124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求和：9 1 4 1 2 + 5 4 0 8 9 = ",
+   "want": "145501",
+   "got": "145501",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 5 8 5 0 + 6 9 1 3 3 = ",
+   "want": "134983",
+   "got": "134983",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 1 2 8 2 + 6 6 6 8 9 = ",
+   "want": "137971",
+   "got": "137971",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 3 6 0 2 + 5 8 1 7 0 = ",
+   "want": "121772",
+   "got": "120772",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 5 2 1 3 + 5 1 5 5 2 = ",
+   "want": "126765",
+   "got": "27765",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求和：4 5 7 8 5 + 6 0 1 1 8 = ",
+   "want": "105903",
+   "got": "95903",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求和：1 3 2 3 9 + 3 3 5 3 6 = ",
+   "want": "46775",
+   "got": "48775",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 7 8 9 2 + 4 0 6 4 3 = ",
+   "want": "108535",
+   "got": "108535",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 4 8 1 5 + 9 4 5 8 7 = ",
+   "want": "139402",
+   "got": "139402",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：1 9 9 4 6 + 5 7 0 6 7 = ",
+   "want": "77013",
+   "got": "77013",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 0 8 0 2 + 4 8 6 0 3 = ",
+   "want": "69405",
+   "got": "69405",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：7 5 7 6 7 + 7 7 2 1 2 = ",
+   "want": "152979",
+   "got": "132979",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 1 6 5 0 + 9 4 3 6 5 = ",
+   "want": "176015",
+   "got": "176005",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 0 2 4 4 + 4 6 2 3 1 = ",
+   "want": "66475",
+   "got": "66475",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 9 8 5 0 + 2 2 8 9 8 = ",
+   "want": "62748",
+   "got": "62748",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 5 5 4 3 + 1 9 3 5 1 = ",
+   "want": "44894",
+   "got": "44894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 7 2 1 6 + 1 5 0 1 7 = ",
+   "want": "72233",
+   "got": "72223",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：8 1 5 6 8 + 3 6 2 5 4 = ",
+   "want": "117822",
+   "got": "107822",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 3 7 4 6 + 3 5 7 7 4 = ",
+   "want": "89520",
+   "got": "99520",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：9 8 4 8 7 + 5 3 1 5 4 = ",
+   "want": "151641",
+   "got": "150641",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 2 7 7 1 + 4 9 6 7 7 = ",
+   "want": "92448",
+   "got": "92448",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：9 9 5 9 2 + 4 5 9 7 4 = ",
+   "want": "145566",
+   "got": "145566",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：3 4 9 8 7 + 8 9 1 7 1 = ",
+   "want": "124158",
+   "got": "124158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：2 8 0 7 0 + 8 1 1 8 8 = ",
+   "want": "109258",
+   "got": "99258",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求和：4 4 2 2 7 + 1 1 1 1 8 = ",
+   "want": "55345",
+   "got": "55345",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：4 9 2 5 2 + 4 6 9 4 2 = ",
+   "want": "96194",
+   "got": "96194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：5 5 4 3 3 + 6 2 9 2 8 = ",
+   "want": "118361",
+   "got": "118361",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求和：6 3 1 8 3 + 8 6 0 1 5 = ",
+   "want": "149198",
+   "got": "149198",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

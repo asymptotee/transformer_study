@@ -1,0 +1,3231 @@
+{
+ "label": "n6x3_T03求和",
+ "by_rung": {
+  "2": [
+   14,
+   26,
+   0,
+   100
+  ],
+  "3": [
+   53,
+   79,
+   0,
+   100
+  ],
+  "4": [
+   62,
+   90,
+   0,
+   100
+  ],
+  "5": [
+   59,
+   95,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "求 1 0 与 7 3 的和，结果是 ",
+   "want": "83",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 5 与 3 2 的和，结果是 ",
+   "want": "97",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 6 与 5 8 的和，结果是 ",
+   "want": "84",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 8 与 3 9 的和，结果是 ",
+   "want": "117",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 4 与 8 1 的和，结果是 ",
+   "want": "155",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 5 与 5 5 的和，结果是 ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 1 9 与 6 0 的和，结果是 ",
+   "want": "79",
+   "got": "69",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 1 5 与 6 5 的和，结果是 ",
+   "want": "80",
+   "got": "110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 2 与 6 8 的和，结果是 ",
+   "want": "80",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 9 与 5 0 的和，结果是 ",
+   "want": "69",
+   "got": "69",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 8 3 与 6 4 的和，结果是 ",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 8 3 与 6 1 的和，结果是 ",
+   "want": "144",
+   "got": "144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 9 1 与 6 3 的和，结果是 ",
+   "want": "154",
+   "got": "144",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 4 7 与 2 4 的和，结果是 ",
+   "want": "71",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 1 与 1 2 的和，结果是 ",
+   "want": "73",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 1 与 3 1 的和，结果是 ",
+   "want": "82",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 9 与 6 8 的和，结果是 ",
+   "want": "157",
+   "got": "117",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 9 8 与 5 6 的和，结果是 ",
+   "want": "154",
+   "got": "114",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 2 1 与 6 5 的和，结果是 ",
+   "want": "86",
+   "got": "76",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 2 3 与 4 1 的和，结果是 ",
+   "want": "64",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 5 与 8 5 的和，结果是 ",
+   "want": "150",
+   "got": "140",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 6 1 与 7 7 的和，结果是 ",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 2 0 与 6 0 的和，结果是 ",
+   "want": "80",
+   "got": "69",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 4 9 与 5 3 的和，结果是 ",
+   "want": "102",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 8 与 5 2 的和，结果是 ",
+   "want": "90",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 1 与 1 9 的和，结果是 ",
+   "want": "50",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 5 与 9 1 的和，结果是 ",
+   "want": "166",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 4 与 7 7 的和，结果是 ",
+   "want": "101",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 5 与 3 4 的和，结果是 ",
+   "want": "109",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 4 与 5 4 的和，结果是 ",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 9 2 与 2 8 的和，结果是 ",
+   "want": "120",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 0 与 2 3 的和，结果是 ",
+   "want": "63",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 8 与 4 2 的和，结果是 ",
+   "want": "70",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 5 与 3 2 的和，结果是 ",
+   "want": "67",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 7 与 2 9 的和，结果是 ",
+   "want": "116",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 3 与 1 9 的和，结果是 ",
+   "want": "112",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 2 与 9 0 的和，结果是 ",
+   "want": "122",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 3 与 6 9 的和，结果是 ",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 8 2 与 8 4 的和，结果是 ",
+   "want": "166",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 9 7 的和，结果是 ",
+   "want": "164",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 2 与 9 2 的和，结果是 ",
+   "want": "174",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 1 与 8 9 的和，结果是 ",
+   "want": "180",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 1 与 9 0 的和，结果是 ",
+   "want": "141",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 0 与 2 9 的和，结果是 ",
+   "want": "79",
+   "got": "79",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 6 6 与 1 8 的和，结果是 ",
+   "want": "84",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 0 与 6 6 的和，结果是 ",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 9 0 与 4 8 的和，结果是 ",
+   "want": "138",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 5 与 8 5 的和，结果是 ",
+   "want": "130",
+   "got": "与87的和，结果是132",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 7 与 5 5 的和，结果是 ",
+   "want": "72",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 4 与 1 9 的和，结果是 ",
+   "want": "93",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 9 与 6 9 的和，结果是 ",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 1 4 的和，结果是 ",
+   "want": "81",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 7 与 5 7 的和，结果是 ",
+   "want": "74",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 6 与 1 9 的和，结果是 ",
+   "want": "65",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 2 与 2 1 的和，结果是 ",
+   "want": "113",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 8 与 8 6 的和，结果是 ",
+   "want": "174",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 4 与 5 9 的和，结果是 ",
+   "want": "133",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 9 与 8 4 的和，结果是 ",
+   "want": "153",
+   "got": "143",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 8 0 与 1 5 的和，结果是 ",
+   "want": "95",
+   "got": "：95",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 8 3 的和，结果是 ",
+   "want": "150",
+   "got": "140",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 9 3 与 3 4 的和，结果是 ",
+   "want": "127",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 1 与 8 7 的和，结果是 ",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 7 0 与 7 4 的和，结果是 ",
+   "want": "144",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 9 与 1 7 的和，结果是 ",
+   "want": "46",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 7 与 2 3 的和，结果是 ",
+   "want": "90",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 3 与 2 0 的和，结果是 ",
+   "want": "73",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 4 与 9 2 的和，结果是 ",
+   "want": "166",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 2 与 1 5 的和，结果是 ",
+   "want": "47",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 1 与 6 6 的和，结果是 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 6 6 与 7 7 的和，结果是 ",
+   "want": "143",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 7 6 与 8 8 的和，结果是 ",
+   "want": "164",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 3 0 与 5 6 的和，结果是 ",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 5 7 与 4 6 的和，结果是 ",
+   "want": "103",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 9 与 6 2 的和，结果是 ",
+   "want": "121",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 3 与 9 6 的和，结果是 ",
+   "want": "149",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 6 与 1 6 的和，结果是 ",
+   "want": "102",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 0 与 9 2 的和，结果是 ",
+   "want": "182",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 2 与 1 8 的和，结果是 ",
+   "want": "70",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 2 与 2 2 的和，结果是 ",
+   "want": "74",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 1 与 9 6 的和，结果是 ",
+   "want": "177",
+   "got": "147",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 5 9 与 4 6 的和，结果是 ",
+   "want": "105",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 2 与 9 4 的和，结果是 ",
+   "want": "136",
+   "got": "结果是136",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 7 与 2 9 的和，结果是 ",
+   "want": "116",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 2 与 2 0 的和，结果是 ",
+   "want": "72",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 8 4 与 9 4 的和，结果是 ",
+   "want": "178",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 8 与 5 4 的和，结果是 ",
+   "want": "82",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 9 与 9 3 的和，结果是 ",
+   "want": "142",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 9 与 9 4 的和，结果是 ",
+   "want": "193",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 6 0 与 2 6 的和，结果是 ",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 8 6 与 2 0 的和，结果是 ",
+   "want": "106",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 4 9 与 8 1 的和，结果是 ",
+   "want": "130",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 8 与 9 2 的和，结果是 ",
+   "want": "150",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 5 2 与 2 6 的和，结果是 ",
+   "want": "78",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 5 与 9 9 的和，结果是 ",
+   "want": "194",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 7 与 7 7 的和，结果是 ",
+   "want": "174",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 2 1 与 9 2 的和，结果是 ",
+   "want": "113",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 9 5 与 6 4 的和，结果是 ",
+   "want": "159",
+   "got": "149",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 7 5 与 5 6 的和，结果是 ",
+   "want": "131",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "求 1 2 与 5 6 的和，结果是 ",
+   "want": "68",
+   "got": "78",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "求 4 9 与 3 3 的和，结果是 ",
+   "want": "82",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 1 9 与 4 4 9 的和，结果是 ",
+   "want": "768",
+   "got": "668",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 8 8 4 与 5 9 7 的和，结果是 ",
+   "want": "1481",
+   "got": "1481",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 9 6 与 3 3 1 的和，结果是 ",
+   "want": "627",
+   "got": "527",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 4 0 与 2 5 8 的和，结果是 ",
+   "want": "498",
+   "got": "798",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 1 7 9 与 4 0 2 的和，结果是 ",
+   "want": "581",
+   "got": "581",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 6 4 与 9 0 7 的和，结果是 ",
+   "want": "1871",
+   "got": "1571",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 0 3 与 6 1 9 的和，结果是 ",
+   "want": "822",
+   "got": "822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 8 8 9 与 6 5 2 的和，结果是 ",
+   "want": "1541",
+   "got": "1541",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 5 与 8 5 6 的和，结果是 ",
+   "want": "1811",
+   "got": "1711",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 6 3 9 与 1 3 8 的和，结果是 ",
+   "want": "777",
+   "got": "877",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 7 7 与 4 4 4 的和，结果是 ",
+   "want": "1221",
+   "got": "221",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 9 7 与 8 8 4 的和，结果是 ",
+   "want": "1881",
+   "got": "1881",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 3 2 与 2 3 4 的和，结果是 ",
+   "want": "966",
+   "got": "966",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 1 1 与 4 8 5 的和，结果是 ",
+   "want": "1196",
+   "got": "1296",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 5 7 与 2 6 6 的和，结果是 ",
+   "want": "523",
+   "got": "823",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 8 5 与 9 5 1 的和，结果是 ",
+   "want": "1236",
+   "got": "1136",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 8 0 9 与 8 8 9 的和，结果是 ",
+   "want": "1698",
+   "got": "1698",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 3 9 与 9 2 8 的和，结果是 ",
+   "want": "1667",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 6 9 与 8 3 8 的和，结果是 ",
+   "want": "1107",
+   "got": "1107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 4 8 与 1 4 4 的和，结果是 ",
+   "want": "692",
+   "got": "692",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 2 0 与 4 7 3 的和，结果是 ",
+   "want": "993",
+   "got": "993",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 9 2 与 8 3 6 的和，结果是 ",
+   "want": "1628",
+   "got": "1628",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 3 与 5 5 4 的和，结果是 ",
+   "want": "897",
+   "got": "897",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 2 5 与 3 9 1 的和，结果是 ",
+   "want": "1116",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 7 0 与 8 6 6 的和，结果是 ",
+   "want": "1736",
+   "got": "1636",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 0 2 与 5 5 9 的和，结果是 ",
+   "want": "1461",
+   "got": "1461",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 3 9 与 6 4 6 的和，结果是 ",
+   "want": "985",
+   "got": "985",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 4 与 4 1 6 的和，结果是 ",
+   "want": "760",
+   "got": "760",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 2 8 与 9 0 3 的和，结果是 ",
+   "want": "1831",
+   "got": "1131",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 8 0 与 9 5 5 的和，结果是 ",
+   "want": "1535",
+   "got": "1135",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 9 8 与 4 7 6 的和，结果是 ",
+   "want": "774",
+   "got": "774",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 9 4 与 6 8 4 的和，结果是 ",
+   "want": "1478",
+   "got": "1478",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 5 1 与 5 7 2 的和，结果是 ",
+   "want": "1123",
+   "got": "1023",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 8 8 7 与 3 8 8 的和，结果是 ",
+   "want": "1275",
+   "got": "1275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 8 9 6 与 4 9 1 的和，结果是 ",
+   "want": "1387",
+   "got": "387",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 1 4 与 6 4 0 的和，结果是 ",
+   "want": "1254",
+   "got": "1154",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 2 8 与 2 6 5 的和，结果是 ",
+   "want": "793",
+   "got": "793",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 3 6 与 3 0 4 的和，结果是 ",
+   "want": "1240",
+   "got": "1240",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 2 0 与 7 1 9 的和，结果是 ",
+   "want": "1639",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 4 1 与 9 9 3 的和，结果是 ",
+   "want": "1234",
+   "got": "1134",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 5 6 与 1 5 3 的和，结果是 ",
+   "want": "509",
+   "got": "809",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 5 6 与 5 9 2 的和，结果是 ",
+   "want": "1348",
+   "got": "1348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 9 5 与 4 8 0 的和，结果是 ",
+   "want": "1475",
+   "got": "1475",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 6 6 7 与 2 0 5 的和，结果是 ",
+   "want": "872",
+   "got": "872",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 8 2 8 与 9 6 6 的和，结果是 ",
+   "want": "1794",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 2 8 与 9 7 1 的和，结果是 ",
+   "want": "1599",
+   "got": "？1599",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 2 7 与 3 9 1 的和，结果是 ",
+   "want": "618",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 1 8 5 与 8 8 1 的和，结果是 ",
+   "want": "1066",
+   "got": "966",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 6 4 与 3 7 9 的和，结果是 ",
+   "want": "643",
+   "got": "543",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 6 0 与 6 2 5 的和，结果是 ",
+   "want": "1185",
+   "got": "1185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 5 0 与 9 5 0 的和，结果是 ",
+   "want": "1200",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 4 7 与 1 9 3 的和，结果是 ",
+   "want": "740",
+   "got": "740",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 2 7 与 9 3 6 的和，结果是 ",
+   "want": "1263",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 6 1 与 4 5 7 的和，结果是 ",
+   "want": "1018",
+   "got": "1008",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 1 2 7 与 5 2 4 的和，结果是 ",
+   "want": "651",
+   "got": "751",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 1 5 4 与 5 0 5 的和，结果是 ",
+   "want": "659",
+   "got": "659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 6 1 4 与 4 8 2 的和，结果是 ",
+   "want": "1096",
+   "got": "1096",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 1 与 4 9 5 的和，结果是 ",
+   "want": "836",
+   "got": "836",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 1 8 3 与 4 8 3 的和，结果是 ",
+   "want": "666",
+   "got": "666",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 2 9 与 1 2 8 的和，结果是 ",
+   "want": "457",
+   "got": "457",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 4 2 6 与 2 0 1 的和，结果是 ",
+   "want": "627",
+   "got": "627",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 9 与 8 3 1 的和，结果是 ",
+   "want": "1790",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 7 6 5 与 4 4 3 的和，结果是 ",
+   "want": "1208",
+   "got": "1208",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 1 0 与 2 4 9 的和，结果是 ",
+   "want": "1159",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 2 4 0 与 1 3 9 的和，结果是 ",
+   "want": "379",
+   "got": "779",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 9 3 与 9 4 9 的和，结果是 ",
+   "want": "1342",
+   "got": "1342",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 8 3 与 8 1 2 的和，结果是 ",
+   "want": "1395",
+   "got": "1395",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 1 与 2 4 2 的和，结果是 ",
+   "want": "1193",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 8 7 7 与 8 2 2 的和，结果是 ",
+   "want": "1699",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 8 0 与 5 5 9 的和，结果是 ",
+   "want": "1139",
+   "got": "1139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 3 0 与 1 0 5 的和，结果是 ",
+   "want": "835",
+   "got": "835",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 1 8 1 与 1 1 9 的和，结果是 ",
+   "want": "300",
+   "got": "29",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 6 2 与 3 2 0 的和，结果是 ",
+   "want": "682",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 5 与 2 5 3 的和，结果是 ",
+   "want": "1208",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 6 1 与 8 4 4 的和，结果是 ",
+   "want": "1505",
+   "got": "1405",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 2 3 与 6 4 0 的和，结果是 ",
+   "want": "1363",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 5 3 3 与 2 1 3 的和，结果是 ",
+   "want": "746",
+   "got": "746",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 8 9 4 与 3 9 5 的和，结果是 ",
+   "want": "1289",
+   "got": "1289",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 3 与 4 0 8 的和，结果是 ",
+   "want": "751",
+   "got": "751",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 2 4 与 1 4 8 的和，结果是 ",
+   "want": "372",
+   "got": "372",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 4 与 5 2 9 的和，结果是 ",
+   "want": "873",
+   "got": "873",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 5 4 与 9 1 2 的和，结果是 ",
+   "want": "1666",
+   "got": "1666",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 3 7 与 5 6 8 的和，结果是 ",
+   "want": "1305",
+   "got": "1305",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 1 6 4 与 2 1 3 的和，结果是 ",
+   "want": "377",
+   "got": "377",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 9 5 6 与 6 1 1 的和，结果是 ",
+   "want": "1567",
+   "got": "1467",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 1 1 与 6 4 8 的和，结果是 ",
+   "want": "1359",
+   "got": "1359",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 1 1 6 与 7 4 7 的和，结果是 ",
+   "want": "863",
+   "got": "863",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 6 2 7 与 6 8 8 的和，结果是 ",
+   "want": "1315",
+   "got": "1415",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 7 与 8 3 5 的和，结果是 ",
+   "want": "1182",
+   "got": "1182",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 2 4 7 与 3 9 8 的和，结果是 ",
+   "want": "645",
+   "got": "645",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 3 9 与 1 0 1 的和，结果是 ",
+   "want": "640",
+   "got": "640",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 2 9 与 4 6 1 的和，结果是 ",
+   "want": "1190",
+   "got": "",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 3 4 6 与 6 8 4 的和，结果是 ",
+   "want": "1030",
+   "got": "1030",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 5 2 6 与 2 9 1 的和，结果是 ",
+   "want": "817",
+   "got": "817",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 7 8 0 与 7 8 4 的和，结果是 ",
+   "want": "1564",
+   "got": "1564",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 1 8 7 与 6 3 6 的和，结果是 ",
+   "want": "823",
+   "got": "823",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 4 6 9 与 1 6 9 的和，结果是 ",
+   "want": "638",
+   "got": "1138",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "求 6 3 8 与 6 5 7 的和，结果是 ",
+   "want": "1295",
+   "got": "1195",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 6 1 9 与 9 0 5 的和，结果是 ",
+   "want": "1524",
+   "got": "1424",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "求 6 1 9 与 6 6 7 的和，结果是 ",
+   "want": "1286",
+   "got": "1886",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 1 3 3 3 与 7 3 9 7 的和，结果是 ",
+   "want": "8730",
+   "got": "8730",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 7 0 2 与 1 7 1 3 的和，结果是 ",
+   "want": "10415",
+   "got": "9415",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 7 3 3 8 与 7 1 1 6 的和，结果是 ",
+   "want": "14454",
+   "got": "14454",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 1 5 5 与 1 2 6 6 的和，结果是 ",
+   "want": "6421",
+   "got": "6421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 8 5 0 与 2 1 0 6 的和，结果是 ",
+   "want": "8956",
+   "got": "7956",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 6 4 9 与 4 9 5 0 的和，结果是 ",
+   "want": "11599",
+   "got": "11599",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 6 9 8 与 6 4 4 7 的和，结果是 ",
+   "want": "9145",
+   "got": "9145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 1 8 5 与 1 7 2 6 的和，结果是 ",
+   "want": "4911",
+   "got": "4911",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 7 7 2 与 9 9 4 5 的和，结果是 ",
+   "want": "16717",
+   "got": "16717",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 5 4 6 与 3 8 6 8 的和，结果是 ",
+   "want": "10414",
+   "got": "10414",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 6 1 2 与 8 8 4 0 的和，结果是 ",
+   "want": "17452",
+   "got": "16452",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 9 8 6 与 3 2 0 9 的和，结果是 ",
+   "want": "7195",
+   "got": "6195",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 0 3 3 与 8 4 9 8 的和，结果是 ",
+   "want": "10531",
+   "got": "10531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 1 6 0 5 与 5 8 0 7 的和，结果是 ",
+   "want": "7412",
+   "got": "7412",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 4 3 0 2 与 1 7 1 7 的和，结果是 ",
+   "want": "6019",
+   "got": "5109",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 4 2 6 8 与 1 6 8 6 的和，结果是 ",
+   "want": "5954",
+   "got": "6954",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 1 7 0 与 6 0 8 0 的和，结果是 ",
+   "want": "12250",
+   "got": "12250",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 4 4 4 与 7 5 2 4 的和，结果是 ",
+   "want": "16968",
+   "got": "12968",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 8 9 7 与 8 7 5 6 的和，结果是 ",
+   "want": "18653",
+   "got": "17653",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 1 5 0 与 1 5 9 9 的和，结果是 ",
+   "want": "6749",
+   "got": "6759",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 4 1 3 1 与 5 6 8 7 的和，结果是 ",
+   "want": "9818",
+   "got": "9818",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 8 4 8 与 1 7 8 3 的和，结果是 ",
+   "want": "8631",
+   "got": "8631",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 4 3 8 与 5 4 7 6 的和，结果是 ",
+   "want": "11914",
+   "got": "11914",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 0 3 9 与 7 0 2 9 的和，结果是 ",
+   "want": "10068",
+   "got": "10068",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 1 5 9 与 7 5 5 3 的和，结果是 ",
+   "want": "15712",
+   "got": "12702",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 2 0 4 与 7 3 3 4 的和，结果是 ",
+   "want": "15538",
+   "got": "15538",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 5 5 4 与 4 0 6 0 的和，结果是 ",
+   "want": "10614",
+   "got": "10614",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 1 2 9 与 9 1 5 1 的和，结果是 ",
+   "want": "18280",
+   "got": "14280",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 7 0 1 8 与 9 5 0 7 的和，结果是 ",
+   "want": "16525",
+   "got": "16525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 3 6 9 与 2 3 5 3 的和，结果是 ",
+   "want": "7722",
+   "got": "7722",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 7 9 5 5 与 2 2 9 3 的和，结果是 ",
+   "want": "10248",
+   "got": "10248",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 0 5 5 与 3 9 5 6 的和，结果是 ",
+   "want": "12011",
+   "got": "12011",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 9 3 7 与 5 8 1 3 的和，结果是 ",
+   "want": "15750",
+   "got": "157510",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 2 6 2 与 2 6 8 0 的和，结果是 ",
+   "want": "8942",
+   "got": "8942",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 3 1 1 与 6 3 7 2 的和，结果是 ",
+   "want": "8683",
+   "got": "8683",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 8 4 3 与 6 0 2 1 的和，结果是 ",
+   "want": "11864",
+   "got": "11864",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 3 0 5 与 7 9 8 1 的和，结果是 ",
+   "want": "16286",
+   "got": "15286",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 7 3 0 与 8 2 7 2 的和，结果是 ",
+   "want": "12002",
+   "got": "9002",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 7 5 9 与 8 3 2 5 的和，结果是 ",
+   "want": "15084",
+   "got": "15084",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 1 6 9 3 与 6 7 7 6 的和，结果是 ",
+   "want": "8469",
+   "got": "8469",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 1 2 6 与 5 4 9 8 的和，结果是 ",
+   "want": "13624",
+   "got": "13624",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 1 9 3 9 与 2 2 2 9 的和，结果是 ",
+   "want": "4168",
+   "got": "4168",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 7 6 5 5 与 6 9 5 2 的和，结果是 ",
+   "want": "14607",
+   "got": "14607",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 4 0 6 与 3 6 2 1 的和，结果是 ",
+   "want": "13027",
+   "got": "13027",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 1 5 1 0 与 3 3 3 9 的和，结果是 ",
+   "want": "4849",
+   "got": "8849",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 1 7 9 与 1 5 7 0 的和，结果是 ",
+   "want": "9749",
+   "got": "9749",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 0 6 8 与 2 1 0 1 的和，结果是 ",
+   "want": "5169",
+   "got": "4169",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 4 8 6 6 与 7 0 0 1 的和，结果是 ",
+   "want": "11867",
+   "got": "11867",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 9 3 3 与 7 2 7 2 的和，结果是 ",
+   "want": "14205",
+   "got": "14205",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 1 5 3 0 与 3 5 1 3 的和，结果是 ",
+   "want": "5043",
+   "got": "4043",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 3 7 1 与 7 0 7 7 的和，结果是 ",
+   "want": "15448",
+   "got": "15448",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 7 0 9 5 与 8 2 7 3 的和，结果是 ",
+   "want": "15368",
+   "got": "9368",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 2 5 9 与 3 2 5 5 的和，结果是 ",
+   "want": "5514",
+   "got": "5514",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 6 7 4 与 7 0 1 2 的和，结果是 ",
+   "want": "16686",
+   "got": "16686",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 7 5 2 1 与 6 1 5 0 的和，结果是 ",
+   "want": "13671",
+   "got": "12671",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 5 6 6 与 5 0 8 9 的和，结果是 ",
+   "want": "10655",
+   "got": "10655",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 8 5 8 与 1 4 2 4 的和，结果是 ",
+   "want": "4282",
+   "got": "4282",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 4 0 4 8 与 9 1 7 6 的和，结果是 ",
+   "want": "13224",
+   "got": "13224",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 4 8 2 与 7 3 4 0 的和，结果是 ",
+   "want": "16822",
+   "got": "的和，结果是16822",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 9 2 9 与 5 2 8 8 的和，结果是 ",
+   "want": "8217",
+   "got": "8217",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 2 6 4 与 8 3 1 1 的和，结果是 ",
+   "want": "13575",
+   "got": "13575",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 4 5 1 5 与 5 6 7 8 的和，结果是 ",
+   "want": "10193",
+   "got": "10193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 0 4 7 与 4 2 7 9 的和，结果是 ",
+   "want": "13326",
+   "got": "是13326",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 3 0 0 9 与 3 2 2 3 的和，结果是 ",
+   "want": "6232",
+   "got": "5232",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 2 1 3 与 8 4 0 6 的和，结果是 ",
+   "want": "10619",
+   "got": "10619",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 8 2 8 与 8 2 9 2 的和，结果是 ",
+   "want": "12120",
+   "got": "1211",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 2 4 3 8 与 6 2 3 6 的和，结果是 ",
+   "want": "8674",
+   "got": "8674",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 6 9 2 与 2 0 6 3 的和，结果是 ",
+   "want": "8755",
+   "got": "8755",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 8 8 2 与 5 7 5 7 的和，结果是 ",
+   "want": "15639",
+   "got": "15639",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 9 1 4 与 3 5 8 0 的和，结果是 ",
+   "want": "9494",
+   "got": "9494",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 8 5 2 与 6 9 2 2 的和，结果是 ",
+   "want": "10774",
+   "got": "9774",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 9 3 3 5 与 4 6 7 3 的和，结果是 ",
+   "want": "14008",
+   "got": "15008",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 9 8 8 与 4 2 9 2 的和，结果是 ",
+   "want": "7280",
+   "got": "7280",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 2 7 5 与 4 8 7 8 的和，结果是 ",
+   "want": "8153",
+   "got": "8153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 0 9 4 与 1 4 3 0 的和，结果是 ",
+   "want": "10524",
+   "got": "10524",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 9 1 2 与 7 0 4 4 的和，结果是 ",
+   "want": "13956",
+   "got": "13956",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 6 5 7 与 3 1 2 6 的和，结果是 ",
+   "want": "11783",
+   "got": "14783",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 4 1 2 与 2 0 7 7 的和，结果是 ",
+   "want": "4489",
+   "got": "4589",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 0 6 7 与 7 5 2 3 的和，结果是 ",
+   "want": "13590",
+   "got": "12590",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 8 4 2 与 9 6 1 2 的和，结果是 ",
+   "want": "18454",
+   "got": "17454",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 7 7 3 0 与 7 7 0 8 的和，结果是 ",
+   "want": "15438",
+   "got": "14438",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 2 0 8 与 3 0 5 3 的和，结果是 ",
+   "want": "5261",
+   "got": "5261",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 6 1 9 4 与 2 2 1 5 的和，结果是 ",
+   "want": "8409",
+   "got": "8409",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 8 3 7 2 与 8 6 3 2 的和，结果是 ",
+   "want": "17004",
+   "got": "15004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 4 7 6 与 6 6 4 4 的和，结果是 ",
+   "want": "16120",
+   "got": "16120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 1 0 2 与 3 9 8 1 的和，结果是 ",
+   "want": "7083",
+   "got": "4083",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 1 1 4 与 8 0 8 8 的和，结果是 ",
+   "want": "11202",
+   "got": "11202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 9 2 3 8 与 1 9 0 7 的和，结果是 ",
+   "want": "11145",
+   "got": "11245",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 0 3 4 与 9 4 8 8 的和，结果是 ",
+   "want": "12522",
+   "got": "12523",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 5 0 7 与 5 9 8 2 的和，结果是 ",
+   "want": "9489",
+   "got": "9489",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 6 9 7 与 3 6 5 3 的和，结果是 ",
+   "want": "7350",
+   "got": "10350",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 2 8 6 与 4 6 9 4 的和，结果是 ",
+   "want": "10980",
+   "got": "1000",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "求 6 6 6 9 与 9 5 0 1 的和，结果是 ",
+   "want": "16170",
+   "got": "15170",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 6 5 3 与 2 2 9 2 的和，结果是 ",
+   "want": "7945",
+   "got": "7945",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 1 0 5 与 4 2 1 6 的和，结果是 ",
+   "want": "9321",
+   "got": "9321",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 4 9 6 与 3 0 5 0 的和，结果是 ",
+   "want": "8546",
+   "got": "8546",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 5 9 6 1 与 9 7 4 0 的和，结果是 ",
+   "want": "15701",
+   "got": "15701",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 2 5 3 0 与 9 2 3 4 的和，结果是 ",
+   "want": "11764",
+   "got": "11764",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 7 6 2 与 3 5 2 6 的和，结果是 ",
+   "want": "7288",
+   "got": "9288",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "求 3 8 0 4 与 6 5 3 1 的和，结果是 ",
+   "want": "10335",
+   "got": "10335",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 3 8 7 4 与 1 5 3 9 9 的和，结果是 ",
+   "want": "99273",
+   "got": "100273",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 7 1 8 与 2 0 6 4 6 的和，结果是 ",
+   "want": "34364",
+   "got": "34364",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 5 9 5 8 与 9 4 0 7 6 的和，结果是 ",
+   "want": "110034",
+   "got": "110034",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 5 5 9 8 与 4 4 6 8 8 的和，结果是 ",
+   "want": "130286",
+   "got": "130286",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 5 3 4 4 与 3 7 6 3 1 的和，结果是 ",
+   "want": "132975",
+   "got": "112975",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 4 9 9 1 与 6 4 6 0 2 的和，结果是 ",
+   "want": "149593",
+   "got": "119593",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 1 0 1 6 与 9 3 7 5 3 的和，结果是 ",
+   "want": "184769",
+   "got": "144769",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 9 6 9 与 7 5 2 7 8 的和，结果是 ",
+   "want": "89247",
+   "got": "99247",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 2 2 0 3 与 8 1 5 0 9 的和，结果是 ",
+   "want": "173712",
+   "got": "143712",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 7 9 6 7 与 9 4 1 3 6 的和，结果是 ",
+   "want": "142103",
+   "got": "142003",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 9 5 9 6 与 7 3 3 0 0 的和，结果是 ",
+   "want": "122896",
+   "got": "122896",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 2 0 9 6 与 9 9 7 8 3 的和，结果是 ",
+   "want": "141879",
+   "got": "112879",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 3 2 2 7 与 4 8 9 8 5 的和，结果是 ",
+   "want": "112212",
+   "got": "112212",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 9 4 4 6 与 1 9 5 6 4 的和，结果是 ",
+   "want": "89010",
+   "got": "89010",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 7 8 5 2 与 3 0 7 1 9 的和，结果是 ",
+   "want": "48571",
+   "got": "48571",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 7 6 1 9 与 6 4 4 7 6 的和，结果是 ",
+   "want": "132095",
+   "got": "132095",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 3 4 7 1 与 7 0 8 7 5 的和，结果是 ",
+   "want": "144346",
+   "got": "144346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 6 7 4 1 与 5 4 5 8 9 的和，结果是 ",
+   "want": "91330",
+   "got": "91330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 9 5 1 6 与 2 8 8 3 0 的和，结果是 ",
+   "want": "118346",
+   "got": "118346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 0 9 7 0 与 5 1 8 5 3 的和，结果是 ",
+   "want": "102823",
+   "got": "102823",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 5 2 6 8 与 6 2 2 6 0 的和，结果是 ",
+   "want": "117528",
+   "got": "117528",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 7 1 3 9 与 5 8 5 6 7 的和，结果是 ",
+   "want": "85706",
+   "got": "85706",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 7 4 9 9 与 8 3 6 1 6 的和，结果是 ",
+   "want": "161115",
+   "got": "161015",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 3 9 1 7 与 5 1 8 2 7 的和，结果是 ",
+   "want": "75744",
+   "got": "75744",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 1 6 8 5 与 7 1 1 4 1 的和，结果是 ",
+   "want": "112826",
+   "got": "112826",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 6 0 5 9 与 4 5 0 5 8 的和，结果是 ",
+   "want": "71117",
+   "got": "71107",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 8 9 2 9 与 4 2 4 9 5 的和，结果是 ",
+   "want": "111424",
+   "got": "121424",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 8 4 6 5 与 2 2 6 8 9 的和，结果是 ",
+   "want": "51154",
+   "got": "41154",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 6 6 3 2 与 4 8 0 3 8 的和，结果是 ",
+   "want": "64670",
+   "got": "64670",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 0 3 5 1 与 9 0 6 5 8 的和，结果是 ",
+   "want": "151009",
+   "got": "151009",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 4 8 0 5 与 4 2 5 4 1 的和，结果是 ",
+   "want": "107346",
+   "got": "107346",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 0 9 3 2 与 5 2 9 1 7 的和，结果是 ",
+   "want": "83849",
+   "got": "83849",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 5 7 1 8 与 5 0 9 8 8 的和，结果是 ",
+   "want": "136706",
+   "got": "136706",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 4 8 8 1 与 3 0 8 8 5 的和，结果是 ",
+   "want": "65766",
+   "got": "75766",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 5 3 0 8 与 7 7 4 6 6 的和，结果是 ",
+   "want": "152774",
+   "got": "112774",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 1 1 8 6 与 7 5 3 7 3 的和，结果是 ",
+   "want": "146559",
+   "got": "126559",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 0 4 4 1 与 7 5 1 9 1 的和，结果是 ",
+   "want": "125632",
+   "got": "125632",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 0 3 7 与 2 1 8 0 2 的和，结果是 ",
+   "want": "34839",
+   "got": "34839",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 1 5 4 3 与 7 6 2 4 9 的和，结果是 ",
+   "want": "137792",
+   "got": "137792",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 9 9 3 0 与 4 1 5 5 2 的和，结果是 ",
+   "want": "111482",
+   "got": "111482",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 8 1 9 9 与 8 6 4 6 0 的和，结果是 ",
+   "want": "124659",
+   "got": "114659",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 6 2 5 4 与 1 6 3 7 7 的和，结果是 ",
+   "want": "72631",
+   "got": "72631",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 6 6 2 4 与 4 6 8 7 7 的和，结果是 ",
+   "want": "63501",
+   "got": "63501",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 4 8 6 6 与 8 8 3 1 7 的和，结果是 ",
+   "want": "163183",
+   "got": "163183",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 5 7 5 5 与 9 8 1 4 8 的和，结果是 ",
+   "want": "193903",
+   "got": "153903",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 1 6 8 0 与 4 7 4 5 3 的和，结果是 ",
+   "want": "119133",
+   "got": "199033",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 0 3 4 5 与 1 1 0 7 1 的和，结果是 ",
+   "want": "91416",
+   "got": "91416",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 4 0 8 9 与 6 6 4 8 2 的和，结果是 ",
+   "want": "90571",
+   "got": "90571",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 7 5 5 5 与 4 4 6 6 4 的和，结果是 ",
+   "want": "72219",
+   "got": "82219",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 7 9 4 3 与 6 2 8 5 5 的和，结果是 ",
+   "want": "120798",
+   "got": "120798",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 7 9 6 4 与 1 5 9 3 0 的和，结果是 ",
+   "want": "73894",
+   "got": "73894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 2 5 0 5 与 1 6 7 0 5 的和，结果是 ",
+   "want": "79210",
+   "got": "79200",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 4 7 4 7 与 8 3 6 3 8 的和，结果是 ",
+   "want": "168385",
+   "got": "178385",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 5 5 1 3 与 5 7 5 1 6 的和，结果是 ",
+   "want": "93029",
+   "got": "93029",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 2 5 1 2 与 4 7 8 2 7 的和，结果是 ",
+   "want": "130339",
+   "got": "130349",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 9 6 3 7 与 6 0 6 3 9 的和，结果是 ",
+   "want": "80276",
+   "got": "89276",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 6 0 9 3 与 6 9 0 2 8 的和，结果是 ",
+   "want": "145121",
+   "got": "145121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 2 0 7 0 与 4 6 6 6 3 的和，结果是 ",
+   "want": "128733",
+   "got": "128733",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 1 6 8 9 与 9 9 1 8 1 的和，结果是 ",
+   "want": "190870",
+   "got": "110870",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 0 0 9 0 与 2 5 5 7 2 的和，结果是 ",
+   "want": "115662",
+   "got": "75662",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 2 6 8 6 4 与 2 2 6 7 2 的和，结果是 ",
+   "want": "49536",
+   "got": "49536",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 1 6 2 9 与 5 8 9 1 5 的和，结果是 ",
+   "want": "120544",
+   "got": "120544",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 4 4 4 4 与 8 3 1 1 6 的和，结果是 ",
+   "want": "137560",
+   "got": "137560",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 7 9 2 0 与 2 8 9 0 9 的和，结果是 ",
+   "want": "86829",
+   "got": "86829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 6 0 9 0 与 8 8 9 6 6 的和，结果是 ",
+   "want": "125056",
+   "got": "114056",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 6 7 3 1 与 6 2 6 1 0 的和，结果是 ",
+   "want": "139341",
+   "got": "89341",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 5 5 4 6 与 1 5 2 7 6 的和，结果是 ",
+   "want": "90822",
+   "got": "80822",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 5 9 3 8 与 1 5 1 0 0 的和，结果是 ",
+   "want": "31038",
+   "got": "70138",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 7 9 6 1 与 5 3 6 5 2 的和，结果是 ",
+   "want": "81613",
+   "got": "81613",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 2 0 9 4 与 7 8 0 6 9 的和，结果是 ",
+   "want": "150163",
+   "got": "150163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 9 8 9 8 与 2 9 5 2 1 的和，结果是 ",
+   "want": "99419",
+   "got": "99419",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 9 4 6 3 与 7 7 5 6 8 的和，结果是 ",
+   "want": "167031",
+   "got": "167031",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 8 3 2 1 与 5 2 9 8 7 的和，结果是 ",
+   "want": "81308",
+   "got": "81308",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 0 3 5 6 与 5 1 7 5 0 的和，结果是 ",
+   "want": "142106",
+   "got": "142016",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 3 1 2 9 9 与 6 1 5 0 5 的和，结果是 ",
+   "want": "92804",
+   "got": "82704",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 0 8 0 5 与 4 9 2 2 1 的和，结果是 ",
+   "want": "140026",
+   "got": "150026",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 7 8 2 0 与 5 4 0 8 9 的和，结果是 ",
+   "want": "141909",
+   "got": "141809",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 6 4 9 4 与 7 6 8 0 9 的和，结果是 ",
+   "want": "153303",
+   "got": "153303",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 9 7 7 4 与 7 4 2 0 5 的和，结果是 ",
+   "want": "153979",
+   "got": "153979",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 3 7 8 3 与 4 9 2 9 4 的和，结果是 ",
+   "want": "133077",
+   "got": "133077",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 2 2 4 5 与 1 2 1 8 0 的和，结果是 ",
+   "want": "84425",
+   "got": "84425",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 8 2 8 1 与 5 3 4 1 6 的和，结果是 ",
+   "want": "111697",
+   "got": "116697",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 8 3 1 7 与 2 4 3 6 6 的和，结果是 ",
+   "want": "122683",
+   "got": "122683",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 4 5 9 6 与 8 6 5 0 7 的和，结果是 ",
+   "want": "151103",
+   "got": "150103",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 5 0 3 2 7 与 9 2 4 7 8 的和，结果是 ",
+   "want": "142805",
+   "got": "142805",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 3 4 9 2 与 8 8 2 3 8 的和，结果是 ",
+   "want": "101730",
+   "got": "101730",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 2 2 0 5 与 4 4 8 0 3 的和，结果是 ",
+   "want": "117008",
+   "got": "117008",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 5 9 2 9 与 8 5 8 2 1 的和，结果是 ",
+   "want": "181750",
+   "got": "141750",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 5 7 1 1 与 3 9 8 2 4 的和，结果是 ",
+   "want": "125535",
+   "got": "135535",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 1 6 7 3 1 与 8 6 4 8 3 的和，结果是 ",
+   "want": "103214",
+   "got": "103214",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 7 2 9 7 3 与 3 2 3 4 9 的和，结果是 ",
+   "want": "105322",
+   "got": "55322",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 7 8 7 1 2 与 9 2 4 4 7 的和，结果是 ",
+   "want": "171159",
+   "got": "171169",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 9 1 2 3 0 与 5 9 8 3 2 的和，结果是 ",
+   "want": "151062",
+   "got": "150062",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 2 9 3 6 9 与 9 9 2 2 4 的和，结果是 ",
+   "want": "128593",
+   "got": "128593",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 4 1 7 4 5 与 1 4 1 3 8 的和，结果是 ",
+   "want": "55883",
+   "got": "55883",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 8 5 0 4 7 与 2 4 4 0 4 的和，结果是 ",
+   "want": "109451",
+   "got": "99451",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "求 3 5 0 0 6 与 1 2 4 8 2 的和，结果是 ",
+   "want": "47488",
+   "got": "47488",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 7 8 0 7 与 5 1 1 1 6 的和，结果是 ",
+   "want": "118923",
+   "got": "118923",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 4 8 9 0 与 2 9 8 4 8 的和，结果是 ",
+   "want": "94738",
+   "got": "94738",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "求 6 4 1 2 7 与 3 6 7 2 4 的和，结果是 ",
+   "want": "100851",
+   "got": "100851",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

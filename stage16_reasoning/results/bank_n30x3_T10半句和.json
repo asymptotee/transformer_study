@@ -1,0 +1,3231 @@
+{
+ "label": "n30x3_T10半句和",
+ "by_rung": {
+  "2": [
+   79,
+   90,
+   0,
+   100
+  ],
+  "3": [
+   92,
+   96,
+   0,
+   100
+  ],
+  "4": [
+   83,
+   93,
+   0,
+   100
+  ],
+  "5": [
+   79,
+   86,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "1 7 加上 2 1，和是 ",
+   "want": "38",
+   "got": "38",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 加上 2 7，和是 ",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 加上 9 1，和是 ",
+   "want": "175",
+   "got": "175",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 加上 2 8，和是 ",
+   "want": "38",
+   "got": "38",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 加上 2 9，和是 ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 加上 7 8，和是 ",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 加上 5 9，和是 ",
+   "want": "106",
+   "got": "96",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 8 加上 8 3，和是 ",
+   "want": "171",
+   "got": "171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 加上 3 5，和是 ",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 加上 9 7，和是 ",
+   "want": "133",
+   "got": "123",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 加上 4 8，和是 ",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2 加上 9 6，和是 ",
+   "want": "178",
+   "got": "178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 加上 6 5，和是 ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4 加上 2 1，和是 ",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 加上 1 1，和是 ",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 加上 7 5，和是 ",
+   "want": "163",
+   "got": "163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 加上 2 6，和是 ",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 加上 1 7，和是 ",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 加上 8 0，和是 ",
+   "want": "137",
+   "got": "137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 1 0，和是 ",
+   "want": "26",
+   "got": "36",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 1 加上 5 5，和是 ",
+   "want": "136",
+   "got": "36",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 4 加上 4 6，和是 ",
+   "want": "70",
+   "got": "68",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 加上 4 0，和是 ",
+   "want": "53",
+   "got": "63",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 5 加上 9 9，和是 ",
+   "want": "164",
+   "got": "164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 加上 6 0，和是 ",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 0 加上 5 0，和是 ",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 加上 6 1，和是 ",
+   "want": "119",
+   "got": "129",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 加上 6 5，和是 ",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 9 加上 3 7，和是 ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 加上 3 2，和是 ",
+   "want": "126",
+   "got": "126",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 加上 2 7，和是 ",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 加上 8 1，和是 ",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 9 加上 5 6，和是 ",
+   "want": "115",
+   "got": "85",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "6 3 加上 2 9，和是 ",
+   "want": "92",
+   "got": "92",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 加上 9 5，和是 ",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 加上 2 7，和是 ",
+   "want": "53",
+   "got": "43",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 加上 1 9，和是 ",
+   "want": "30",
+   "got": "31",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 2 加上 1 2，和是 ",
+   "want": "104",
+   "got": "44",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 8 加上 7 2，和是 ",
+   "want": "100",
+   "got": "90",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "9 4 加上 6 5，和是 ",
+   "want": "159",
+   "got": "159",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 加上 2 0，和是 ",
+   "want": "47",
+   "got": "47",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 加上 9 2，和是 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 加上 6 8，和是 ",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 加上 8 7，和是 ",
+   "want": "186",
+   "got": "186",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 4 加上 8 9，和是 ",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 加上 6 8，和是 ",
+   "want": "101",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 加上 6 4，和是 ",
+   "want": "139",
+   "got": "39",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "8 0 加上 6 7，和是 ",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 9 加上 5 5，和是 ",
+   "want": "114",
+   "got": "14",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "3 8 加上 3 3，和是 ",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 4 加上 8 7，和是 ",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 加上 8 3，和是 ",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 加上 4 0，和是 ",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4 加上 4 4，和是 ",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 加上 7 9，和是 ",
+   "want": "141",
+   "got": "141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 3 加上 5 6，和是 ",
+   "want": "139",
+   "got": "139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 加上 1 4，和是 ",
+   "want": "28",
+   "got": "38",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2 加上 7 1，和是 ",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 加上 2 4，和是 ",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 加上 7 1，和是 ",
+   "want": "155",
+   "got": "155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 加上 2 0，和是 ",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 8 加上 7 7，和是 ",
+   "want": "105",
+   "got": "95",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "4 5 加上 6 9，和是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 加上 2 0，和是 ",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 加上 8 8，和是 ",
+   "want": "164",
+   "got": "154",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 加上 4 1，和是 ",
+   "want": "62",
+   "got": "62",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 加上 9 0，和是 ",
+   "want": "160",
+   "got": "160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 加上 9 5，和是 ",
+   "want": "189",
+   "got": "189",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 加上 9 7，和是 ",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 1 加上 7 9，和是 ",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 加上 4 9，和是 ",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 加上 1 6，和是 ",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 加上 7 8，和是 ",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 加上 7 0，和是 ",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 加上 7 5，和是 ",
+   "want": "143",
+   "got": "143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 加上 8 3，和是 ",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 加上 6 3，和是 ",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 加上 4 7，和是 ",
+   "want": "102",
+   "got": "92",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "4 7 加上 3 1，和是 ",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 加上 9 8，和是 ",
+   "want": "112",
+   "got": "112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 加上 4 8，和是 ",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2 加上 4 3，和是 ",
+   "want": "125",
+   "got": "125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7 加上 9 0，和是 ",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 加上 8 4，和是 ",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 加上 8 3，和是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 加上 9 4，和是 ",
+   "want": "110",
+   "got": "100",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 加上 8 9，和是 ",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 加上 4 6，和是 ",
+   "want": "59",
+   "got": "59",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 加上 2 0，和是 ",
+   "want": "92",
+   "got": "92",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 加上 7 4，和是 ",
+   "want": "100",
+   "got": "90",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "1 9 加上 4 5，和是 ",
+   "want": "64",
+   "got": "64",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 加上 2 6，和是 ",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 加上 4 5，和是 ",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 加上 4 2，和是 ",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 加上 2 4，和是 ",
+   "want": "35",
+   "got": "35",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 加上 3 2，和是 ",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 加上 2 9，和是 ",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 加上 6 7，和是 ",
+   "want": "161",
+   "got": "161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 加上 3 2，和是 ",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 3 加上 9 9，和是 ",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 1 加上 5 9 6，和是 ",
+   "want": "937",
+   "got": "937",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 5 加上 9 1 8，和是 ",
+   "want": "1203",
+   "got": "1203",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 0 加上 9 8 2，和是 ",
+   "want": "1622",
+   "got": "1622",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 3 加上 4 5 1，和是 ",
+   "want": "584",
+   "got": "584",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 6 加上 2 4 8，和是 ",
+   "want": "434",
+   "got": "434",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 9 加上 9 4 1，和是 ",
+   "want": "1650",
+   "got": "1650",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 7 加上 9 5 7，和是 ",
+   "want": "1214",
+   "got": "1204",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 0 7 加上 8 7 0，和是 ",
+   "want": "1477",
+   "got": "1477",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 2 加上 8 8 8，和是 ",
+   "want": "1410",
+   "got": "1410",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 2 加上 3 4 3，和是 ",
+   "want": "835",
+   "got": "835",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 6 加上 5 5 0，和是 ",
+   "want": "1326",
+   "got": "1326",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 3 加上 7 5 2，和是 ",
+   "want": "1595",
+   "got": "1595",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 1 加上 3 1 5，和是 ",
+   "want": "586",
+   "got": "586",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 1 加上 8 5 1，和是 ",
+   "want": "1542",
+   "got": "1542",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 2 加上 4 5 3，和是 ",
+   "want": "1415",
+   "got": "1415",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 5 加上 7 5 7，和是 ",
+   "want": "912",
+   "got": "912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 0 加上 8 7 3，和是 ",
+   "want": "1243",
+   "got": "1243",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 9 加上 2 1 8，和是 ",
+   "want": "1157",
+   "got": "1157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 3 加上 2 7 1，和是 ",
+   "want": "424",
+   "got": "424",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 5 加上 5 0 8，和是 ",
+   "want": "1083",
+   "got": "1083",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 7 加上 4 0 8，和是 ",
+   "want": "995",
+   "got": "995",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 8 7 加上 8 6 4，和是 ",
+   "want": "1451",
+   "got": "1451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 0 加上 6 4 5，和是 ",
+   "want": "1515",
+   "got": "1515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 9 加上 4 8 8，和是 ",
+   "want": "827",
+   "got": "827",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 9 加上 8 2 2，和是 ",
+   "want": "1621",
+   "got": "1621",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 9 加上 5 8 5，和是 ",
+   "want": "1084",
+   "got": "1084",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 8 加上 2 4 8，和是 ",
+   "want": "616",
+   "got": "616",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 3 加上 9 9 1，和是 ",
+   "want": "1634",
+   "got": "1634",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 5 加上 1 1 2，和是 ",
+   "want": "657",
+   "got": "657",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 5 加上 9 1 6，和是 ",
+   "want": "1311",
+   "got": "1201",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 9 加上 4 9 1，和是 ",
+   "want": "1050",
+   "got": "950",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "7 9 4 加上 4 2 3，和是 ",
+   "want": "1217",
+   "got": "1217",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 2 加上 7 9 9，和是 ",
+   "want": "1441",
+   "got": "1441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 4 2 加上 1 9 9，和是 ",
+   "want": "341",
+   "got": "341",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 4 加上 7 5 2，和是 ",
+   "want": "1396",
+   "got": "1396",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 2 加上 9 6 4，和是 ",
+   "want": "1426",
+   "got": "1426",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 2 加上 7 2 5，和是 ",
+   "want": "1267",
+   "got": "1267",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 7 加上 9 7 8，和是 ",
+   "want": "1745",
+   "got": "1745",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 9 加上 4 4 3，和是 ",
+   "want": "822",
+   "got": "822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 6 加上 3 7 3，和是 ",
+   "want": "749",
+   "got": "749",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 1 加上 2 0 0，和是 ",
+   "want": "1121",
+   "got": "1121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 1 加上 7 7 0，和是 ",
+   "want": "1131",
+   "got": "1131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 8 加上 5 0 0，和是 ",
+   "want": "1198",
+   "got": "1198",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 2 加上 8 9 1，和是 ",
+   "want": "1463",
+   "got": "1463",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 1 加上 8 6 7，和是 ",
+   "want": "1658",
+   "got": "1658",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 7 加上 8 5 1，和是 ",
+   "want": "1198",
+   "got": "1198",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 8 加上 7 0 2，和是 ",
+   "want": "1490",
+   "got": "1490",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 8 加上 2 9 9，和是 ",
+   "want": "1187",
+   "got": "1187",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 2 加上 4 4 5，和是 ",
+   "want": "1077",
+   "got": "1077",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 3 加上 8 0 6，和是 ",
+   "want": "1599",
+   "got": "1599",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 4 加上 4 2 0，和是 ",
+   "want": "704",
+   "got": "604",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 6 0 加上 1 1 0，和是 ",
+   "want": "770",
+   "got": "770",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 8 加上 1 0 8，和是 ",
+   "want": "896",
+   "got": "896",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 1 加上 1 6 9，和是 ",
+   "want": "1120",
+   "got": "1120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 2 加上 5 2 1，和是 ",
+   "want": "633",
+   "got": "633",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 0 加上 6 3 7，和是 ",
+   "want": "837",
+   "got": "837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 6 加上 8 0 1，和是 ",
+   "want": "1007",
+   "got": "1027",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 6 加上 4 5 9，和是 ",
+   "want": "1015",
+   "got": "915",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "3 2 4 加上 8 4 2，和是 ",
+   "want": "1166",
+   "got": "1166",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 0 加上 3 5 7，和是 ",
+   "want": "747",
+   "got": "747",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 7 加上 1 3 4，和是 ",
+   "want": "431",
+   "got": "431",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 4 加上 7 3 4，和是 ",
+   "want": "858",
+   "got": "858",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 4 加上 1 5 8，和是 ",
+   "want": "352",
+   "got": "352",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 0 8 加上 7 7 2，和是 ",
+   "want": "1480",
+   "got": "1480",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 5 加上 3 2 2，和是 ",
+   "want": "1277",
+   "got": "1277",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 3 加上 7 5 3，和是 ",
+   "want": "1466",
+   "got": "1466",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 2 4 加上 8 2 5，和是 ",
+   "want": "1049",
+   "got": "949",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 2 2 加上 1 8 8，和是 ",
+   "want": "410",
+   "got": "410",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 6 加上 7 1 9，和是 ",
+   "want": "1695",
+   "got": "1695",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 3 加上 4 8 4，和是 ",
+   "want": "717",
+   "got": "717",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 2 加上 8 8 2，和是 ",
+   "want": "1654",
+   "got": "1654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 3 加上 6 7 9，和是 ",
+   "want": "1442",
+   "got": "1442",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 2 2 加上 2 8 9，和是 ",
+   "want": "1211",
+   "got": "1211",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 3 加上 8 1 2，和是 ",
+   "want": "1025",
+   "got": "925",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "2 8 8 加上 3 5 9，和是 ",
+   "want": "647",
+   "got": "647",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 1 加上 5 7 8，和是 ",
+   "want": "979",
+   "got": "979",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 6 加上 1 7 7，和是 ",
+   "want": "953",
+   "got": "953",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 4 加上 5 6 4，和是 ",
+   "want": "1318",
+   "got": "1318",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 3 加上 8 8 7，和是 ",
+   "want": "1270",
+   "got": "1270",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 7 加上 8 0 8，和是 ",
+   "want": "1345",
+   "got": "1345",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 3 加上 8 8 8，和是 ",
+   "want": "1671",
+   "got": "1671",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 8 加上 4 3 1，和是 ",
+   "want": "1319",
+   "got": "1319",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 3 加上 2 6 5，和是 ",
+   "want": "628",
+   "got": "628",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 9 加上 1 7 5，和是 ",
+   "want": "1074",
+   "got": "1074",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 3 加上 8 9 5，和是 ",
+   "want": "1278",
+   "got": "1278",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 3 加上 4 9 1，和是 ",
+   "want": "654",
+   "got": "654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 7 加上 4 4 0，和是 ",
+   "want": "937",
+   "got": "937",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 1 加上 3 6 4，和是 ",
+   "want": "525",
+   "got": "525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 2 加上 3 7 1，和是 ",
+   "want": "1303",
+   "got": "1303",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 2 加上 5 5 1，和是 ",
+   "want": "833",
+   "got": "833",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 1 加上 6 0 3，和是 ",
+   "want": "774",
+   "got": "774",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 5 加上 7 2 4，和是 ",
+   "want": "1029",
+   "got": "1029",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 2 加上 2 8 2，和是 ",
+   "want": "784",
+   "got": "784",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 0 加上 6 0 3，和是 ",
+   "want": "1363",
+   "got": "1363",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 1 加上 2 4 7，和是 ",
+   "want": "458",
+   "got": "458",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 3 加上 8 8 7，和是 ",
+   "want": "1540",
+   "got": "1540",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 1 加上 3 2 3，和是 ",
+   "want": "864",
+   "got": "864",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 8 加上 7 5 8，和是 ",
+   "want": "1486",
+   "got": "1486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 8 加上 5 5 2，和是 ",
+   "want": "760",
+   "got": "760",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 2 加上 3 6 5，和是 ",
+   "want": "1197",
+   "got": "1197",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 6 9 2 加上 1 5 7 1，和是 ",
+   "want": "4263",
+   "got": "4263",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 9 4 加上 2 1 5 3，和是 ",
+   "want": "4347",
+   "got": "4347",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 0 5 加上 8 3 0 5，和是 ",
+   "want": "13410",
+   "got": "3420",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1 3 0 7 加上 9 1 5 4，和是 ",
+   "want": "10461",
+   "got": "10461",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 3 8 加上 1 0 1 4，和是 ",
+   "want": "4452",
+   "got": "4452",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 1 9 加上 7 3 9 7，和是 ",
+   "want": "9016",
+   "got": "9916",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 6 5 加上 3 4 8 3，和是 ",
+   "want": "8848",
+   "got": "8848",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 0 3 加上 7 4 1 1，和是 ",
+   "want": "13814",
+   "got": "13814",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 6 0 加上 9 4 4 4，和是 ",
+   "want": "10504",
+   "got": "10504",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 3 9 加上 8 8 3 3，和是 ",
+   "want": "17872",
+   "got": "17872",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 4 4 加上 7 6 1 7，和是 ",
+   "want": "15761",
+   "got": "15761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 4 8 加上 9 8 4 9，和是 ",
+   "want": "11997",
+   "got": "1978",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 7 0 0 加上 1 0 5 4，和是 ",
+   "want": "5754",
+   "got": "5754",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 9 8 加上 8 8 9 8，和是 ",
+   "want": "16196",
+   "got": "16196",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 8 5 加上 9 7 7 0，和是 ",
+   "want": "12755",
+   "got": "12755",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 8 0 加上 6 4 6 3，和是 ",
+   "want": "13343",
+   "got": "13343",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 6 1 加上 7 5 6 3，和是 ",
+   "want": "13524",
+   "got": "13524",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 9 0 4 加上 2 4 8 5，和是 ",
+   "want": "4389",
+   "got": "4389",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 9 8 5 加上 9 7 5 9，和是 ",
+   "want": "16744",
+   "got": "16744",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 7 1 加上 2 3 1 8，和是 ",
+   "want": "8889",
+   "got": "8889",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 3 0 加上 5 7 5 0，和是 ",
+   "want": "14280",
+   "got": "14280",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 2 7 加上 3 8 9 3，和是 ",
+   "want": "8220",
+   "got": "8220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 4 4 加上 7 2 9 4，和是 ",
+   "want": "8938",
+   "got": "9938",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 2 9 加上 5 8 9 6，和是 ",
+   "want": "10025",
+   "got": "9025",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "7 3 9 1 加上 2 7 4 9，和是 ",
+   "want": "10140",
+   "got": "10140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 8 6 加上 8 9 7 0，和是 ",
+   "want": "15856",
+   "got": "15856",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 9 0 加上 8 1 7 5，和是 ",
+   "want": "10565",
+   "got": "9565",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "4 1 0 4 加上 3 2 9 2，和是 ",
+   "want": "7396",
+   "got": "7396",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 5 8 4 加上 4 1 6 3，和是 ",
+   "want": "5747",
+   "got": "5747",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 1 5 加上 4 9 0 7，和是 ",
+   "want": "6322",
+   "got": "6322",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 1 5 加上 7 3 6 9，和是 ",
+   "want": "16384",
+   "got": "16384",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 3 2 加上 9 8 5 6，和是 ",
+   "want": "11888",
+   "got": "11888",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 4 1 加上 9 1 8 6，和是 ",
+   "want": "15227",
+   "got": "15227",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 4 8 加上 8 3 6 1，和是 ",
+   "want": "18109",
+   "got": "18109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 6 8 加上 1 6 0 6，和是 ",
+   "want": "2874",
+   "got": "3874",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 5 8 加上 1 9 1 8，和是 ",
+   "want": "8476",
+   "got": "8476",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 3 3 加上 1 7 0 1，和是 ",
+   "want": "8234",
+   "got": "8234",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 4 3 加上 2 9 3 6，和是 ",
+   "want": "10579",
+   "got": "10579",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 6 8 加上 9 5 7 0，和是 ",
+   "want": "14038",
+   "got": "14038",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 0 9 加上 9 7 9 1，和是 ",
+   "want": "18300",
+   "got": "18300",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 4 0 加上 4 8 1 7，和是 ",
+   "want": "8257",
+   "got": "8257",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 8 0 加上 1 6 0 4，和是 ",
+   "want": "3784",
+   "got": "3784",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 1 9 加上 9 0 1 0，和是 ",
+   "want": "12329",
+   "got": "12329",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 1 2 加上 8 7 2 0，和是 ",
+   "want": "10032",
+   "got": "9032",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "1 7 5 0 加上 4 9 7 6，和是 ",
+   "want": "6726",
+   "got": "6726",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 3 8 加上 1 2 3 5，和是 ",
+   "want": "4373",
+   "got": "4363",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 2 2 加上 1 8 1 8，和是 ",
+   "want": "5640",
+   "got": "5040",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 3 5 加上 2 5 9 4，和是 ",
+   "want": "8629",
+   "got": "8629",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 7 4 加上 3 7 9 6，和是 ",
+   "want": "12270",
+   "got": "12260",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 4 7 加上 2 7 4 2，和是 ",
+   "want": "4789",
+   "got": "4789",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 7 0 加上 9 1 4 5，和是 ",
+   "want": "12015",
+   "got": "12015",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 1 3 加上 2 0 3 3，和是 ",
+   "want": "6646",
+   "got": "6646",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 2 0 加上 7 9 8 3，和是 ",
+   "want": "12303",
+   "got": "12303",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 5 2 7 加上 7 5 8 6，和是 ",
+   "want": "14113",
+   "got": "14113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 1 2 加上 2 9 7 9，和是 ",
+   "want": "9291",
+   "got": "9291",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 9 4 3 加上 3 2 5 0，和是 ",
+   "want": "13193",
+   "got": "13193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 6 8 加上 4 4 9 3，和是 ",
+   "want": "10761",
+   "got": "10761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 4 6 加上 3 8 4 1，和是 ",
+   "want": "5587",
+   "got": "5587",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 9 6 加上 2 0 3 5，和是 ",
+   "want": "8531",
+   "got": "8531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 7 8 加上 5 4 8 7，和是 ",
+   "want": "8465",
+   "got": "8465",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 1 4 加上 7 8 0 1，和是 ",
+   "want": "11115",
+   "got": "11115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 5 3 加上 7 0 6 0，和是 ",
+   "want": "10813",
+   "got": "10813",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 0 3 加上 8 1 8 7，和是 ",
+   "want": "11890",
+   "got": "11890",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 9 1 加上 1 6 6 6，和是 ",
+   "want": "6657",
+   "got": "6657",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 8 5 加上 2 6 3 7，和是 ",
+   "want": "5822",
+   "got": "5822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 6 2 加上 3 5 8 4，和是 ",
+   "want": "10746",
+   "got": "10746",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 5 6 加上 8 9 7 8，和是 ",
+   "want": "10234",
+   "got": "9234",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "2 3 2 2 加上 1 1 0 4，和是 ",
+   "want": "3426",
+   "got": "3426",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 1 8 加上 3 9 3 9，和是 ",
+   "want": "5057",
+   "got": "4119",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 6 0 加上 5 6 4 8，和是 ",
+   "want": "8108",
+   "got": "8108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 1 9 加上 8 7 9 8，和是 ",
+   "want": "16617",
+   "got": "16617",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 7 9 加上 4 3 7 7，和是 ",
+   "want": "7456",
+   "got": "7456",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 4 4 加上 5 4 3 9，和是 ",
+   "want": "8783",
+   "got": "8783",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 7 0 加上 8 3 7 9，和是 ",
+   "want": "17949",
+   "got": "18949",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 5 0 加上 4 9 1 9，和是 ",
+   "want": "12669",
+   "got": "12669",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 5 9 加上 1 6 1 6，和是 ",
+   "want": "5475",
+   "got": "5475",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 9 4 9 加上 9 1 9 0，和是 ",
+   "want": "13139",
+   "got": "13139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 4 4 2 加上 5 9 3 4，和是 ",
+   "want": "8376",
+   "got": "8376",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 9 9 加上 7 8 6 1，和是 ",
+   "want": "14560",
+   "got": "14560",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 7 4 加上 4 8 6 0，和是 ",
+   "want": "5934",
+   "got": "5934",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 4 4 加上 2 9 2 5，和是 ",
+   "want": "7069",
+   "got": "7069",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 8 6 加上 2 5 6 7，和是 ",
+   "want": "12253",
+   "got": "12253",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 9 2 9 加上 9 8 4 2，和是 ",
+   "want": "16771",
+   "got": "16771",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 1 5 加上 4 5 9 2，和是 ",
+   "want": "13907",
+   "got": "13907",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 0 5 加上 4 4 0 9，和是 ",
+   "want": "13014",
+   "got": "13014",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 5 2 8 加上 1 8 6 9，和是 ",
+   "want": "7397",
+   "got": "7387",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 7 3 加上 2 8 4 6，和是 ",
+   "want": "7019",
+   "got": "7019",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 4 4 加上 8 7 7 2，和是 ",
+   "want": "12216",
+   "got": "12216",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 5 1 加上 3 8 8 8，和是 ",
+   "want": "13039",
+   "got": "3039",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "3 6 1 7 加上 1 7 0 6，和是 ",
+   "want": "5323",
+   "got": "5323",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 8 8 5 加上 6 9 6 6，和是 ",
+   "want": "8851",
+   "got": "8851",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 7 0 加上 4 4 3 3，和是 ",
+   "want": "10103",
+   "got": "10103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 2 1 加上 5 1 1 8，和是 ",
+   "want": "13239",
+   "got": "13239",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 7 7 加上 8 4 2 4，和是 ",
+   "want": "14901",
+   "got": "14901",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 7 0 9 加上 2 7 1 0，和是 ",
+   "want": "4419",
+   "got": "4419",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 8 5 9 加上 9 8 0 4，和是 ",
+   "want": "11663",
+   "got": "11663",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 8 1 加上 3 5 8 9，和是 ",
+   "want": "7470",
+   "got": "7470",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 4 7 6 加上 8 9 4 7，和是 ",
+   "want": "10423",
+   "got": "10423",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 4 3 6 加上 2 9 0 1，和是 ",
+   "want": "12337",
+   "got": "12337",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 6 0 加上 4 8 5 5，和是 ",
+   "want": "7015",
+   "got": "6015",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 3 0 3 加上 8 7 6 8 7，和是 ",
+   "want": "155990",
+   "got": "155990",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 9 9 0 加上 5 2 7 2 5，和是 ",
+   "want": "138715",
+   "got": "138715",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 9 2 7 加上 3 6 0 5 0，和是 ",
+   "want": "100977",
+   "got": "100977",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 7 1 6 加上 5 2 6 8 8，和是 ",
+   "want": "151404",
+   "got": "151404",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 1 5 4 加上 2 4 4 3 5，和是 ",
+   "want": "64589",
+   "got": "64589",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 7 4 6 加上 3 9 8 5 5，和是 ",
+   "want": "92601",
+   "got": "92601",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 8 5 3 加上 4 1 0 7 9，和是 ",
+   "want": "63932",
+   "got": "63932",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 0 7 9 加上 3 6 2 0 8，和是 ",
+   "want": "100287",
+   "got": "90287",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "5 9 2 2 1 加上 3 8 9 2 2，和是 ",
+   "want": "98143",
+   "got": "98143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 9 6 3 7 加上 7 1 7 3 3，和是 ",
+   "want": "91370",
+   "got": "91370",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 6 6 8 9 加上 7 3 4 9 2，和是 ",
+   "want": "160181",
+   "got": "160181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 1 2 2 加上 6 7 1 2 9，和是 ",
+   "want": "84251",
+   "got": "84251",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 9 9 7 加上 3 8 3 3 3，和是 ",
+   "want": "67330",
+   "got": "67330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 8 7 9 加上 6 9 6 3 6，和是 ",
+   "want": "159515",
+   "got": "159515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 3 3 3 8 加上 6 0 7 6 8，和是 ",
+   "want": "94106",
+   "got": "94016",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 9 5 3 加上 2 7 8 7 8，和是 ",
+   "want": "86831",
+   "got": "86831",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 9 9 6 加上 3 5 4 4 8，和是 ",
+   "want": "105444",
+   "got": "95444",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 2 8 4 0 加上 5 7 0 0 1，和是 ",
+   "want": "149841",
+   "got": "49841",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "4 5 3 4 9 加上 3 6 5 0 4，和是 ",
+   "want": "81853",
+   "got": "81853",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 0 2 5 加上 2 6 6 7 3，和是 ",
+   "want": "80698",
+   "got": "70698",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 2 0 6 加上 8 4 5 3 6，和是 ",
+   "want": "98742",
+   "got": "98742",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 8 1 8 加上 4 6 7 7 9，和是 ",
+   "want": "64597",
+   "got": "64597",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 8 9 1 加上 2 4 5 6 3，和是 ",
+   "want": "52454",
+   "got": "52454",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 0 1 8 加上 7 0 1 0 6，和是 ",
+   "want": "141124",
+   "got": "91124",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 4 8 1 7 加上 3 2 4 3 9，和是 ",
+   "want": "97256",
+   "got": "97256",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 0 3 3 加上 3 8 8 1 6，和是 ",
+   "want": "93849",
+   "got": "93849",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 6 8 7 加上 8 9 1 1 9，和是 ",
+   "want": "137806",
+   "got": "137806",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 0 5 5 0 加上 9 3 6 2 3，和是 ",
+   "want": "124173",
+   "got": "124173",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 1 5 4 加上 3 2 2 7 3，和是 ",
+   "want": "122427",
+   "got": "122427",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 7 7 5 加上 8 2 4 5 0，和是 ",
+   "want": "168225",
+   "got": "168225",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 1 0 7 加上 2 1 3 3 4，和是 ",
+   "want": "61441",
+   "got": "61441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 9 6 1 加上 7 8 3 8 9，和是 ",
+   "want": "142350",
+   "got": "142350",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 1 2 2 加上 3 8 3 6 9，和是 ",
+   "want": "112491",
+   "got": "112491",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 5 3 9 加上 7 2 0 6 1，和是 ",
+   "want": "159600",
+   "got": "69500",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "7 0 6 5 5 加上 4 6 5 9 1，和是 ",
+   "want": "117246",
+   "got": "117246",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 9 0 1 加上 6 6 1 1 3，和是 ",
+   "want": "78014",
+   "got": "78014",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 3 2 9 加上 4 2 4 8 3，和是 ",
+   "want": "84812",
+   "got": "84812",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 8 9 9 加上 6 6 9 1 7，和是 ",
+   "want": "119816",
+   "got": "19677",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 5 9 5 1 加上 3 9 1 5 1，和是 ",
+   "want": "125102",
+   "got": "125102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 5 6 4 加上 2 9 5 2 5，和是 ",
+   "want": "117089",
+   "got": "117089",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 1 9 6 加上 1 0 6 6 5，和是 ",
+   "want": "95861",
+   "got": "95861",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 7 5 8 加上 1 5 7 9 6，和是 ",
+   "want": "80554",
+   "got": "80554",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 2 5 0 加上 7 1 6 8 9，和是 ",
+   "want": "86939",
+   "got": "86939",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 6 0 8 8 加上 1 4 4 0 6，和是 ",
+   "want": "90494",
+   "got": "90494",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 7 9 7 加上 7 9 6 1 5，和是 ",
+   "want": "145412",
+   "got": "145412",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 6 8 4 加上 7 2 8 1 8，和是 ",
+   "want": "134502",
+   "got": "134502",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 2 8 4 4 加上 6 9 3 0 2，和是 ",
+   "want": "92146",
+   "got": "92146",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 9 1 8 加上 4 1 5 2 4，和是 ",
+   "want": "116442",
+   "got": "116442",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 8 9 0 加上 8 3 2 0 2，和是 ",
+   "want": "104092",
+   "got": "94092",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "1 1 6 2 8 加上 6 3 2 9 6，和是 ",
+   "want": "74924",
+   "got": "74924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 8 5 7 4 加上 2 7 3 9 4，和是 ",
+   "want": "65968",
+   "got": "65968",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 9 7 6 加上 4 8 7 6 9，和是 ",
+   "want": "105745",
+   "got": "105745",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 3 3 4 加上 9 4 8 8 7，和是 ",
+   "want": "136221",
+   "got": "136221",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 8 9 2 加上 1 2 0 8 7，和是 ",
+   "want": "33979",
+   "got": "33979",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 8 8 6 加上 9 7 6 9 1，和是 ",
+   "want": "170577",
+   "got": "170577",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 9 5 5 加上 3 1 2 0 7，和是 ",
+   "want": "81162",
+   "got": "81162",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 0 1 9 9 加上 8 4 7 6 0，和是 ",
+   "want": "154959",
+   "got": "154959",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 6 5 0 1 加上 1 3 1 9 9，和是 ",
+   "want": "99700",
+   "got": "99701",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 6 1 6 加上 7 0 7 8 6，和是 ",
+   "want": "140402",
+   "got": "140402",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 1 6 9 加上 6 3 1 3 1，和是 ",
+   "want": "91300",
+   "got": "91200",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 2 4 1 加上 5 8 5 5 1，和是 ",
+   "want": "92792",
+   "got": "92792",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 1 5 7 加上 7 0 8 5 6，和是 ",
+   "want": "163013",
+   "got": "163013",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 0 2 1 加上 1 0 1 7 8，和是 ",
+   "want": "103199",
+   "got": "103209",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 2 2 2 加上 1 9 2 6 6，和是 ",
+   "want": "111488",
+   "got": "11478",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "6 0 4 4 6 加上 5 3 6 3 4，和是 ",
+   "want": "114080",
+   "got": "114080",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 5 8 8 加上 1 4 2 8 7，和是 ",
+   "want": "93875",
+   "got": "93875",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 8 7 4 加上 6 5 8 2 3，和是 ",
+   "want": "114697",
+   "got": "114697",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 3 6 1 加上 9 0 2 8 1，和是 ",
+   "want": "135642",
+   "got": "135642",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 0 9 8 加上 8 5 3 9 6，和是 ",
+   "want": "166494",
+   "got": "166494",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 1 5 1 加上 9 9 7 4 0，和是 ",
+   "want": "136891",
+   "got": "136891",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 6 1 1 加上 9 1 3 2 4，和是 ",
+   "want": "111935",
+   "got": "111935",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 0 0 0 加上 1 7 1 8 4，和是 ",
+   "want": "71184",
+   "got": "71184",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 7 4 6 7 加上 9 8 4 2 8，和是 ",
+   "want": "175895",
+   "got": "175895",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 7 0 8 加上 1 6 7 5 8，和是 ",
+   "want": "74466",
+   "got": "74466",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 5 4 4 加上 6 0 1 9 4，和是 ",
+   "want": "84738",
+   "got": "84738",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 9 1 8 加上 7 0 9 9 4，和是 ",
+   "want": "128912",
+   "got": "128912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 1 5 1 加上 1 5 3 5 7，和是 ",
+   "want": "106508",
+   "got": "46508",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "5 7 9 1 6 加上 5 8 0 2 9，和是 ",
+   "want": "115945",
+   "got": "115945",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 9 7 2 加上 9 4 9 5 7，和是 ",
+   "want": "127929",
+   "got": "127929",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 2 4 1 加上 1 8 7 8 2，和是 ",
+   "want": "102023",
+   "got": "102023",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 4 9 9 加上 3 6 8 3 2，和是 ",
+   "want": "120331",
+   "got": "120331",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 1 4 1 加上 5 3 8 9 9，和是 ",
+   "want": "82040",
+   "got": "82040",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 2 7 8 加上 8 0 7 3 0，和是 ",
+   "want": "122008",
+   "got": "122008",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 8 8 4 加上 9 5 0 7 0，和是 ",
+   "want": "119954",
+   "got": "49954",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "7 2 7 1 7 加上 8 6 0 3 7，和是 ",
+   "want": "158754",
+   "got": "158754",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 4 9 8 加上 3 9 5 4 8，和是 ",
+   "want": "77046",
+   "got": "77046",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 0 0 3 加上 5 6 2 3 0，和是 ",
+   "want": "108233",
+   "got": "78233",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "4 5 0 4 3 加上 7 6 0 0 3，和是 ",
+   "want": "121046",
+   "got": "121046",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 1 5 8 加上 6 5 4 3 4，和是 ",
+   "want": "164592",
+   "got": "164592",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 3 2 5 加上 1 7 1 3 8，和是 ",
+   "want": "63463",
+   "got": "63463",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 3 0 5 加上 5 8 8 6 5，和是 ",
+   "want": "77170",
+   "got": "77160",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 2 4 9 加上 6 9 2 9 8，和是 ",
+   "want": "124547",
+   "got": "84447",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "7 3 7 3 0 加上 7 5 7 2 6，和是 ",
+   "want": "149456",
+   "got": "149456",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 0 3 3 加上 2 6 0 8 3，和是 ",
+   "want": "105116",
+   "got": "105116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 6 2 5 加上 7 9 7 1 7，和是 ",
+   "want": "151342",
+   "got": "50342",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 8 9 0 7 加上 7 9 8 4 2，和是 ",
+   "want": "178749",
+   "got": "178759",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 3 0 7 加上 6 9 2 4 1，和是 ",
+   "want": "117548",
+   "got": "117548",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 3 8 9 加上 5 8 2 5 3，和是 ",
+   "want": "149642",
+   "got": "49642",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "9 8 2 5 1 加上 1 8 6 0 1，和是 ",
+   "want": "116852",
+   "got": "116852",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 6 8 7 加上 7 0 0 1 4，和是 ",
+   "want": "104701",
+   "got": "104701",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

@@ -1,0 +1,3231 @@
+{
+ "label": "n30x3_T14增加",
+ "by_rung": {
+  "2": [
+   99,
+   99,
+   0,
+   100
+  ],
+  "3": [
+   97,
+   100,
+   0,
+   100
+  ],
+  "4": [
+   97,
+   100,
+   0,
+   100
+  ],
+  "5": [
+   95,
+   100,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "9 3 增加 1 1 后是多少？",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 增加 9 3 后是多少？",
+   "want": "163",
+   "got": "163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 5 增加 2 9 后是多少？",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 增加 3 9 后是多少？",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 增加 3 6 后是多少？",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 增加 3 9 后是多少？",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 增加 8 5 后是多少？",
+   "want": "161",
+   "got": "161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 增加 6 9 后是多少？",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 9 增加 5 3 后是多少？",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 增加 5 0 后是多少？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 增加 6 4 后是多少？",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 增加 6 3 后是多少？",
+   "want": "162",
+   "got": "162",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 增加 6 6 后是多少？",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 增加 8 1 后是多少？",
+   "want": "148",
+   "got": "148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 增加 5 7 后是多少？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 增加 8 3 后是多少？",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 增加 4 9 后是多少？",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 增加 7 3 后是多少？",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 增加 5 5 后是多少？",
+   "want": "149",
+   "got": "149",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 增加 3 8 后是多少？",
+   "want": "91",
+   "got": "91",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 增加 6 4 后是多少？",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 增加 6 1 后是多少？",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 增加 7 8 后是多少？",
+   "want": "176",
+   "got": "176",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 增加 5 1 后是多少？",
+   "want": "99",
+   "got": "99",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 增加 1 2 后是多少？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2 增加 1 4 后是多少？",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 7 增加 2 9 后是多少？",
+   "want": "56",
+   "got": "56",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 增加 8 2 后是多少？",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 0 增加 8 7 后是多少？",
+   "want": "177",
+   "got": "177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 增加 8 3 后是多少？",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 增加 5 8 后是多少？",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 增加 6 0 后是多少？",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 增加 7 8 后是多少？",
+   "want": "96",
+   "got": "96",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 9 增加 3 4 后是多少？",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 增加 2 3 后是多少？",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 增加 8 2 后是多少？",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 增加 9 1 后是多少？",
+   "want": "158",
+   "got": "158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 增加 2 1 后是多少？",
+   "want": "69",
+   "got": "69",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 增加 2 3 后是多少？",
+   "want": "54",
+   "got": "54",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 增加 8 0 后是多少？",
+   "want": "176",
+   "got": "176",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 增加 1 4 后是多少？",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 增加 8 7 后是多少？",
+   "want": "185",
+   "got": "185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 增加 1 3 后是多少？",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 增加 3 5 后是多少？",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 增加 5 9 后是多少？",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 增加 3 6 后是多少？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 增加 4 7 后是多少？",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 增加 7 7 后是多少？",
+   "want": "171",
+   "got": "171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 增加 6 8 后是多少？",
+   "want": "86",
+   "got": "86",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 7 增加 5 7 后是多少？",
+   "want": "74",
+   "got": "74",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 6 增加 1 1 后是多少？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 1 增加 5 1 后是多少？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 2 增加 6 0 后是多少？",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 增加 2 4 后是多少？",
+   "want": "54",
+   "got": "54",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 6 增加 7 8 后是多少？",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 增加 7 1 后是多少？",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 8 增加 5 9 后是多少？",
+   "want": "77",
+   "got": "77",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 增加 2 6 后是多少？",
+   "want": "62",
+   "got": "62",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 6 增加 4 9 后是多少？",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 5 增加 9 5 后是多少？",
+   "want": "160",
+   "got": "160",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 0 增加 3 0 后是多少？",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 增加 8 3 后是多少？",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 9 增加 8 5 后是多少？",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 增加 7 4 后是多少？",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 增加 6 8 后是多少？",
+   "want": "165",
+   "got": "165",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 增加 3 5 后是多少？",
+   "want": "80",
+   "got": "80",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 0 增加 2 8 后是多少？",
+   "want": "38",
+   "got": "38",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 增加 1 8 后是多少？",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 1 增加 8 7 后是多少？",
+   "want": "148",
+   "got": "148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 增加 7 7 后是多少？",
+   "want": "118",
+   "got": "118",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 增加 8 2 后是多少？",
+   "want": "134",
+   "got": "134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 2 增加 6 8 后是多少？",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 9 增加 8 3 后是多少？",
+   "want": "152",
+   "got": "152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 增加 2 1 后是多少？",
+   "want": "36",
+   "got": "36",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 6 增加 9 2 后是多少？",
+   "want": "138",
+   "got": "138",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 增加 5 4 后是多少？",
+   "want": "122",
+   "got": "122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 增加 4 8 后是多少？",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 0 增加 8 8 后是多少？",
+   "want": "148",
+   "got": "148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 增加 6 3 后是多少？",
+   "want": "95",
+   "got": "95",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 增加 3 2 后是多少？",
+   "want": "73",
+   "got": "73",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 增加 6 5 后是多少？",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 增加 5 9 后是多少？",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 增加 3 3 后是多少？",
+   "want": "127",
+   "got": "127",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 增加 8 2 后是多少？",
+   "want": "181",
+   "got": "181",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 2 增加 6 0 后是多少？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 增加 1 5 后是多少？",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 0 增加 3 0 后是多少？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 5 增加 9 0 后是多少？",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 8 增加 4 7 后是多少？",
+   "want": "125",
+   "got": "25",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "9 5 增加 1 8 后是多少？",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 增加 3 7 后是多少？",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 增加 6 2 后是多少？",
+   "want": "135",
+   "got": "135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 0 增加 2 5 后是多少？",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 增加 1 9 后是多少？",
+   "want": "76",
+   "got": "76",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 增加 7 4 后是多少？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 增加 6 2 后是多少？",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 7 增加 3 1 后是多少？",
+   "want": "98",
+   "got": "98",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 增加 3 6 后是多少？",
+   "want": "78",
+   "got": "78",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4 增加 1 5 后是多少？",
+   "want": "89",
+   "got": "89",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 9 增加 1 3 后是多少？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 4 增加 7 5 4 后是多少？",
+   "want": "928",
+   "got": "928",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 1 增加 7 9 1 后是多少？",
+   "want": "1602",
+   "got": "1602",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 7 增加 5 7 2 后是多少？",
+   "want": "1439",
+   "got": "1439",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 0 增加 4 5 1 后是多少？",
+   "want": "941",
+   "got": "941",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 3 增加 5 0 8 后是多少？",
+   "want": "1371",
+   "got": "1371",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 6 增加 2 9 9 后是多少？",
+   "want": "1275",
+   "got": "1275",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 6 增加 1 3 8 后是多少？",
+   "want": "644",
+   "got": "644",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 0 增加 3 5 6 后是多少？",
+   "want": "466",
+   "got": "466",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 7 增加 8 2 6 后是多少？",
+   "want": "1043",
+   "got": "1043",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 9 增加 4 3 4 后是多少？",
+   "want": "673",
+   "got": "673",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 6 增加 8 6 6 后是多少？",
+   "want": "1652",
+   "got": "1652",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 5 增加 5 9 6 后是多少？",
+   "want": "1171",
+   "got": "1171",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 7 2 增加 1 6 9 后是多少？",
+   "want": "741",
+   "got": "741",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 4 增加 6 6 1 后是多少？",
+   "want": "845",
+   "got": "845",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 2 增加 3 4 8 后是多少？",
+   "want": "1120",
+   "got": "1120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 3 0 增加 5 4 8 后是多少？",
+   "want": "1378",
+   "got": "1378",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 3 增加 5 8 2 后是多少？",
+   "want": "825",
+   "got": "825",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 0 增加 3 8 5 后是多少？",
+   "want": "1325",
+   "got": "1325",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 6 1 增加 2 6 5 后是多少？",
+   "want": "1226",
+   "got": "1226",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 4 增加 9 5 8 后是多少？",
+   "want": "1232",
+   "got": "1232",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 8 增加 7 2 1 后是多少？",
+   "want": "839",
+   "got": "839",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 2 增加 2 8 1 后是多少？",
+   "want": "483",
+   "got": "483",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 1 增加 2 2 7 后是多少？",
+   "want": "628",
+   "got": "628",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 7 增加 8 5 9 后是多少？",
+   "want": "1506",
+   "got": "1506",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 0 增加 2 7 2 后是多少？",
+   "want": "772",
+   "got": "772",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 9 增加 7 8 7 后是多少？",
+   "want": "966",
+   "got": "966",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 1 增加 1 1 1 后是多少？",
+   "want": "992",
+   "got": "992",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 3 增加 3 7 9 后是多少？",
+   "want": "1172",
+   "got": "1172",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 7 增加 5 5 1 后是多少？",
+   "want": "808",
+   "got": "808",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 6 6 增加 2 8 2 后是多少？",
+   "want": "748",
+   "got": "748",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 1 增加 8 3 1 后是多少？",
+   "want": "1152",
+   "got": "1152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 3 5 增加 7 9 1 后是多少？",
+   "want": "926",
+   "got": "926",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 5 增加 3 2 1 后是多少？",
+   "want": "966",
+   "got": "966",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 2 增加 8 1 3 后是多少？",
+   "want": "1365",
+   "got": "1365",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 4 8 增加 9 5 6 后是多少？",
+   "want": "1104",
+   "got": "1104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 0 增加 9 3 0 后是多少？",
+   "want": "1680",
+   "got": "1680",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 5 增加 7 5 6 后是多少？",
+   "want": "1391",
+   "got": "1391",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 8 增加 8 3 3 后是多少？",
+   "want": "1611",
+   "got": "1611",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 5 增加 2 0 5 后是多少？",
+   "want": "980",
+   "got": "980",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 9 增加 8 0 6 后是多少？",
+   "want": "1305",
+   "got": "1305",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 5 增加 5 5 4 后是多少？",
+   "want": "969",
+   "got": "969",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 5 3 增加 7 1 2 后是多少？",
+   "want": "865",
+   "got": "865",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 4 增加 1 4 9 后是多少？",
+   "want": "253",
+   "got": "253",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 9 0 增加 4 8 6 后是多少？",
+   "want": "1376",
+   "got": "1376",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 8 5 增加 3 0 6 后是多少？",
+   "want": "1191",
+   "got": "1191",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 5 增加 4 8 3 后是多少？",
+   "want": "838",
+   "got": "838",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 4 4 增加 3 0 4 后是多少？",
+   "want": "648",
+   "got": "648",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 3 增加 1 1 6 后是多少？",
+   "want": "309",
+   "got": "309",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 1 增加 1 2 8 后是多少？",
+   "want": "659",
+   "got": "659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 4 增加 4 4 5 后是多少？",
+   "want": "559",
+   "got": "599",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 0 增加 2 9 6 后是多少？",
+   "want": "1236",
+   "got": "1236",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 6 增加 7 8 5 后是多少？",
+   "want": "1581",
+   "got": "1581",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 4 增加 3 2 5 后是多少？",
+   "want": "489",
+   "got": "489",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 8 增加 9 1 6 后是多少？",
+   "want": "1114",
+   "got": "1114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 5 增加 9 5 0 后是多少？",
+   "want": "1905",
+   "got": "1905",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 8 0 增加 2 7 1 后是多少？",
+   "want": "1051",
+   "got": "1051",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 1 增加 2 7 1 后是多少？",
+   "want": "1112",
+   "got": "1112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 4 5 增加 5 2 5 后是多少？",
+   "want": "670",
+   "got": "670",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 4 增加 2 1 0 后是多少？",
+   "want": "834",
+   "got": "834",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 5 增加 4 3 4 后是多少？",
+   "want": "1369",
+   "got": "1369",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 0 增加 6 7 5 后是多少？",
+   "want": "1105",
+   "got": "1105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 1 增加 2 9 4 后是多少？",
+   "want": "1035",
+   "got": "1035",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 3 9 增加 3 1 2 后是多少？",
+   "want": "1051",
+   "got": "1051",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 4 增加 5 0 4 后是多少？",
+   "want": "1158",
+   "got": "1158",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 3 8 增加 2 2 3 后是多少？",
+   "want": "761",
+   "got": "761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 3 7 增加 3 1 8 后是多少？",
+   "want": "655",
+   "got": "655",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 8 增加 4 6 5 后是多少？",
+   "want": "673",
+   "got": "673",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 1 增加 2 7 7 后是多少？",
+   "want": "708",
+   "got": "708",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 5 增加 5 1 1 后是多少？",
+   "want": "626",
+   "got": "627",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 9 增加 4 2 3 后是多少？",
+   "want": "1192",
+   "got": "1192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 1 2 增加 4 9 8 后是多少？",
+   "want": "610",
+   "got": "610",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 1 7 增加 5 6 9 后是多少？",
+   "want": "886",
+   "got": "886",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 5 增加 1 6 7 后是多少？",
+   "want": "492",
+   "got": "492",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 3 增加 9 3 4 后是多少？",
+   "want": "1707",
+   "got": "1707",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 5 增加 7 6 5 后是多少？",
+   "want": "1150",
+   "got": "1150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 3 8 增加 4 7 7 后是多少？",
+   "want": "1215",
+   "got": "1215",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 4 4 增加 1 6 8 后是多少？",
+   "want": "312",
+   "got": "312",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 3 增加 5 2 0 后是多少？",
+   "want": "843",
+   "got": "843",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 8 增加 8 8 5 后是多少？",
+   "want": "1293",
+   "got": "1293",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 3 增加 6 1 1 后是多少？",
+   "want": "1324",
+   "got": "1324",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 4 增加 8 2 9 后是多少？",
+   "want": "1033",
+   "got": "1033",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 9 增加 9 1 0 后是多少？",
+   "want": "1559",
+   "got": "1559",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 0 增加 6 8 2 后是多少？",
+   "want": "1652",
+   "got": "1652",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 5 增加 3 5 7 后是多少？",
+   "want": "632",
+   "got": "632",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 7 增加 7 1 4 后是多少？",
+   "want": "911",
+   "got": "911",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 2 增加 7 4 6 后是多少？",
+   "want": "1178",
+   "got": "1178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 3 增加 4 9 7 后是多少？",
+   "want": "1310",
+   "got": "1310",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 9 4 增加 8 8 9 后是多少？",
+   "want": "1683",
+   "got": "1683",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 1 0 增加 2 3 6 后是多少？",
+   "want": "1046",
+   "got": "1046",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 4 0 增加 2 7 9 后是多少？",
+   "want": "719",
+   "got": "719",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 0 增加 8 7 9 后是多少？",
+   "want": "1629",
+   "got": "1629",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 0 4 增加 4 2 5 后是多少？",
+   "want": "1229",
+   "got": "1229",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 1 增加 7 8 2 后是多少？",
+   "want": "1753",
+   "got": "1753",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 9 3 增加 1 6 9 后是多少？",
+   "want": "762",
+   "got": "762",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 4 3 增加 1 1 8 后是多少？",
+   "want": "561",
+   "got": "561",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 3 增加 6 9 9 后是多少？",
+   "want": "1422",
+   "got": "1422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 9 增加 4 9 1 后是多少？",
+   "want": "1050",
+   "got": "1050",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 3 增加 7 5 5 后是多少？",
+   "want": "1378",
+   "got": "1378",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 5 9 增加 3 3 8 后是多少？",
+   "want": "1197",
+   "got": "1197",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 5 增加 7 0 1 后是多少？",
+   "want": "1316",
+   "got": "1317",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 2 1 7 增加 4 8 1 1 后是多少？",
+   "want": "6028",
+   "got": "6028",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 4 7 增加 3 0 3 2 后是多少？",
+   "want": "4379",
+   "got": "4379",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 6 0 增加 4 8 7 3 后是多少？",
+   "want": "10933",
+   "got": "10933",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 0 2 0 增加 4 9 9 0 后是多少？",
+   "want": "13010",
+   "got": "13010",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 0 0 增加 1 9 8 1 后是多少？",
+   "want": "4281",
+   "got": "4281",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 5 3 增加 7 1 3 6 后是多少？",
+   "want": "10389",
+   "got": "10389",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 7 1 增加 5 8 5 9 后是多少？",
+   "want": "15030",
+   "got": "15030",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 0 9 增加 3 4 8 4 后是多少？",
+   "want": "7793",
+   "got": "7793",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 5 6 增加 4 3 4 8 后是多少？",
+   "want": "11504",
+   "got": "11504",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 2 1 增加 4 9 0 0 后是多少？",
+   "want": "6521",
+   "got": "6521",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 7 0 增加 6 3 8 5 后是多少？",
+   "want": "14655",
+   "got": "14655",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 1 9 9 增加 5 5 5 6 后是多少？",
+   "want": "8755",
+   "got": "8755",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 2 0 2 增加 1 6 4 8 后是多少？",
+   "want": "7850",
+   "got": "7850",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 3 3 增加 7 7 9 7 后是多少？",
+   "want": "17330",
+   "got": "17330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 2 6 增加 1 3 8 8 后是多少？",
+   "want": "7114",
+   "got": "7114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 5 2 增加 6 4 2 7 后是多少？",
+   "want": "11179",
+   "got": "11179",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 1 5 增加 4 9 6 9 后是多少？",
+   "want": "11584",
+   "got": "11584",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 7 2 增加 9 8 3 6 后是多少？",
+   "want": "14208",
+   "got": "14208",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 8 8 5 增加 5 0 6 8 后是多少？",
+   "want": "6953",
+   "got": "6953",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 4 4 增加 7 2 5 0 后是多少？",
+   "want": "11894",
+   "got": "11894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 4 3 增加 6 2 6 9 后是多少？",
+   "want": "15812",
+   "got": "15812",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 0 7 增加 8 2 4 7 后是多少？",
+   "want": "12254",
+   "got": "12254",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 9 9 增加 2 0 5 8 后是多少？",
+   "want": "3157",
+   "got": "3157",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 5 5 增加 2 1 4 6 后是多少？",
+   "want": "11201",
+   "got": "11200",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 5 3 增加 1 8 5 3 后是多少？",
+   "want": "6006",
+   "got": "5006",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 1 8 增加 4 3 4 5 后是多少？",
+   "want": "7663",
+   "got": "7663",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 5 7 增加 2 5 0 3 后是多少？",
+   "want": "5560",
+   "got": "5560",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 4 5 增加 9 9 9 2 后是多少？",
+   "want": "13837",
+   "got": "13837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 4 8 增加 4 8 7 1 后是多少？",
+   "want": "9219",
+   "got": "9219",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 1 3 增加 2 2 8 0 后是多少？",
+   "want": "11593",
+   "got": "11593",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 8 3 增加 8 6 5 2 后是多少？",
+   "want": "16635",
+   "got": "16635",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 0 3 增加 3 6 8 9 后是多少？",
+   "want": "9792",
+   "got": "9792",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 3 6 增加 5 0 1 2 后是多少？",
+   "want": "9248",
+   "got": "9248",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 4 7 增加 3 8 9 0 后是多少？",
+   "want": "11837",
+   "got": "11837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 7 9 增加 5 9 6 6 后是多少？",
+   "want": "11045",
+   "got": "11045",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 7 5 增加 8 3 4 4 后是多少？",
+   "want": "14019",
+   "got": "14019",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 2 9 9 增加 5 4 5 4 后是多少？",
+   "want": "9753",
+   "got": "9753",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 8 3 增加 2 3 1 0 后是多少？",
+   "want": "11193",
+   "got": "11193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 9 1 增加 7 5 2 4 后是多少？",
+   "want": "14415",
+   "got": "14415",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 8 8 增加 3 7 4 8 后是多少？",
+   "want": "10936",
+   "got": "10936",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 7 1 2 增加 8 2 3 1 后是多少？",
+   "want": "16943",
+   "got": "16943",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 2 5 增加 9 2 7 8 后是多少？",
+   "want": "17203",
+   "got": "17203",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 0 1 增加 3 5 5 3 后是多少？",
+   "want": "11654",
+   "got": "11654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 9 7 增加 1 3 2 4 后是多少？",
+   "want": "10221",
+   "got": "10221",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 4 9 增加 8 0 0 2 后是多少？",
+   "want": "15251",
+   "got": "15251",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 6 3 增加 5 9 1 8 后是多少？",
+   "want": "8281",
+   "got": "8281",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 8 0 1 增加 3 5 0 3 后是多少？",
+   "want": "13304",
+   "got": "13304",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 8 7 8 增加 5 2 1 5 后是多少？",
+   "want": "9093",
+   "got": "9093",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 3 3 增加 8 5 9 6 后是多少？",
+   "want": "15829",
+   "got": "15829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 1 1 增加 8 4 3 1 后是多少？",
+   "want": "14442",
+   "got": "14442",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 6 4 0 增加 7 1 4 6 后是多少？",
+   "want": "12786",
+   "got": "12786",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 7 8 增加 2 1 7 8 后是多少？",
+   "want": "11056",
+   "got": "11056",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 4 5 9 增加 3 2 3 8 后是多少？",
+   "want": "9697",
+   "got": "9697",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 6 8 8 增加 4 2 0 6 后是多少？",
+   "want": "12894",
+   "got": "12894",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 3 5 增加 4 1 0 6 后是多少？",
+   "want": "7641",
+   "got": "7641",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 6 8 增加 1 2 1 0 后是多少？",
+   "want": "2278",
+   "got": "2278",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 0 3 增加 7 1 3 1 后是多少？",
+   "want": "16334",
+   "got": "16334",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 5 1 增加 7 6 2 8 后是多少？",
+   "want": "16679",
+   "got": "16679",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 1 2 增加 7 4 6 5 后是多少？",
+   "want": "15277",
+   "got": "15277",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 1 3 增加 7 2 9 2 后是多少？",
+   "want": "14405",
+   "got": "14405",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 2 0 增加 6 0 4 3 后是多少？",
+   "want": "15063",
+   "got": "15063",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 6 7 增加 7 6 9 7 后是多少？",
+   "want": "9864",
+   "got": "9864",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 3 6 增加 3 0 3 9 后是多少？",
+   "want": "4675",
+   "got": "4675",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 0 4 增加 3 6 6 0 后是多少？",
+   "want": "10964",
+   "got": "10964",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 8 2 增加 8 1 4 8 后是多少？",
+   "want": "12330",
+   "got": "12330",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 8 2 增加 6 7 1 1 后是多少？",
+   "want": "11893",
+   "got": "11893",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 4 9 增加 9 0 0 5 后是多少？",
+   "want": "18354",
+   "got": "18354",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 0 3 2 增加 1 9 4 5 后是多少？",
+   "want": "8977",
+   "got": "8977",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 1 3 增加 7 9 4 7 后是多少？",
+   "want": "15260",
+   "got": "15260",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 4 3 增加 4 9 7 0 后是多少？",
+   "want": "10013",
+   "got": "10013",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 8 2 7 增加 1 5 6 5 后是多少？",
+   "want": "10392",
+   "got": "10392",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 9 2 1 增加 1 4 6 2 后是多少？",
+   "want": "8383",
+   "got": "8383",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 2 2 增加 5 2 8 1 后是多少？",
+   "want": "8703",
+   "got": "8703",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 6 2 增加 3 4 1 4 后是多少？",
+   "want": "11876",
+   "got": "11876",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 6 6 增加 5 0 5 3 后是多少？",
+   "want": "10219",
+   "got": "10219",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 4 4 增加 1 2 0 2 后是多少？",
+   "want": "4846",
+   "got": "4846",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 1 2 增加 2 5 1 2 后是多少？",
+   "want": "5424",
+   "got": "5424",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 9 7 增加 7 5 1 5 后是多少？",
+   "want": "14812",
+   "got": "14812",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 3 1 6 增加 9 4 9 5 后是多少？",
+   "want": "11811",
+   "got": "11811",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 0 9 3 增加 7 9 2 9 后是多少？",
+   "want": "12022",
+   "got": "12022",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 1 6 增加 7 9 9 3 后是多少？",
+   "want": "11709",
+   "got": "11709",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 4 3 增加 5 9 5 1 后是多少？",
+   "want": "11094",
+   "got": "11094",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 0 2 增加 9 7 3 5 后是多少？",
+   "want": "18937",
+   "got": "18937",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 7 1 增加 6 0 4 5 后是多少？",
+   "want": "13316",
+   "got": "13316",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 4 3 增加 2 4 5 6 后是多少？",
+   "want": "10199",
+   "got": "10199",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 9 0 增加 6 6 4 2 后是多少？",
+   "want": "9432",
+   "got": "9432",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 3 8 增加 5 4 0 7 后是多少？",
+   "want": "8745",
+   "got": "8745",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 4 3 2 增加 7 5 2 0 后是多少？",
+   "want": "11952",
+   "got": "11952",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 4 7 增加 1 1 0 5 后是多少？",
+   "want": "7152",
+   "got": "7152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 5 9 增加 9 0 5 6 后是多少？",
+   "want": "12815",
+   "got": "12815",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 0 2 5 增加 2 5 8 7 后是多少？",
+   "want": "3612",
+   "got": "3612",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 1 4 4 增加 7 8 4 5 后是多少？",
+   "want": "9989",
+   "got": "9989",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 0 0 增加 7 8 2 9 后是多少？",
+   "want": "17429",
+   "got": "17429",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 7 2 4 增加 8 0 6 0 后是多少？",
+   "want": "13784",
+   "got": "13784",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 9 5 增加 3 8 9 0 后是多少？",
+   "want": "7685",
+   "got": "7675",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 3 8 增加 4 0 5 3 后是多少？",
+   "want": "11191",
+   "got": "11191",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 0 0 增加 4 2 4 4 后是多少？",
+   "want": "7444",
+   "got": "7444",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 9 7 0 增加 3 9 8 1 后是多少？",
+   "want": "12951",
+   "got": "12951",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 3 4 增加 2 8 0 6 后是多少？",
+   "want": "12040",
+   "got": "12040",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 8 3 增加 4 4 8 2 后是多少？",
+   "want": "12865",
+   "got": "12865",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 3 3 1 增加 3 6 3 3 7 后是多少？",
+   "want": "70668",
+   "got": "70668",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 7 7 3 0 增加 3 3 9 5 0 后是多少？",
+   "want": "51680",
+   "got": "51680",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 5 1 5 0 增加 4 3 9 9 3 后是多少？",
+   "want": "79143",
+   "got": "79143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 3 5 8 1 增加 6 7 7 6 7 后是多少？",
+   "want": "131348",
+   "got": "131348",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 2 1 6 0 增加 9 1 8 4 4 后是多少？",
+   "want": "184004",
+   "got": "183004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 3 1 2 增加 9 3 4 1 8 后是多少？",
+   "want": "117730",
+   "got": "117730",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 1 7 7 4 增加 2 0 4 6 0 后是多少？",
+   "want": "52234",
+   "got": "52234",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 4 2 0 增加 2 1 2 3 3 后是多少？",
+   "want": "69653",
+   "got": "69653",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 5 0 9 增加 2 6 3 4 2 后是多少？",
+   "want": "85851",
+   "got": "85851",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 2 7 5 增加 1 8 4 2 3 后是多少？",
+   "want": "64698",
+   "got": "64698",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 8 4 6 增加 1 3 8 8 8 后是多少？",
+   "want": "68734",
+   "got": "68734",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 6 7 6 1 增加 4 0 7 7 3 后是多少？",
+   "want": "127534",
+   "got": "127534",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 6 3 8 增加 7 3 5 9 5 后是多少？",
+   "want": "146233",
+   "got": "146233",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 1 8 5 增加 2 3 2 1 3 后是多少？",
+   "want": "121398",
+   "got": "121398",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 2 4 6 增加 1 8 0 0 2 后是多少？",
+   "want": "29248",
+   "got": "30248",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 8 7 5 增加 1 0 9 4 7 后是多少？",
+   "want": "55822",
+   "got": "55822",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 2 0 5 增加 8 6 3 4 2 后是多少？",
+   "want": "183547",
+   "got": "183547",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 5 4 8 6 增加 2 2 6 9 3 后是多少？",
+   "want": "38179",
+   "got": "38179",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 6 6 5 增加 7 8 4 6 3 后是多少？",
+   "want": "116128",
+   "got": "116128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 9 5 1 增加 5 9 2 3 9 后是多少？",
+   "want": "70190",
+   "got": "70190",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 0 3 4 增加 7 8 1 6 7 后是多少？",
+   "want": "167201",
+   "got": "167201",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 4 8 4 3 增加 7 3 6 9 1 后是多少？",
+   "want": "118534",
+   "got": "118534",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 0 2 7 增加 5 4 1 7 5 后是多少？",
+   "want": "126202",
+   "got": "126202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 2 1 6 增加 6 6 2 8 9 后是多少？",
+   "want": "155505",
+   "got": "155505",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 1 1 2 增加 5 8 5 9 9 后是多少？",
+   "want": "112711",
+   "got": "112711",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 3 7 2 增加 5 4 9 6 7 后是多少？",
+   "want": "154339",
+   "got": "154339",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 1 3 1 7 增加 4 1 4 0 4 后是多少？",
+   "want": "92721",
+   "got": "92721",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 3 4 4 增加 9 7 1 7 3 后是多少？",
+   "want": "154517",
+   "got": "154517",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 2 2 8 增加 5 9 6 0 2 后是多少？",
+   "want": "121830",
+   "got": "121830",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 0 5 9 增加 1 7 5 0 2 后是多少？",
+   "want": "107561",
+   "got": "107561",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 6 6 5 增加 5 3 2 8 7 后是多少？",
+   "want": "109952",
+   "got": "109952",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 3 1 3 0 增加 1 0 4 0 4 后是多少？",
+   "want": "33534",
+   "got": "33534",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 8 8 9 增加 6 2 6 6 5 后是多少？",
+   "want": "132554",
+   "got": "132554",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 2 0 1 增加 1 3 3 6 5 后是多少？",
+   "want": "41566",
+   "got": "41566",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 8 9 3 增加 2 6 1 0 8 后是多少？",
+   "want": "115001",
+   "got": "115001",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 9 5 5 0 增加 4 6 6 3 0 后是多少？",
+   "want": "126180",
+   "got": "126180",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 2 5 7 6 增加 5 8 2 9 0 后是多少？",
+   "want": "100866",
+   "got": "100866",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 9 2 3 3 增加 9 1 0 4 8 后是多少？",
+   "want": "160281",
+   "got": "160281",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 9 3 9 增加 9 6 3 6 0 后是多少？",
+   "want": "196299",
+   "got": "196299",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 2 8 5 增加 7 7 4 9 0 后是多少？",
+   "want": "149775",
+   "got": "149775",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 1 4 9 增加 9 6 5 3 7 后是多少？",
+   "want": "160686",
+   "got": "160686",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 6 3 3 增加 1 0 4 1 0 后是多少？",
+   "want": "45043",
+   "got": "45043",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 6 3 3 增加 5 2 2 2 9 后是多少？",
+   "want": "145862",
+   "got": "145862",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 1 7 9 增加 9 3 0 7 0 后是多少？",
+   "want": "105249",
+   "got": "105249",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 7 2 1 2 增加 1 5 9 9 7 后是多少？",
+   "want": "73209",
+   "got": "73209",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 6 6 7 增加 9 8 8 5 7 后是多少？",
+   "want": "151524",
+   "got": "151524",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 8 2 3 6 增加 4 0 6 1 2 后是多少？",
+   "want": "108848",
+   "got": "108848",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 5 2 9 增加 7 3 5 0 9 后是多少？",
+   "want": "163038",
+   "got": "163038",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 4 5 0 增加 9 0 2 9 3 后是多少？",
+   "want": "152743",
+   "got": "152743",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 6 6 5 增加 5 5 6 5 6 后是多少？",
+   "want": "76321",
+   "got": "76321",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 0 8 7 增加 7 2 4 0 6 后是多少？",
+   "want": "138493",
+   "got": "138493",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 2 8 9 增加 2 3 1 6 6 后是多少？",
+   "want": "119455",
+   "got": "119455",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 4 4 4 增加 4 8 5 1 7 后是多少？",
+   "want": "108961",
+   "got": "108961",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 9 5 8 3 增加 3 5 5 6 9 后是多少？",
+   "want": "125152",
+   "got": "125152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 7 6 4 增加 7 8 1 6 4 后是多少？",
+   "want": "106928",
+   "got": "106928",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 9 5 9 增加 7 6 1 4 3 后是多少？",
+   "want": "161102",
+   "got": "161002",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 1 6 0 增加 2 6 7 5 9 后是多少？",
+   "want": "40919",
+   "got": "40919",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 5 2 6 4 增加 2 1 4 1 5 后是多少？",
+   "want": "96679",
+   "got": "96679",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 4 9 8 增加 9 8 2 1 9 后是多少？",
+   "want": "147717",
+   "got": "147717",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 9 2 5 增加 7 1 1 8 4 后是多少？",
+   "want": "153109",
+   "got": "153109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 0 2 7 增加 6 8 4 9 5 后是多少？",
+   "want": "100522",
+   "got": "100522",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 1 6 2 增加 7 3 1 9 8 后是多少？",
+   "want": "98360",
+   "got": "98360",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 8 5 3 增加 8 0 8 6 6 后是多少？",
+   "want": "177719",
+   "got": "177719",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 5 7 5 增加 4 1 8 9 7 后是多少？",
+   "want": "83472",
+   "got": "83472",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 7 4 0 增加 3 2 3 3 8 后是多少？",
+   "want": "70078",
+   "got": "70078",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 4 7 4 增加 2 1 7 2 2 后是多少？",
+   "want": "118196",
+   "got": "118196",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 3 8 2 4 增加 6 7 0 0 2 后是多少？",
+   "want": "90826",
+   "got": "90826",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 3 8 3 0 增加 3 1 0 0 2 后是多少？",
+   "want": "44832",
+   "got": "44832",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 7 9 5 增加 6 0 2 6 4 后是多少？",
+   "want": "113059",
+   "got": "112059",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 6 7 4 7 增加 3 8 8 8 5 后是多少？",
+   "want": "85632",
+   "got": "85632",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 7 6 7 增加 9 7 2 8 5 后是多少？",
+   "want": "141052",
+   "got": "141052",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 4 2 9 增加 9 7 8 9 7 后是多少？",
+   "want": "170326",
+   "got": "170326",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 1 3 4 增加 9 7 2 2 5 后是多少？",
+   "want": "123359",
+   "got": "123359",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 7 9 3 增加 8 0 0 6 3 后是多少？",
+   "want": "107856",
+   "got": "107856",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 0 4 0 增加 7 4 4 8 2 后是多少？",
+   "want": "167522",
+   "got": "167522",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 8 5 4 增加 5 3 6 2 0 后是多少？",
+   "want": "75474",
+   "got": "75474",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 3 3 4 增加 8 5 4 9 3 后是多少？",
+   "want": "124827",
+   "got": "124827",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 7 3 2 增加 1 8 4 7 6 后是多少？",
+   "want": "107208",
+   "got": "107208",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 4 4 0 8 增加 5 4 9 8 7 后是多少？",
+   "want": "149395",
+   "got": "149395",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 4 1 5 增加 6 0 0 2 3 后是多少？",
+   "want": "119438",
+   "got": "119438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 5 7 1 0 增加 9 4 1 6 1 后是多少？",
+   "want": "189871",
+   "got": "189871",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 6 4 9 增加 6 7 2 7 3 后是多少？",
+   "want": "150922",
+   "got": "150922",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 5 8 7 增加 3 9 3 0 1 后是多少？",
+   "want": "79888",
+   "got": "79888",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 9 5 9 增加 2 5 1 6 3 后是多少？",
+   "want": "69122",
+   "got": "69122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 1 3 8 增加 2 1 4 9 2 后是多少？",
+   "want": "69630",
+   "got": "69630",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 5 9 9 增加 2 1 6 8 3 后是多少？",
+   "want": "46282",
+   "got": "46282",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 5 9 5 增加 8 7 6 2 0 后是多少？",
+   "want": "142215",
+   "got": "142215",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 6 6 2 增加 2 5 2 1 8 后是多少？",
+   "want": "59880",
+   "got": "59880",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 5 0 8 3 增加 5 8 2 0 0 后是多少？",
+   "want": "143283",
+   "got": "143283",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 7 0 0 增加 5 1 0 7 4 后是多少？",
+   "want": "77774",
+   "got": "77774",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 8 3 2 增加 8 5 6 1 7 后是多少？",
+   "want": "145449",
+   "got": "145449",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 2 2 0 增加 5 0 7 3 7 后是多少？",
+   "want": "60957",
+   "got": "60957",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 8 1 1 1 增加 8 7 3 4 0 后是多少？",
+   "want": "105451",
+   "got": "105451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 0 2 0 2 增加 3 4 8 8 5 后是多少？",
+   "want": "115087",
+   "got": "115087",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 8 7 5 增加 6 5 5 3 5 后是多少？",
+   "want": "126410",
+   "got": "126409",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 1 8 9 6 增加 5 7 8 4 4 后是多少？",
+   "want": "109740",
+   "got": "109740",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 0 3 7 增加 2 6 5 5 5 后是多少？",
+   "want": "125592",
+   "got": "125592",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 8 1 2 4 增加 9 6 9 9 8 后是多少？",
+   "want": "175122",
+   "got": "175122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 8 5 5 增加 8 7 4 3 4 后是多少？",
+   "want": "176289",
+   "got": "176289",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 1 1 6 增加 2 3 9 7 0 后是多少？",
+   "want": "63086",
+   "got": "63086",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}

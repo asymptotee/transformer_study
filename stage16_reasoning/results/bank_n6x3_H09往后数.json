@@ -1,0 +1,3231 @@
+{
+ "label": "n6x3_H09往后数",
+ "by_rung": {
+  "2": [
+   8,
+   17,
+   0,
+   100
+  ],
+  "3": [
+   13,
+   38,
+   0,
+   100
+  ],
+  "4": [
+   17,
+   52,
+   0,
+   100
+  ],
+  "5": [
+   12,
+   65,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "从 2 4 开始往后数 8 0 个，得到 ",
+   "want": "104",
+   "got": "84930+96930=117363",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 9 开始往后数 4 1 个，得到 ",
+   "want": "100",
+   "got": "76891+86920=118811",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 2 开始往后数 2 6 个，得到 ",
+   "want": "98",
+   "got": "98991=125682",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 8 开始往后数 3 7 个，得到 ",
+   "want": "95",
+   "got": "83933+42280=130213",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 8 开始往后数 8 2 个，得到 ",
+   "want": "100",
+   "got": "9492+4491=9773",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 5 5 个，得到 ",
+   "want": "139",
+   "got": "39930+85500=145430",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 2 开始往后数 5 8 个，得到 ",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 8 8 开始往后数 9 1 个，得到 ",
+   "want": "179",
+   "got": "179",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 5 2 开始往后数 5 5 个，得到 ",
+   "want": "107",
+   "got": "67930+85230=143160",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 3 0 个，得到 ",
+   "want": "114",
+   "got": "84903+55500=125403",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 1 开始往后数 3 3 个，得到 ",
+   "want": "124",
+   "got": "84733+16920=110653",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 2 开始往后数 9 7 个，得到 ",
+   "want": "169",
+   "got": "79991=177682",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 6 开始往后数 5 8 个，得到 ",
+   "want": "124",
+   "got": "124元，一共多少元？82",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 3 开始往后数 2 1 个，得到 ",
+   "want": "64",
+   "got": "64990+64920=86822",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 8 开始往后数 8 7 个，得到 ",
+   "want": "135",
+   "got": "34933+86920=134853",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 5 开始往后数 1 3 个，得到 ",
+   "want": "28",
+   "got": "26元，一共多少元？29",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 7 开始往后数 8 0 个，得到 ",
+   "want": "117",
+   "got": "87791+64920=148711",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 1 开始往后数 1 0 个，得到 ",
+   "want": "61",
+   "got": "651",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 2 开始往后数 5 2 个，得到 ",
+   "want": "84",
+   "got": "87990+84920=130210",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 3 开始往后数 1 8 个，得到 ",
+   "want": "71",
+   "got": "7392",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 6 开始往后数 4 4 个，得到 ",
+   "want": "80",
+   "got": "98933加上89923等于几？134556",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 6 开始往后数 9 7 个，得到 ",
+   "want": "143",
+   "got": "43",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 2 开始往后数 8 0 个，得到 ",
+   "want": "122",
+   "got": "621",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 1 开始往后数 7 1 个，得到 ",
+   "want": "132",
+   "got": "721",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 2 8 开始往后数 3 3 个，得到 ",
+   "want": "61",
+   "got": "559",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 8 开始往后数 7 8 个，得到 ",
+   "want": "156",
+   "got": "89998+84920=164918",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 9 开始往后数 8 3 个，得到 ",
+   "want": "122",
+   "got": "921",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 0 开始往后数 4 8 个，得到 ",
+   "want": "58",
+   "got": "581",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 0 开始往后数 4 0 个，得到 ",
+   "want": "110",
+   "got": "7150元",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 9 开始往后数 1 8 个，得到 ",
+   "want": "57",
+   "got": "4692+7490=12382",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 2 开始往后数 5 6 个，得到 ",
+   "want": "98",
+   "got": "98930+86920=149550",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 5 开始往后数 5 8 个，得到 ",
+   "want": "103",
+   "got": "103000+79500=133500",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 9 开始往后数 2 0 个，得到 ",
+   "want": "119",
+   "got": "89907+86908=117005",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 7 开始往后数 9 7 个，得到 ",
+   "want": "154",
+   "got": "43794+94920=152714",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 1 开始往后数 4 7 个，得到 ",
+   "want": "118",
+   "got": "88999+64920=130919",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 3 5 个，得到 ",
+   "want": "119",
+   "got": "99933+85500=125433",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 9 开始往后数 5 5 个，得到 ",
+   "want": "84",
+   "got": "87930+84920=143850",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 1 开始往后数 2 4 个，得到 ",
+   "want": "45",
+   "got": "46999+74920=100919",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 3 开始往后数 9 9 个，得到 ",
+   "want": "142",
+   "got": "73",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 5 开始往后数 6 8 个，得到 ",
+   "want": "153",
+   "got": "43030+86520=130550",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 7 开始往后数 7 6 个，得到 ",
+   "want": "153",
+   "got": "89998+86900=166898",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 9 开始往后数 8 5 个，得到 ",
+   "want": "154",
+   "got": "44933+85500=134433",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 0 开始往后数 3 7 个，得到 ",
+   "want": "87",
+   "got": "871",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 8 开始往后数 2 7 个，得到 ",
+   "want": "45",
+   "got": "39998+44920=73818",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 8 开始往后数 1 1 个，得到 ",
+   "want": "109",
+   "got": "109",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 4 7 开始往后数 1 1 个，得到 ",
+   "want": "58",
+   "got": "58891+64920=76811",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 5 1 个，得到 ",
+   "want": "135",
+   "got": "35=125",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 6 开始往后数 4 1 个，得到 ",
+   "want": "87",
+   "got": "871",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 6 开始往后数 7 3 个，得到 ",
+   "want": "139",
+   "got": "39093+99920=172913",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 3 开始往后数 6 5 个，得到 ",
+   "want": "158",
+   "got": "49933+86220=142153",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 4 开始往后数 2 2 个，得到 ",
+   "want": "86",
+   "got": "86933加上84923等于几？107456",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 5 开始往后数 3 4 个，得到 ",
+   "want": "109",
+   "got": "99933+86920=125453",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 6 开始往后数 9 9 个，得到 ",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 7 7 开始往后数 5 7 个，得到 ",
+   "want": "134",
+   "got": "34994+86920=133814",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 4 开始往后数 1 6 个，得到 ",
+   "want": "90",
+   "got": "90元",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 7 开始往后数 2 2 个，得到 ",
+   "want": "39",
+   "got": "34891+44920=67711",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 9 开始往后数 7 8 个，得到 ",
+   "want": "177",
+   "got": "8781+7498=16379",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 1 开始往后数 4 1 个，得到 ",
+   "want": "112",
+   "got": "821",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 2 0 开始往后数 4 9 个，得到 ",
+   "want": "69",
+   "got": "691",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 6 开始往后数 8 4 个，得到 ",
+   "want": "120",
+   "got": "9872+3991=12463",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 0 开始往后数 5 1 个，得到 ",
+   "want": "71",
+   "got": "72118",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 1 开始往后数 1 8 个，得到 ",
+   "want": "39",
+   "got": "39998+44920=73118",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 2 开始往后数 3 9 个，得到 ",
+   "want": "81",
+   "got": "762",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 5 开始往后数 7 1 个，得到 ",
+   "want": "136",
+   "got": "7662+5550=12702",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 8 开始往后数 6 2 个，得到 ",
+   "want": "140",
+   "got": "89991+84920=152911",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 1 开始往后数 9 0 个，得到 ",
+   "want": "121",
+   "got": "1121",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 3 开始往后数 1 1 个，得到 ",
+   "want": "34",
+   "got": "332+4688，答案是6816",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 7 2 开始往后数 8 0 个，得到 ",
+   "want": "152",
+   "got": "921",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 9 开始往后数 8 0 个，得到 ",
+   "want": "99",
+   "got": "91",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 6 8 开始往后数 2 2 个，得到 ",
+   "want": "90",
+   "got": "89908+86930=116838",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 5 开始往后数 8 8 个，得到 ",
+   "want": "103",
+   "got": "931",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 9 5 开始往后数 6 1 个，得到 ",
+   "want": "156",
+   "got": "1165",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 0 开始往后数 7 7 个，得到 ",
+   "want": "167",
+   "got": "871",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 5 0 开始往后数 6 4 个，得到 ",
+   "want": "114",
+   "got": "1140元，一共多少元？6400",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 8 开始往后数 2 6 个，得到 ",
+   "want": "74",
+   "got": "74933+64920=102853",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 2 开始往后数 6 8 个，得到 ",
+   "want": "120",
+   "got": "120",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 6 开始往后数 6 2 个，得到 ",
+   "want": "78",
+   "got": "74998+84920=97618",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 2 开始往后数 8 0 个，得到 ",
+   "want": "172",
+   "got": "821",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 9 3 开始往后数 1 0 个，得到 ",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 2 8 开始往后数 6 4 个，得到 ",
+   "want": "92",
+   "got": "86930+86920=151750",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 8 4 开始往后数 9 4 个，得到 ",
+   "want": "178",
+   "got": "178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 3 5 开始往后数 4 1 个，得到 ",
+   "want": "76",
+   "got": "7662+3958，答案是11620",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 9 开始往后数 5 7 个，得到 ",
+   "want": "76",
+   "got": "78998+74920=132918",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 3 开始往后数 3 2 个，得到 ",
+   "want": "75",
+   "got": "77933+64920=112553",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 5 开始往后数 1 1 个，得到 ",
+   "want": "46",
+   "got": "4662+3658，答案是7820",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 1 开始往后数 1 4 个，得到 ",
+   "want": "75",
+   "got": "78990+64920=83110",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 6 开始往后数 3 3 个，得到 ",
+   "want": "49",
+   "got": "49903+64920=83623",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 4 开始往后数 1 6 个，得到 ",
+   "want": "50",
+   "got": "90元",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 3 开始往后数 7 4 个，得到 ",
+   "want": "107",
+   "got": "97930+99920=173850",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 5 开始往后数 5 2 个，得到 ",
+   "want": "117",
+   "got": "77690+85500=139090",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 9 2 开始往后数 9 8 个，得到 ",
+   "want": "190",
+   "got": "89931+86930=186861",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 2 开始往后数 9 9 个，得到 ",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "从 1 2 开始往后数 9 6 个，得到 ",
+   "want": "108",
+   "got": "1082",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 5 1 开始往后数 2 7 个，得到 ",
+   "want": "78",
+   "got": "78998+84920=142118",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 3 1 开始往后数 4 6 个，得到 ",
+   "want": "77",
+   "got": "771",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 2 2 开始往后数 2 2 个，得到 ",
+   "want": "44",
+   "got": "44999+74920=97119",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 4 7 开始往后数 2 9 个，得到 ",
+   "want": "76",
+   "got": "76991",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 3 开始往后数 6 1 个，得到 ",
+   "want": "74",
+   "got": "723",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 6 2 开始往后数 7 1 个，得到 ",
+   "want": "133",
+   "got": "87990+64920=146210",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "从 1 4 开始往后数 2 3 个，得到 ",
+   "want": "37",
+   "got": "38998+44920=73418",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 2 2 开始往后数 1 7 7 个，得到 ",
+   "want": "599",
+   "got": "699",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 6 2 开始往后数 4 2 7 个，得到 ",
+   "want": "789",
+   "got": "7992",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 5 6 开始往后数 7 0 2 个，得到 ",
+   "want": "1558",
+   "got": "958元，一共多少元？1660",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 7 9 开始往后数 2 4 5 个，得到 ",
+   "want": "924",
+   "got": "924",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 1 1 9 开始往后数 1 9 7 个，得到 ",
+   "want": "316",
+   "got": "308",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 8 0 开始往后数 5 1 1 个，得到 ",
+   "want": "1491",
+   "got": "1491",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 3 4 开始往后数 3 5 5 个，得到 ",
+   "want": "889",
+   "got": "88983加上82523等于几？138456",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 0 开始往后数 9 6 9 个，得到 ",
+   "want": "1279",
+   "got": "11892",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 5 7 开始往后数 6 3 1 个，得到 ",
+   "want": "1488",
+   "got": "478元，一共多少元？1309",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 4 4 开始往后数 2 3 1 个，得到 ",
+   "want": "475",
+   "got": "46698+74920=100518",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 3 8 开始往后数 9 7 3 个，得到 ",
+   "want": "1211",
+   "got": "1201",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 3 9 开始往后数 3 8 4 个，得到 ",
+   "want": "623",
+   "got": "513",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 1 3 8 开始往后数 1 3 2 个，得到 ",
+   "want": "270",
+   "got": "2549",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 2 7 开始往后数 3 3 7 个，得到 ",
+   "want": "764",
+   "got": "760元，一共多少元？1197",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 8 9 开始往后数 7 0 1 个，得到 ",
+   "want": "1690",
+   "got": "89901+84999=165100",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 3 3 开始往后数 2 8 8 个，得到 ",
+   "want": "521",
+   "got": "42113",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 8 0 开始往后数 2 8 0 个，得到 ",
+   "want": "1060",
+   "got": "958",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 1 4 8 开始往后数 4 8 1 个，得到 ",
+   "want": "629",
+   "got": "6669",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 8 6 开始往后数 2 4 3 个，得到 ",
+   "want": "729",
+   "got": "729",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 7 0 开始往后数 1 2 8 个，得到 ",
+   "want": "898",
+   "got": "898",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 1 9 7 开始往后数 7 7 9 个，得到 ",
+   "want": "976",
+   "got": "9568",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 5 6 开始往后数 7 2 8 个，得到 ",
+   "want": "1584",
+   "got": "9842",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 7 5 开始往后数 1 4 7 个，得到 ",
+   "want": "1022",
+   "got": "9228",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 7 0 开始往后数 1 7 7 个，得到 ",
+   "want": "1147",
+   "got": "94701+89779=102780",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 1 6 开始往后数 8 7 6 个，得到 ",
+   "want": "1092",
+   "got": "10877",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 2 开始往后数 3 6 2 个，得到 ",
+   "want": "674",
+   "got": "47988+84200=130198",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 4 7 开始往后数 4 1 4 个，得到 ",
+   "want": "1061",
+   "got": "96872+56920=138392",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 4 开始往后数 3 2 8 个，得到 ",
+   "want": "642",
+   "got": "542",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 6 8 9 开始往后数 2 0 3 个，得到 ",
+   "want": "892",
+   "got": "892",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 9 7 开始往后数 3 3 3 个，得到 ",
+   "want": "630",
+   "got": "5619",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 5 7 开始往后数 2 7 8 个，得到 ",
+   "want": "1035",
+   "got": "936",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 7 2 开始往后数 2 8 5 个，得到 ",
+   "want": "757",
+   "got": "767元，一共多少元？1142",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 2 9 开始往后数 4 8 7 个，得到 ",
+   "want": "1116",
+   "got": "9160",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 1 9 开始往后数 9 1 5 个，得到 ",
+   "want": "1134",
+   "got": "11349",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 9 开始往后数 2 6 2 个，得到 ",
+   "want": "581",
+   "got": "58982+84921=112203",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 4 9 开始往后数 8 5 0 个，得到 ",
+   "want": "1199",
+   "got": "999",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 1 2 开始往后数 3 6 0 个，得到 ",
+   "want": "1072",
+   "got": "9722",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 4 3 开始往后数 9 5 2 个，得到 ",
+   "want": "1395",
+   "got": "1395",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 8 0 开始往后数 5 2 1 个，得到 ",
+   "want": "1501",
+   "got": "7412",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 9 5 开始往后数 3 9 0 个，得到 ",
+   "want": "1185",
+   "got": "8855",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 4 1 开始往后数 2 2 9 个，得到 ",
+   "want": "670",
+   "got": "6702",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 2 1 开始往后数 4 1 1 个，得到 ",
+   "want": "732",
+   "got": "6332",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 9 0 开始往后数 6 1 2 个，得到 ",
+   "want": "902",
+   "got": "8228",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 0 9 开始往后数 4 0 5 个，得到 ",
+   "want": "914",
+   "got": "955",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 9 1 开始往后数 9 2 3 个，得到 ",
+   "want": "1814",
+   "got": "1814",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 0 5 开始往后数 7 2 4 个，得到 ",
+   "want": "1129",
+   "got": "82602+52820=123222",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 5 3 开始往后数 5 3 8 个，得到 ",
+   "want": "1091",
+   "got": "1092",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 1 2 开始往后数 1 0 5 个，得到 ",
+   "want": "1017",
+   "got": "10163",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 7 7 开始往后数 3 7 0 个，得到 ",
+   "want": "647",
+   "got": "597元，一共多少元？867",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 9 7 开始往后数 6 2 4 个，得到 ",
+   "want": "1321",
+   "got": "821",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 4 0 开始往后数 5 3 9 个，得到 ",
+   "want": "1079",
+   "got": "1079元，一共多少元？1109",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 9 7 开始往后数 3 7 4 个，得到 ",
+   "want": "671",
+   "got": "592",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 2 7 8 开始往后数 8 6 3 个，得到 ",
+   "want": "1141",
+   "got": "1140",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 1 5 5 开始往后数 8 4 7 个，得到 ",
+   "want": "1002",
+   "got": "96301+99550，答案是11251",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 2 9 开始往后数 6 9 7 个，得到 ",
+   "want": "1626",
+   "got": "8276",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 6 5 开始往后数 3 5 3 个，得到 ",
+   "want": "818",
+   "got": "81802+39250=84752",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 4 7 开始往后数 8 6 8 个，得到 ",
+   "want": "1415",
+   "got": "1416",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 6 4 开始往后数 7 5 1 个，得到 ",
+   "want": "1315",
+   "got": "22992+74920=98112",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 8 6 开始往后数 5 8 4 个，得到 ",
+   "want": "1370",
+   "got": "1370",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 4 0 开始往后数 9 8 7 个，得到 ",
+   "want": "1727",
+   "got": "7276",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 4 0 开始往后数 3 4 8 个，得到 ",
+   "want": "1288",
+   "got": "888",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 8 3 开始往后数 7 7 7 个，得到 ",
+   "want": "1160",
+   "got": "95901+89900=177601",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 8 6 开始往后数 6 6 3 个，得到 ",
+   "want": "1349",
+   "got": "94001+52320=119321",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 5 2 开始往后数 7 4 0 个，得到 ",
+   "want": "1492",
+   "got": "992",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 6 9 开始往后数 2 8 1 个，得到 ",
+   "want": "750",
+   "got": "750",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 7 3 6 开始往后数 5 8 3 个，得到 ",
+   "want": "1319",
+   "got": "1319",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 5 0 开始往后数 3 3 7 个，得到 ",
+   "want": "1287",
+   "got": "8877",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 6 4 开始往后数 5 1 4 个，得到 ",
+   "want": "978",
+   "got": "97802+49978=148380",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 5 4 开始往后数 8 9 2 个，得到 ",
+   "want": "1846",
+   "got": "1746元，一共多少元？1138",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 1 9 4 开始往后数 4 4 2 个，得到 ",
+   "want": "636",
+   "got": "66834+64920=81164",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 0 4 开始往后数 2 8 1 个，得到 ",
+   "want": "1085",
+   "got": "9855",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 9 2 开始往后数 5 1 3 个，得到 ",
+   "want": "1005",
+   "got": "100加577=1079",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 7 9 开始往后数 9 3 3 个，得到 ",
+   "want": "1412",
+   "got": "1302",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 4 4 0 开始往后数 6 7 6 个，得到 ",
+   "want": "1116",
+   "got": "1126元，一共多少元？796",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 6 7 开始往后数 1 6 7 个，得到 ",
+   "want": "1134",
+   "got": "1134",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 7 3 开始往后数 5 9 9 个，得到 ",
+   "want": "972",
+   "got": "972",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 8 2 开始往后数 4 9 9 个，得到 ",
+   "want": "1381",
+   "got": "381",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 6 1 开始往后数 4 7 8 个，得到 ",
+   "want": "739",
+   "got": "7992",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 0 6 开始往后数 3 5 2 个，得到 ",
+   "want": "1258",
+   "got": "8532",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 9 9 3 开始往后数 7 5 4 个，得到 ",
+   "want": "1747",
+   "got": "84732+84920=165252",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 2 3 开始往后数 1 6 2 个，得到 ",
+   "want": "785",
+   "got": "78931",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 7 3 4 开始往后数 5 2 6 个，得到 ",
+   "want": "1260",
+   "got": "80002+73390=123392",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 2 6 开始往后数 4 0 7 个，得到 ",
+   "want": "933",
+   "got": "9396",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 0 7 开始往后数 3 7 2 个，得到 ",
+   "want": "579",
+   "got": "5829",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 8 4 开始往后数 9 0 1 个，得到 ",
+   "want": "1485",
+   "got": "14854",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 7 8 开始往后数 3 2 4 个，得到 ",
+   "want": "802",
+   "got": "852",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 3 5 5 开始往后数 5 1 4 个，得到 ",
+   "want": "869",
+   "got": "86933加上84223等于几？126166",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 6 9 开始往后数 6 9 5 个，得到 ",
+   "want": "1664",
+   "got": "1664",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 1 4 开始往后数 4 7 9 个，得到 ",
+   "want": "1293",
+   "got": "993",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 2 6 3 开始往后数 3 9 5 个，得到 ",
+   "want": "658",
+   "got": "55832+89570=125402",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 9 9 9 开始往后数 5 5 2 个，得到 ",
+   "want": "1551",
+   "got": "1552",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 8 9 6 开始往后数 3 7 7 个，得到 ",
+   "want": "1273",
+   "got": "873",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 8 3 开始往后数 5 0 3 个，得到 ",
+   "want": "1386",
+   "got": "1386元，一共多少元？1389",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 5 4 4 开始往后数 8 3 6 个，得到 ",
+   "want": "1380",
+   "got": "390元，一共多少元？1326",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 4 2 5 开始往后数 7 8 2 个，得到 ",
+   "want": "1207",
+   "got": "1207元，一共多少元？1208",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 3 8 开始往后数 4 4 6 个，得到 ",
+   "want": "784",
+   "got": "8942",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 3 1 3 开始往后数 6 7 4 个，得到 ",
+   "want": "987",
+   "got": "98930+86320=164252",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 6 9 4 开始往后数 8 1 5 个，得到 ",
+   "want": "1509",
+   "got": "15092",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "从 8 0 5 开始往后数 8 1 6 个，得到 ",
+   "want": "1621",
+   "got": "9216",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "从 5 1 7 开始往后数 2 3 0 个，得到 ",
+   "want": "747",
+   "got": "7878",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 6 5 5 5 开始往后数 5 0 9 3 个，得到 ",
+   "want": "11648",
+   "got": "11647元，一共多少元？6739",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 3 5 2 4 开始往后数 5 7 4 5 个，得到 ",
+   "want": "9269",
+   "got": "9287元，一共多少元？13022",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 4 3 1 8 开始往后数 7 3 6 1 个，得到 ",
+   "want": "11679",
+   "got": "11679",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 0 9 1 开始往后数 3 4 6 9 个，得到 ",
+   "want": "12560",
+   "got": "85606",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 8 7 9 开始往后数 2 6 9 1 个，得到 ",
+   "want": "8570",
+   "got": "8370",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 5 5 0 开始往后数 8 7 7 9 个，得到 ",
+   "want": "15329",
+   "got": "11329",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 3 4 0 开始往后数 3 5 6 6 个，得到 ",
+   "want": "5906",
+   "got": "58966+84925，答案是114530",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 8 4 9 8 开始往后数 7 8 5 4 个，得到 ",
+   "want": "16352",
+   "got": "16352",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 2 1 9 开始往后数 9 9 6 2 个，得到 ",
+   "want": "14181",
+   "got": "11281",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 6 7 9 开始往后数 6 3 0 8 个，得到 ",
+   "want": "10987",
+   "got": "11987",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 4 4 7 开始往后数 4 4 8 1 个，得到 ",
+   "want": "9928",
+   "got": "99287",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 5 6 9 5 开始往后数 7 7 3 0 个，得到 ",
+   "want": "13425",
+   "got": "13425",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 9 8 7 开始往后数 6 3 8 2 个，得到 ",
+   "want": "16369",
+   "got": "93792+64920=163712",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 9 1 9 5 开始往后数 8 0 3 1 个，得到 ",
+   "want": "17226",
+   "got": "17236",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 0 3 6 开始往后数 1 4 2 8 个，得到 ",
+   "want": "6464",
+   "got": "64357",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 7 7 6 5 开始往后数 2 6 5 9 个，得到 ",
+   "want": "10424",
+   "got": "94240",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 4 4 3 开始往后数 9 8 2 1 个，得到 ",
+   "want": "17264",
+   "got": "7264元，一共多少元？17185",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 3 4 1 0 开始往后数 5 8 5 0 个，得到 ",
+   "want": "9260",
+   "got": "8261",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 8 7 0 6 开始往后数 4 8 7 2 个，得到 ",
+   "want": "13578",
+   "got": "35782+80920=128792",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 9 9 5 1 开始往后数 2 2 6 4 个，得到 ",
+   "want": "12215",
+   "got": "12215",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 8 0 3 开始往后数 2 5 7 5 个，得到 ",
+   "want": "10378",
+   "got": "93783",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 8 0 7 开始往后数 4 6 7 9 个，得到 ",
+   "want": "11486",
+   "got": "82867+98920=159757",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 9 1 9 3 开始往后数 2 3 6 4 个，得到 ",
+   "want": "11557",
+   "got": "11658",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 6 6 3 开始往后数 7 4 4 9 个，得到 ",
+   "want": "10112",
+   "got": "9912",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 9 4 4 2 开始往后数 4 2 2 3 个，得到 ",
+   "want": "13665",
+   "got": "13665",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 8 5 6 7 开始往后数 2 4 4 8 个，得到 ",
+   "want": "11015",
+   "got": "10915",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 4 7 8 开始往后数 5 0 1 1 个，得到 ",
+   "want": "6489",
+   "got": "6559元，一共多少元？7569",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 1 3 7 8 开始往后数 9 1 4 4 个，得到 ",
+   "want": "10522",
+   "got": "102829",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 4 4 1 1 开始往后数 8 7 6 5 个，得到 ",
+   "want": "13176",
+   "got": "3176",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 3 1 4 3 开始往后数 7 2 1 8 个，得到 ",
+   "want": "10361",
+   "got": "94623",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 9 6 5 开始往后数 8 7 2 5 个，得到 ",
+   "want": "10690",
+   "got": "100加8788=9822",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 3 7 2 0 开始往后数 1 0 6 6 个，得到 ",
+   "want": "4786",
+   "got": "47882+49920=68592",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 2 5 6 3 开始往后数 5 4 8 7 个，得到 ",
+   "want": "8050",
+   "got": "89433加上82423等于几？143296",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 9 7 8 6 开始往后数 7 9 4 0 个，得到 ",
+   "want": "17726",
+   "got": "16726",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 8 8 9 6 开始往后数 1 3 1 2 个，得到 ",
+   "want": "10208",
+   "got": "9208",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 3 2 9 2 开始往后数 7 3 3 4 个，得到 ",
+   "want": "10626",
+   "got": "96732",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 5 0 7 开始往后数 4 4 0 7 个，得到 ",
+   "want": "9914",
+   "got": "99587+49570=143647",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 2 9 3 0 开始往后数 3 1 5 9 个，得到 ",
+   "want": "6089",
+   "got": "5843",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 0 0 6 开始往后数 5 6 7 7 个，得到 ",
+   "want": "8683",
+   "got": "86847+39920=126767",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 7 5 2 4 开始往后数 4 2 1 8 个，得到 ",
+   "want": "11742",
+   "got": "87762+34278=120950",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 5 8 7 9 开始往后数 8 2 4 2 个，得到 ",
+   "want": "14121",
+   "got": "14521",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 5 0 2 开始往后数 4 0 1 3 个，得到 ",
+   "want": "11515",
+   "got": "11515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 2 9 7 开始往后数 5 5 5 4 个，得到 ",
+   "want": "11851",
+   "got": "11853",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 3 6 1 开始往后数 3 6 9 4 个，得到 ",
+   "want": "7055",
+   "got": "9058",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 3 6 6 开始往后数 5 8 5 8 个，得到 ",
+   "want": "13224",
+   "got": "13224",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 6 4 3 开始往后数 7 6 4 3 个，得到 ",
+   "want": "14286",
+   "got": "9296元，一共多少元？16939",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 4 3 6 0 开始往后数 4 1 3 3 个，得到 ",
+   "want": "8493",
+   "got": "84933+64920=116233",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 2 7 8 3 开始往后数 8 5 3 6 个，得到 ",
+   "want": "11319",
+   "got": "11319",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 3 2 7 2 开始往后数 5 9 2 4 个，得到 ",
+   "want": "9196",
+   "got": "8190元，一共多少元？13104",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 1 1 8 5 开始往后数 4 5 2 6 个，得到 ",
+   "want": "5711",
+   "got": "56444+66920=112184",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 7 4 7 8 开始往后数 5 2 9 6 个，得到 ",
+   "want": "12774",
+   "got": "13775",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 2 8 4 开始往后数 2 3 0 9 个，得到 ",
+   "want": "11593",
+   "got": "11593",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 7 9 9 开始往后数 3 9 7 4 个，得到 ",
+   "want": "6773",
+   "got": "5773",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 7 7 6 开始往后数 7 2 7 9 个，得到 ",
+   "want": "15055",
+   "got": "8555",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 5 7 8 6 开始往后数 8 5 3 9 个，得到 ",
+   "want": "14325",
+   "got": "14325",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 4 4 8 开始往后数 7 7 1 7 个，得到 ",
+   "want": "10165",
+   "got": "9155",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 8 3 9 7 开始往后数 1 4 1 9 个，得到 ",
+   "want": "9816",
+   "got": "9817",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 7 4 5 开始往后数 4 6 7 3 个，得到 ",
+   "want": "12418",
+   "got": "84180",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 5 7 9 开始往后数 6 3 8 4 个，得到 ",
+   "want": "10963",
+   "got": "11953",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 6 1 5 开始往后数 2 8 1 7 个，得到 ",
+   "want": "7432",
+   "got": "7433",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 5 3 8 开始往后数 2 7 1 8 个，得到 ",
+   "want": "4256",
+   "got": "38720",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 7 3 8 3 开始往后数 2 7 6 0 个，得到 ",
+   "want": "10143",
+   "got": "9543",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 3 7 8 2 开始往后数 6 7 3 2 个，得到 ",
+   "want": "10514",
+   "got": "95144",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 4 5 1 开始往后数 2 8 6 1 个，得到 ",
+   "want": "4312",
+   "got": "40062",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 7 5 7 5 开始往后数 5 0 4 5 个，得到 ",
+   "want": "12620",
+   "got": "8520元，一共多少元？12565",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 5 4 5 8 开始往后数 1 5 5 5 个，得到 ",
+   "want": "7013",
+   "got": "6003元，一共多少元？6563",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 2 3 3 2 开始往后数 4 1 8 9 个，得到 ",
+   "want": "6521",
+   "got": "6422",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 7 0 9 开始往后数 4 7 9 4 个，得到 ",
+   "want": "9503",
+   "got": "9503",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 4 5 9 开始往后数 5 4 5 4 个，得到 ",
+   "want": "10913",
+   "got": "60044加上14550等于几？68594",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 4 5 2 9 开始往后数 8 8 0 2 个，得到 ",
+   "want": "13331",
+   "got": "33211",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 8 6 9 开始往后数 8 8 9 7 个，得到 ",
+   "want": "16766",
+   "got": "16766",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 4 3 6 0 开始往后数 5 4 8 3 个，得到 ",
+   "want": "9843",
+   "got": "9843",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 9 7 4 0 开始往后数 2 6 4 4 个，得到 ",
+   "want": "12384",
+   "got": "11404",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 6 1 1 开始往后数 1 7 4 6 个，得到 ",
+   "want": "7357",
+   "got": "7357元，一共多少元？9167",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 9 9 3 7 开始往后数 5 3 4 6 个，得到 ",
+   "want": "15283",
+   "got": "15283",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 4 5 1 开始往后数 2 0 1 7 个，得到 ",
+   "want": "4468",
+   "got": "4268元，一共多少元？6375",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 2 1 6 5 开始往后数 8 1 1 3 个，得到 ",
+   "want": "10278",
+   "got": "102296",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 9 0 8 7 开始往后数 4 5 4 7 个，得到 ",
+   "want": "13634",
+   "got": "3605",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 1 6 1 7 开始往后数 2 2 1 0 个，得到 ",
+   "want": "3827",
+   "got": "33718",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 5 1 1 3 开始往后数 9 9 1 9 个，得到 ",
+   "want": "15032",
+   "got": "15032",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 4 9 3 开始往后数 2 6 9 9 个，得到 ",
+   "want": "5192",
+   "got": "49423",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 7 5 6 1 开始往后数 1 1 7 0 个，得到 ",
+   "want": "8731",
+   "got": "8631",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 6 3 5 开始往后数 2 3 6 0 个，得到 ",
+   "want": "7995",
+   "got": "7995",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 4 0 8 开始往后数 1 7 7 9 个，得到 ",
+   "want": "3187",
+   "got": "2908",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 6 1 0 4 开始往后数 3 6 4 6 个，得到 ",
+   "want": "9750",
+   "got": "97504",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 1 6 3 3 开始往后数 3 4 6 6 个，得到 ",
+   "want": "5099",
+   "got": "40093",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 9 6 7 7 开始往后数 7 8 3 5 个，得到 ",
+   "want": "17512",
+   "got": "16512",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 7 8 3 2 开始往后数 2 9 5 0 个，得到 ",
+   "want": "10782",
+   "got": "9782",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 7 6 2 2 开始往后数 9 9 1 7 个，得到 ",
+   "want": "17539",
+   "got": "17539",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 1 5 4 0 开始往后数 2 1 8 5 个，得到 ",
+   "want": "3725",
+   "got": "37354",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 1 6 4 8 开始往后数 5 0 3 7 个，得到 ",
+   "want": "6685",
+   "got": "6195",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 7 8 3 开始往后数 3 3 6 5 个，得到 ",
+   "want": "9148",
+   "got": "99473",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 2 9 9 8 开始往后数 4 2 8 6 个，得到 ",
+   "want": "7284",
+   "got": "7475",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 5 2 2 4 开始往后数 9 2 2 3 个，得到 ",
+   "want": "14447",
+   "got": "144479+74920=137299",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 6 3 9 2 开始往后数 5 9 5 3 个，得到 ",
+   "want": "12345",
+   "got": "123452",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 5 2 7 8 开始往后数 3 5 5 4 个，得到 ",
+   "want": "8832",
+   "got": "87830",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 1 9 8 1 开始往后数 4 4 3 2 个，得到 ",
+   "want": "6413",
+   "got": "65303",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 4,
+   "q": "从 6 2 3 0 开始往后数 4 2 3 5 个，得到 ",
+   "want": "10465",
+   "got": "94682",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 2 2 3 开始往后数 7 9 7 0 个，得到 ",
+   "want": "10193",
+   "got": "91923",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "从 2 0 0 5 开始往后数 8 8 3 2 个，得到 ",
+   "want": "10837",
+   "got": "10836元，一共多少元？10838",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 8 4 1 1 7 开始往后数 9 7 9 8 8 个，得到 ",
+   "want": "182105",
+   "got": "182200",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 2 6 0 4 开始往后数 7 3 6 5 6 个，得到 ",
+   "want": "96260",
+   "got": "95854",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 7 5 5 2 开始往后数 2 3 0 6 6 个，得到 ",
+   "want": "110618",
+   "got": "101618",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 6 9 2 3 开始往后数 8 1 2 4 3 个，得到 ",
+   "want": "118166",
+   "got": "118175",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 0 0 9 0 开始往后数 1 7 7 0 1 个，得到 ",
+   "want": "77791",
+   "got": "77700",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 0 4 6 4 开始往后数 5 2 4 5 7 个，得到 ",
+   "want": "72921",
+   "got": "74411元，一共多少元？86469",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 7 2 9 8 6 开始往后数 2 2 9 6 0 个，得到 ",
+   "want": "95946",
+   "got": "49986+88826=122846",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 2 1 3 2 5 开始往后数 7 4 9 4 7 个，得到 ",
+   "want": "96272",
+   "got": "96180",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 5 2 0 5 开始往后数 3 6 6 4 4 个，得到 ",
+   "want": "61849",
+   "got": "61869",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 7 7 2 5 开始往后数 2 2 8 1 3 个，得到 ",
+   "want": "50538",
+   "got": "44687",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 6 4 1 0 开始往后数 9 9 3 7 0 个，得到 ",
+   "want": "185780",
+   "got": "85781",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 5 0 5 5 8 开始往后数 1 2 1 2 6 个，得到 ",
+   "want": "62684",
+   "got": "63184",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 7 7 4 1 开始往后数 4 9 7 7 4 个，得到 ",
+   "want": "77515",
+   "got": "72515",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 0 8 0 8 开始往后数 9 7 6 8 8 个，得到 ",
+   "want": "168496",
+   "got": "168496",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 0 5 6 4 开始往后数 3 1 1 7 7 个，得到 ",
+   "want": "41741",
+   "got": "42121",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 8 2 5 6 开始往后数 8 2 8 2 9 个，得到 ",
+   "want": "161085",
+   "got": "165085",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 5 8 7 8 开始往后数 2 1 5 6 9 个，得到 ",
+   "want": "117447",
+   "got": "117437",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 7 9 2 2 开始往后数 2 2 0 6 0 个，得到 ",
+   "want": "69982",
+   "got": "79982",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 5 6 2 7 开始往后数 2 7 3 6 9 个，得到 ",
+   "want": "52996",
+   "got": "42896",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 9 9 4 2 开始往后数 7 0 2 1 1 个，得到 ",
+   "want": "150153",
+   "got": "99153",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 9 2 8 3 7 开始往后数 4 9 2 0 0 个，得到 ",
+   "want": "142037",
+   "got": "46983+86288=132187",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 5 1 5 6 4 开始往后数 2 7 9 1 9 个，得到 ",
+   "want": "79483",
+   "got": "85473",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 3 5 1 4 开始往后数 1 9 8 4 1 个，得到 ",
+   "want": "93355",
+   "got": "93355",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 9 6 3 5 开始往后数 3 7 9 3 4 个，得到 ",
+   "want": "127569",
+   "got": "127569",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 7 1 6 5 开始往后数 7 2 4 4 7 个，得到 ",
+   "want": "139612",
+   "got": "89603",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 7 6 8 5 6 开始往后数 5 8 3 0 0 个，得到 ",
+   "want": "135156",
+   "got": "135956",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 4 3 3 7 开始往后数 5 9 8 8 1 个，得到 ",
+   "want": "134218",
+   "got": "134218",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 8 6 0 9 开始往后数 6 6 1 9 0 个，得到 ",
+   "want": "114799",
+   "got": "114799",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 4 5 7 8 开始往后数 8 9 3 2 4 个，得到 ",
+   "want": "123902",
+   "got": "123852",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 9 4 0 4 开始往后数 4 1 3 0 5 个，得到 ",
+   "want": "60709",
+   "got": "53249",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 2 6 2 8 开始往后数 2 0 4 4 5 个，得到 ",
+   "want": "103073",
+   "got": "102973",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 4 9 1 6 开始往后数 9 3 5 1 2 个，得到 ",
+   "want": "108428",
+   "got": "108417",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 5 4 4 6 开始往后数 4 9 5 3 9 个，得到 ",
+   "want": "124985",
+   "got": "84985",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 9 0 5 6 5 开始往后数 2 4 5 7 5 个，得到 ",
+   "want": "115140",
+   "got": "114640元，一共多少元？115615",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 9 6 1 9 5 开始往后数 5 9 6 6 9 个，得到 ",
+   "want": "155864",
+   "got": "155834",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 2 6 0 0 5 开始往后数 8 5 7 0 6 个，得到 ",
+   "want": "111711",
+   "got": "107701",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 7 5 2 1 开始往后数 3 2 1 9 3 个，得到 ",
+   "want": "79714",
+   "got": "79714",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 2 7 0 2 开始往后数 9 4 0 7 1 个，得到 ",
+   "want": "136773",
+   "got": "66773",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 2 9 8 9 0 开始往后数 2 5 5 9 3 个，得到 ",
+   "want": "55483",
+   "got": "81583",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 5 6 5 9 开始往后数 4 7 2 1 9 个，得到 ",
+   "want": "102878",
+   "got": "92874",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 1 6 2 7 6 开始往后数 1 9 9 7 9 个，得到 ",
+   "want": "36255",
+   "got": "36255",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 1 1 2 5 开始往后数 2 0 8 0 0 个，得到 ",
+   "want": "61925",
+   "got": "61925",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 3 9 7 6 开始往后数 3 8 5 4 6 个，得到 ",
+   "want": "92522",
+   "got": "93520元，一共多少元？92566",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 5 3 4 4 9 开始往后数 1 6 7 3 6 个，得到 ",
+   "want": "70185",
+   "got": "79170",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 3 8 6 5 开始往后数 8 8 2 2 5 个，得到 ",
+   "want": "152090",
+   "got": "15098+84990=153215",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 9 6 9 6 0 开始往后数 6 6 7 9 9 个，得到 ",
+   "want": "163759",
+   "got": "67756",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 9 6 7 5 5 开始往后数 3 4 3 1 9 个，得到 ",
+   "want": "131074",
+   "got": "80084",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 6 0 9 2 6 开始往后数 1 8 7 0 7 个，得到 ",
+   "want": "79633",
+   "got": "79730",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 3 2 8 3 开始往后数 8 1 8 1 0 个，得到 ",
+   "want": "145093",
+   "got": "145193",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 3 1 9 6 开始往后数 5 5 1 4 0 个，得到 ",
+   "want": "98336",
+   "got": "98776+44530=142716",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 5 4 1 8 8 开始往后数 3 1 9 1 7 个，得到 ",
+   "want": "86105",
+   "got": "86473+34590=126463",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 5 2 3 5 9 开始往后数 3 3 0 0 3 个，得到 ",
+   "want": "85362",
+   "got": "85232",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 5 9 8 1 开始往后数 7 5 1 2 2 个，得到 ",
+   "want": "171103",
+   "got": "81043",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 5 0 8 7 9 开始往后数 1 9 8 3 7 个，得到 ",
+   "want": "70716",
+   "got": "70016",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 0 2 6 4 开始往后数 2 8 2 0 9 个，得到 ",
+   "want": "38473",
+   "got": "38223",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 2 9 6 8 开始往后数 5 7 6 1 6 个，得到 ",
+   "want": "150584",
+   "got": "150584",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 7 0 9 2 开始往后数 7 3 7 7 4 个，得到 ",
+   "want": "120866",
+   "got": "116866",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 8 5 2 0 开始往后数 7 1 1 5 0 个，得到 ",
+   "want": "89670",
+   "got": "82972",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 6 5 1 3 开始往后数 8 1 1 4 6 个，得到 ",
+   "want": "167659",
+   "got": "67659",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 8 8 2 7 7 开始往后数 9 0 4 2 3 个，得到 ",
+   "want": "178700",
+   "got": "178600元，一共多少元？108827",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 4 6 1 6 5 开始往后数 7 8 2 3 5 个，得到 ",
+   "want": "124400",
+   "got": "114390",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 7 8 9 0 6 开始往后数 5 7 0 4 0 个，得到 ",
+   "want": "135946",
+   "got": "34946",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 6 5 8 2 6 开始往后数 6 1 1 7 4 个，得到 ",
+   "want": "127000",
+   "got": "86798",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 8 9 2 3 4 开始往后数 4 7 0 0 5 个，得到 ",
+   "want": "136239",
+   "got": "36239",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 7 6 4 1 2 开始往后数 8 4 7 3 8 个，得到 ",
+   "want": "161150",
+   "got": "61140",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 8 8 3 6 5 开始往后数 3 8 9 5 4 个，得到 ",
+   "want": "127319",
+   "got": "127309",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 7 6 4 8 开始往后数 1 4 0 1 4 个，得到 ",
+   "want": "31662",
+   "got": "26782",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 8 3 9 7 开始往后数 2 3 8 8 9 个，得到 ",
+   "want": "82286",
+   "got": "89276",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 7 4 4 3 开始往后数 9 2 4 0 0 个，得到 ",
+   "want": "179843",
+   "got": "79843",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 5 4 6 6 0 开始往后数 6 6 7 1 3 个，得到 ",
+   "want": "121373",
+   "got": "121373",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 9 1 6 8 开始往后数 5 5 5 9 5 个，得到 ",
+   "want": "124763",
+   "got": "115763",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 6 9 5 4 开始往后数 6 2 6 7 6 个，得到 ",
+   "want": "159630",
+   "got": "119630",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 7 2 9 0 开始往后数 5 7 9 2 2 个，得到 ",
+   "want": "95212",
+   "got": "85542",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 7 7 1 8 开始往后数 7 6 1 7 3 个，得到 ",
+   "want": "133891",
+   "got": "32891",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 4 8 8 2 9 开始往后数 2 9 0 8 9 个，得到 ",
+   "want": "77918",
+   "got": "77912",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 4 1 4 7 开始往后数 6 8 7 5 3 个，得到 ",
+   "want": "102900",
+   "got": "93010",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 9 3 6 4 3 开始往后数 2 1 3 2 7 个，得到 ",
+   "want": "114970",
+   "got": "114970元，一共多少元？115297",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 6 9 7 2 7 开始往后数 3 0 4 5 5 个，得到 ",
+   "want": "100182",
+   "got": "99182",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 6 1 0 8 0 开始往后数 6 2 9 8 0 个，得到 ",
+   "want": "124060",
+   "got": "84968",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 2 7 4 6 7 开始往后数 9 5 6 4 3 个，得到 ",
+   "want": "123110",
+   "got": "113109",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 7 3 9 8 开始往后数 6 3 0 9 6 个，得到 ",
+   "want": "120494",
+   "got": "116494",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 8 0 9 7 开始往后数 1 3 3 9 3 个，得到 ",
+   "want": "71490",
+   "got": "68400元，一共多少元？71493",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 4 3 9 4 6 开始往后数 6 0 1 7 1 个，得到 ",
+   "want": "104117",
+   "got": "94017",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 1 1 0 4 7 开始往后数 7 2 4 4 4 个，得到 ",
+   "want": "83491",
+   "got": "83551",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 2 9 5 6 开始往后数 9 6 9 4 4 个，得到 ",
+   "want": "109900",
+   "got": "119190",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 5 6 1 4 开始往后数 2 0 8 7 9 个，得到 ",
+   "want": "36493",
+   "got": "31443",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 8 5 4 3 开始往后数 9 5 7 0 9 个，得到 ",
+   "want": "144252",
+   "got": "144252",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 4 5 9 7 3 开始往后数 2 4 5 7 9 个，得到 ",
+   "want": "70552",
+   "got": "79552",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 9 1 6 1 开始往后数 1 0 6 6 7 个，得到 ",
+   "want": "49828",
+   "got": "49828",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 5 9 5 5 4 开始往后数 7 6 7 4 7 个，得到 ",
+   "want": "136301",
+   "got": "33291",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 9 4 9 7 1 开始往后数 6 5 1 7 8 个，得到 ",
+   "want": "160149",
+   "got": "150589",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 3 3 5 9 7 开始往后数 4 4 1 6 7 个，得到 ",
+   "want": "77764",
+   "got": "77736元，一共多少元？121703",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 1 5 3 1 1 开始往后数 7 7 1 0 2 个，得到 ",
+   "want": "92413",
+   "got": "88633",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 8 3 3 7 开始往后数 2 3 4 4 8 个，得到 ",
+   "want": "91785",
+   "got": "91285",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 1 0 6 7 4 开始往后数 1 0 4 4 9 个，得到 ",
+   "want": "21123",
+   "got": "21512",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 3 6 4 6 开始往后数 6 3 9 8 2 个，得到 ",
+   "want": "157628",
+   "got": "117628",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 6 3 6 3 1 开始往后数 8 0 9 7 4 个，得到 ",
+   "want": "144605",
+   "got": "144646",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 8 8 5 7 8 开始往后数 1 7 7 3 2 个，得到 ",
+   "want": "106310",
+   "got": "963010",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "从 9 8 1 2 1 开始往后数 4 5 6 4 4 个，得到 ",
+   "want": "143765",
+   "got": "93866",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "从 2 3 1 4 5 开始往后数 7 3 6 8 2 个，得到 ",
+   "want": "96827",
+   "got": "96807元，一共多少元？110487",
+   "exact": false,
+   "samelen": false
+  }
+ ]
+}

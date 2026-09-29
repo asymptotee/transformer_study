@@ -1,0 +1,3231 @@
+{
+ "label": "n30x3_H02倒装",
+ "by_rung": {
+  "2": [
+   99,
+   99,
+   0,
+   100
+  ],
+  "3": [
+   98,
+   99,
+   0,
+   100
+  ],
+  "4": [
+   96,
+   100,
+   0,
+   100
+  ],
+  "5": [
+   89,
+   99,
+   0,
+   100
+  ]
+ },
+ "rows": [
+  {
+   "d": 2,
+   "q": "2 6 与 2 0 之和是？",
+   "want": "46",
+   "got": "46",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 1 与 1 6 之和是？",
+   "want": "37",
+   "got": "37",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 5 与 7 7 之和是？",
+   "want": "102",
+   "got": "102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 与 7 5 之和是？",
+   "want": "143",
+   "got": "143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 5 与 4 0 之和是？",
+   "want": "55",
+   "got": "55",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 9 与 5 4 之和是？",
+   "want": "153",
+   "got": "153",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 与 8 0 之和是？",
+   "want": "178",
+   "got": "178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 3 与 8 8 之和是？",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 与 9 5 之和是？",
+   "want": "111",
+   "got": "111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 与 6 8 之和是？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 6 与 7 2 之和是？",
+   "want": "88",
+   "got": "88",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 与 9 8 之和是？",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 4 与 9 0 之和是？",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 8 与 8 6 之和是？",
+   "want": "124",
+   "got": "24",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 2,
+   "q": "2 9 与 5 5 之和是？",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 与 8 5 之和是？",
+   "want": "108",
+   "got": "108",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 与 8 9 之和是？",
+   "want": "178",
+   "got": "178",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 与 9 8 之和是？",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 5 与 3 2 之和是？",
+   "want": "87",
+   "got": "87",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 与 5 0 之和是？",
+   "want": "136",
+   "got": "136",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 与 7 3 之和是？",
+   "want": "97",
+   "got": "97",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 与 3 2 之和是？",
+   "want": "55",
+   "got": "55",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 与 2 8 之和是？",
+   "want": "60",
+   "got": "60",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 与 5 9 之和是？",
+   "want": "132",
+   "got": "132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 2 与 4 1 之和是？",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 8 与 8 1 之和是？",
+   "want": "119",
+   "got": "119",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 8 与 3 3 之和是？",
+   "want": "101",
+   "got": "101",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 与 1 2 之和是？",
+   "want": "42",
+   "got": "42",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 6 与 4 7 之和是？",
+   "want": "103",
+   "got": "103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 与 2 8 之和是？",
+   "want": "57",
+   "got": "57",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 与 5 8 之和是？",
+   "want": "82",
+   "got": "82",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 与 5 8 之和是？",
+   "want": "90",
+   "got": "90",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 6 与 5 1 之和是？",
+   "want": "147",
+   "got": "147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 与 4 3 之和是？",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 与 9 2 之和是？",
+   "want": "177",
+   "got": "177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 与 3 4 之和是？",
+   "want": "92",
+   "got": "92",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 与 1 0 之和是？",
+   "want": "44",
+   "got": "44",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 8 与 7 9 之和是？",
+   "want": "177",
+   "got": "177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 5 与 3 5 之和是？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 与 4 7 之和是？",
+   "want": "94",
+   "got": "94",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 8 与 6 6 之和是？",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 2 与 4 9 之和是？",
+   "want": "61",
+   "got": "61",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 4 与 7 6 之和是？",
+   "want": "150",
+   "got": "150",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 与 7 5 之和是？",
+   "want": "148",
+   "got": "148",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 6 与 8 4 之和是？",
+   "want": "170",
+   "got": "170",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 2 与 1 1 之和是？",
+   "want": "63",
+   "got": "63",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 4 与 6 9 之和是？",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 2 与 3 1 之和是？",
+   "want": "43",
+   "got": "43",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 1 与 5 7 之和是？",
+   "want": "68",
+   "got": "68",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 8 与 9 7 之和是？",
+   "want": "185",
+   "got": "185",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 8 与 7 4 之和是？",
+   "want": "132",
+   "got": "132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 与 5 4 之和是？",
+   "want": "151",
+   "got": "151",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 与 8 8 之和是？",
+   "want": "107",
+   "got": "107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 与 3 4 之和是？",
+   "want": "84",
+   "got": "84",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 7 与 6 7 之和是？",
+   "want": "164",
+   "got": "164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 与 4 2 之和是？",
+   "want": "115",
+   "got": "115",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 与 9 9 之和是？",
+   "want": "188",
+   "got": "188",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 与 6 0 之和是？",
+   "want": "93",
+   "got": "93",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 4 与 9 1 之和是？",
+   "want": "155",
+   "got": "155",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 与 3 6 之和是？",
+   "want": "130",
+   "got": "130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 与 8 6 之和是？",
+   "want": "116",
+   "got": "116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 与 6 3 之和是？",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 与 4 4 之和是？",
+   "want": "83",
+   "got": "83",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 与 6 7 之和是？",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "7 3 与 7 0 之和是？",
+   "want": "143",
+   "got": "143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 与 3 1 之和是？",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 与 5 5 之和是？",
+   "want": "85",
+   "got": "85",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 2 与 2 9 之和是？",
+   "want": "111",
+   "got": "111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 2 与 6 3 之和是？",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 与 6 1 之和是？",
+   "want": "81",
+   "got": "81",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 4 与 7 9 之和是？",
+   "want": "133",
+   "got": "133",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 0 与 2 8 之和是？",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 7 与 2 7 之和是？",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 与 9 3 之和是？",
+   "want": "106",
+   "got": "106",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 7 与 8 3 之和是？",
+   "want": "140",
+   "got": "140",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 0 与 2 9 之和是？",
+   "want": "59",
+   "got": "59",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 5 与 4 6 之和是？",
+   "want": "131",
+   "got": "131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 4 与 1 9 之和是？",
+   "want": "43",
+   "got": "43",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 1 与 6 2 之和是？",
+   "want": "113",
+   "got": "113",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 7 与 1 5 之和是？",
+   "want": "52",
+   "got": "52",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 9 与 8 5 之和是？",
+   "want": "114",
+   "got": "114",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 0 与 5 0 之和是？",
+   "want": "100",
+   "got": "100",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 与 9 9 之和是？",
+   "want": "194",
+   "got": "194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 4 与 6 1 之和是？",
+   "want": "145",
+   "got": "145",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 9 与 6 5 之和是？",
+   "want": "104",
+   "got": "104",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 1 与 6 9 之和是？",
+   "want": "110",
+   "got": "110",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 与 2 9 之和是？",
+   "want": "124",
+   "got": "124",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 2 与 6 2 之和是？",
+   "want": "154",
+   "got": "154",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 2 与 8 9 之和是？",
+   "want": "121",
+   "got": "121",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "4 7 与 9 5 之和是？",
+   "want": "142",
+   "got": "142",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 3 与 1 5 之和是？",
+   "want": "48",
+   "got": "48",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "6 5 与 5 8 之和是？",
+   "want": "123",
+   "got": "123",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 9 与 5 2 之和是？",
+   "want": "71",
+   "got": "71",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 4 与 4 3 之和是？",
+   "want": "137",
+   "got": "137",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "8 9 与 7 5 之和是？",
+   "want": "164",
+   "got": "164",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "1 3 与 9 2 之和是？",
+   "want": "105",
+   "got": "105",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "9 5 与 8 0 之和是？",
+   "want": "175",
+   "got": "175",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "5 3 与 2 2 之和是？",
+   "want": "75",
+   "got": "75",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "3 4 与 3 6 之和是？",
+   "want": "70",
+   "got": "70",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 2,
+   "q": "2 3 与 3 8 之和是？",
+   "want": "61",
+   "got": "61",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 0 与 6 5 1 之和是？",
+   "want": "1421",
+   "got": "1421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 7 8 与 9 7 1 之和是？",
+   "want": "1849",
+   "got": "1849",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 4 1 与 1 4 4 之和是？",
+   "want": "285",
+   "got": "285",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 7 9 与 6 8 7 之和是？",
+   "want": "1066",
+   "got": "1066",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 7 与 9 7 2 之和是？",
+   "want": "1619",
+   "got": "1619",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 1 与 3 2 9 之和是？",
+   "want": "1300",
+   "got": "1300",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 1 与 9 7 6 之和是？",
+   "want": "1797",
+   "got": "1797",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 6 0 与 1 6 5 之和是？",
+   "want": "425",
+   "got": "425",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 3 8 与 7 5 7 之和是？",
+   "want": "1695",
+   "got": "1695",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 8 5 与 2 8 1 之和是？",
+   "want": "466",
+   "got": "466",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 7 0 与 2 5 5 之和是？",
+   "want": "1225",
+   "got": "1225",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 6 与 9 4 8 之和是？",
+   "want": "1144",
+   "got": "1144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 7 7 与 9 0 0 之和是？",
+   "want": "1177",
+   "got": "1177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 8 与 4 8 1 之和是？",
+   "want": "659",
+   "got": "659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 7 与 4 0 3 之和是？",
+   "want": "1270",
+   "got": "1270",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 3 与 7 7 8 之和是？",
+   "want": "1401",
+   "got": "1401",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 5 与 8 2 8 之和是？",
+   "want": "1043",
+   "got": "1043",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 8 1 与 6 5 1 之和是？",
+   "want": "1132",
+   "got": "1132",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 5 7 与 9 9 0 之和是？",
+   "want": "1247",
+   "got": "1247",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 5 与 6 5 6 之和是？",
+   "want": "1201",
+   "got": "1201",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 2 7 与 6 4 8 之和是？",
+   "want": "1175",
+   "got": "1175",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 1 与 5 1 1 之和是？",
+   "want": "1122",
+   "got": "1122",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 0 5 与 1 0 8 之和是？",
+   "want": "513",
+   "got": "513",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 0 6 与 8 8 1 之和是？",
+   "want": "1087",
+   "got": "1087",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 9 6 与 2 1 2 之和是？",
+   "want": "908",
+   "got": "908",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 3 与 4 3 4 之和是？",
+   "want": "1077",
+   "got": "1077",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 6 8 与 6 6 9 之和是？",
+   "want": "1037",
+   "got": "1037",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 0 与 1 5 9 之和是？",
+   "want": "809",
+   "got": "809",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 9 8 与 4 1 6 之和是？",
+   "want": "914",
+   "got": "914",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 2 与 8 6 8 之和是？",
+   "want": "1280",
+   "got": "1280",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 3 6 与 9 5 7 之和是？",
+   "want": "1193",
+   "got": "1193",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 5 6 与 7 8 9 之和是？",
+   "want": "1745",
+   "got": "1745",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 0 与 1 4 3 之和是？",
+   "want": "243",
+   "got": "243",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 3 与 4 9 7 之和是？",
+   "want": "1410",
+   "got": "1410",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 1 与 6 8 3 之和是？",
+   "want": "964",
+   "got": "964",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 1 4 与 6 0 9 之和是？",
+   "want": "1223",
+   "got": "1223",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 2 与 7 5 3 之和是？",
+   "want": "1305",
+   "got": "1305",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 7 与 5 9 1 之和是？",
+   "want": "1228",
+   "got": "1228",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 0 与 9 5 1 之和是？",
+   "want": "1301",
+   "got": "1301",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 2 1 与 6 3 3 之和是？",
+   "want": "1054",
+   "got": "1054",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 5 与 8 9 4 之和是？",
+   "want": "1329",
+   "got": "1329",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 5 4 与 4 9 7 之和是？",
+   "want": "1351",
+   "got": "1351",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 5 3 与 5 1 1 之和是？",
+   "want": "1264",
+   "got": "1264",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 8 与 9 9 1 之和是？",
+   "want": "1379",
+   "got": "1379",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 8 与 8 6 6 之和是？",
+   "want": "1374",
+   "got": "1374",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 8 与 8 9 3 之和是？",
+   "want": "1311",
+   "got": "1311",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 3 与 2 2 1 之和是？",
+   "want": "1084",
+   "got": "1084",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 1 0 与 5 4 5 之和是？",
+   "want": "1255",
+   "got": "1255",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 4 1 与 2 3 2 之和是？",
+   "want": "1073",
+   "got": "1073",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 2 与 4 0 3 之和是？",
+   "want": "725",
+   "got": "725",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 7 4 与 2 8 4 之和是？",
+   "want": "1058",
+   "got": "1058",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 1 4 与 7 2 5 之和是？",
+   "want": "939",
+   "got": "939",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 4 与 8 3 2 之和是？",
+   "want": "1076",
+   "got": "1076",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 6 与 9 2 8 之和是？",
+   "want": "1474",
+   "got": "1474",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 4 8 与 2 8 3 之和是？",
+   "want": "531",
+   "got": "531",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 7 6 与 2 9 7 之和是？",
+   "want": "473",
+   "got": "473",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 7 与 1 1 7 之和是？",
+   "want": "404",
+   "got": "404",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 1 2 与 8 0 6 之和是？",
+   "want": "1218",
+   "got": "1218",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 5 与 1 4 6 之和是？",
+   "want": "311",
+   "got": "311",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 9 1 与 2 6 7 之和是？",
+   "want": "658",
+   "got": "658",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 6 与 3 5 9 之和是？",
+   "want": "1085",
+   "got": "1085",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 4 4 与 3 2 2 之和是？",
+   "want": "966",
+   "got": "966",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 1 4 与 2 1 5 之和是？",
+   "want": "1129",
+   "got": "1129",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 8 8 与 8 5 0 之和是？",
+   "want": "1238",
+   "got": "1238",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 9 7 与 6 2 3 之和是？",
+   "want": "1220",
+   "got": "1220",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 1 与 8 9 1 之和是？",
+   "want": "1572",
+   "got": "1572",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 8 2 与 8 1 6 之和是？",
+   "want": "1798",
+   "got": "1798",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 8 6 与 2 1 4 之和是？",
+   "want": "1200",
+   "got": "1200",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 9 2 与 5 8 2 之和是？",
+   "want": "774",
+   "got": "774",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 8 3 与 7 2 9 之和是？",
+   "want": "1712",
+   "got": "1712",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 5 7 与 2 5 7 之和是？",
+   "want": "814",
+   "got": "814",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 4 5 与 8 7 8 之和是？",
+   "want": "1823",
+   "got": "1823",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 1 6 与 7 0 2 之和是？",
+   "want": "1218",
+   "got": "1218",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 4 与 7 0 8 之和是？",
+   "want": "1432",
+   "got": "1432",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 2 7 与 3 8 4 之和是？",
+   "want": "1111",
+   "got": "1111",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 8 9 与 8 0 7 之和是？",
+   "want": "1496",
+   "got": "1496",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 3 9 与 1 9 8 之和是？",
+   "want": "837",
+   "got": "837",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 6 7 与 2 6 4 之和是？",
+   "want": "1031",
+   "got": "1031",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 2 6 与 8 1 5 之和是？",
+   "want": "1441",
+   "got": "1441",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 0 3 与 2 1 3 之和是？",
+   "want": "516",
+   "got": "516",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 5 3 与 6 6 2 之和是？",
+   "want": "1515",
+   "got": "1515",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 2 0 与 1 5 8 之和是？",
+   "want": "278",
+   "got": "278",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 2 4 与 9 9 6 之和是？",
+   "want": "1320",
+   "got": "1320",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 4 2 与 5 3 2 之和是？",
+   "want": "1074",
+   "got": "974",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 3,
+   "q": "5 1 9 与 1 2 1 之和是？",
+   "want": "640",
+   "got": "640",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 5 5 与 8 0 4 之和是？",
+   "want": "1659",
+   "got": "1659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 3 与 2 7 2 之和是？",
+   "want": "1135",
+   "got": "1135",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 2 3 与 1 0 2 之和是？",
+   "want": "925",
+   "got": "925",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 6 3 与 1 0 5 之和是？",
+   "want": "268",
+   "got": "268",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 5 6 与 3 0 1 之和是？",
+   "want": "757",
+   "got": "757",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "8 6 5 与 2 6 5 之和是？",
+   "want": "1130",
+   "got": "1130",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "6 5 2 与 4 4 4 之和是？",
+   "want": "1096",
+   "got": "1096",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 9 8 与 6 5 7 之和是？",
+   "want": "955",
+   "got": "955",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "5 0 5 与 2 9 3 之和是？",
+   "want": "798",
+   "got": "798",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "9 9 3 与 1 9 8 之和是？",
+   "want": "1191",
+   "got": "1191",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "1 0 3 与 4 2 9 之和是？",
+   "want": "532",
+   "got": "532",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "7 4 6 与 1 4 7 之和是？",
+   "want": "893",
+   "got": "993",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "4 3 4 与 9 2 9 之和是？",
+   "want": "1363",
+   "got": "1363",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "2 8 3 与 3 7 6 之和是？",
+   "want": "659",
+   "got": "659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 3,
+   "q": "3 5 0 与 6 4 2 之和是？",
+   "want": "992",
+   "got": "992",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 8 4 9 与 1 0 3 1 之和是？",
+   "want": "5880",
+   "got": "5880",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 8 2 0 与 3 6 5 1 之和是？",
+   "want": "10471",
+   "got": "10471",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 8 4 7 与 3 8 0 0 之和是？",
+   "want": "11647",
+   "got": "11647",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 2 3 与 1 9 7 7 之和是？",
+   "want": "4000",
+   "got": "3000",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 9 0 与 7 5 2 2 之和是？",
+   "want": "15912",
+   "got": "15912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 4 8 与 8 0 8 1 之和是？",
+   "want": "17829",
+   "got": "17829",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 8 7 与 8 4 9 3 之和是？",
+   "want": "12180",
+   "got": "12180",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 4 5 与 4 9 9 8 之和是？",
+   "want": "13143",
+   "got": "13143",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 7 2 1 与 3 9 0 5 之和是？",
+   "want": "8626",
+   "got": "8626",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 3 8 8 与 9 2 1 8 之和是？",
+   "want": "13606",
+   "got": "13606",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 3 1 3 与 4 3 3 9 之和是？",
+   "want": "11652",
+   "got": "11652",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 5 1 4 与 8 9 2 4 之和是？",
+   "want": "13438",
+   "got": "13438",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 7 6 与 2 3 6 4 之和是？",
+   "want": "10040",
+   "got": "10040",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 8 4 与 6 5 0 8 之和是？",
+   "want": "15792",
+   "got": "15792",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 8 6 8 与 9 8 8 5 之和是？",
+   "want": "12753",
+   "got": "12753",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 9 4 与 3 9 0 0 之和是？",
+   "want": "11494",
+   "got": "11494",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 1 5 与 8 4 5 2 之和是？",
+   "want": "15967",
+   "got": "15967",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 1 6 与 5 0 6 0 之和是？",
+   "want": "7776",
+   "got": "7776",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 1 1 1 与 5 9 9 2 之和是？",
+   "want": "14103",
+   "got": "14103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 7 8 0 与 1 0 1 3 之和是？",
+   "want": "3793",
+   "got": "3793",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 1 8 与 4 1 1 0 之和是？",
+   "want": "6328",
+   "got": "6328",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 4 0 与 9 2 8 7 之和是？",
+   "want": "12827",
+   "got": "12827",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 5 6 9 与 4 2 9 5 之和是？",
+   "want": "7864",
+   "got": "7864",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 9 6 与 3 4 9 6 之和是？",
+   "want": "8192",
+   "got": "8192",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 6 2 4 与 9 8 5 6 之和是？",
+   "want": "12480",
+   "got": "12480",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 3 2 4 与 4 6 6 6 之和是？",
+   "want": "13990",
+   "got": "13990",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 2 3 与 4 0 6 1 之和是？",
+   "want": "10784",
+   "got": "10784",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 5 4 与 2 0 3 7 之和是？",
+   "want": "10591",
+   "got": "10591",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 6 5 6 与 8 8 1 3 之和是？",
+   "want": "18469",
+   "got": "18469",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 3 0 与 1 3 2 4 之和是？",
+   "want": "7654",
+   "got": "7654",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 5 2 与 8 9 0 1 之和是？",
+   "want": "16553",
+   "got": "16553",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 0 7 7 与 7 3 1 8 之和是？",
+   "want": "16395",
+   "got": "16395",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 5 5 6 与 1 7 1 1 之和是？",
+   "want": "4267",
+   "got": "4267",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 2 2 与 7 0 6 5 之和是？",
+   "want": "14987",
+   "got": "14987",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 3 6 与 1 1 0 2 之和是？",
+   "want": "4838",
+   "got": "4838",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 8 1 8 与 9 5 6 3 之和是？",
+   "want": "19381",
+   "got": "19381",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 6 4 5 与 5 3 6 4 之和是？",
+   "want": "8009",
+   "got": "8010",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 0 5 2 与 2 2 2 9 之和是？",
+   "want": "7281",
+   "got": "7281",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 0 8 7 与 8 6 5 2 之和是？",
+   "want": "11739",
+   "got": "11739",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 2 8 4 与 7 7 1 3 之和是？",
+   "want": "15997",
+   "got": "15997",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 1 3 与 8 5 4 7 之和是？",
+   "want": "11460",
+   "got": "11460",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 2 4 3 与 2 8 1 3 之和是？",
+   "want": "12056",
+   "got": "12056",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 7 2 与 7 8 6 4 之和是？",
+   "want": "14636",
+   "got": "14636",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 3 6 与 5 0 4 6 之和是？",
+   "want": "14782",
+   "got": "14782",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 8 6 4 与 5 8 9 7 之和是？",
+   "want": "15761",
+   "got": "15761",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 3 3 与 9 1 5 0 之和是？",
+   "want": "15883",
+   "got": "15883",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 9 1 9 与 1 2 7 2 之和是？",
+   "want": "5191",
+   "got": "5191",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 4 6 8 与 7 4 0 2 之和是？",
+   "want": "10870",
+   "got": "10870",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 1 7 4 与 7 0 3 9 之和是？",
+   "want": "14213",
+   "got": "14213",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 4 1 与 9 7 4 6 之和是？",
+   "want": "17287",
+   "got": "17287",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 9 9 与 3 7 9 8 之和是？",
+   "want": "11097",
+   "got": "11097",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 9 8 与 2 5 4 3 之和是？",
+   "want": "9341",
+   "got": "9341",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 6 6 与 6 3 0 3 之和是？",
+   "want": "9569",
+   "got": "9569",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 3 4 3 与 4 3 4 4 之和是？",
+   "want": "12687",
+   "got": "12687",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 0 4 7 与 9 3 1 0 之和是？",
+   "want": "15357",
+   "got": "15357",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 6 2 与 6 6 2 6 之和是？",
+   "want": "10288",
+   "got": "10288",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 4 3 与 4 6 6 2 之和是？",
+   "want": "11005",
+   "got": "11005",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 7 0 与 8 1 2 9 之和是？",
+   "want": "13599",
+   "got": "13599",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 1 4 7 与 8 2 8 0 之和是？",
+   "want": "9427",
+   "got": "9427",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 8 8 0 与 3 2 3 6 之和是？",
+   "want": "9116",
+   "got": "9116",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 6 8 与 8 2 9 1 之和是？",
+   "want": "9659",
+   "got": "9659",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 9 2 与 8 7 8 5 之和是？",
+   "want": "14177",
+   "got": "14177",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 3 3 8 与 7 7 5 0 之和是？",
+   "want": "11088",
+   "got": "11088",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 9 3 1 与 5 9 8 9 之和是？",
+   "want": "13920",
+   "got": "13920",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 3 1 与 8 1 7 4 之和是？",
+   "want": "10205",
+   "got": "10205",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 9 3 与 8 9 3 6 之和是？",
+   "want": "16429",
+   "got": "16429",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 3 5 3 与 1 0 6 3 之和是？",
+   "want": "2416",
+   "got": "2316",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 4 9 2 与 6 0 2 9 之和是？",
+   "want": "14521",
+   "got": "14521",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 1 5 9 与 5 1 7 6 之和是？",
+   "want": "14335",
+   "got": "14335",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 7 6 6 与 5 6 5 6 之和是？",
+   "want": "12422",
+   "got": "12422",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 6 4 5 与 5 5 1 8 之和是？",
+   "want": "13163",
+   "got": "13163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 2 3 3 与 9 3 4 0 之和是？",
+   "want": "11573",
+   "got": "11573",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 1 7 0 与 9 2 5 8 之和是？",
+   "want": "13428",
+   "got": "13428",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 9 5 2 与 2 8 4 3 之和是？",
+   "want": "8795",
+   "got": "8795",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 7 3 3 与 8 5 7 0 之和是？",
+   "want": "16303",
+   "got": "16303",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 9 7 3 与 5 7 3 4 之和是？",
+   "want": "10707",
+   "got": "10707",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "8 5 0 9 与 9 5 0 3 之和是？",
+   "want": "18012",
+   "got": "18012",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 6 2 5 与 4 3 7 9 之和是？",
+   "want": "11004",
+   "got": "10004",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 3 1 与 9 7 8 8 之和是？",
+   "want": "17319",
+   "got": "17319",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 3 6 与 2 7 5 0 之和是？",
+   "want": "12486",
+   "got": "12486",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 2 3 9 与 5 7 9 9 之和是？",
+   "want": "13038",
+   "got": "13038",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 7 4 4 与 1 4 5 8 之和是？",
+   "want": "11202",
+   "got": "11202",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 3 4 5 与 5 7 5 1 之和是？",
+   "want": "11096",
+   "got": "11096",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 1 7 7 与 1 1 6 1 之和是？",
+   "want": "7338",
+   "got": "7338",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 7 3 0 与 9 4 3 3 之和是？",
+   "want": "13163",
+   "got": "13163",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 4 6 3 与 1 1 6 2 之和是？",
+   "want": "8625",
+   "got": "8625",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "6 3 5 2 与 3 8 0 0 之和是？",
+   "want": "10152",
+   "got": "10152",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 9 3 7 与 1 5 1 4 之和是？",
+   "want": "4451",
+   "got": "4451",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 6 8 7 与 7 5 2 8 之和是？",
+   "want": "11215",
+   "got": "11215",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "3 2 8 6 与 8 5 1 5 之和是？",
+   "want": "11801",
+   "got": "11801",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 4 0 与 7 4 9 9 之和是？",
+   "want": "9139",
+   "got": "9139",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "7 5 5 7 与 5 7 4 9 之和是？",
+   "want": "13306",
+   "got": "13306",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "2 0 0 2 与 1 2 9 6 之和是？",
+   "want": "3298",
+   "got": "3298",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 9 1 8 与 3 9 3 5 之和是？",
+   "want": "13853",
+   "got": "13853",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 4 3 2 与 9 7 5 9 之和是？",
+   "want": "15191",
+   "got": "15191",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "5 1 3 9 与 6 8 7 4 之和是？",
+   "want": "12013",
+   "got": "12013",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 5 2 1 与 2 7 1 0 之和是？",
+   "want": "12231",
+   "got": "12231",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "4 6 2 8 与 1 0 0 8 之和是？",
+   "want": "5636",
+   "got": "5636",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "9 8 4 1 与 4 1 1 2 之和是？",
+   "want": "13953",
+   "got": "13953",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 4,
+   "q": "1 6 7 4 与 6 4 0 4 之和是？",
+   "want": "8078",
+   "got": "8078",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 3 2 3 7 与 4 9 9 9 2 之和是？",
+   "want": "123229",
+   "got": "123229",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 3 9 3 与 8 0 8 9 1 之和是？",
+   "want": "178284",
+   "got": "178284",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 2 2 9 与 4 1 0 5 8 之和是？",
+   "want": "123287",
+   "got": "123297",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 1 1 1 4 与 8 7 9 8 8 之和是？",
+   "want": "179102",
+   "got": "179102",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 2 0 9 2 与 4 4 3 2 9 之和是？",
+   "want": "116421",
+   "got": "116421",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 3 8 9 1 与 8 2 5 2 6 之和是？",
+   "want": "106417",
+   "got": "106417",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 5 6 4 与 6 4 5 2 5 之和是？",
+   "want": "120089",
+   "got": "120160",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 1 0 0 6 与 1 1 9 0 9 之和是？",
+   "want": "52915",
+   "got": "52915",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 9 5 7 9 与 6 8 5 9 9 之和是？",
+   "want": "98178",
+   "got": "98188",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 5 6 9 与 1 1 6 6 7 之和是？",
+   "want": "70236",
+   "got": "70236",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 1 9 2 与 1 0 0 8 2 之和是？",
+   "want": "26274",
+   "got": "26274",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 7 8 9 9 与 1 6 0 1 9 之和是？",
+   "want": "53918",
+   "got": "53918",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 0 8 4 与 5 5 2 0 8 之和是？",
+   "want": "154292",
+   "got": "154292",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 1 6 7 与 9 8 9 7 4 之和是？",
+   "want": "160141",
+   "got": "160141",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 2 8 6 0 与 2 3 3 4 6 之和是？",
+   "want": "86206",
+   "got": "86206",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 7 6 1 7 与 8 8 1 7 6 之和是？",
+   "want": "175793",
+   "got": "175793",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 6 4 7 与 9 4 5 4 7 之和是？",
+   "want": "151194",
+   "got": "151194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 6 4 7 与 1 2 2 6 5 之和是？",
+   "want": "48912",
+   "got": "48912",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 6 8 4 9 与 6 0 7 7 7 之和是？",
+   "want": "117626",
+   "got": "117626",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 8 3 7 5 与 2 2 7 2 5 之和是？",
+   "want": "71100",
+   "got": "70109",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 1 3 2 与 4 4 2 1 7 之和是？",
+   "want": "127349",
+   "got": "127349",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 0 9 9 与 3 5 1 1 1 之和是？",
+   "want": "119210",
+   "got": "119210",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 4 4 5 与 8 0 9 5 7 之和是？",
+   "want": "148402",
+   "got": "148402",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 7 1 5 8 与 4 8 5 6 0 之和是？",
+   "want": "145718",
+   "got": "145718",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 6 6 2 2 与 6 8 8 2 8 之和是？",
+   "want": "135450",
+   "got": "135450",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 4 6 4 3 与 1 6 7 8 7 之和是？",
+   "want": "101430",
+   "got": "101430",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 5 8 8 3 与 7 2 8 9 5 之和是？",
+   "want": "148778",
+   "got": "148778",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 2 5 5 6 与 9 5 6 7 2 之和是？",
+   "want": "108228",
+   "got": "108228",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 5 0 7 与 7 9 5 7 5 之和是？",
+   "want": "105082",
+   "got": "105082",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 8 7 9 与 3 1 2 3 3 之和是？",
+   "want": "103112",
+   "got": "103112",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 4 3 2 2 与 9 4 2 4 5 之和是？",
+   "want": "158567",
+   "got": "158567",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 4 5 7 6 与 1 4 0 9 3 之和是？",
+   "want": "28669",
+   "got": "28669",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 4 8 1 0 与 9 2 7 0 9 之和是？",
+   "want": "117519",
+   "got": "117519",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 6 7 4 4 与 6 6 0 6 3 之和是？",
+   "want": "102807",
+   "got": "102707",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 8 0 6 与 2 6 1 0 5 之和是？",
+   "want": "84911",
+   "got": "84901",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 6 2 3 9 与 4 0 2 6 7 之和是？",
+   "want": "56506",
+   "got": "56506",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 5 7 0 与 4 8 7 4 8 之和是？",
+   "want": "94318",
+   "got": "94318",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 7 1 6 与 4 3 0 3 8 之和是？",
+   "want": "92754",
+   "got": "92754",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 2 3 9 与 8 8 8 3 3 之和是？",
+   "want": "116072",
+   "got": "116072",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 0 2 7 与 1 5 6 7 0 之和是？",
+   "want": "103697",
+   "got": "103697",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 5 6 3 与 7 3 4 3 2 之和是？",
+   "want": "134995",
+   "got": "134995",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 5 9 4 7 与 9 7 1 9 7 之和是？",
+   "want": "143144",
+   "got": "143144",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 4 9 5 0 与 6 5 3 0 4 之和是？",
+   "want": "120254",
+   "got": "120254",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 3 2 2 0 与 6 2 5 4 2 之和是？",
+   "want": "145762",
+   "got": "145762",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 0 5 0 与 3 1 6 0 5 之和是？",
+   "want": "90655",
+   "got": "90655",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 9 4 3 7 与 1 5 0 6 1 之和是？",
+   "want": "64498",
+   "got": "64498",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 9 5 2 2 与 2 8 5 8 1 之和是？",
+   "want": "88103",
+   "got": "88103",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 5 2 1 与 2 5 3 1 3 之和是？",
+   "want": "51834",
+   "got": "51834",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 4 1 5 与 5 5 1 1 4 之和是？",
+   "want": "107529",
+   "got": "107529",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 1 2 1 与 8 8 2 9 6 之和是？",
+   "want": "178417",
+   "got": "178417",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 1 7 2 与 7 2 6 1 1 之和是？",
+   "want": "139783",
+   "got": "139783",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 7 9 4 7 与 5 1 3 4 3 之和是？",
+   "want": "79290",
+   "got": "79290",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 7 6 7 与 3 3 3 6 4 之和是？",
+   "want": "99131",
+   "got": "99131",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 4 1 4 8 与 3 3 6 9 7 之和是？",
+   "want": "67845",
+   "got": "67845",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 6 3 6 8 与 8 9 8 2 1 之和是？",
+   "want": "116189",
+   "got": "116199",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 1 0 3 7 与 5 3 4 8 7 之和是？",
+   "want": "64524",
+   "got": "64524",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 9 2 1 与 3 8 2 4 0 之和是？",
+   "want": "79161",
+   "got": "79161",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 2 5 7 与 9 4 8 7 1 之和是？",
+   "want": "188128",
+   "got": "188128",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 4 9 5 与 4 8 6 5 2 之和是？",
+   "want": "145147",
+   "got": "145147",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 6 1 6 与 1 3 8 5 3 之和是？",
+   "want": "81469",
+   "got": "81469",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 3 8 9 7 与 7 5 3 9 2 之和是？",
+   "want": "119289",
+   "got": "119289",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 2 7 8 与 7 2 9 6 7 之和是？",
+   "want": "123245",
+   "got": "123245",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 0 9 6 0 与 4 9 7 9 0 之和是？",
+   "want": "110750",
+   "got": "11075",
+   "exact": false,
+   "samelen": false
+  },
+  {
+   "d": 5,
+   "q": "8 0 9 3 4 与 4 7 8 2 3 之和是？",
+   "want": "128757",
+   "got": "128757",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 7 4 9 与 5 2 6 8 7 之和是？",
+   "want": "152436",
+   "got": "152436",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 8 8 0 6 与 8 8 2 8 7 之和是？",
+   "want": "147093",
+   "got": "147093",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 2 0 7 与 8 8 7 4 5 之和是？",
+   "want": "127952",
+   "got": "127952",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 7 2 8 8 与 5 2 7 6 3 之和是？",
+   "want": "120051",
+   "got": "120051",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 3 7 6 与 2 2 6 3 3 之和是？",
+   "want": "55009",
+   "got": "55009",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 0 3 7 7 与 8 0 0 4 1 之和是？",
+   "want": "120418",
+   "got": "120418",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 9 5 2 0 与 5 0 9 6 5 之和是？",
+   "want": "90485",
+   "got": "90485",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 8 0 0 与 7 4 1 0 7 之和是？",
+   "want": "84907",
+   "got": "84907",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 0 7 2 6 与 2 7 9 8 0 之和是？",
+   "want": "48706",
+   "got": "48706",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "4 7 6 7 9 与 5 3 6 4 9 之和是？",
+   "want": "101328",
+   "got": "101428",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 5 5 7 3 与 3 8 5 9 4 之和是？",
+   "want": "94167",
+   "got": "94328",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 3 3 2 0 与 3 1 7 8 7 之和是？",
+   "want": "55107",
+   "got": "55107",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 8 1 1 0 与 1 7 3 8 6 之和是？",
+   "want": "105496",
+   "got": "105496",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "1 0 4 3 5 与 4 2 6 5 4 之和是？",
+   "want": "53089",
+   "got": "53089",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 1 6 9 3 与 2 6 7 4 1 之和是？",
+   "want": "88434",
+   "got": "88434",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 6 2 9 9 与 3 4 2 2 6 之和是？",
+   "want": "130525",
+   "got": "130525",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 1 9 8 0 与 1 8 9 1 1 之和是？",
+   "want": "40891",
+   "got": "40891",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 1 9 0 5 与 4 1 0 4 1 之和是？",
+   "want": "112946",
+   "got": "112946",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 8 9 8 与 2 8 7 6 7 之和是？",
+   "want": "122665",
+   "got": "122665",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 3 0 0 8 与 7 0 7 2 7 之和是？",
+   "want": "163735",
+   "got": "163735",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "7 4 8 3 5 与 3 0 5 8 5 之和是？",
+   "want": "105420",
+   "got": "105420",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "6 5 7 8 4 与 4 5 4 8 1 之和是？",
+   "want": "111265",
+   "got": "110265",
+   "exact": false,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 0 2 6 3 与 9 4 2 1 8 之和是？",
+   "want": "174481",
+   "got": "174481",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 1 5 0 9 与 4 2 2 9 3 之和是？",
+   "want": "123802",
+   "got": "123802",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 0 9 3 5 与 5 5 4 1 7 之和是？",
+   "want": "146352",
+   "got": "146352",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 8 3 4 与 5 2 0 7 2 之和是？",
+   "want": "134906",
+   "got": "134906",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 8 4 8 7 与 5 2 1 0 4 之和是？",
+   "want": "150591",
+   "got": "150591",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 2 6 3 2 与 5 2 5 6 2 之和是？",
+   "want": "135194",
+   "got": "135194",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "3 2 4 0 9 与 3 3 7 1 6 之和是？",
+   "want": "66125",
+   "got": "66125",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "8 6 6 0 5 与 9 7 6 3 3 之和是？",
+   "want": "184238",
+   "got": "184238",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 0 0 1 2 与 3 2 3 2 3 之和是？",
+   "want": "82335",
+   "got": "82335",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "9 9 2 9 5 与 5 5 3 8 7 之和是？",
+   "want": "154682",
+   "got": "154682",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 8 3 4 2 与 5 0 9 7 6 之和是？",
+   "want": "79318",
+   "got": "79318",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 3 2 9 1 与 6 3 2 2 5 之和是？",
+   "want": "86516",
+   "got": "86516",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "2 5 1 5 9 与 7 5 8 4 4 之和是？",
+   "want": "101003",
+   "got": "101003",
+   "exact": true,
+   "samelen": true
+  },
+  {
+   "d": 5,
+   "q": "5 2 9 5 1 与 7 4 1 2 7 之和是？",
+   "want": "127078",
+   "got": "127078",
+   "exact": true,
+   "samelen": true
+  }
+ ]
+}
